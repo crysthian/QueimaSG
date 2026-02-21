@@ -74,7 +74,7 @@ export const QuizSetup: React.FC<QuizSetupProps> = ({ onStart }) => {
     setIsLoading(true);
     setError(null);
     try {
-      const response = await fetch(`public/${disciplineName.toLowerCase().trim()}.json`);
+      const response = await fetch(`${disciplineName.toLowerCase().trim()}.json`);
       if (!response.ok) {
         throw new Error("Arquivo da disciplina não encontrado no servidor.");
       }
@@ -147,7 +147,7 @@ export const QuizSetup: React.FC<QuizSetupProps> = ({ onStart }) => {
                 <div className="flex gap-2">
                   <input 
                     type="text" 
-                    placeholder="Ex: matematica, historia..."
+                    placeholder="Ex: gexcel, obm..."
                     value={disciplineName}
                     onChange={(e) => setDisciplineName(e.target.value)}
                     className={`${inputBaseStyles} py-2.5 text-sm`}
