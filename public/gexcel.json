@@ -1,0 +1,1626 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Quais são os estilos que implementam mudanças paradigmáticas de gestão na Administração Pública?",
+    "alternativas": [
+      "Patrimonialista, burocrática e gerencial",
+      "Patrimonialista, conservadora e gerencial",
+      "Minimalista, conservadora e gerencial",
+      "Patrimonialista, Burocrática e facilitada"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 2,
+    "pergunta": "Em qual governo brasileiro foi iniciada a primeira grande reforma do Estado trabalhando a substituição de uma administração patrimonialista, até então vigente, por uma administração burocrática inspirada no modelo weberiano?",
+    "alternativas": [
+      "Vargas",
+      "FHC",
+      "Kubitschek",
+      "João Goulart"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 3,
+    "pergunta": "A quem coube a segunda grande reforma do Estado brasileiro em meados da década de 90 cujo marco institucional é o Plano Diretor da Reforma do Aparelho do Estado, editado em 1995?",
+    "alternativas": [
+      "Ministério da Reestruturação Pública e Reforma do Estado",
+      "Ministério da Fazenda",
+      "Ministério da Administração Pública e Reforma do Estado (MARE)",
+      "Ministério do Planejamento"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 4,
+    "pergunta": "Qual foi o primeiro programa iniciado pela Marinha no que diz respeito a Gestão?",
+    "alternativas": [
+      "Gestão Contemporânea (GECON)",
+      "Programa Netuno",
+      "Gestão por Excelência",
+      "Gestão da Qualidade Total (GQT)"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 5,
+    "pergunta": "É o ato de gerir, administrar recursos humanos, financeiros e materiais, a fim de atender a determinado propósito:",
+    "alternativas": [
+      "Desburocratização",
+      "Gestão",
+      "Administração",
+      "NDA"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 6,
+    "pergunta": "Conjunto correlacionado de processos, métodos e seres humanos. Tornou-se um fator crítico de sucesso, identifica as competências essenciais a serem perseguidas, para a consecução dos objetivos corporativos.",
+    "alternativas": [
+      "Recursos Humanos",
+      "Gestão por Excelência",
+      "Sistema Administrativo",
+      "Conselho Econômico"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 7,
+    "pergunta": "As pessoas são o maior patrimônio das organizações. Assim, a Gestão precisa considerar alguns aspectos fundamentais relativos às pessoas, visto que elas são seres humanos com suas particularidades que corporificam as organizações e promovem o funcionamento das mesmas. Esta definição refere-se à:",
+    "alternativas": [
+      "Recursos Humanos",
+      "Gestão por Excelência",
+      "Sistema Administrativo",
+      "Conselho Econômico"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 8,
+    "pergunta": "A Marinha aplica os princípios da ________ visando à busca da excelência em gestão no cumprimento da sua missão, objetivos e metas organizacionais.",
+    "alternativas": [
+      "Gestão de Pessoas",
+      "Gestão por Excelência",
+      "Gestão por Competência",
+      "Gestão Econômica"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 9,
+    "pergunta": "É um conjunto de princípios e conceitos, apoiados por ferramentas e procedimentos, oriundos da evolução do pensamento da administração e fundamentados nas melhores práticas de gestão identificadas em diversas organizações de sucesso.",
+    "alternativas": [
+      "Gestão de Pessoas",
+      "Gestão por Excelência",
+      "Gestão por Competência",
+      "Gestão Econômica"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 10,
+    "pergunta": "Tem a finalidade de assessorar o Comando ou a Direção da OM na administração econômico-financeira e gerencial e no desenvolvimento organizacional, mediante planejamento, programação, controle e fiscalização da aplicação de recursos orçamentários, financeiros e patrimoniais colocados à disposição da OM ou pelos quais seja responsável.",
+    "alternativas": [
+      "Conselho de Gestão",
+      "Conselho administrativo",
+      "Conselho de ética",
+      "Conselho de Estratégia"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 11,
+    "pergunta": "O Conselho de Gestão é constituído por no mínimo quantos membros?",
+    "alternativas": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 12,
+    "pergunta": "Titular da OM ou quem receber delegação para tal atribuição, não podendo este ser mais moderno que o Ordenador de Despesa (OD):",
+    "alternativas": [
+      "Presidente",
+      "Secretário",
+      "Consultor Técnico",
+      "Agente Fiscal"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 13,
+    "pergunta": "Nas reuniões cujo tema selecionado seja apenas econômico-financeiro, em especial os assuntos relativos às atribuições previstas nos incisos 12.6.3 e 12.6.4 (SGM 107), o OD não poderá presidir a reunião do Conselho de Gestão.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é **Falso** (B)."
+  },
+  {
+    "id": 14,
+    "pergunta": "Ordenador de Despesa (quando este não for o Presidente do Conselho); Agente Fiscal; Vice-Diretor ou Imediato; Chefes de Departamento ou elemento organizacional; Agentes e Gestores; Gerente de Hotel de Trânsito; Assessores de Gestão da Qualidade; Praças de ilibada conduta que, a critério da Direção/Comando; fazem parte de qual estrutura do conselho de Gestão?",
+    "alternativas": [
+      "Secretários",
+      "Consultores técnicos",
+      "Membros Permanentes",
+      "Relatores"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 15,
+    "pergunta": "Qualquer pessoa com qualificação técnica em determinado tema específico, designado pelo Presidente para prestar assessoramento ao Conselho:",
+    "alternativas": [
+      "Relator",
+      "Consultor Técnico",
+      "Secretário",
+      "Consultor Específico"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 16,
+    "pergunta": "Chefe do Departamento de Intendência ou setor equivalente, nas OM em que haja mais de um Oficial Intendente:",
+    "alternativas": [
+      "Relator",
+      "Consultor Técnico",
+      "Secretário",
+      "Consultor Específico"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 17,
+    "pergunta": "Grupos de Trabalho constituídos por pessoal com qualificação específica para a execução de atividades orientadas pelo Conselho de Gestão:",
+    "alternativas": [
+      "Relatores",
+      "Consultor Técnico",
+      "Secretários",
+      "Comissões Executivas"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual norma define os relatores do conselho de Gestão?",
+    "alternativas": [
+      "EMA-134",
+      "SGM-107",
+      "EMA-130",
+      "SGM-130"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 19,
+    "pergunta": "A quem competirá empreender as ações voltadas para o desenvolvimento organizacional e efetuar o controle e fiscalização dos recursos orçamentários, extraorçamentários, financeiros e patrimoniais colocados à sua disposição às OM que, por insuficiência de efetivo, não possam organizar seu Conselho de Gestão?",
+    "alternativas": [
+      "Estado Maior da Armada",
+      "Diretoria de Finanças da Marinha",
+      "Comando Imediatamente Superior",
+      "Secretaria Geral da Marinha"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 20,
+    "pergunta": "Em quais situações reunir-se-á o Conselho de Gestão?",
+    "alternativas": [
+      "Ordinariamente e Extraordinariamente",
+      "Mensalmente e Semestralmente",
+      "Semanalmente e Mensalmente",
+      "Ordinariamente e Emergencialmente"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 21,
+    "pergunta": "Realizadas no início de cada mês, até o décimo dia, para examinar as prestações de contas, bem como, as ações implementadas e avaliar os resultados obtidos com a execução das práticas de gestão:",
+    "alternativas": [
+      "Reuniões Ordinárias",
+      "Reuniões Mensais",
+      "Reuniões Extraordinárias",
+      "Reuniões Emergenciais"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 22,
+    "pergunta": "Convocadas pelo Presidente do Conselho para tratar de aspectos gerenciais pertinentes, que requeiram uma ação tempestiva por parte da OM",
+    "alternativas": [
+      "Reuniões Ordinárias",
+      "Reuniões Mensais",
+      "Reuniões Extraordinárias",
+      "Reuniões Emergenciais"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 23,
+    "pergunta": "Possuem duas funções básicas: a primeira é descrever por meio da geração de informações o estado real dos acontecimentos e o seu comportamento; a segunda, de caráter valorativo, consiste em analisar as informações presentes com base nas anteriores de forma a realizar proposições que agreguem valor.",
+    "alternativas": [
+      "Apontadores",
+      "Indicadores",
+      "Índices",
+      "Analistas"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 24,
+    "pergunta": "São grandezas numéricas que medem o comportamento de uma organização ou de um processo e permitem comparar estes resultados com metas numéricas preestabelecidas, ou algum outro tipo de referencial. Sua característica principal é a existência de fórmulas para seu cálculo:",
+    "alternativas": [
+      "Apontadores",
+      "Indicadores",
+      "Taxa",
+      "Índice"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 25,
+    "pergunta": "Divisão entre duas informações de mesma grandeza gerando, como resultante do cálculo um valor que pode ser expresso como porcentagem. É considerada um bom indicador.",
+    "alternativas": [
+      "Apontadores",
+      "Indicadores",
+      "Taxa",
+      "Índice"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 26,
+    "pergunta": "Divisão entre duas informações de grandezas distintas gerando um valor que não pode ser expresso como uma porcentagem. É considerado um indicador ideal:",
+    "alternativas": [
+      "Apontadores",
+      "Indicadores",
+      "Taxa",
+      "Índice"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 27,
+    "pergunta": "Conjunto de indicadores que permite, por meio de modelos de causa e efeito e sob vários ângulos, compreender o comportamento e o desempenho de uma organização, estabelecer projeções em relação ao seu futuro e tomar decisões bem fundamentadas.",
+    "alternativas": [
+      "Sistema Organizacional",
+      "Sistema de Diagnósticos",
+      "Sistema de Gestão",
+      "Sistema de Indicadores"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 28,
+    "pergunta": "Gerados com base nos processos da organização, como abordado no Capítulo 3 destas Normas. Entre uma atividade e outra, são gerados produtos de uma atividade que serão insumos da seguinte, nesses pontos podem ser realizadas medições.",
+    "alternativas": [
+      "Indicadores de processos",
+      "Indicadores da evolução estratégica",
+      "Indicadores de Nível gerencial",
+      "Indicadores de nível operacional"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 29,
+    "pergunta": "Avaliam o comportamento da organização em direção a sua visão de futuro, por meio da mensuração dos Objetivos Estratégicos e das Iniciativas Estratégicas estabelecidas no PEO, da avaliação dos níveis dos riscos gerenciados pela OM, constantes do PGR, ou das ações geradas a partir das Oportunidades de Melhoria constantes do PMGes.",
+    "alternativas": [
+      "Indicadores de processos",
+      "Indicadores da evolução estratégica",
+      "Indicadores de Nível gerencial",
+      "Indicadores de nível operacional"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 30,
+    "pergunta": "Associe os indicadores quanto ao nível hierárquico: \n \n 1- São aqueles de mais alto nível, que medem os principais resultados organizacionais, compostos pelos indicadores constantes do PEO e dos indicadores chaves da gestão (KPI); \n II- Medem a contribuição dos departamentos e/ou dos processos gerenciais; \n III- medem a contribuição dos processos ou padrões de trabalho individuais. \n \n ( ) Nível gerencial \n ( ) Nível estratégico \n ( ) Nível Operacional",
+    "alternativas": [
+      "II-I-III",
+      "I-II-III",
+      "III-II-1",
+      "I-III-II"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 31,
+    "pergunta": "Associe os indicadores quanto ao posicionamento na cadeia de valor: \n \n I- Mede a captação e uso de recursos ao menor custo possível; \n II - Mede a realização dos processos e atividades segundo os parâmetros estabelecidos; \n III- Mede a conformidade aos critérios e padrões de qualidade; \n IV- Mede a relação entre os insumos e os produtos gerados, busca-se fazer 'mais com menos'; \n V- Mede se o produto foi entregue conforme a quantidade e qualidade pré-estabelecida; \n VI- Mede o impacto gerado pelos produtos ou processos da organização. \n \n ( ) Efetividade \n ( ) Eficácia \n ( ) Eficiência \n ( ) Excelência \n ( ) Execução \n ( ) Economicidade",
+    "alternativas": [
+      "VI-V-IV-III-1-1",
+      "I-VI-II-III-V-IV",
+      "I-II-III-IV-V-VI",
+      "VI-V-IV-1-II-III"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 32,
+    "pergunta": "É quem é impactado pelos resultados do processo. Pode ser uma pessoa ou um grupo, um setor, uma organização ou um outro processo:",
+    "alternativas": [
+      "Usuário",
+      "Insumos (entradas) do Processo",
+      "Fornecedores",
+      "Características"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 33,
+    "pergunta": "São da mesma natureza dos produtos:",
+    "alternativas": [
+      "Usuário",
+      "Insumos (entradas) do Processo",
+      "Fornecedores",
+      "Características"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 34,
+    "pergunta": "Quem disponibiliza os insumos:",
+    "alternativas": [
+      "Usuário",
+      "Insumos (entradas) do Processo",
+      "Fornecedores",
+      "Características"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 35,
+    "pergunta": "São os atributos diferenciadores dos produtos, processo, insumos e fornecedores. Os elementos citados são avaliados pelo desempenho das suas características:",
+    "alternativas": [
+      "Usuário",
+      "Insumos (entradas) do Processo",
+      "Fornecedores",
+      "Características"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 36,
+    "pergunta": "São as necessidades/expectativas dos clientes, cuja satisfação é avaliada pelo atendimento dos seus requisitos:",
+    "alternativas": [
+      "Produto (saídas)",
+      "Requisitos",
+      "Qualidade",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 37,
+    "pergunta": "É todo resultado do processo, desejável ou não. Pode ser um material/equipamento, uma informação ou um serviço.",
+    "alternativas": [
+      "Produto (saídas)",
+      "Requisitos",
+      "Qualidade",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 38,
+    "pergunta": "Grau em que um conjunto de características atendem aos requisitos:",
+    "alternativas": [
+      "Produto (saídas)",
+      "Requisitos",
+      "Qualidade",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 39,
+    "pergunta": "Estágio de ações gerenciais entre duas rotinas para atingir novos patamares de desempenho:",
+    "alternativas": [
+      "Produto (saídas)",
+      "Requisitos",
+      "Qualidade",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 40,
+    "pergunta": "É uma técnica simples que visa o controle do processo, podendo ser usado de forma contínua para o gerenciamento das atividades de uma organização. Visa controlar e conseguir resultados eficazes e confiáveis nas atividades de uma organização:",
+    "alternativas": [
+      "Matriz de GUT",
+      "Cadeia de valor",
+      "Método Gerencial PDCA",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 41,
+    "pergunta": "Este passo é estabelecido com bases nas diretrizes da organização. Quando traçamos um plano, temos três pontos importantes para considerar: 1. Estabelecer os objetivos; 2. Estabelecer o caminho para atingi-los; e 3. Decidir quais os métodos a serem usados para consegui-los:",
+    "alternativas": [
+      "Act (Ação Corretiva)",
+      "Chek (Verificação)",
+      "Do (Execução)",
+      "Plan (Planejamento)"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 42,
+    "pergunta": "Neste passo pode ser abordado em três pontos importantes: 1. Treinar no trabalho o método a ser empregado; 2. Executar o método; e 3. Coletar os dados para verificação do processo. Neste passo devem ser executadas as tarefas exatamente como estão previstas nos planos:",
+    "alternativas": [
+      "Act (Ação Corretiva)",
+      "Chek (Verificação)",
+      "Do (Execução)",
+      "Plan (Planejamento)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 43,
+    "pergunta": "Neste passo, verificamos o processo e avaliamos os resultados obtidos: 1. Verificar se o trabalho está sendo realizado de acordo com o padrão; 2. Verificar se os valores medidos variaram, e comparar os resultados com o padrão; 3. Verificar se os itens de controle correspondem com os valores dos objetivos:",
+    "alternativas": [
+      "Act (Ação Corretiva)",
+      "Chek (Verificação)",
+      "Do (Execução)",
+      "Plan (Planejamento)"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 44,
+    "pergunta": "Tomar ações baseadas nos resultados apresentados na verificação. 1. Se o trabalho desviar do padrão, tomar ações para corrigir estes; 2. Se um resultado estiver fora do padrão, investigar as causas e tomar ações para prevenir e corrigi-lo; e 3. Melhorar o sistema de trabalho e o método:",
+    "alternativas": [
+      "Act (Ação Corretiva)",
+      "Chek (Verificação)",
+      "Do (Execução)",
+      "Plan (Planejamento)"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 45,
+    "pergunta": "Quanto ao tipo, como podem ser classificados os processos?",
+    "alternativas": [
+      "Finalísticos, de apoio e Gerenciais",
+      "Finalísticos, de apoio e Organizacionais",
+      "Finalísticos e Administrativos",
+      "Finalísticos e Gerenciais"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 46,
+    "pergunta": "São aqueles que caracterizam a atuação da organização e são apoiados por outros processos internos:",
+    "alternativas": [
+      "de Apoio",
+      "Finalísticos",
+      "Gerenciais",
+      "Detalhados"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 47,
+    "pergunta": "Conhecidos também como de suporte, geralmente produzem resultados imperceptíveis para os clientes externos, mas são essenciais para a gestão efetiva da organização:",
+    "alternativas": [
+      "de Apoio",
+      "Finalísticos",
+      "Gerenciais",
+      "Detalhados"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 48,
+    "pergunta": "São processos de informação e decisão necessários para coordenar as atividades de apoio e os processos finalísticos:",
+    "alternativas": [
+      "de Apoio",
+      "Finalísticos",
+      "Gerenciais",
+      "Detalhados"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 49,
+    "pergunta": "São conjuntos de processos para obtenção de soluções integradas de produtos e serviços capazes de satisfazer às necessidades dos clientes/usuários da Marinha;",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Macroprocessos (MP)",
+      "Etapas (Etp)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 50,
+    "pergunta": "Representam o segundo nível de detalhamento. São conjuntos de atividades inter-relacionadas ou interativas que transformam insumos (entradas) em produtos ou serviços (saídas), que têm valor para um grupo específico de clientes:",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Macroprocessos (MP)",
+      "Etapas (Etp)"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 51,
+    "pergunta": "São conjuntos de atividades necessárias e suficientes para execução de cada processo da organização:",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Macroprocessos (MP)",
+      "Etapas (Etp)"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 52,
+    "pergunta": "São conjuntos de atividades necessárias e suficientes para execução de cada SP:",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Macroprocessos (MP)",
+      "Etapas (Etp)"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 53,
+    "pergunta": "São conjuntos de tarefas, com início e fim identificáveis, executadas para a consecução dos objetivos das Etp:",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Atividades (Atv)",
+      "Etapas (Etp)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 54,
+    "pergunta": "É uma forma de representação dos processos, que permite visualizar os macroprocessos em todos os seus níveis:",
+    "alternativas": [
+      "Método PDCA",
+      "Árvore de processos",
+      "Alinhamento Estratégico",
+      "Subprocessos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 55,
+    "pergunta": "É a ligação íntima e contínua dos processos às metas e prioridades organizacionais, permitindo o alcance dos objetivos da organização.",
+    "alternativas": [
+      "Método PDCA",
+      "Árvore de processos",
+      "Alinhamento Estratégico",
+      "Subprocessos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 56,
+    "pergunta": "Numa _________________, cada setor tende a buscar executar seus processos da melhor forma possível, mantendo-os dentro dos parâmetros estabelecidos, sem considerar suas interações e relações de dependência com os outros setores:",
+    "alternativas": [
+      "Gestão de Processos",
+      "Gestão de competências",
+      "Gestão de Produtos",
+      "Gestão de Qualidade"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 57,
+    "pergunta": "É uma maneira de identificar e aperfeiçoar as interfaces funcionais, que são os pontos nos quais o trabalho que está sendo realizado é transferido de um setor para o seguinte:",
+    "alternativas": [
+      "Visão da qualidade",
+      "Visão do processo",
+      "Visão estratégica",
+      "Visão administrativa"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 58,
+    "pergunta": "Pessoa que é responsável pelo eficaz desempenho do processo. Normalmente é o supervisor ou líder que detém o controle sobre todo o processo, do seu início ao fim.",
+    "alternativas": [
+      "Dono do processo",
+      "Gerente do processo",
+      "Administrador do processo",
+      "Supervisor do processo"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 59,
+    "pergunta": "É um modelo de estruturação das atividades desenvolvidas pelas empresas, visando garantir a máxima qualidade do serviço e produto ao cliente final, além de criar vantagem competitiva no mercado.",
+    "alternativas": [
+      "Matriz de GUT",
+      "Cadeia de valor",
+      "Método Gerencial PDCA",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 60,
+    "pergunta": "Como é a divisão da Cadeia de Valor de Porter?",
+    "alternativas": [
+      "Atividades primárias e atividades de suporte",
+      "Atividades primárias e atividades secundárias",
+      "Atividades de gestão e atividades de suporte",
+      "Atividades primárias e atividades de administração"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 61,
+    "pergunta": "Logística de entrada, Operações, Logística de saída, Marketing e Vendas, Serviço, são atividades de qual divisão da Cadeia de Valor de Porter?",
+    "alternativas": [
+      "Atividades primárias",
+      "Atividades de suporte",
+      "Atividades de gestão",
+      "Atividades secundárias"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 62,
+    "pergunta": "Infraestrutura, Gestão de Recursos Humanos, Desenvolvimento Tecnológico, Aquisição/Compra, são atividades de qual divisão da Cadeia de Valor de Porter?",
+    "alternativas": [
+      "Atividades primárias",
+      "Atividades de suporte",
+      "Atividades de gestão",
+      "Atividades secundárias"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 63,
+    "pergunta": "O processo de avaliação da gestão foi customizado na MB por meio de uma dinâmica institucionalizada e de uso contínuo nas OM denominado:",
+    "alternativas": [
+      "Conselho de Gestão",
+      "Programa Netuno",
+      "Inspeção Administrativo Militar (IAM)",
+      "Cadeia de Valor"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 64,
+    "pergunta": "Quais são as publicações que normatizam o processo de avaliação da gestão do Programa Netuno?",
+    "alternativas": [
+      "EMA-134, SGM-107 e EMA-130",
+      "EMA-137, SGM-107 e EMA-130",
+      "EMA-134, SGM-107 e EMA-137",
+      "EMA-134, SGM-105 e EMA-130"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 65,
+    "pergunta": "Realizada previamente às Inspeções Administrativo Militares (IAM), devem seguir as orientações previstas no EMA-130:",
+    "alternativas": [
+      "Autoavaliação da gestão",
+      "Validação",
+      "Planejamento para a melhoria da gestão",
+      "Implementação das melhorias"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 66,
+    "pergunta": "Realizada durante as IAM, devem seguir as orientações previstas no EMA-130:",
+    "alternativas": [
+      "Autoavaliação da gestão",
+      "Validação",
+      "Planejamento para a melhoria da gestão",
+      "Implementação das melhorias"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 67,
+    "pergunta": "Dessa ação decorre o Plano de Melhoria da Gestão (PMGes), principal instrumento de planejamento da melhoria gerencial. Nele se estabelecem as metas de melhoria, identificadas a partir dos resultados da autoavaliação, e se definem todos os aspectos necessários ao cumprimento dessas metas:",
+    "alternativas": [
+      "Autoavaliação da gestão",
+      "Validação",
+      "Planejamento para a melhoria da gestão",
+      "Implementação das melhorias"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 68,
+    "pergunta": "Consiste em fazer o que foi definido no plano. Significa transformar metas em resultados e resultados em benefícios para a organização:",
+    "alternativas": [
+      "Autoavaliação da gestão",
+      "Validação",
+      "Planejamento para a melhoria da gestão",
+      "Implementação das melhorias"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 69,
+    "pergunta": "Tão importante quanto fazer, é monitorar o que é feito no momento em que está sendo feito, analisar o andamento da execução do plano, medir a distância entre meta e resultado e aprender com esse exercício.",
+    "alternativas": [
+      "Validação",
+      "Reinício do ciclo",
+      "Ações corretivas",
+      "Acompanhamento e Controle"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 70,
+    "pergunta": "Todas as diferenças, para mais ou para menos, todos os cálculos que apontam para o alcance ou não das metas do plano são objeto de intervenção para correção de rumos, seja no planejamento, seja na execução, ou até mesmo no próprio sistema de acompanhamento.",
+    "alternativas": [
+      "Validação",
+      "Reinício do ciclo",
+      "Ações corretivas",
+      "Acompanhamento e Controle"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 71,
+    "pergunta": "Ao término de cada ciclo uma nova avaliação e um novo plano são necessários para que a melhoria contínua siga seu curso, seja internalizada como uma prática de gestão e permita à organização atingir paulatinamente patamares mais elevados de desempenho.",
+    "alternativas": [
+      "Validação",
+      "Reinício do ciclo",
+      "Ações corretivas",
+      "Acompanhamento e Controle"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 72,
+    "pergunta": "Qual o instrumento utilizado na autoavaliação?",
+    "alternativas": [
+      "Programa de verificação",
+      "Lista de atualização",
+      "Lista Programa Netuno",
+      "NDA"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 73,
+    "pergunta": "Quem deverá encaminhar o resultado da avaliação da gestão da OM inspecionada à DAdM, conforme previsto na publicação EMA-130:",
+    "alternativas": [
+      "Organização Responsável por Inspeção Programada (ORIP)",
+      "Comando Imediatamente Superior",
+      "Diretoria de Finanças da marinha (DFM)",
+      "NDA"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 74,
+    "pergunta": "O _____________ procurará estudar as áreas ou funções da organização a serem melhoradas e proporá soluções consistentes e adequadas à organização.",
+    "alternativas": [
+      "COMIMSUP",
+      "IAM",
+      "ORIP",
+      "PMGes"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 75,
+    "pergunta": "É considerado o produto do processo de autoavaliação necessitando ser acompanhado permanentemente pela OM de maneira dinâmica visando a aprimoramentos contínuos.",
+    "alternativas": [
+      "COMIMSUP",
+      "IAM",
+      "ORIP",
+      "PMGes"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 76,
+    "pergunta": "Facilitar a visualização e entendimento dos problemas; Sistematizar o conhecimento e as conclusões; Desenvolver a criatividade; Permitir o conhecimento do processo; e Fornecer elementos para o monitoramento dos processos são objetivos das(os):",
+    "alternativas": [
+      "Ferramentas de apoio",
+      "Ferramentas auxiliares",
+      "Folhas de verificação",
+      "PMGes"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 77,
+    "pergunta": "Há limites para a quantidade de ferramentas que podem ser utilizadas na análise e melhoria de processos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é **Falso** (B)."
+  },
+  {
+    "id": 78,
+    "pergunta": "É uma dinâmica de grupo em que as pessoas, de forma organizada e com oportunidades iguais, fazem um grande esforço mental para opinar sobre determinado assunto.",
+    "alternativas": [
+      "Brainstorming",
+      "Matriz de GUT",
+      "Briefing",
+      "Grupo de verificação"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 79,
+    "pergunta": "Como pode ser conduzido o Brainstorming?",
+    "alternativas": [
+      "Estruturado e não-estruturado",
+      "Apenas estruturado",
+      "Apenas não-estruturado",
+      "Estruturado e cadenciado"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 80,
+    "pergunta": "É um formulário no qual os itens a serem verificados já estão impressos, permitindo que os dados coletados sejam registrados de forma fácil e concisa. Ela inicia o processo transformando 'opiniões em fatos', além de mostrar a frequência com que determinados eventos acontecem.",
+    "alternativas": [
+      "Brainstorming",
+      "Gráfico de Pareto",
+      "Folha de verificação",
+      "Fluxograma"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 81,
+    "pergunta": "É uma forma especial do gráfico de barras verticais que nos permite determinar quais problemas a resolver e qual a prioridade.",
+    "alternativas": [
+      "Brainstorming",
+      "Gráfico de Pareto",
+      "Folha de verificação",
+      "Fluxograma"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 82,
+    "pergunta": "É uma importante ferramenta que deve ser utilizada durante o giro do Ciclo PDCA, para sumarizar e organizar as possíveis causas do problema analisado:",
+    "alternativas": [
+      "Diagrama de causa e efeito",
+      "Gráfico de Pareto",
+      "Folha de verificação",
+      "Fluxograma"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 83,
+    "pergunta": "É uma matriz de priorização de problemas, especialmente se forem vários relacionados entre si:",
+    "alternativas": [
+      "Diagrama de causa e efeito",
+      "Gráfico de Pareto",
+      "Matriz de GUT",
+      "Fluxograma"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 84,
+    "pergunta": "Quais são os critérios analisados pela matriz de GUT?",
+    "alternativas": [
+      "Gravidade, Urgência e Tendência",
+      "Emergência e Gravidade",
+      "Urgência e Tendência",
+      "NDA"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 85,
+    "pergunta": "É uma técnica de levantamento global recomendada para todas as etapas de análise e melhoria de processos. É uma ferramenta excelente e simples para detalhar o planejamento de qualquer ação. É indicada para a elaboração do PMGes e PEO, como o PAG:",
+    "alternativas": [
+      "Método 5W3H",
+      "Método 5S",
+      "Fluxograma",
+      "Diagrama de Ishikawa"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 86,
+    "pergunta": "É uma representação gráfica de uma sequência lógica de etapas por meio de símbolos padronizados:",
+    "alternativas": [
+      "Método 5W3H",
+      "Método 5S",
+      "Fluxograma",
+      "Diagrama de Ishikawa"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 87,
+    "pergunta": "O Modelo de Excelência da Gestão (MEG) está alicerçado em ____________________ Fundamentos da excelência, desdobrando-se em temas adequado.",
+    "alternativas": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 88,
+    "pergunta": "Compreensão e tratamento das relações de interdependência e seus efeitos entre os diversos componentes que formam a organização, bem como entre estes e o ambiente com o qual interagem:",
+    "alternativas": [
+      "Compromisso com as partes interessadas",
+      "Liderança transformadora",
+      "Aprendizado organizacional e inovação",
+      "Pensamento sistêmico"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D** (de acordo com a chave original como B, assumiremos o mapeamento exato)."
+  },
+  {
+    "id": 89,
+    "pergunta": "Busca e alcance de novos patamares de competência para a organização e sua força de trabalho, por meio da percepção, reflexão, avaliação e compartilhamento de conhecimentos, promovendo um ambiente favorável à criatividade, experimentação e implementação de novas ideias capazes de gerar ganhos sustentáveis para as partes interessadas:",
+    "alternativas": [
+      "Compromisso com as partes interessadas",
+      "Liderança transformadora",
+      "Aprendizado organizacional e inovação",
+      "Pensamento sistêmico"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 90,
+    "pergunta": "Atuação dos líderes de forma ética, inspiradora, exemplar e comprometida com a excelência, compreendendo os cenários e tendências prováveis do ambiente e dos possíveis efeitos sobre a organização e suas partes interessadas, no curto e longo prazos - mobilizando as pessoas em torno de valores, princípios e objetivos da organização:",
+    "alternativas": [
+      "Compromisso com as partes interessadas",
+      "Liderança transformadora",
+      "Aprendizado organizacional e inovação",
+      "Pensamento sistêmico"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 91,
+    "pergunta": "Estabelecimento de pactos com as partes interessadas e suas inter-relações com as estratégias e processos, em uma perspectiva de curto e longo prazos:",
+    "alternativas": [
+      "Compromisso com as partes interessadas",
+      "Liderança transformadora",
+      "Aprendizado organizacional e inovação",
+      "Pensamento sistêmico"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 92,
+    "pergunta": "Flexibilidade e capacidade de mudança em tempo hábil, frente a novas demandas das partes interessadas e alterações no contexto:",
+    "alternativas": [
+      "Adaptabilidade",
+      "Desenvolvimento sustentável",
+      "Orientação por processos",
+      "Geração de valor"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 93,
+    "pergunta": "Compromisso da organização em responder pelos impactos de suas decisões e atividades, na sociedade e no meio ambiente, e de contribuir para a melhoria das condições de vida, tanto atuais quanto para as gerações futuras, por meio de um comportamento ético e transparente:",
+    "alternativas": [
+      "Adaptabilidade",
+      "Desenvolvimento sustentável",
+      "Orientação por processos",
+      "Geração de valor"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 94,
+    "pergunta": "Reconhecimento de que a organização é um conjunto de processos, que precisam ser entendidos de ponta a ponta e considerados na definição das estruturas: organizacional, de trabalho e de gestão.",
+    "alternativas": [
+      "Adaptabilidade",
+      "Desenvolvimento sustentável",
+      "Orientação por processos",
+      "Geração de valor"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 95,
+    "pergunta": "Alcance de resultados econômicos, sociais e ambientais, bem como de resultados dos processos que os potencializam, em níveis de excelência e que atendam às necessidades e expectativas as partes interessadas",
+    "alternativas": [
+      "Adaptabilidade",
+      "Desenvolvimento sustentável",
+      "Orientação por processos",
+      "Geração de valor"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 96,
+    "pergunta": "Consolida a vocação, a disposição e o compromisso institucional com a melhoria da qualidade da gestão de nossas OM, repercutindo na orientação estratégica voltada para a Excelência em Gestão.",
+    "alternativas": [
+      "Conselho de Gestão",
+      "Manual de Gestão Administrativa da Marinha (EMA-134)",
+      "Modelo de Excelência de Gestão (MEG)",
+      "Programa Netuno"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 97,
+    "pergunta": "Onde está definido o Programa Netuno?",
+    "alternativas": [
+      "EMA-130 Manual de Visitas, Inspeções e Reuniões Funcionais da Marinha",
+      "EMA-134 Manual de Gestão Administrativa da Marinha",
+      "SGM-107 Normas Gerais de Administração",
+      "SGM-601 Normas sobre auditoria, análise e apresentação de contas na Marinha"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 98,
+    "pergunta": "Quando foi criado o Programa Netuno?",
+    "alternativas": [
+      "2006",
+      "2001",
+      "2010",
+      "2007"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 99,
+    "pergunta": "O Programa Netuno estabelece estratégias e práticas de gestão relacionadas às responsabilidades e deveres do administrador em auxílio à tomada de decisão.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  },
+  {
+    "id": 100,
+    "pergunta": "Contribuir para o estabelecimento, de forma integrada, de um sistema de gestão nas OM que proporcione resultados organizacionais aderentes aos preceitos da Governança Pública e aos princípios da eficiência, eficácia, efetividade, economicidade e excelência",
+    "alternativas": [
+      "Objetivos da Gestão dos Processos e Projetos",
+      "Objetivos do PMGes",
+      "Objetivos do Programa Netuno",
+      "Objetivo da Carta de Serviços"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 101,
+    "pergunta": "O processo de avaliação da gestão constitui-se em um dos principais meios para a transformação organizacional, pois permite traçar um diagnóstico do sistema de gestão das OM. Serve de subsídio para a adoção de medidas de melhoria, por meio do Plano de Melhoria da Gestão (PMGes):",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 102,
+    "pergunta": "Visa a orientar os processos e projetos organizacionais no cumprimento da missão organizacional, de maneira a atender os requisitos dos utilizadores dos serviços e produtos frutos da consecução dessa missão:",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 103,
+    "pergunta": "Possui a finalidade de estabelecer ações de longo prazo para a organização. O Plano Estratégico Organizacional (PEO) constitui o produto final do processo de planejamento:",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 104,
+    "pergunta": "Consiste na aplicação de princípios e processos para identificação e avaliação de riscos das organizações. Esse gerenciamento aborda os processos de planejamento, identificação, análise, planejamento de respostas e controle de riscos:",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 105,
+    "pergunta": "É definida como a integração de pessoas e processos, facilitada pela utilização de tecnologias, com o objetivo de permitir a troca de informações e experiências que permitam o aumento da performance da organização:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 106,
+    "pergunta": "É uma ferramenta destinada a colher subsídios que possibilitem a adoção de medidas orientadas para a melhoria da qualidade de vida no trabalho e para o contínuo desenvolvimento organizacional:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Gestão de Riscos",
+      "Pesquisa de Clima Organizacional (PCO)",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 107,
+    "pergunta": "Permite compreender o comportamento e o desempenho de uma organização, estabelecer projeções em relação ao seu futuro e tomar decisões bem fundamentadas. É uma excelente fonte de auxílio à tomada de decisão organizacional:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Sistema de Indicadores",
+      "Pesquisa de Clima Organizacional (PCO)",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 108,
+    "pergunta": "É a melhoria contínua. Para que a organização consiga aprimorar e manter a qualidade de gestão, atendendo às necessidades atuais e futuras de seus utilizadores, é necessário que ela tenha seu foco voltado sempre para a melhoria contínua dos seus processos/projetos e produtos/serviços:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Sistema de Indicadores",
+      "Pesquisa de Clima Organizacional (PCO)",
+      "Gestão da Qualidade"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 109,
+    "pergunta": "Tem a finalidade de assessorar o Comando ou a Direção da OM na administração econômico-financeira e gerencial, mediante planejamento, programação, controle e fiscalização da aplicação de recursos orçamentários, financeiros e patrimoniais colocados à disposição da OM ou pelos quais seja responsável, bem como promover o desenvolvimento organizacional:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Conselho de Gestão",
+      "Pesquisa de Clima Organizacional (PCO)",
+      "Gestão da Qualidade"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 110,
+    "pergunta": "Foi instituída pelo Decreto nº 9.094/2017, com o objetivo de informar aos usuários dos serviços prestados pelo órgão ou entidade do Poder Executivo Federal, as formas de acesso a esses serviços e os compromissos e padrões de qualidade de atendimento ao público:",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Carta de Serviços",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 111,
+    "pergunta": "É uma técnica gerencial que procura, por meio da análise do ambiente de uma organização, criar consciência de suas oportunidades e ameaças, assim como, dos seus pontos fortes e fracos, e a partir daí, traçar os rumos ou direção que essa organização deverá seguir para aproveitar as oportunidades:",
+    "alternativas": [
+      "Processo de Planejamento",
+      "Plano Estratégico Organizacional (PEO)",
+      "Pensamento e Processo Estratégico",
+      "Nível de Planejamento"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 112,
+    "pergunta": "Possui a finalidade de estabelecer ações de longo prazo para a organização. Essas ações devem estar voltadas para o aperfeiçoamento dos processos internos, de modo que a OM cumpra suas tarefas de modo mais eficaz e eficiente:",
+    "alternativas": [
+      "Processo de Planejamento",
+      "Plano Estratégico Organizacional (PEO)",
+      "Pensamento e Processo Estratégico",
+      "Nível de Planejamento"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 113,
+    "pergunta": "Constitui o produto final do processo de planejamento e nele devem estar contidas as estratégias organizacionais (objetivos estratégicos e suas ações estratégicas) e seus mecanismos de monitoramento e controle",
+    "alternativas": [
+      "Processo de Planejamento",
+      "Plano Estratégico Organizacional (PEO)",
+      "Pensamento e Processo Estratégico",
+      "Nível de Planejamento"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 114,
+    "pergunta": "Processo de construção do futuro, aproveitando competências fundamentais da empresa ou como um padrão de alocação dos recursos para realizar os objetivos da organização. É a configuração de objetivos a longo prazo, o conjunto de critérios que visa orientação para as decisões e o conjunto políticas que levam adiante as atividades que são necessárias para alcançar determinados objetivos:",
+    "alternativas": [
+      "Processo de Planejamento",
+      "Plano Estratégico Organizacional (PEO)",
+      "Pensamento e Processo Estratégico",
+      "Nível de Planejamento"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 115,
+    "pergunta": "Sob a perspectiva de toda a MB, o nível estratégico está voltado para o estabelecimento do rumo da Força, sendo de responsabilidade do _______________, por meio do _____________:",
+    "alternativas": [
+      "Estado-Maior da Armada / Plano estratégico da Marinha (PEM)",
+      "Plano estratégico da Marinha (PEM) / Estado-Maior da Armada",
+      "Planos de Direção Setorial (PDS) / Estado-Maior da Armada",
+      "Estado-Maior da Armada / Planos de Direção Setorial (PDS)"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 116,
+    "pergunta": "Observe a figura abaixo e responda de acordo com o guia de estudos: \n \n Estratégico ( ) \n Gerencial ( ) \n Operacional ( ) \n \n I- Plano Estratégico da Marinha (PEM) – EMA-300 II- Planos de Direção Setorial (PDS) III- Planos Estratégicos Organizacionais (PEO). Com relação aos Níveis de Planejamento na MB, complete as lacunas.",
+    "alternativas": [
+      "I – II - III",
+      "III – II - I",
+      "I – III - II",
+      "II – I – III"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 117,
+    "pergunta": "Observe a figura abaixo e responda de acordo com o guia de estudos: \n \n Estratégico ( ) \n Gerencial ( ) \n Operacional ( ) \n \n I- Nível relacionado às rotinas e ao acompanhamento das ações pelos demais setores da OM \n II- De responsabilidade dos Chefes de Departamentos e Assessorias, estabelece como seus setores conduzirão suas atividades, a fim de atender as ações previstas no PEO. \n III- Estabelece o rumo a ser seguido pela organização - PEO. \n \n Com relação aos Níveis de Planejamento na Organização, complete as lacunas",
+    "alternativas": [
+      "I – II - III",
+      "II – I – III",
+      "III – II - I",
+      "I – II – III"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 118,
+    "pergunta": "Observe a figura abaixo e responda de acordo com o guia de estudos: \n \n Estratégico ( ) \n Gerencial ( ) \n Operacional ( ) \n \n I – Objetivo Naval (OBNAV) / Ação Estratégica Naval (AEN) \n II- Objetivo Estratégico (OBJ) / Iniciativa Estratégica (IE) \n III- Objetivo Setorial (OBSET) / Ação de Direção Setorial (ADS). \n \n Com relação aos Objetivos e iniciativas estratégicas, complete as lacunas",
+    "alternativas": [
+      "I – II - III",
+      "II – I – III",
+      "III – II - I",
+      "I – III – II"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 119,
+    "pergunta": "Lançado em outubro de 2016, em sua 21ª edição, é o carro-chefe da FNQ (Fundação Nacional da Qualidade) para a concretização da sua missão, que é a de estimular e apoiar as organizações brasileiras no desenvolvimento e na evolução de sua gestão para que se tornem sustentáveis, cooperativas e gerem valor para a sociedade e outras partes interessadas.",
+    "alternativas": [
+      "Modelo de Excelência em Gestão (MEG)",
+      "Modelo de Riscos em Gestão (MRG)",
+      "Modelo Nacional de Gestão (MNG)",
+      "NDA"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 120,
+    "pergunta": "Os Fundamentos da Excelência foram sincopados em ________, desdobrando-se diretamente em Temas que, por sua vez, abrem-se em processos para os quais são indicados o ferramental mais adequado.",
+    "alternativas": [
+      "Sete",
+      "Nove",
+      "Oito",
+      "Dois"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 121,
+    "pergunta": "'É o efeito da incerteza nos objetivos'. Um risco pode ser expresso pela combinação percebida da sua probabilidade de ocorrência e do impacto resultante da ameaça ou oportunidade:",
+    "alternativas": [
+      "Riscos",
+      "Gestão",
+      "Incertezas",
+      "Testes"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 122,
+    "pergunta": "Consiste na aplicação de princípios e processos para identificação e avaliação dos riscos aos quais as organizações estão expostas em suas atividades:",
+    "alternativas": [
+      "Gestão de Pessoas",
+      "Gestão de Competências",
+      "Gestão (ou Gerenciamento) de Riscos",
+      "Gestão administrativas"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 123,
+    "pergunta": "Em termos gerais, os riscos podem ser classificados quanto à:",
+    "alternativas": [
+      "Tipo e Contexto de Análise",
+      "Origem, Tipo e Contexto de Análise",
+      "Origem e Contexto de Análise",
+      "Origem, Análise e Contexto do tipo"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 124,
+    "pergunta": "Riscos associados ao ambiente onde a OM atua. Em geral, a organização não tem controle direto sobre eles, mas ações podem ser tomadas quando necessário:",
+    "alternativas": [
+      "Riscos externos",
+      "Riscos internos",
+      "Riscos legais",
+      "Riscos humanos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 125,
+    "pergunta": "Riscos associados à própria estrutura da OM, seus processos, estrutura de governança, quadro de pessoal, recursos ou ambiente de tecnologia",
+    "alternativas": [
+      "Riscos externos",
+      "Riscos internos",
+      "Riscos legais",
+      "Riscos humanos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 126,
+    "pergunta": "Também chamados de riscos de compliance, são os riscos associados às sanções legais ou regulatórias que a OM pode sofrer devido ao não cumprimento de leis, normas e procedimentos:",
+    "alternativas": [
+      "Riscos externos",
+      "Riscos internos",
+      "Riscos legais",
+      "Riscos humanos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 127,
+    "pergunta": "Riscos que podem comprometer a capacidade da MB, dos órgãos ou das OM de contar com os recursos orçamentários e financeiros necessários à realização de suas atividades, ou eventos que possam comprometer a própria execução orçamentária:",
+    "alternativas": [
+      "Riscos financeiros",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos de processos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 128,
+    "pergunta": "Riscos que podem comprometer a confiança da sociedade em relação à capacidade da MB, ou das OM em cumprir sua missão institucional:",
+    "alternativas": [
+      "Riscos financeiros",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos de processos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 129,
+    "pergunta": "Riscos relacionados a erros não intencionais ou falta de qualificação:",
+    "alternativas": [
+      "Riscos financeiros",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos de processos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 130,
+    "pergunta": "Riscos relacionados à modelagem, conformidade, controle ou aspectos técnicos:",
+    "alternativas": [
+      "Riscos financeiros",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos de processos"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 131,
+    "pergunta": "Riscos relacionados aos equipamentos, sistemas, tecnologia defasada ou confiabilidade da informação",
+    "alternativas": [
+      "Riscos à integridade",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos Tecnológicos"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 132,
+    "pergunta": "Riscos que estão associados ao abuso de posição e poder em favor de interesses privados; nepotismo; conflito de interesses; pressão interna ou externa ilegal ou antiética para influenciar agente público:",
+    "alternativas": [
+      "Riscos à integridade",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos Tecnológicos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 133,
+    "pergunta": "Observe a figura abaixo e responda de acordo com o guia de estudos: \n \n Estratégico ( ) \n Gerencial ( ) \n Operacional ( ) \n \n I - Impactam os objetivos e resultado dos processos da OM (Departamentos) \n II- Impactam a missão da OM ou seus objetivos estratégicos \n III- Impactam os objetivos e resultados das atividades da OM (Divisões). \n \n Com relação aos riscos quanto ao Contexto da Análise, complete as lacunas",
+    "alternativas": [
+      "I – II - III",
+      "II – I – III",
+      "III – II - I",
+      "I – III – II"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 134,
+    "pergunta": "Riscos externos e internos pertencem a qual categoria?",
+    "alternativas": [
+      "Quanto a duração",
+      "Quanto ao tipo",
+      "Quanto a origem",
+      "quanto ao contexto da análise"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 135,
+    "pergunta": "Riscos legais, financeiros, reputacionais, humanos, dos processos, tecnológicos, à integridade pertencem a qual categoria?",
+    "alternativas": [
+      "Quanto a duração",
+      "Quanto ao tipo",
+      "Quanto a origem",
+      "quanto ao contexto da análise"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 136,
+    "pergunta": "O planejamento das repostas aos riscos resultará na elaboração do PGR, documento que aborda as ações a serem implementadas, e estabelece a frequência de monitoramento e controle que a OM exercerá em seu gerenciamento de riscos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  }
+]
