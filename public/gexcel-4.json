@@ -1,0 +1,598 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O Modelo de Excelência da Gestão (MEG) está alicerçado em ____________________ Fundamentos da excelência, desdobrando-se em temas adequado.",
+    "alternativas": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 2,
+    "pergunta": "Compreensão e tratamento das relações de interdependência e seus efeitos entre os diversos componentes que formam a organização, bem como entre estes e o ambiente com o qual interagem:",
+    "alternativas": [
+      "Compromisso com as partes interessadas",
+      "Liderança transformadora",
+      "Aprendizado organizacional e inovação",
+      "Pensamento sistêmico"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D** (de acordo com a chave original como B, assumiremos o mapeamento exato)."
+  },
+  {
+    "id": 3,
+    "pergunta": "Busca e alcance de novos patamares de competência para a organização e sua força de trabalho, por meio da percepção, reflexão, avaliação e compartilhamento de conhecimentos, promovendo um ambiente favorável à criatividade, experimentação e implementação de novas ideias capazes de gerar ganhos sustentáveis para as partes interessadas:",
+    "alternativas": [
+      "Compromisso com as partes interessadas",
+      "Liderança transformadora",
+      "Aprendizado organizacional e inovação",
+      "Pensamento sistêmico"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 4,
+    "pergunta": "Atuação dos líderes de forma ética, inspiradora, exemplar e comprometida com a excelência, compreendendo os cenários e tendências prováveis do ambiente e dos possíveis efeitos sobre a organização e suas partes interessadas, no curto e longo prazos - mobilizando as pessoas em torno de valores, princípios e objetivos da organização:",
+    "alternativas": [
+      "Compromisso com as partes interessadas",
+      "Liderança transformadora",
+      "Aprendizado organizacional e inovação",
+      "Pensamento sistêmico"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 5,
+    "pergunta": "Estabelecimento de pactos com as partes interessadas e suas inter-relações com as estratégias e processos, em uma perspectiva de curto e longo prazos:",
+    "alternativas": [
+      "Compromisso com as partes interessadas",
+      "Liderança transformadora",
+      "Aprendizado organizacional e inovação",
+      "Pensamento sistêmico"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 6,
+    "pergunta": "Flexibilidade e capacidade de mudança em tempo hábil, frente a novas demandas das partes interessadas e alterações no contexto:",
+    "alternativas": [
+      "Adaptabilidade",
+      "Desenvolvimento sustentável",
+      "Orientação por processos",
+      "Geração de valor"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 7,
+    "pergunta": "Compromisso da organização em responder pelos impactos de suas decisões e atividades, na sociedade e no meio ambiente, e de contribuir para a melhoria das condições de vida, tanto atuais quanto para as gerações futuras, por meio de um comportamento ético e transparente:",
+    "alternativas": [
+      "Adaptabilidade",
+      "Desenvolvimento sustentável",
+      "Orientação por processos",
+      "Geração de valor"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 8,
+    "pergunta": "Reconhecimento de que a organização é um conjunto de processos, que precisam ser entendidos de ponta a ponta e considerados na definição das estruturas: organizacional, de trabalho e de gestão.",
+    "alternativas": [
+      "Adaptabilidade",
+      "Desenvolvimento sustentável",
+      "Orientação por processos",
+      "Geração de valor"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 9,
+    "pergunta": "Alcance de resultados econômicos, sociais e ambientais, bem como de resultados dos processos que os potencializam, em níveis de excelência e que atendam às necessidades e expectativas as partes interessadas",
+    "alternativas": [
+      "Adaptabilidade",
+      "Desenvolvimento sustentável",
+      "Orientação por processos",
+      "Geração de valor"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 10,
+    "pergunta": "Consolida a vocação, a disposição e o compromisso institucional com a melhoria da qualidade da gestão de nossas OM, repercutindo na orientação estratégica voltada para a Excelência em Gestão.",
+    "alternativas": [
+      "Conselho de Gestão",
+      "Manual de Gestão Administrativa da Marinha (EMA-134)",
+      "Modelo de Excelência de Gestão (MEG)",
+      "Programa Netuno"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 11,
+    "pergunta": "Onde está definido o Programa Netuno?",
+    "alternativas": [
+      "EMA-130 Manual de Visitas, Inspeções e Reuniões Funcionais da Marinha",
+      "EMA-134 Manual de Gestão Administrativa da Marinha",
+      "SGM-107 Normas Gerais de Administração",
+      "SGM-601 Normas sobre auditoria, análise e apresentação de contas na Marinha"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 12,
+    "pergunta": "Quando foi criado o Programa Netuno?",
+    "alternativas": [
+      "2006",
+      "2001",
+      "2010",
+      "2007"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 13,
+    "pergunta": "O Programa Netuno estabelece estratégias e práticas de gestão relacionadas às responsabilidades e deveres do administrador em auxílio à tomada de decisão.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  },
+  {
+    "id": 14,
+    "pergunta": "Contribuir para o estabelecimento, de forma integrada, de um sistema de gestão nas OM que proporcione resultados organizacionais aderentes aos preceitos da Governança Pública e aos princípios da eficiência, eficácia, efetividade, economicidade e excelência",
+    "alternativas": [
+      "Objetivos da Gestão dos Processos e Projetos",
+      "Objetivos do PMGes",
+      "Objetivos do Programa Netuno",
+      "Objetivo da Carta de Serviços"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 15,
+    "pergunta": "O processo de avaliação da gestão constitui-se em um dos principais meios para a transformação organizacional, pois permite traçar um diagnóstico do sistema de gestão das OM. Serve de subsídio para a adoção de medidas de melhoria, por meio do Plano de Melhoria da Gestão (PMGes):",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 16,
+    "pergunta": "Visa a orientar os processos e projetos organizacionais no cumprimento da missão organizacional, de maneira a atender os requisitos dos utilizadores dos serviços e produtos frutos da consecução dessa missão:",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 17,
+    "pergunta": "Possui a finalidade de estabelecer ações de longo prazo para a organização. O Plano Estratégico Organizacional (PEO) constitui o produto final do processo de planejamento:",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 18,
+    "pergunta": "Consiste na aplicação de princípios e processos para identificação e avaliação de riscos das organizações. Esse gerenciamento aborda os processos de planejamento, identificação, análise, planejamento de respostas e controle de riscos:",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 19,
+    "pergunta": "É definida como a integração de pessoas e processos, facilitada pela utilização de tecnologias, com o objetivo de permitir a troca de informações e experiências que permitam o aumento da performance da organização:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Gestão de Riscos",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 20,
+    "pergunta": "É uma ferramenta destinada a colher subsídios que possibilitem a adoção de medidas orientadas para a melhoria da qualidade de vida no trabalho e para o contínuo desenvolvimento organizacional:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Gestão de Riscos",
+      "Pesquisa de Clima Organizacional (PCO)",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 21,
+    "pergunta": "Permite compreender o comportamento e o desempenho de uma organização, estabelecer projeções em relação ao seu futuro e tomar decisões bem fundamentadas. É uma excelente fonte de auxílio à tomada de decisão organizacional:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Sistema de Indicadores",
+      "Pesquisa de Clima Organizacional (PCO)",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 22,
+    "pergunta": "É a melhoria contínua. Para que a organização consiga aprimorar e manter a qualidade de gestão, atendendo às necessidades atuais e futuras de seus utilizadores, é necessário que ela tenha seu foco voltado sempre para a melhoria contínua dos seus processos/projetos e produtos/serviços:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Sistema de Indicadores",
+      "Pesquisa de Clima Organizacional (PCO)",
+      "Gestão da Qualidade"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 23,
+    "pergunta": "Tem a finalidade de assessorar o Comando ou a Direção da OM na administração econômico-financeira e gerencial, mediante planejamento, programação, controle e fiscalização da aplicação de recursos orçamentários, financeiros e patrimoniais colocados à disposição da OM ou pelos quais seja responsável, bem como promover o desenvolvimento organizacional:",
+    "alternativas": [
+      "Gestão do Conhecimento nas Organizações",
+      "Conselho de Gestão",
+      "Pesquisa de Clima Organizacional (PCO)",
+      "Gestão da Qualidade"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 24,
+    "pergunta": "Foi instituída pelo Decreto nº 9.094/2017, com o objetivo de informar aos usuários dos serviços prestados pelo órgão ou entidade do Poder Executivo Federal, as formas de acesso a esses serviços e os compromissos e padrões de qualidade de atendimento ao público:",
+    "alternativas": [
+      "Planejamento Estratégico Organizacional",
+      "Carta de Serviços",
+      "Avaliação da Gestão",
+      "Gestão dos Processos e Projetos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 25,
+    "pergunta": "É uma técnica gerencial que procura, por meio da análise do ambiente de uma organização, criar consciência de suas oportunidades e ameaças, assim como, dos seus pontos fortes e fracos, e a partir daí, traçar os rumos ou direção que essa organização deverá seguir para aproveitar as oportunidades:",
+    "alternativas": [
+      "Processo de Planejamento",
+      "Plano Estratégico Organizacional (PEO)",
+      "Pensamento e Processo Estratégico",
+      "Nível de Planejamento"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 26,
+    "pergunta": "Possui a finalidade de estabelecer ações de longo prazo para a organização. Essas ações devem estar voltadas para o aperfeiçoamento dos processos internos, de modo que a OM cumpra suas tarefas de modo mais eficaz e eficiente:",
+    "alternativas": [
+      "Processo de Planejamento",
+      "Plano Estratégico Organizacional (PEO)",
+      "Pensamento e Processo Estratégico",
+      "Nível de Planejamento"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 27,
+    "pergunta": "Constitui o produto final do processo de planejamento e nele devem estar contidas as estratégias organizacionais (objetivos estratégicos e suas ações estratégicas) e seus mecanismos de monitoramento e controle",
+    "alternativas": [
+      "Processo de Planejamento",
+      "Plano Estratégico Organizacional (PEO)",
+      "Pensamento e Processo Estratégico",
+      "Nível de Planejamento"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 28,
+    "pergunta": "Processo de construção do futuro, aproveitando competências fundamentais da empresa ou como um padrão de alocação dos recursos para realizar os objetivos da organização. É a configuração de objetivos a longo prazo, o conjunto de critérios que visa orientação para as decisões e o conjunto políticas que levam adiante as atividades que são necessárias para alcançar determinados objetivos:",
+    "alternativas": [
+      "Processo de Planejamento",
+      "Plano Estratégico Organizacional (PEO)",
+      "Pensamento e Processo Estratégico",
+      "Nível de Planejamento"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 29,
+    "pergunta": "Sob a perspectiva de toda a MB, o nível estratégico está voltado para o estabelecimento do rumo da Força, sendo de responsabilidade do _______________, por meio do _____________:",
+    "alternativas": [
+      "Estado-Maior da Armada / Plano estratégico da Marinha (PEM)",
+      "Plano estratégico da Marinha (PEM) / Estado-Maior da Armada",
+      "Planos de Direção Setorial (PDS) / Estado-Maior da Armada",
+      "Estado-Maior da Armada / Planos de Direção Setorial (PDS)"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 30,
+    "pergunta": "Observe a figura abaixo e responda de acordo com o guia de estudos: \n \n Estratégico ( ) \n Gerencial ( ) \n Operacional ( ) \n \n I- Plano Estratégico da Marinha (PEM) – EMA-300 II- Planos de Direção Setorial (PDS) III- Planos Estratégicos Organizacionais (PEO). Com relação aos Níveis de Planejamento na MB, complete as lacunas.",
+    "alternativas": [
+      "I – II - III",
+      "III – II - I",
+      "I – III - II",
+      "II – I – III"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 31,
+    "pergunta": "Observe a figura abaixo e responda de acordo com o guia de estudos: \n \n Estratégico ( ) \n Gerencial ( ) \n Operacional ( ) \n \n I- Nível relacionado às rotinas e ao acompanhamento das ações pelos demais setores da OM \n II- De responsabilidade dos Chefes de Departamentos e Assessorias, estabelece como seus setores conduzirão suas atividades, a fim de atender as ações previstas no PEO. \n III- Estabelece o rumo a ser seguido pela organização - PEO. \n \n Com relação aos Níveis de Planejamento na Organização, complete as lacunas",
+    "alternativas": [
+      "I – II - III",
+      "II – I – III",
+      "III – II - I",
+      "I – II – III"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 32,
+    "pergunta": "Observe a figura abaixo e responda de acordo com o guia de estudos: \n \n Estratégico ( ) \n Gerencial ( ) \n Operacional ( ) \n \n I – Objetivo Naval (OBNAV) / Ação Estratégica Naval (AEN) \n II- Objetivo Estratégico (OBJ) / Iniciativa Estratégica (IE) \n III- Objetivo Setorial (OBSET) / Ação de Direção Setorial (ADS). \n \n Com relação aos Objetivos e iniciativas estratégicas, complete as lacunas",
+    "alternativas": [
+      "I – II - III",
+      "II – I – III",
+      "III – II - I",
+      "I – III – II"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 33,
+    "pergunta": "Lançado em outubro de 2016, em sua 21ª edição, é o carro-chefe da FNQ (Fundação Nacional da Qualidade) para a concretização da sua missão, que é a de estimular e apoiar as organizações brasileiras no desenvolvimento e na evolução de sua gestão para que se tornem sustentáveis, cooperativas e gerem valor para a sociedade e outras partes interessadas.",
+    "alternativas": [
+      "Modelo de Excelência em Gestão (MEG)",
+      "Modelo de Riscos em Gestão (MRG)",
+      "Modelo Nacional de Gestão (MNG)",
+      "NDA"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 34,
+    "pergunta": "Os Fundamentos da Excelência foram sincopados em ________, desdobrando-se diretamente em Temas que, por sua vez, abrem-se em processos para os quais são indicados o ferramental mais adequado.",
+    "alternativas": [
+      "Sete",
+      "Nove",
+      "Oito",
+      "Dois"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 35,
+    "pergunta": "'É o efeito da incerteza nos objetivos'. Um risco pode ser expresso pela combinação percebida da sua probabilidade de ocorrência e do impacto resultante da ameaça ou oportunidade:",
+    "alternativas": [
+      "Riscos",
+      "Gestão",
+      "Incertezas",
+      "Testes"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 36,
+    "pergunta": "Consiste na aplicação de princípios e processos para identificação e avaliação dos riscos aos quais as organizações estão expostas em suas atividades:",
+    "alternativas": [
+      "Gestão de Pessoas",
+      "Gestão de Competências",
+      "Gestão (ou Gerenciamento) de Riscos",
+      "Gestão administrativas"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 37,
+    "pergunta": "Em termos gerais, os riscos podem ser classificados quanto à:",
+    "alternativas": [
+      "Tipo e Contexto de Análise",
+      "Origem, Tipo e Contexto de Análise",
+      "Origem e Contexto de Análise",
+      "Origem, Análise e Contexto do tipo"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 38,
+    "pergunta": "Riscos associados ao ambiente onde a OM atua. Em geral, a organização não tem controle direto sobre eles, mas ações podem ser tomadas quando necessário:",
+    "alternativas": [
+      "Riscos externos",
+      "Riscos internos",
+      "Riscos legais",
+      "Riscos humanos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 39,
+    "pergunta": "Riscos associados à própria estrutura da OM, seus processos, estrutura de governança, quadro de pessoal, recursos ou ambiente de tecnologia",
+    "alternativas": [
+      "Riscos externos",
+      "Riscos internos",
+      "Riscos legais",
+      "Riscos humanos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 40,
+    "pergunta": "Também chamados de riscos de compliance, são os riscos associados às sanções legais ou regulatórias que a OM pode sofrer devido ao não cumprimento de leis, normas e procedimentos:",
+    "alternativas": [
+      "Riscos externos",
+      "Riscos internos",
+      "Riscos legais",
+      "Riscos humanos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 41,
+    "pergunta": "Riscos que podem comprometer a capacidade da MB, dos órgãos ou das OM de contar com os recursos orçamentários e financeiros necessários à realização de suas atividades, ou eventos que possam comprometer a própria execução orçamentária:",
+    "alternativas": [
+      "Riscos financeiros",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos de processos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 42,
+    "pergunta": "Riscos que podem comprometer a confiança da sociedade em relação à capacidade da MB, ou das OM em cumprir sua missão institucional:",
+    "alternativas": [
+      "Riscos financeiros",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos de processos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 43,
+    "pergunta": "Riscos relacionados a erros não intencionais ou falta de qualificação:",
+    "alternativas": [
+      "Riscos financeiros",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos de processos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 44,
+    "pergunta": "Riscos relacionados à modelagem, conformidade, controle ou aspectos técnicos:",
+    "alternativas": [
+      "Riscos financeiros",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos de processos"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 45,
+    "pergunta": "Riscos relacionados aos equipamentos, sistemas, tecnologia defasada ou confiabilidade da informação",
+    "alternativas": [
+      "Riscos à integridade",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos Tecnológicos"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 46,
+    "pergunta": "Riscos que estão associados ao abuso de posição e poder em favor de interesses privados; nepotismo; conflito de interesses; pressão interna ou externa ilegal ou antiética para influenciar agente público:",
+    "alternativas": [
+      "Riscos à integridade",
+      "Riscos reputacionais",
+      "Riscos humanos",
+      "Riscos Tecnológicos"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 47,
+    "pergunta": "Observe a figura abaixo e responda de acordo com o guia de estudos: \n \n Estratégico ( ) \n Gerencial ( ) \n Operacional ( ) \n \n I - Impactam os objetivos e resultado dos processos da OM (Departamentos) \n II- Impactam a missão da OM ou seus objetivos estratégicos \n III- Impactam os objetivos e resultados das atividades da OM (Divisões). \n \n Com relação aos riscos quanto ao Contexto da Análise, complete as lacunas",
+    "alternativas": [
+      "I – II - III",
+      "II – I – III",
+      "III – II - I",
+      "I – III – II"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 48,
+    "pergunta": "Riscos externos e internos pertencem a qual categoria?",
+    "alternativas": [
+      "Quanto a duração",
+      "Quanto ao tipo",
+      "Quanto a origem",
+      "quanto ao contexto da análise"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 49,
+    "pergunta": "Riscos legais, financeiros, reputacionais, humanos, dos processos, tecnológicos, à integridade pertencem a qual categoria?",
+    "alternativas": [
+      "Quanto a duração",
+      "Quanto ao tipo",
+      "Quanto a origem",
+      "quanto ao contexto da análise"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 50,
+    "pergunta": "O planejamento das repostas aos riscos resultará na elaboração do PGR, documento que aborda as ações a serem implementadas, e estabelece a frequência de monitoramento e controle que a OM exercerá em seu gerenciamento de riscos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  }
+]

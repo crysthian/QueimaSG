@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "pergunta": "A Gestão por Excelência pode ser definida como:",
+    "alternativas": [
+      "Um modelo voltado exclusivamente ao controle financeiro das OM",
+      "Um conjunto de princípios, conceitos, ferramentas e procedimentos voltados ao alcance de resultados eficazes, eficientes e efetivos",
+      "Um sistema voltado apenas à fiscalização patrimonial",
+      "Um método exclusivo do setor privado"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 2,
+    "pergunta": "O Conselho de Gestão tem como principal finalidade:",
+    "alternativas": [
+      "Substituir o comando da OM",
+      "Assessorar o comando na administração econômico-financeira e gerencial",
+      "Executar diretamente as atividades administrativas",
+      "Realizar apenas inspeções patrimoniais"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 3,
+    "pergunta": "Assinale a alternativa que apresenta corretamente um membro permanente do Conselho de Gestão:",
+    "alternativas": [
+      "Consultor Técnico",
+      "Chefe de Departamento",
+      "Ordenador de Despesas",
+      "Encarregado de Divisão"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 4,
+    "pergunta": "As reuniões ordinárias do Conselho de Gestão devem ocorrer:",
+    "alternativas": [
+      "Semestralmente",
+      "Anualmente",
+      "No início de cada mês, até o décimo dia",
+      "Apenas quando convocadas pelo comandante"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 5,
+    "pergunta": "Indicadores são definidos como:",
+    "alternativas": [
+      "Relatórios administrativos",
+      "Opiniões gerenciais",
+      "Grandezas numéricas que permitem medir o comportamento de processos ou organizações",
+      "Ferramentas exclusivas da área financeira"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 6,
+    "pergunta": "A Taxa de Absenteísmo é calculada a partir:",
+    "alternativas": [
+      "Do número de faltas dividido pelo efetivo total",
+      "Do número de horas de ausência dividido pelas horas que deveriam ser trabalhadas",
+      "Do número de atrasos registrados",
+      "Do número de licenças concedidas"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 7,
+    "pergunta": "No ciclo PDCA, a fase CHECK tem como objetivo principal:",
+    "alternativas": [
+      "Executar o método",
+      "Corrigir falhas",
+      "Verificar resultados e compará-los ao padrão",
+      "Definir metas"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 8,
+    "pergunta": "Os processos que entregam valor diretamente ao cliente externo são chamados de:",
+    "alternativas": [
+      "Processos de Apoio",
+      "Processos Gerenciais",
+      "Processos Finalísticos",
+      "Subprocessos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 9,
+    "pergunta": "A principal diferença entre processos finalísticos e de apoio é que:",
+    "alternativas": [
+      "Os de apoio não possuem indicadores",
+      "Os finalísticos não geram valor",
+      "Os de apoio entregam valor a outros processos, e não ao cliente final",
+      "Os finalísticos não necessitam de gestão"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 10,
+    "pergunta": "A ordem correta dos níveis de detalhamento dos processos é:",
+    "alternativas": [
+      "Processo → Macroprocesso → Atividade → Subprocesso",
+      "Macroprocesso → Processo → Subprocesso → Etapa → Atividade",
+      "Atividade → Etapa → Processo → Macroprocesso",
+      "Subprocesso → Macroprocesso → Processo → Atividade"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 11,
+    "pergunta": "O PDCA é um método voltado exclusivamente para planejamento estratégico.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é **Falso** (B)."
+  },
+  {
+    "id": 12,
+    "pergunta": "Processos gerenciais têm como finalidade medir, monitorar, controlar e planejar as atividades da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  },
+  {
+    "id": 13,
+    "pergunta": "O dono do processo é o responsável pelo desempenho eficaz do processo do início ao fim.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  },
+  {
+    "id": 14,
+    "pergunta": "Brainstorming é uma ferramenta utilizada para priorização de problemas por gravidade, urgência e tendência.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é **Falso** (B). Isso é a Matriz GUT"
+  },
+  {
+    "id": 15,
+    "pergunta": "O Diagrama de Causa e Efeito é utilizado para identificar possíveis causas de um problema.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  },
+  {
+    "id": 16,
+    "pergunta": "A Matriz GUT considera os critérios de Gravidade, Urgência e Tendência.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  },
+  {
+    "id": 17,
+    "pergunta": "O método 5W3H é utilizado para estruturar planos de ação.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  },
+  {
+    "id": 18,
+    "pergunta": "O Programa Netuno tem como uma de suas bases a Avaliação da Gestão, o Planejamento Estratégico e a Gestão de Riscos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  },
+  {
+    "id": 19,
+    "pergunta": "A autoavaliação da gestão é realizada durante a IAM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é **Falso** (B)."
+  },
+  {
+    "id": 20,
+    "pergunta": "Os fundamentos da excelência são oito e incluem orientação por processos e geração de valor.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é **Verdadeiro** (A)."
+  }
+]

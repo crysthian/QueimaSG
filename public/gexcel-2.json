@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "pergunta": "É quem é impactado pelos resultados do processo. Pode ser uma pessoa ou um grupo, um setor, uma organização ou um outro processo:",
+    "alternativas": [
+      "Usuário",
+      "Insumos (entradas) do Processo",
+      "Fornecedores",
+      "Características"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 2,
+    "pergunta": "São da mesma natureza dos produtos:",
+    "alternativas": [
+      "Usuário",
+      "Insumos (entradas) do Processo",
+      "Fornecedores",
+      "Características"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 3,
+    "pergunta": "Quem disponibiliza os insumos:",
+    "alternativas": [
+      "Usuário",
+      "Insumos (entradas) do Processo",
+      "Fornecedores",
+      "Características"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 4,
+    "pergunta": "São os atributos diferenciadores dos produtos, processo, insumos e fornecedores. Os elementos citados são avaliados pelo desempenho das suas características:",
+    "alternativas": [
+      "Usuário",
+      "Insumos (entradas) do Processo",
+      "Fornecedores",
+      "Características"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 5,
+    "pergunta": "São as necessidades/expectativas dos clientes, cuja satisfação é avaliada pelo atendimento dos seus requisitos:",
+    "alternativas": [
+      "Produto (saídas)",
+      "Requisitos",
+      "Qualidade",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 6,
+    "pergunta": "É todo resultado do processo, desejável ou não. Pode ser um material/equipamento, uma informação ou um serviço.",
+    "alternativas": [
+      "Produto (saídas)",
+      "Requisitos",
+      "Qualidade",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 7,
+    "pergunta": "Grau em que um conjunto de características atendem aos requisitos:",
+    "alternativas": [
+      "Produto (saídas)",
+      "Requisitos",
+      "Qualidade",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 8,
+    "pergunta": "Estágio de ações gerenciais entre duas rotinas para atingir novos patamares de desempenho:",
+    "alternativas": [
+      "Produto (saídas)",
+      "Requisitos",
+      "Qualidade",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 9,
+    "pergunta": "É uma técnica simples que visa o controle do processo, podendo ser usado de forma contínua para o gerenciamento das atividades de uma organização. Visa controlar e conseguir resultados eficazes e confiáveis nas atividades de uma organização:",
+    "alternativas": [
+      "Matriz de GUT",
+      "Cadeia de valor",
+      "Método Gerencial PDCA",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 10,
+    "pergunta": "Este passo é estabelecido com bases nas diretrizes da organização. Quando traçamos um plano, temos três pontos importantes para considerar: 1. Estabelecer os objetivos; 2. Estabelecer o caminho para atingi-los; e 3. Decidir quais os métodos a serem usados para consegui-los:",
+    "alternativas": [
+      "Act (Ação Corretiva)",
+      "Chek (Verificação)",
+      "Do (Execução)",
+      "Plan (Planejamento)"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 11,
+    "pergunta": "Neste passo pode ser abordado em três pontos importantes: 1. Treinar no trabalho o método a ser empregado; 2. Executar o método; e 3. Coletar os dados para verificação do processo. Neste passo devem ser executadas as tarefas exatamente como estão previstas nos planos:",
+    "alternativas": [
+      "Act (Ação Corretiva)",
+      "Chek (Verificação)",
+      "Do (Execução)",
+      "Plan (Planejamento)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 12,
+    "pergunta": "Neste passo, verificamos o processo e avaliamos os resultados obtidos: 1. Verificar se o trabalho está sendo realizado de acordo com o padrão; 2. Verificar se os valores medidos variaram, e comparar os resultados com o padrão; 3. Verificar se os itens de controle correspondem com os valores dos objetivos:",
+    "alternativas": [
+      "Act (Ação Corretiva)",
+      "Chek (Verificação)",
+      "Do (Execução)",
+      "Plan (Planejamento)"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 13,
+    "pergunta": "Tomar ações baseadas nos resultados apresentados na verificação. 1. Se o trabalho desviar do padrão, tomar ações para corrigir estes; 2. Se um resultado estiver fora do padrão, investigar as causas e tomar ações para prevenir e corrigi-lo; e 3. Melhorar o sistema de trabalho e o método:",
+    "alternativas": [
+      "Act (Ação Corretiva)",
+      "Chek (Verificação)",
+      "Do (Execução)",
+      "Plan (Planejamento)"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 14,
+    "pergunta": "Quanto ao tipo, como podem ser classificados os processos?",
+    "alternativas": [
+      "Finalísticos, de apoio e Gerenciais",
+      "Finalísticos, de apoio e Organizacionais",
+      "Finalísticos e Administrativos",
+      "Finalísticos e Gerenciais"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 15,
+    "pergunta": "São aqueles que caracterizam a atuação da organização e são apoiados por outros processos internos:",
+    "alternativas": [
+      "de Apoio",
+      "Finalísticos",
+      "Gerenciais",
+      "Detalhados"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 16,
+    "pergunta": "Conhecidos também como de suporte, geralmente produzem resultados imperceptíveis para os clientes externos, mas são essenciais para a gestão efetiva da organização:",
+    "alternativas": [
+      "de Apoio",
+      "Finalísticos",
+      "Gerenciais",
+      "Detalhados"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 17,
+    "pergunta": "São processos de informação e decisão necessários para coordenar as atividades de apoio e os processos finalísticos:",
+    "alternativas": [
+      "de Apoio",
+      "Finalísticos",
+      "Gerenciais",
+      "Detalhados"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 18,
+    "pergunta": "São conjuntos de processos para obtenção de soluções integradas de produtos e serviços capazes de satisfazer às necessidades dos clientes/usuários da Marinha;",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Macroprocessos (MP)",
+      "Etapas (Etp)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 19,
+    "pergunta": "Representam o segundo nível de detalhamento. São conjuntos de atividades inter-relacionadas ou interativas que transformam insumos (entradas) em produtos ou serviços (saídas), que têm valor para um grupo específico de clientes:",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Macroprocessos (MP)",
+      "Etapas (Etp)"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 20,
+    "pergunta": "São conjuntos de atividades necessárias e suficientes para execução de cada processo da organização:",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Macroprocessos (MP)",
+      "Etapas (Etp)"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 21,
+    "pergunta": "São conjuntos de atividades necessárias e suficientes para execução de cada SP:",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Macroprocessos (MP)",
+      "Etapas (Etp)"
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta é a **D**."
+  },
+  {
+    "id": 22,
+    "pergunta": "São conjuntos de tarefas, com início e fim identificáveis, executadas para a consecução dos objetivos das Etp:",
+    "alternativas": [
+      "Processos (PR)",
+      "Subprocessos (SP)",
+      "Atividades (Atv)",
+      "Etapas (Etp)"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 23,
+    "pergunta": "É uma forma de representação dos processos, que permite visualizar os macroprocessos em todos os seus níveis:",
+    "alternativas": [
+      "Método PDCA",
+      "Árvore de processos",
+      "Alinhamento Estratégico",
+      "Subprocessos"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 24,
+    "pergunta": "É a ligação íntima e contínua dos processos às metas e prioridades organizacionais, permitindo o alcance dos objetivos da organização.",
+    "alternativas": [
+      "Método PDCA",
+      "Árvore de processos",
+      "Alinhamento Estratégico",
+      "Subprocessos"
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta é a **C**."
+  },
+  {
+    "id": 25,
+    "pergunta": "Numa _________________, cada setor tende a buscar executar seus processos da melhor forma possível, mantendo-os dentro dos parâmetros estabelecidos, sem considerar suas interações e relações de dependência com os outros setores:",
+    "alternativas": [
+      "Gestão de Processos",
+      "Gestão de competências",
+      "Gestão de Produtos",
+      "Gestão de Qualidade"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 26,
+    "pergunta": "É uma maneira de identificar e aperfeiçoar as interfaces funcionais, que são os pontos nos quais o trabalho que está sendo realizado é transferido de um setor para o seguinte:",
+    "alternativas": [
+      "Visão da qualidade",
+      "Visão do processo",
+      "Visão estratégica",
+      "Visão administrativa"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 27,
+    "pergunta": "Pessoa que é responsável pelo eficaz desempenho do processo. Normalmente é o supervisor ou líder que detém o controle sobre todo o processo, do seu início ao fim.",
+    "alternativas": [
+      "Dono do processo",
+      "Gerente do processo",
+      "Administrador do processo",
+      "Supervisor do processo"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 28,
+    "pergunta": "É um modelo de estruturação das atividades desenvolvidas pelas empresas, visando garantir a máxima qualidade do serviço e produto ao cliente final, além de criar vantagem competitiva no mercado.",
+    "alternativas": [
+      "Matriz de GUT",
+      "Cadeia de valor",
+      "Método Gerencial PDCA",
+      "Melhoria do Processo (ciclo de aprimoramento)"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  },
+  {
+    "id": 29,
+    "pergunta": "Como é a divisão da Cadeia de Valor de Porter?",
+    "alternativas": [
+      "Atividades primárias e atividades de suporte",
+      "Atividades primárias e atividades secundárias",
+      "Atividades de gestão e atividades de suporte",
+      "Atividades primárias e atividades de administração"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 30,
+    "pergunta": "Logística de entrada, Operações, Logística de saída, Marketing e Vendas, Serviço, são atividades de qual divisão da Cadeia de Valor de Porter?",
+    "alternativas": [
+      "Atividades primárias",
+      "Atividades de suporte",
+      "Atividades de gestão",
+      "Atividades secundárias"
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta é a **A**."
+  },
+  {
+    "id": 31,
+    "pergunta": "Infraestrutura, Gestão de Recursos Humanos, Desenvolvimento Tecnológico, Aquisição/Compra, são atividades de qual divisão da Cadeia de Valor de Porter?",
+    "alternativas": [
+      "Atividades primárias",
+      "Atividades de suporte",
+      "Atividades de gestão",
+      "Atividades secundárias"
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta é a **B**."
+  }
+]
