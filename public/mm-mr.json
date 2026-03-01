@@ -1,0 +1,864 @@
+[
+  {
+    "id": 1,
+    "pergunta": "1. a denominação atribuída ao conjunto das áreas marítimas sob jurisdição do Brasil, abrangendo o mar territorial, a ZEE e a plataforma continental. ",
+    "alternativas": [
+      "Mar Territorial ",
+      "Amazônia Azul ",
+      "Zona Econômica Exclusiva ",
+      "Zona Contígua ",
+      "Plataforma Continental "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 2,
+    "pergunta": "2. É a área que apenas o Brasil pode explorar economicamente, por conta das riquezas naturais e minerais, estamos nos referindo a (o): ",
+    "alternativas": [
+      "Mar Territorial ",
+      "Zona Contígua ",
+      "Zona Econômica Exclusiva ",
+      "Amazônia Azul ",
+      "Plataforma Continental "
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 3,
+    "pergunta": "3. Do ponto de vista econômico, a Amazônia Azul tem relevância estratégica, pois é responsável por grande parte da produção nacional de petróleo e gás, e constitui a principal via para o comércio exterior brasileiro, com cerca de ___ das exportações e importações realizadas por transporte marítimo. ",
+    "alternativas": [
+      "90% ",
+      "45% ",
+      "95% ",
+      "40% "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 4,
+    "pergunta": "4. A expansão da Amazônia Azul, reconhecida internacionalmente, reforça os desafios do Brasil em conciliar exploração econômica, segurança marítima e preservação ambiental. ",
+    "alternativas": [
+      "VERDADEIRO ",
+      "FALSO "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO** "
+  },
+  {
+    "id": 5,
+    "pergunta": "5. Além disso, mais de ___ da produção nacional de petróleo e grande parte do gás natural provêm das reservas localizadas no leito marinho, como as bacias de Campos e de Santos, onde se situam as áreas do pré-sal. ",
+    "alternativas": [
+      "45% ",
+      "50% ",
+      "85% ",
+      "90% "
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 6,
+    "pergunta": "6. A região também oferece potencial para a exploração sustentável de recursos pesqueiros e o desenvolvimento de energias renováveis, como a energia eólica offshore. Assim, a Amazônia Azul se consolida como um espaço de oportunidades para a diversificação da matriz energética e para o crescimento econômico do país. ",
+    "alternativas": [
+      "VERDADEIRO ",
+      "FALSO "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO** "
+  },
+  {
+    "id": 7,
+    "pergunta": "7. A Amazônia Azul representa um dos mais importantes patrimônios estratégicos do Brasil no século XXI. Com uma extensão aproximada de ___ milhões de km², resultado da ampliação reconhecida pela ONU em 2025 ",
+    "alternativas": [
+      "5,7 km² ",
+      "5,6 km² ",
+      "5,5 km² ",
+      "5,9 km² "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 8,
+    "pergunta": "8. Além de petróleo, o Departamento Nacional de Produção Mineral (DNPM) já notificou o governo brasileiro do potencial de extração de metais com elevado valor econômico encontrados são níquel, cobre, cobalto e manganês, localizados em grandes profundidades, ao redor de 4.000 metros. ",
+    "alternativas": [
+      "são níquel, prata, cobalto e moises, ",
+      "são níquel, ouro, cobalto e paixão, ",
+      "são níquel, cobre, cobalto e manganês, ",
+      "são níquel, prata, cobalto e ouro, "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 9,
+    "pergunta": "9. É considerado uma ferramenta maximizadora de resultados na região, na medida em que ele não é detectável via satélite e não é visto, sendo instrumento de dissuasão de atos de pirataria na Amazônia Azul. ",
+    "alternativas": [
+      "Torpedo ",
+      "Submarino humaita ",
+      "Submarino Nuclear ",
+      "Navio patrulha APA "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 10,
+    "pergunta": "10. COMO É COMPOSTA A AMAZÔNIA AZUL, SEGUNDO A LEI DO MAR: ",
+    "alternativas": [
+      "Mar Territorial, Prosub, ZEE, Zona Contingua ",
+      "Mar Territorial, Zona Contigua, ZEE, Plataforma Continental estendida ",
+      "Zona Contigua, ZEE, Plataforma Continental estendida, Prosub ",
+      "Mar Territorial, Prosub, ZEE, Zona Contingua "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 11,
+    "pergunta": "11. Estende-se das linhas de base adotadas pelo Estado costeiro até a extensão máxima de 12 milhas náuticas. Este contexto refere-se à(o): ",
+    "alternativas": [
+      "Mar Territorial ",
+      "Amazônia Azul; ",
+      "Zona Econômica Exclusiva; ",
+      "Zona Contígua "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 12,
+    "pergunta": "12. Soberania plena (como no território terrestre), incluindo espaço aéreo, leito e subsolo. Deve permitir passagem inocente de navios estrangeiros, sem ameaça à segurança nacional, estamos falando dê ? ",
+    "alternativas": [
+      "ZEE ",
+      "Mar Territorial ",
+      "Zona Contigua ",
+      "Plataforma Continental "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 13,
+    "pergunta": "13. Permite que o Estado costeiro mantenha sob seu controle uma área de até 12 MN, adicionalmente às 12 MN do Mar Territorial, para o propósito de evitar ou reprimir as infrações às suas leis e regulamentos aduaneiros, fiscais, de imigração e sanitários no seu território ou mar territorial. Este contexto refere-se a(ao): ",
+    "alternativas": [
+      "Zona Contígua ",
+      "Zona Econômica Exclusiva (c) Alto Mar: ",
+      "Plataforma Continental ",
+      "Mar Territorial. "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 14,
+    "pergunta": "14. Fiscalizar, prevenir e reprimir infrações de leis alfandegárias, fiscais, sanitárias e de imigração. Não pode impedir a livre navegação internacional. Refere-se a(o) ",
+    "alternativas": [
+      "Zona Contígua ",
+      "Zona Econômica Exclusiva (c) Alto Mar: ",
+      "Mar Territorial. ",
+      "Plataforma Continental "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 15,
+    "pergunta": "15. Estende-se até a distância máxima de 200 MN medida a partir das linhas base adotadas pelo Estado costeiro. Estamos nos referindo à (ao): ",
+    "alternativas": [
+      "Zona Contígua ",
+      "Plataforma Continental ",
+      "Mar Territorial ",
+      "Zona Econômica Exclusiva "
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 16,
+    "pergunta": "16. Exploração e conservação dos recursos naturais (vivos e não vivos), produção de energia do mar. Liberdade de navegação e sobrevoo para outros países; não é soberania plena, Refere-se, a(o) ",
+    "alternativas": [
+      "Zona Econômica Exclusiva ",
+      "Mar Territorial ",
+      "Plataforma Continental ",
+      "Zona Contígua "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 17,
+    "pergunta": "17. Extensão anterior até 200 milhas náuticas, Após aprovação da Onu: até 350 milhas náuticas (ou 100 milhas adicionais a partir da isobata de 2.500 metros) em áreas comprovadamente continuação do continente. Refere-se a(o) ",
+    "alternativas": [
+      "Zona Contigua ",
+      "Plataforma Continental Estendida ",
+      "ZEE ",
+      "Mar Territorial "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 18,
+    "pergunta": "18. Exploração dos recursos do leito e subsolo (minerais, petróleo, gás, organismos bentônicos). Não tem direitos sobre a coluna d'água, que continua sendo área internacional. ",
+    "alternativas": [
+      "Plataforma Continental Estendida ",
+      "Mar Territorial ",
+      "ZEE ",
+      "Zona Contigua "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 19,
+    "pergunta": "19. Dimensão da Amazônia Azul após a aprovação, Antes: cerca de 3,6 milhões km² (apenas ZEE). Com Plataforma Continental Estendida: mais de 5,7 milhões km², tornando-se maior que a Amazônia Verde. Área adicional reconhecida: mais de 960 mil km². ",
+    "alternativas": [
+      "VERDADEIRO ",
+      "FALSO "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO** "
+  },
+  {
+    "id": 20,
+    "pergunta": "20. Sistema de Gerenciamento da Amazônia Azul, cuja missão é \"monitorar e controlar, de forma integrada, além da área afeta à Amazônia Azul\" ",
+    "alternativas": [
+      "Moises ",
+      "SisGAAz ",
+      "Lelê ",
+      "LRIT "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 21,
+    "pergunta": "21. Integra equipamentos e sistemas compostos por radares localizados em terra e embarcações, além de câmeras de alta resolução e capacidades como o funcionamento de informações recebidas de sistemas colaborativos. Estamos nos referindo ao: ",
+    "alternativas": [
+      "LRIT ",
+      "SISTRAM ",
+      "SINMAP ",
+      "SisGAAz "
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 22,
+    "pergunta": "22. Quais são os equipamentos e sistemas compostos por radares localizados em terra e embarcações que integram o Sistema de Gerenciamento da Amazonia azul? ",
+    "alternativas": [
+      "CIMMAP, LRIT, CISTRAM E PREPS ",
+      "SIMMAP, LRIT, SISTRAM E PREPS ",
+      "SIMMAP, AMAZUL, SISTRAM E PREP ",
+      "SIMMAP, LRIT, SISTRAM E PEP "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 23,
+    "pergunta": "23. dificulta a identificação de ameaças ao Brasil, como também é insustentável, quando constatamos as diversas formas de disputa que ocorreram - e ainda ocorrem - na história da civilização. Estamos nos referindo a. ",
+    "alternativas": [
+      "Guerra urbana ",
+      "Riquesas do Brasil ",
+      "Pacifismo unilateral ",
+      "Pacifico lateral "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 24,
+    "pergunta": "24. Na dinâmica e amplitude atuais de emprego do Poder Naval, constatamos a distância existente entre o \"pacifismo unilateral\" e a realidade daquelas ameaças que, direta ou indiretamente, exigem crescentes níveis de prontidão. Assim, é importante identificar as ameaças existentes ou potenciais ao Brasil e estimular o desenvolvimento de uma mentalidade de defesa na sociedade brasileira ",
+    "alternativas": [
+      "VERDADEIRO ",
+      "FALSO "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO** "
+  },
+  {
+    "id": 25,
+    "pergunta": "25. Quase as totalidades das comunicações são feitas pela internet. entre os continentes é realizada por qual meio ? ",
+    "alternativas": [
+      "Via gps ",
+      "Via radio ",
+      "Cabos de fibra ótica no fundo do oceano ",
+      "Através de satélites "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 26,
+    "pergunta": "26. O Brasil passa por um momento único em sua história em função da descoberta de",
+    "alternativas": [
+      "Campos petrolíferos e de gás natural",
+      "Minérios",
+      "Da Amazonia azul",
+      "Aumento da ZEE"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 27,
+    "pergunta": "27. Cerca de da produção nacional de hidrocarbonetos são explorados da AJB.",
+    "alternativas": [
+      "70%",
+      "80%",
+      "90%",
+      "95%"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 28,
+    "pergunta": "28. As AJB não devem ser protegidas e preservadas, como patrimônio para as futuras gerações e para sua exploração socioeconômica sustentável.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **FALSO**"
+  },
+  {
+    "id": 29,
+    "pergunta": "29. È a projeção do Poder Nacional, resultante da integração dos recursos de que dispõe a Nação para a utilização do mar e das águas interiores, quer como instrumento de ação política e militar, quer como fator de desenvolvimento econômico e social, visando a conquistar e manter os objetivos nacionais.",
+    "alternativas": [
+      "Poder Naval",
+      "Poder Marítimo",
+      "Marinha Mercante",
+      "Industria Naval"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 30,
+    "pergunta": "30. Nesse contexto do Poder Marítimo, a Autoridade Marítima, exercida pelo Comandante da Marinha, tem como uma de suas principais atribuições \"contribuir para a formulação de políticas nacionais que digam respeito ao Mar, em especial a Política Marítima Nacional (PMN)",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO**"
+  },
+  {
+    "id": 31,
+    "pergunta": "31. Assinale qual das alternativas abaixo possuem 3 elementos do poder Maritimo:",
+    "alternativas": [
+      "Indústria naval, marinha mercante e setor pesqueiro",
+      "Poder naval, amazonia azul, Marinha mercante",
+      "Marinha mercante, poder Naval e indústria bélica",
+      "Marinha mercante, indústria bélica e Aguas dos rios"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 32,
+    "pergunta": "32. São funções do Poder Maritimo: Intercomunicação, Defesa marítima e ribeirinha, Pesquisa e Explotação",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO**"
+  },
+  {
+    "id": 33,
+    "pergunta": "33. cerca de 45% da energia produzida no Brasil advém de hidrocarbonetos (petróleo e gás) explotados no mar.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO**"
+  },
+  {
+    "id": 34,
+    "pergunta": "34. Assinale qual das alternativas abaixo possuem fatores condicionantes do Poder Maritimo:",
+    "alternativas": [
+      "Mentalidade marítima e Marinha mercante",
+      "Capacidade de financiamento e Capacidade de mobilização",
+      "Pessoal, capacidade tecnológica e industrial",
+      "Necessidades de desenvolvimento sustentável e recursos do mar"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 35,
+    "pergunta": "35. consiste no grau de conscientização da sociedade e dos decisores governamentais sobre a importância do Poder Marítimo",
+    "alternativas": [
+      "Mentalidade marítima",
+      "poder naval",
+      "necessidade de desenvolvimento sustentável",
+      "capacidade de mobilização"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 36,
+    "pergunta": "36. atua para que o tráfego seguro de embarcações seja realizado conforme as leis e as normas vigentes, por intermédio de inspeções e vistorias, prevenindo a poluição hídrica e a ocorrência de acidentes e incidentes de navegação;",
+    "alternativas": [
+      "Facilyte",
+      "Simomar",
+      "Security",
+      "Safety"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 37,
+    "pergunta": "37. ocorre o emprego coercitivo do Poder Naval, geralmente com a participação de outros órgãos governamentais contra variados tipos de ilícitos e quaisquer outras ameaças.",
+    "alternativas": [
+      "Facilyte",
+      "Simomar",
+      "Security",
+      "Safety"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 38,
+    "pergunta": "38. A proteção de um povo e seu patrimônio deve estar respaldada por uma adequada preparação das capacidades necessárias para o enfrentamento de ameaças que ponham em risco seus objetivos.",
+    "alternativas": [
+      "Defesa da soberania",
+      "Defesa da pátria",
+      "Defesa do mar",
+      "Defesa marítima"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 39,
+    "pergunta": "39. Ato ilícito que, historicamente, vem atingindo a navegação e os comércio internacionais.",
+    "alternativas": [
+      "Terrorismo",
+      "Passivismo",
+      "Roubo",
+      "Pirataria"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 40,
+    "pergunta": "40. Ademais, tal atividade, além de drenar as economias dos países costeiros, degrada o meio ambiente e a biodiversidade marinha.",
+    "alternativas": [
+      "Terrosrismo",
+      "Pesca ilegal não declarada e não regulamentada",
+      "Crime organizado e conflitos urbanos",
+      "Acessos ilegais a conhecimentos"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 41,
+    "pergunta": "41. Tais organizações também podem contratar agentes por interesses alheios, para obter informações da fauna e flora das Amazônias Azul e Verde e do Pantanal, atividades estas relacionadas à biopirataria",
+    "alternativas": [
+      "Terrorismo",
+      "Acessos ilegais a conhecimentos",
+      "Pesca ilegal",
+      "vandalismo"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 42,
+    "pergunta": "42. Ao seu turno, seria distinguido do terrorismo por não atentar diretamente contra a vida humana, uma vez que sua motivação principal é a de provocar danos em ativos, independentemente do fato de serem propriedade pública ou privada.",
+    "alternativas": [
+      "Vandalismo",
+      "Terrorismo",
+      "Saques",
+      "Ameaça cibernética"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 43,
+    "pergunta": "43. alcançou nível mais elevado, na agenda de segurança internacional, desde o \"atentado de 11 de setembro\" nos Estados Unidos.",
+    "alternativas": [
+      "Vandalismo",
+      "Jhon jhon",
+      "Terrorismo",
+      "Trafico de drogas"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 44,
+    "pergunta": "44. A sabotagem, que nem sempre decorre de motivações políticas como o terrorismo, pode causar graves danos econômicos e ambientais, não sendo uma ameaça que não pode ser descartada, inclusive em combinação com as demais.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **FALSO**"
+  },
+  {
+    "id": 45,
+    "pergunta": "45. implantação de circuitos ou programas maliciosos em sistemas importantes, para posterior acionamento.",
+    "alternativas": [
+      "Vandalismo",
+      "Ameaça cibernética",
+      "Comunismo",
+      "Leão"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 46,
+    "pergunta": "46. A questão ambiental tem pautado diversos fóruns internacionais e merece ser analisada em suas distintas frentes. A primeira delas é a ocorrência de crimes ambientais, que podem ter repercussão prolongada e negativa, como ocorreu no vazamento de óleo na costa brasileira em 2019. O segundo é seu aspecto econômico. Desastres ambientais são uma forte ameaça à economia, devido à degradação das fontes de arrecadação pelo turismo, pelos custos que impõem à saúde pública ou, ainda, pelas restrições operacionais que geram em determinadas áreas marítimas. O terceiro tem uma dimensão oceanopolítica:",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO**"
+  },
+  {
+    "id": 47,
+    "pergunta": "47. A América do Sul, a Antártica e a África ocidental detêm significativas reservas de recursos naturais. Nesse entorno estratégico, com foco no Atlântico Sul, é indispensável a consolidação da região como Zona de Paz e Cooperação (ZOPACAS), a fim de evitar interferência de interesses ilegítimos.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO**"
+  },
+  {
+    "id": 48,
+    "pergunta": "48. tem por objetivo a promoção de pesquisa científica diversificada e de alta qualidade na região antártica, com a finalidade de compreender os fenômenos que ali ocorrem,",
+    "alternativas": [
+      "PROANTAR",
+      "PROSUB",
+      "PROSAR",
+      "PROMAR"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 49,
+    "pergunta": "49. Quando foi criado o PROANTAR?",
+    "alternativas": [
+      "1980",
+      "1982",
+      "1992",
+      "1984"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 50,
+    "pergunta": "50. Qual é o sétimo Pais mais próximo da antártica ?",
+    "alternativas": [
+      "Chile",
+      "India",
+      "Paraguai",
+      "Brasil"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 51,
+    "pergunta": "51. Quantos países são membros do Sistema do tratado da antártica ?",
+    "alternativas": [
+      "27",
+      "17",
+      "29",
+      "28"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 52,
+    "pergunta": "52. Quantos países possuem mais de uma estação de pesquisa na Antártica",
+    "alternativas": [
+      "12",
+      "15",
+      "16",
+      "17"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 53,
+    "pergunta": "53. Qual nome da estação Antártica do Brasil e quando foi inaugurada ?",
+    "alternativas": [
+      "Comandante Maximiliano, 1984",
+      "Comandante Ferraz, 1984",
+      "Comandante Derley, 1996",
+      "Comandante Dimas 1996"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 54,
+    "pergunta": "54. Quais são os grandes acessos artificias controlados que o trafego do comercio marítimo mundial utiliza ?",
+    "alternativas": [
+      "Passagem de Drake e Canal do panamá",
+      "Canal do panamá e canal de suez",
+      "Canal de suez e passagem de Drake"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 55,
+    "pergunta": "55. A passagem de Drake tem Valor potencial como rota de navegação marítima que separa quais continentes ?",
+    "alternativas": [
+      "Antartica e continente Norte-Americano",
+      "Continente norte-americano e Africa",
+      "Antártica e Continente sul-americano",
+      "Antártica e pacifico"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 56,
+    "pergunta": "56. Quantos tipos de minerais já foram mapeados na Antartica ?",
+    "alternativas": [
+      "120",
+      "130",
+      "150",
+      "170"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 57,
+    "pergunta": "57. Quando as partes consultivas vão ao STA irão decidir sobre a não exploração ou exploração da Antartica ?",
+    "alternativas": [
+      "2028",
+      "2048",
+      "2049",
+      "2047"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 58,
+    "pergunta": "58. Qual continente possui a maior reserva de água doce do planeta ?",
+    "alternativas": [
+      "Brasileiro",
+      "Africano",
+      "Antártico",
+      "América do sul"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 59,
+    "pergunta": "59. Qual recurso que vem ganhando interesse e está disponível em grande quantidade nos mares austrais .",
+    "alternativas": [
+      "Kile",
+      "Kill",
+      "Krill",
+      "Ouro"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 60,
+    "pergunta": "60. È condição essencial para que o país mantenha sua condição de Membro Consultivo do Tratado da Antártica, possibilitando ao país ser membro do SCAR (Scientific Committee on Antarctic Research), com direito a participar dos grandes projetos científicos globais, desenvolvidos em parceria internacional na Antártica.",
+    "alternativas": [
+      "PROANTAR",
+      "SIMOMAR",
+      "Desenvolvimento de Pesquisa",
+      "SISTRAM"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 61,
+    "pergunta": "61. No mar não existem muros ou cercas. Na “Amazônia Azul”, os limites das nossas águas são linhas sobre o mar que não existem fisicamente. O que as define de forma concreta é a presença de navios da Marinha em permanente vigilância.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO**"
+  },
+  {
+    "id": 62,
+    "pergunta": "62. Com _______de potência, os parques eólicos offshore em licenciamento no Brasil ultrapassam a capacidade instalada nos parques em terra — que alcançou 18 GW no início de 2021 — e dão o tom do potencial desse novo setor no país.",
+    "alternativas": [
+      "42 gigawatts",
+      "41 gigawatts",
+      "44 gigawatts",
+      "46 gigawatts"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 63,
+    "pergunta": "63. Em aproximadamente 8.500 km de faixa litorânea, concentram-se 80% da população, são produzidos 90% do produto interno bruto (PIB) brasileiro e estão localizados os principais destinos turísticos nacionais.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO**"
+  },
+  {
+    "id": 64,
+    "pergunta": "64. Ao todo, os 42 GW em desenvolvimento estão distribuídos por 20 projetos em sete estados marque a alternativa correta.",
+    "alternativas": [
+      "Bahia, espirito santo, piaui, ceara, Rio de janeiro, rio grande do norte e rio grande de sul",
+      "Bahia, espirito santo, piaui, ceara, Rio de janeiro, rio grande do norte, São paulo",
+      "Bahia, ceara, Rio de janeiro, rio grande do norte, rio grande de sul, Belford roxo e caxias.",
+      "Bahia, espirito santo, piaui, ceara, nova Iguaçu, Anchieta e rio grande de sul"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 65,
+    "pergunta": "65. O projeto Nova Energia, é o menor em quantidade de turbinas e potência, entre os 20 em licenciamento pelo Brasil. Prevê apenas uma turbina com capacidade de 3,4 megawatts.",
+    "alternativas": [
+      "Bahia",
+      "Rio de janero",
+      "Rio grande do norte",
+      "Ceara"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 66,
+    "pergunta": "66. São quatro: Caucaia, Asa Branca, Jangada e Camocim. O maior é o Jangada, tanto em potência quanto em quantidade de turbinas. Serão 200 torres com potência de 15 MW cada, somando 3 GW.",
+    "alternativas": [
+      "Bahia",
+      "Ceara",
+      "Rio de janeiro",
+      "Rio grande do norte"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 67,
+    "pergunta": "67. O parque da Votu Winds prevê 1.440 MW de potência, a partir da instalação de 144 torres com potência de 10 MW cada.",
+    "alternativas": [
+      "Bahia",
+      "Ceara",
+      "Espirito santo",
+      "Piaui"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 68,
+    "pergunta": "68. Dois parques. O Vento Tupi, está licenciando a instalação de 74 aerogeradores a 14 quilômetros da costa, para geração de 999 MW de potência. Já o Palmas do Mar, terá 93 turbinas gerando 1.395 MW no total.",
+    "alternativas": [
+      "Piaui",
+      "Natal",
+      "Rio de janeiro",
+      "Fortaleza"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 69,
+    "pergunta": "69. O estado concentra quatro dos seis maiores projetos offshore em desenvolvimento. O projeto no Rio é o segundo maior do país, com 371 aerogeradoes e pouco mais de 5 GW de potência. Em seguida vem o parque Aracatu, com 3,8 GW de capacidade e 320 turbinas.",
+    "alternativas": [
+      "Bahia",
+      "Rio de Janeiro",
+      "Ceara",
+      "Natal"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 70,
+    "pergunta": "70. Também conta com quatro projetos. Ventos Potiguar, é o maior, com 207 aerogeradores e capacidade total de 2,4 GW. Além de outros projetos no estado somando cerca de 2 GW.",
+    "alternativas": [
+      "Rio de janeiro",
+      "Rio grande do norte",
+      "Piaui",
+      "Rio grande do sul",
+      "Rio grande do norte"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 71,
+    "pergunta": "71. Com 6,5 GW de potência, o parque Ventos do Sul é o maior do estado e do país. O empreendimento terá 482 turbinas dispostas a 21 quilômetros da costa. Outros três parques estão previstos no estado: Águas Claras, com 3 GW; Ventos Litorâneos 1,2 GW; e Tramandaí Offshore, 702 MW.",
+    "alternativas": [
+      "Rio grande do norte",
+      "Piaui",
+      "Ceara",
+      "Rio grande do sul"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 72,
+    "pergunta": "72. representa aproximadamente 70% da superfície do planeta e abriga cerca de metade da biodiversidade global, mas poucas espécies são exploradas ou usadas com propósitos biotecnológicos.",
+    "alternativas": [
+      "Ambiente marinho",
+      "Água doce",
+      "Água salgada",
+      "Área terrestre"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 73,
+    "pergunta": "73. proporcionam condições ambientais únicas para contribuir com o suprimento sustentável de alimentos, energia, biomateriais e para a saúde humana e ambiental.",
+    "alternativas": [
+      "Ecossistemas marinhos",
+      "Biotecnologia Marinha",
+      "Peixes diversos",
+      "Pinguins"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 74,
+    "pergunta": "74. Historicamente, o uso dos recursos do mar relaciona-se às atividades pesqueiras e de exploração de óleo e gás, à maricultura, ao turismo e ao lazer.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **VERDADEIRO**"
+  }
+]
