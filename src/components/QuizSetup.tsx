@@ -1,9 +1,14 @@
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { QuizMode, type Question } from '../../types';
 
 interface QuizSetupProps {
   onStart: (questions: Question[], mode: QuizMode, timeLimit: number, count: number) => void;
+}
+
+interface Discipline {
+  id: string;
+  nome: string;
 }
 
 const DEFAULT_QUESTIONS: Question[] = [
@@ -44,6 +49,29 @@ export const QuizSetup: React.FC<QuizSetupProps> = ({ onStart }) => {
   const [importMethod, setImportMethod] = useState<ImportMethod>('upload');
   const [disciplineName, setDisciplineName] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+
+  const [questionarios, setQuestionarios] = useState<Discipline[]>([]);
+
+  // Carrega a lista de questionários disponíveis no servidor
+  useEffect(() => {
+    const carregarLista = async () => {
+      try {
+        const response = await fetch('questionarios.json');
+        if (!response.ok) {
+          throw new Error(`Erro HTTP: ${response.status} Não foi possível carregar o índice de disciplinas.`);
+        }
+        const data = await response.json();
+        if (data && data.length > 0) {
+        setQuestionarios(data);
+        setDisciplineName(data[0].id); // Seleciona o primeiro automaticamente
+      }
+      } catch (err) {
+        console.error("Erro ao carregar índice de questionários", err);
+        setError("Falha ao carregar lista de disciplinas. Verifique o console.");
+      }
+    };
+    carregarLista();
+  }, []);
 
   const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
@@ -145,13 +173,26 @@ export const QuizSetup: React.FC<QuizSetupProps> = ({ onStart }) => {
             ) : (
               <div className="space-y-3">
                 <div className="flex gap-2">
-                  <input 
+                  <select
+                    value={disciplineName}
+                    onChange={(e) => setDisciplineName(e.target.value)}
+                    className={`${inputBaseStyles} py-2.5 text-sm cursor-pointer`}
+                  >
+                  {questionarios.length === 0 ? (
+                    <option>Carregando questionário...</option>
+                  ) : (
+                    questionarios.map((quest) => (
+                      <option key={quest.id} value={quest.id}>{quest.nome}</option>
+                    ))
+                  )}
+                  </select>
+                  {/* <input 
                     type="text" 
                     placeholder="Ex: gexcel, obm..."
                     value={disciplineName}
                     onChange={(e) => setDisciplineName(e.target.value)}
                     className={`${inputBaseStyles} py-2.5 text-sm`}
-                  />
+                  /> */}
                   <button 
                     onClick={handleLoadDiscipline}
                     disabled={isLoading}
