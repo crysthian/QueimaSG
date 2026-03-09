@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Tem por propósito integrar as ações de planejamento e execução da Atividade de Inteligência (AI) no País, com a finalidade de fornecer subsídios ao Presidente da República nos assuntos de interesse nacional. ",
+    "alternativas": [
+      "CONSISBIN ",
+      "GSI/PR ",
+      "SISBIN ",
+      "SIMAR ",
+      "CIM "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 2,
+    "pergunta": "O SISBIN é responsável pelo processo de obtenção, análise de dados e pela difusão de conhecimentos necessários ao processo decisório do Poder Executivo, em especial no tocante à segurança da sociedade e do Estado, bem como pela salvaguarda de assuntos sigilosos de interesse nacional. ",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 3,
+    "pergunta": "Os Órgãos e entidades da Administração Pública Federal que, direta ou indiretamente, possam produzir conhecimentos de interesse da AI, em especial aqueles responsáveis pela defesa externa, segurança interna e relações exteriores, constituirão o SISBIN, na forma de ato do Comandante da Marinha. ",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Ato do Presidente da República). "
+  },
+  {
+    "id": 4,
+    "pergunta": "É vinculado ao GSI/PR e composto pelos principais órgãos do SISBIN, sendo o Centro de Inteligência da Marinha (CIM), Órgão Central (OgC) do SIMAR, o representante da MB. ",
+    "alternativas": [
+      "CPesFN ",
+      "OMOT ",
+      "CoNavOpEsp ",
+      "CONSISBIN ",
+      "CONSECON "
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 5,
+    "pergunta": "A quem o SIMAR (Sistema de Inteligência da Marinha) NÃO tem como propósito assessorar? ",
+    "alternativas": [
+      "Comandante da Marinha ",
+      "Chefes de Departamento ",
+      "Titular de OM ",
+      "CEMA ",
+      "Almirantado "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 6,
+    "pergunta": "O SIMAR é composto por um Órgão Central (OgC), o SIM, responsável pela supervisão técnica da AI, e por Agências de Inteligência Especializadas (AgIE), Agências de Inteligência (AgI) e Células de Inteligência (Cint). ",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (CIM). "
+  },
+  {
+    "id": 7,
+    "pergunta": "Os integrantes do CONSECON-SIMAR realizam Visitas Técnicas (VISITEC) de Inteligência nos Distritos Navais (DN) e nas OM de suas áreas de jurisdição, com o objetivo de incrementar a mentalidade de Inteligência, disseminar a doutrina, orientar o aprimoramento das medidas de Contrainteligência e incentivar a produção de Conhecimentos. ",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 8,
+    "pergunta": "Assinale a alternativa que NÃO representa uma Agência de Inteligência Especializadas (AgIE) do SIMAR. ",
+    "alternativas": [
+      "AgIE de Assuntos Marítimos ",
+      "AgIE de Prospecção Tecnológica ",
+      "AgIE de Desenvolvimento Tecnológico ",
+      "AgIE de Mídia ",
+      "Seção de Inteligência Marítima do Comando de Operações Marítimas e Proteção da Amazônia Azul. "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 9,
+    "pergunta": "Assessoria de Inteligência do EMA; Assessoria de Inteligência do ComOpNav; Seções de Inteligência dos Estados-Maiores de Comando de Distritos Navais (ComDN-20); Seções de Inteligência dos Estados-Maiores de Comandos de Força; Assessoria de Inteligência do Comando Naval de Operações Especiais (CoNavOpEsp); e Adidâncias e Missões Navais no exterior são Agências de Inteligência do SIMAR. [cite: 10, 11, 12]",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 10,
+    "pergunta": "As estruturas de Inteligência das demais Organizações Militares (OM) da MB. As CInt do SIMAR são constituídas pelos Oficiais de Inteligência (OI) e seus auxiliares, designados formalmente pelos Titulares de suas OM; Estruturas de Inteligência dos órgãos vinculados à MB; e Representações da MB em órgãos extra-MB, quando o representante for Oficial-General e possuírem estrutura adequada de Inteligência são as Células de Inteligência do SIMAR. [cite: 13, 14, 15]",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 11,
+    "pergunta": "São atribuições dos OgInt do SIMAR, EXCETO:",
+    "alternativas": ["Coordenar a elaboração da Avaliação Estratégica da Marinha", "Aprovar a Doutrina de Inteligência da Marinha", "Aprovar o PIMAR elaborado pelo CIM", "Elaborar a Doutrina, Normas e Instruções Técnicas que regem a AI na MB", "Coordenar com o CIM o controle das Atividades junto aos Adidos Navais"],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 12,
+    "pergunta": "É o OgC (Orgão Central) do SIMAR, coordenador da produção e produtor de Conhecimentos nos ramos da Inteligência e da Contrainteligência, tanto Estratégico quanto Operacional e Tático.",
+    "alternativas": ["CIM", "CEMA", "CONSECON-SIMAR", "SISBIN", "CON"],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 13,
+    "pergunta": "A supervisão das atividades desenvolvidas pelo CIM é conduzida por meio do cumprimento de tarefas, EXCETO:",
+    "alternativas": ["Elaborar a Doutrina e Normas da AI na MB", "Emitir as INTELMARINST", "Coordenar a produção do PIMAR", "Conduzir as VISITEC-SIMAR", "Assessorar a DGMM e o CPesFN na movimentação de pessoal"],
+    "correta": 4,
+    "comentario": "A opção correta é **E** (Compete assessorar a DPMM)"
+  },
+  {
+    "id": 14,
+    "pergunta": "Apoiar diretamente o Chefe do Estado-Maior da Armada (CEMA) nos assuntos afetos à AI na MB e atuar como elemento de ligação com o CIM.",
+    "alternativas": ["Assessoria de Inteligência do ComOpNav", "Assessoria de Inteligência do EMA", "Assessoria de Inteligência do CM", "Assessoria de Inteligência do CIM", "Assessoria de Inteligência do SIM"],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 15,
+    "pergunta": "Apoiar diretamente o Comandante de Operações Navais (CON) nos assuntos afetos à AI na MB e atuar como elemento de ligação com o CIM.",
+    "alternativas": ["Assessoria de Inteligência do ComOpNav", "Assessoria de Inteligência do EMA", "Assessoria de Inteligência do CM", "Assessoria de Inteligência do CIM", "Assessoria de Inteligência do SIM"],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 16,
+    "pergunta": "Produzir Conhecimentos e Estudos de Inteligência do Campo Externo e apoiar a execução das tarefas de produção de Conhecimentos das Forças Navais são atribuições dos CoNavOpEsp.",
+    "alternativas": ["Verdadeiro", "Falso"],
+    "correta": 1,
+    "comentario": "A opção correta é **F** (Atribuições dos Adidos Navais e Chefes de Missões Navais)"
+  },
+  {
+    "id": 17,
+    "pergunta": "Os DI originados nos Adidos de Defesa e Navais brasileiros no exterior deverão ser difundidos ao CIM e ao EMA, sendo vedada a realização de Busca pelas Adidâncias.",
+    "alternativas": ["Verdadeiro", "Falso"],
+    "correta": 0,
+    "comentario": "A opção correta é **V**"
+  },
+  {
+    "id": 18,
+    "pergunta": "É a obtenção de dados disponíveis ao Analista, sem a necessidade de aplicar técnicas operacionais, por não estarem protegidos por medidas de salvaguarda.",
+    "alternativas": ["Busca", "Consulta", "Pesquisa", "Coleta", "Investigação"],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 19,
+    "pergunta": "É a obtenção de dados ou Conhecimentos protegidos ou negados, sendo necessária a aplicação de técnicas operacionais por meio de uma PesqInt.",
+    "alternativas": ["Busca", "Consulta", "Pesquisa", "Coleta", "Investigação"],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 20,
+    "pergunta": "É atribuição das Agências de Inteligência Especializadas (AgIE):",
+    "alternativas": ["Orientar a AI das CInt", "Produzir Conhecimentos em sua área de especialização", "Coordenar assuntos cibernéticos", "Centralizar a Comunicação com Adidâncias", "Elaborar o Plano de Direção Setorial"],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 21,
+    "pergunta": "Cabe às Agências de Inteligência (AgI) produzir Conhecimentos e Estudos de Inteligência, orientar e coordenar a AI das CInt, em sua área de atuação.",
+    "alternativas": ["Verdadeiro", "Falso"],
+    "correta": 0,
+    "comentario": "A opção correta é **V**"
+  },
+  {
+    "id": 22,
+    "pergunta": "Compete a todos os OgInt do SIMAR a orientação e coordenação para Conhecimentos previstos no PIMAR.",
+    "alternativas": ["Verdadeiro", "Falso"],
+    "correta": 1,
+    "comentario": "A opção correta é **F** (Refere-se à produção e salvaguarda)"
+  },
+  {
+    "id": 23,
+    "pergunta": "Quanto ao Relacionamento com OgInt extra-MB, são afirmações verdadeiras, EXCETO:",
+    "alternativas": ["CIM faz a ligação com o SISBIN", "Relacionamento com SINDE é pelo CIM e EMA", "COMPAAz estabelece relações Extra-MB em sua área", "ComDN autorizados a relações Extra-MB em sua AJ", "CInt podem manter ligações com OgInt Extra-MB de nível superior"],
+    "correta": 4,
+    "comentario": "A opção correta é **E** (Nível deve ser compatível com o seu)"
+  }
+]

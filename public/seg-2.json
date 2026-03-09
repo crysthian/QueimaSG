@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "pergunta": "É a atividade que objetiva prevenir, detectar, obstruir e neutralizar a Inteligência adversa e as ações que constituam ameaça à salvaguarda de dados, Conhecimentos, pessoas, áreas e instalações de interesse da sociedade e do Estado. [cite: 45, 46]",
+    "alternativas": [
+      "Sabotagem ",
+      "Ataque Cibernético ",
+      "Investigação ",
+      "Espionagem ",
+      "Contrainteligência "
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 2,
+    "pergunta": "Em vista das opções abaixo, sabe-se que a Contrainteligência deve salvaguardar, EXCETO: ",
+    "alternativas": [
+      "Dados e Conhecimentos oriundos dos Órgãos de Inteligência (OgInt) ou por eles manuseados ou custodiados; ",
+      "Dados e Conhecimentos que, apesar de terem origem, manuseio e custódia fora dos OgInt, sejam considerados, no interesse da MB, como merecedores de proteção; ",
+      "Ativos localizados em áreas controladas pela MB, que possam se tornar alvos de elementos adversos. ",
+      "Dados e Conhecimentos oriundos dos Órgãos de Reposta a ataques cibernéticos. "
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 3,
+    "pergunta": "É a ação que visa à obtenção de Conhecimentos ou dados sensíveis para beneficiar Estados, grupos de países, organizações, facções, grupos de interesse, empresas ou indivíduos. [cite: 50, 51]",
+    "alternativas": [
+      "Sabotagem ",
+      "Ataque Cibernético ",
+      "Investigação ",
+      "Espionagem ",
+      "Contrainteligência "
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 4,
+    "pergunta": "É a ação deliberada, com efeitos físicos, materiais ou psicológicos, que visa a destruir, danificar, comprometer ou inutilizar, total ou parcialmente, definitiva ou temporariamente, dados ou Conhecimentos; ferramentas; materiais; matérias-primas; equipamentos; cadeias produtivas; instalações ou sistemas logísticos, sobretudo aqueles necessários ao funcionamento da infraestrutura crítica do País, com o objetivo de suspender ou paralisar o trabalho ou a capacidade de satisfação das necessidades gerais, essenciais e impreteríveis do Estado ou da população. [cite: 52, 53]",
+    "alternativas": [
+      "Sabotagem ",
+      "Ataque Cibernético ",
+      "Investigação ",
+      "Espionagem ",
+      "Contrainteligência "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 5,
+    "pergunta": "É a forma de ação que consiste no emprego da violência física ou psicológica, de forma premeditada, por indivíduos ou grupos, apoiados ou não por Estados, com o intuito de coagir um governo, uma autoridade, um indivíduo, um grupo ou mesmo toda a população a adotar determinado comportamento. ",
+    "alternativas": [
+      "Espionagem ",
+      "Ataque Cibernético ",
+      "Terrorismo ",
+      "Sabotagem ",
+      "Contrainteligência "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 6,
+    "pergunta": "O terrorismo é motivado e organizado por razões políticas, ideológicas, econômicas, ambientais, religiosas ou psicossociais. ",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 7,
+    "pergunta": "É uma atividade sistemática que envolve técnicas e métodos para persuadir grande número de pessoas, utilizando-se de meios de comunicação na disseminação de mensagens. ",
+    "alternativas": [
+      "Espionagem ",
+      "Ataque Cibernético ",
+      "Terrorismo ",
+      "Propaganda Adversa ",
+      "Contrainteligência "
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 8,
+    "pergunta": "A Propaganda Adversa é desenvolvida num ato de patrocínio com o objetivo de criar, reformar conceitos e fixar referências na mente das pessoas, predispondo-a, favoravelmente, em relação ao que se pretende, contra os nossos interesses e a contra quem a patrocina. ",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (a favor) "
+  },
+  {
+    "id": 9,
+    "pergunta": "É a técnica especializada utilizada para iludir ou confundir um centro decisor, por meio da manipulação planejada de informações falsas e/ou verdadeiras, visando, intencionalmente, induzi-lo a erro de avaliação, ou o fenômeno decorrente de acentuadas deficiências em exatidão, amplitude e/ou aprofundamento das informações disponíveis aos decisores e ao público em geral. A desinformação leva a uma percepção significativamente equivocada, incompleta ou distorcida da realidade e, por fim, promove decisões e comportamentos inadequados às circunstâncias. [cite: 58, 59]",
+    "alternativas": [
+      "Espionagem ",
+      "Desinformação ",
+      "Terrorismo ",
+      "Propaganda Adversa ",
+      "Contrainteligência "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 10,
+    "pergunta": "É a associação de quatro ou mais pessoas, estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a quatro anos, ou que sejam de caráter transnacional. ",
+    "alternativas": [
+      "Espionagem ",
+      "Ataques Cibernéticos ",
+      "Terrorismo ",
+      "Propaganda Adversa ",
+      "Ações de Organizações Criminosas "
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 11,
+    "pergunta": "São ações deliberadas com o emprego de recursos da Tecnologia da Informação e Comunicações (TIC) que visem a interromper, penetrar, adulterar ou destruir redes utilizadas por setores públicos e privados essenciais à sociedade e ao Estado, a exemplo daqueles pertencentes à infraestrutura crítica nacional. ",
+    "alternativas": [
+      "Espionagem ",
+      "Ataques Cibernéticos ",
+      "Terrorismo ",
+      "Propaganda Adversa ",
+      "Ações de Organizações Criminosas "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 12,
+    "pergunta": "Os prejuízos das ações no espaço cibernético advêm apenas do comprometimento de recursos da TIC. ",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (NÃO ADVÊM - Decorrem, também, da manipulação de opiniões, mediante ações de propaganda ou de desinformação.) "
+  },
+  {
+    "id": 13,
+    "pergunta": "É o ato de ingressar, transitar, conhecer ou consultar a informação, bem como a possibilidade de usar os ativos de informação de uma organização, observada eventual restrição que se aplique. ",
+    "alternativas": [
+      "Espionagem ",
+      "Acesso ",
+      "Ativo ",
+      "Autenticidade ",
+      "Invasão "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 14,
+    "pergunta": "É a dimensão física relativa a áreas e instalações sensíveis. ",
+    "alternativas": [
+      "Espionagem ",
+      "Acesso ",
+      "Ativo ",
+      "Autenticidade ",
+      "Invasão "
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 15,
+    "pergunta": "O termo Acesso expressa não apenas o ato de uma pessoa obter dados, conhecimentos ou ativos de interesse, mas, também, a condição para fazê-lo, seja por meio de autorização oficial emanada de autoridade competente, ou pela exploração de vulnerabilidades das medidas de salvaguarda. ",
+    "alternativas": [
+      "Verdadeiro ",
+      "Falso "
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 16,
+    "pergunta": "É qualquer bem, material ou imaterial, que tenha valor para a organização, incluindo pessoas que componham os processos, que manipulem ou processem informação, a contar dela própria e o meio que a suporte, bem como o material, as áreas e as instalações de uma organização, além dela própria, que, por constituírem um determinado valor, necessitam de proteção adequada.",
+    "alternativas": [
+      "Espionagem",
+      "Acesso",
+      "Ativo",
+      "Autenticidade",
+      "Material sigiloso"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** [cite: 68, 126]"
+  },
+  {
+    "id": 17,
+    "pergunta": "É a propriedade pela qual se assegura que a informação foi produzida, expedida, modificada ou destruída por uma determinada pessoa física, equipamento, sistema ou organização.",
+    "alternativas": [
+      "Autenticidade",
+      "Acesso",
+      "Ativo",
+      "Material sensível",
+      "Segurança de informação"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** [cite: 69, 126]"
+  },
+  {
+    "id": 18,
+    "pergunta": "É a atribuição, pela autoridade competente, de grau de sigilo a dado, conhecimento, documento, material, área ou instalação.",
+    "alternativas": [
+      "Autenticidade",
+      "Classificação",
+      "Ativo",
+      "Material sensível",
+      "Nomeação"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** [cite: 70, 126]"
+  },
+  {
+    "id": 19,
+    "pergunta": "Resultado eficaz de todas as medidas de segurança que visam impedir o acesso a dados, Conhecimentos, áreas e instalações sensíveis às pessoas que não possuam a necessidade de conhecer.",
+    "alternativas": [
+      "Comprometimento",
+      "Classificação",
+      "Credenciamento",
+      "Compartimentação",
+      "Confidencialidade"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** [cite: 71, 126]"
+  },
+  {
+    "id": 191,
+    "pergunta": "Perda de segurança resultante de acesso não autorizado a dado, Conhecimento, área sigilosa ou sensível.",
+    "alternativas": [
+      "Comprometimento",
+      "Classificação",
+      "Credenciamento",
+      "Compartimentação",
+      "Confidencialidade"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** [cite: 72, 126]"
+  },
+  {
+    "id": 20,
+    "pergunta": "Normalmente, a desclassificação pode advir da insuficiência ou da inadequação das medidas de salvaguarda aplicadas a dados e conhecimentos sigilosos. Acontecimentos fortuitos, causados por fenômenos naturais ou acidentes, podem contribuir para o comprometimento.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (O comprometimento pode advir...) [cite: 73, 74, 126]"
+  },
+  {
+    "id": 21,
+    "pergunta": "Processo utilizado para credenciar pessoa ou para habilitar organização pública ou privada, para o tratamento de informação classificada.",
+    "alternativas": [
+      "Comprometimento",
+      "CREDSEG",
+      "Credenciamento",
+      "Credenciamento de Segurança",
+      "Credencial de Segurança"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** [cite: 75, 127]"
+  },
+  {
+    "id": 22,
+    "pergunta": "É a autorização oficial, concedida por autoridade competente, que habilita determinada pessoa a ter acesso a dados ou conhecimentos, nos diferentes graus de sigilo.",
+    "alternativas": [
+      "CREDSEG",
+      "Comprometimento",
+      "Credenciamento",
+      "Credenciamento de Segurança",
+      "Credencial de Segurança"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** [cite: 76, 127]"
+  },
+  {
+    "id": 23,
+    "pergunta": "Propriedade pela qual se assegura que a informação não esteja disponível ou não seja revelada a pessoa, a sistema ou organização não autorizados nem credenciados.",
+    "alternativas": [
+      "Confidencialidade",
+      "Comprometimento",
+      "Credenciamento",
+      "Credenciamento de Segurança",
+      "Credencial de Segurança"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 24,
+    "pergunta": "É o certificado, cartão, crachá etc, de uso interno, que definirá o Credenciamento de Segurança que uma determinada pessoa possui.",
+    "alternativas": [
+      "Confidencialidade",
+      "Comprometimento",
+      "Credenciamento",
+      "Credenciamento de Segurança",
+      "Credencial de Segurança"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** [cite: 77, 127]"
+  },
+  {
+    "id": 25,
+    "pergunta": "É o cancelamento, pela autoridade competente ou pelo transcurso de prazo, da classificação, tornando ostensivos dados ou conhecimentos.",
+    "alternativas": [
+      "Desclassificação",
+      "Disponibilidade",
+      "Invalidação",
+      "Comprometimento",
+      "Credencial de Segurança"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** [cite: 78, 127]"
+  },
+  {
+    "id": 26,
+    "pergunta": "Propriedade pela qual se assegura que a informação esteja acessível e utilizável sob demanda por uma pessoa física, determinado sistema ou organização devidamente autorizados.",
+    "alternativas": [
+      "Desclassificação",
+      "Disponibilidade",
+      "Invalidação",
+      "Comprometimento",
+      "Credencial de Segurança"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** [cite: 79, 127]"
+  },
+  {
+    "id": 27,
+    "pergunta": "É a condição atribuída a uma organização pública ou privada, que lhe confere a aptidão para o tratamento da informação classificada em determinado grau de sigilo.",
+    "alternativas": [
+      "Informação Sigilosa",
+      "Integridade",
+      "Habilitação de Segurança",
+      "Engenharia Social",
+      "Credencial de Segurança"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** [cite: 80, 127]"
+  },
+  {
+    "id": 28,
+    "pergunta": "Técnica por meio da qual uma pessoa procura persuadir outra a executar determinadas ações. No contexto da Contrainteligência, é considerada uma prática adversa, usada para explorar a boa intenção ou abusar da ingenuidade e da confiança de outras pessoas.",
+    "alternativas": [
+      "Informação Sigilosa",
+      "Integridade",
+      "Habilitação de Segurança",
+      "Engenharia Social",
+      "Engenharia de Segurança"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** [cite: 81, 82, 127]"
+  },
+  {
+    "id": 29,
+    "pergunta": "Informação sigilosa em poder das organizações públicas, observado o seu teor e em razão de sua imprescindibilidade à segurança da sociedade ou do Estado, a qual é classificada como ultrassecreta, secreta ou reservada.",
+    "alternativas": [
+      "Informação Sigilosa",
+      "Integridade",
+      "Habilitação de Segurança",
+      "Investigação de Segurança",
+      "Informação Classificada"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** [cite: 83, 127]"
+  },
+  {
+    "id": 30,
+    "pergunta": "Informação submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado, e aquelas abrangidas pelas demais hipóteses legais de sigilo.",
+    "alternativas": [
+      "Informação Classificada",
+      "Integridade",
+      "Habilitação de Segurança",
+      "Investigação de Segurança",
+      "Informação Sigilosa"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** [cite: 84, 127]"
+  },
+  {
+    "id": 31,
+    "pergunta": "Propriedade pela qual se assegura que a informação não foi modificada ou destruída de maneira não autorizada ou acidental.",
+    "alternativas": [
+      "Informação Classificada",
+      "Integridade",
+      "Habilitação de Segurança",
+      "Investigação de Segurança",
+      "Informação Sigilosa"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 32,
+    "pergunta": "Averiguação da existência dos requisitos indispensáveis para a concessão da CREDSEG às pessoas naturais, para o tratamento de informação classificada.",
+    "alternativas": [
+      "Informação Classificada",
+      "Integridade",
+      "Habilitação de Segurança",
+      "Investigação de Segurança",
+      "Informação Sigilosa"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 33,
+    "pergunta": "Condição segundo a qual o conhecimento da informação classificada é indispensável para o adequado exercício de cargo, função, emprego ou atividade reservada.",
+    "alternativas": [
+      "Informação Classificada",
+      "Necessidade de conhecer",
+      "Conhecimento de Segurança",
+      "Investigação de Segurança",
+      "Informação Sigilosa"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 34,
+    "pergunta": "O termo “necessidade de conhecer” descreve a restrição de acesso a dados que sejam considerados sigilosos. Sob restrições desse tipo, mesmo que um indivíduo tenha as credenciais necessárias, ele só terá acesso à informação caso ela seja estritamente necessária para a condução de suas atividades oficiais.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 35,
+    "pergunta": "É o documento sem restrição de conhecimento e de divulgação, no âmbito interno.",
+    "alternativas": [
+      "Sigiloso",
+      "Aberta",
+      "Ostensivo",
+      "Reservado",
+      "Administrativo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 36,
+    "pergunta": "É a alteração do grau de sigilo atribuído a dado, conhecimento, material, área ou instalação.",
+    "alternativas": [
+      "Reclassificação",
+      "Alteração",
+      "Quebra de Segurança",
+      "Readaptação",
+      "Administração documental"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 37,
+    "pergunta": "Ação ou omissão, intencional ou acidental, que resulta no comprometimento da Segurança da Informação.",
+    "alternativas": [
+      "Comprometimento",
+      "Quebra de Sigilo",
+      "Quebra de Segurança",
+      "Readaptação",
+      "Ataque Cibernético"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 38,
+    "pergunta": "Restrição de acesso público a determinados conteúdos, em razão da imprescindibilidade dessa restrição à segurança da sociedade e do Estado. Quanto ao Grau de Sigilo, é a gradação em face da proteção atribuída.",
+    "alternativas": [
+      "Restrição pública",
+      "Integridade",
+      "Segurança",
+      "Sigilo",
+      "Habilitação de Segurança"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 40,
+    "pergunta": "Transmissão não autorizada de dados de dentro de uma organização para um destino ou recipiente externo. O termo pode ser usado para descrever dados transferidos eletronicamente ou fisicamente.",
+    "alternativas": [
+      "Transferência Sigilosa",
+      "Vazamento de dados",
+      "Quebra de Segurança",
+      "Quebra de Sigilo",
+      "Desabilitação de Segurança"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 41,
+    "pergunta": "O vazamento de dados sempre ocorre de forma intencional.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Pode ocorrer de forma acidental ou intencional) "
+  },
+  {
+    "id": 42,
+    "pergunta": "São entendidas como os militares da ativa e da reserva, servidores civis ou grupo de pessoas com acesso privilegiado a informações e que, intencionalmente ou não, usam essa prerrogativa para comprometer as medidas de segurança das OM.",
+    "alternativas": [
+      "Pessoal credenciado",
+      "Vulnerabilidade Orgânica",
+      "Vulnerabilidade de Segurança",
+      "Vulnerabilidade Organizacional",
+      "Segurança Orgânica"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 43,
+    "pergunta": "Para racionalização dos trabalhos de CI, as ações agrupam-se em dois segmentos: a Segurança Orgânica (de caráter proativo) e a Segurança Ativa (de caráter preventivo).",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Segurança Orgânica é de caráter preventivo e a Segurança Ativa é de caráter proativo) "
+  },
+  {
+    "id": 44,
+    "pergunta": "Entre as ocorrências e ações que podem comprometer as salvaguardas adotadas, assinale a opção INCORRETA:",
+    "alternativas": [
+      "Resultantes de fenômenos naturais",
+      "Resultantes de acidentes",
+      "Involuntárias, resultantes de imprudência ou negligência",
+      "Voluntárias, onde o agente atua com deliberada intenção de produzir dano",
+      "Todas as opções acima estão corretas como causas de comprometimento"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 45,
+    "pergunta": "É o segmento que preconiza a adoção de um conjunto de medidas destinadas a prevenir e obstruir ameaças, de qualquer natureza, dirigidas a pessoas, dados, conhecimentos, materiais, áreas e instalações.",
+    "alternativas": [
+      "Segurança do Pessoal",
+      "Segurança Orgânica",
+      "Segurança do Material",
+      "Segurança dos Dados",
+      "Segurança da Documentação"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 46,
+    "pergunta": "A implementação da SegOrg é sempre, em caráter intransferível, de responsabilidade dos Titulares de OM que, para isso, devem considerar as características, os recursos e as necessidades de sua organização. Não deve ser esquecido que as medidas de segurança podem causar algum transtorno administrativo (como lentidão no controle de entrada).",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** [cite: 508, 509]"
+  },
+  {
+    "id": 47,
+    "pergunta": "Cabe ao Oficial Responsável pela SegOrg da OM, por meio de inspeções, fiscalizações e verificações correntes e assessoramentos da Comissão de Assessoria e Verificação de Segurança Orgânica (CAVSO), coordenar o trabalho da Comissão Interna de Segurança Orgânica (CISO) e acompanhar o controle dos resultados.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 48,
+    "pergunta": "De acordo com a Doutrina de Inteligência da Marinha, a SegOrg desdobra-se nos seguintes grupos de atividades: Segurança do Pessoal; Segurança da Documentação e do Material; Segurança de Dados, Segurança das Comunicações; e Segurança das Áreas e Instalações.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (O termo correto é Segurança Cibernética (SegCiber) em vez de Segurança de Dados) [cite: 511, 512, 529]"
+  },
+  {
+    "id": 49,
+    "pergunta": "Compreende um conjunto de medidas objetivamente voltadas para o pessoal da MB, com o objetivo de impedir ou dificultar o comprometimento da salvaguarda dos dados ou Conhecimentos sigilosos, dos recursos materiais e financeiros de propriedade da MB ou sob sua guarda e do pessoal pertencente à MB ou que esteja em suas instalações.",
+    "alternativas": [
+      "Segurança do Pessoal",
+      "Segurança Orgânica",
+      "Segurança do Material",
+      "Segurança dos Dados",
+      "Segurança da Documentação"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 50,
+    "pergunta": "Compreende o conjunto de medidas para evitar o comprometimento de documentos e materiais, salvaguardando dados e/ou Conhecimentos sigilosos, e também a preservação contra ameaças adversas, entre elas, fenômenos naturais ou acidentes de qualquer natureza.",
+    "alternativas": [
+      "Segurança do Pessoal",
+      "Segurança Orgânica",
+      "Segurança da Documentação e Material",
+      "Segurança dos Dados",
+      "Segurança da Documentação"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 51,
+    "pergunta": "Está inserida no contexto da Segurança da Informação (SI) e consiste na proteção resultante de todas as ações adotadas, de forma a garantir que os sistemas de informação sejam capazes de resistir a eventos no espaço cibernético, que possam comprometer a disponibilidade, a integridade, a confidencialidade e a autenticidade dos dados armazenados, processados ou transmitidos.",
+    "alternativas": [
+      "Segurança do Pessoal",
+      "Segurança das Comunicações",
+      "Segurança Cibernética (SegCiber)",
+      "Segurança dos Dados",
+      "Segurança da Documentação"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 52,
+    "pergunta": "Entende-se como Espaço Cibernético o espaço virtual composto por um conjunto de canais de comunicação da internet e outras redes de comunicação, que garantem a interconexão de dispositivos de tecnologia de informação e comunicações. Engloba ainda todas as formas de atividades digitais em rede.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** [cite: 516, 517]"
+  },
+  {
+    "id": 53,
+    "pergunta": "Conjunto de medidas voltado para la salvaguarda de conhecimentos e dados sigilosos durante as ações de transmissão e recepção.",
+    "alternativas": [
+      "Segurança do Pessoal",
+      "Segurança das Comunicações",
+      "Segurança Cibernética (SegCiber)",
+      "Segurança dos Dados",
+      "Segurança da Documentação"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 54,
+    "pergunta": "Compreende um conjunto de medidas, estabelecidas com base na análise de riscos, voltadas para impedir ações adversas contra as instalações da MB ou sob sua responsabilidade. No âmbito da segurança pública ou privada, também é denominada Segurança Física.",
+    "alternativas": [
+      "Segurança das Instalações",
+      "Segurança das Comunicações",
+      "Segurança Cibernética (SegCiber)",
+      "Segurança das Áreas e Instalações",
+      "Segurança da Documentação"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** [cite: 519, 520, 531]"
+  },
+  {
+    "id": 55,
+    "pergunta": "É o segmento da Contrainteligência que preconiza a adoção de um conjunto de medidas, de caráter eminentemente proativo, destinado a detectar, identificar, avaliar e neutralizar ações adversas.",
+    "alternativas": [
+      "Segurança Orgânica",
+      "Segurança Reativa",
+      "Segurança Cibernética (SegCiber)",
+      "Segurança das Áreas e Instalações",
+      "Segurança Ativa"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 56,
+    "pergunta": "A diferença entre a SegOrg e a SegAtiv é que enquanto a SegOrg procura criar obstáculos para impedir as ações adversas provenientes de organizações e indivíduos, a SegAtv procura acompanhar as possíveis origens dessas ações, para detectá-las antes de seu início e neutralizá-las.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 57,
+    "pergunta": "A Doutrina de Inteligência da Marinha subdivide a SegAtv nos seguintes grupos de atividades, EXCETO:",
+    "alternativas": [
+      "Contraespionagem",
+      "Prevenção e Combate ao Terrorismo",
+      "Contrassabotagem",
+      "Contrapropaganda",
+      "Contra-Simar"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** (Os 7 grupos são: Contraespionagem, Prevenção e Combate ao Terrorismo, Contrassabotagem, Contrapropaganda, Desinformação, Contra-ORCRIM e Contrainteligência Cibernética) [cite: 531, 532]"
+  },
+  {
+    "id": 58,
+    "pergunta": "É o conjunto de medidas voltado para a detecção, identificação, avaliação e neutralização das ações adversas de busca de Conhecimentos ou dados sigilosos.",
+    "alternativas": [
+      "Contraespionagem",
+      "Contrassabotagem",
+      "Contrapropaganda",
+      "Contra – ORCRIM",
+      "Contrainteligência Cibernética"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 59,
+    "pergunta": "É o conjunto de medidas destinado a detectar, identificar, avaliar e neutralizar atos de sabotagem contra instituições, pessoas e suas crenças, documentos, materiais, equipamentos, instalações e valores institucionais da MB.",
+    "alternativas": [
+      "Contraespionagem",
+      "Contrassabotagem",
+      "Contrapropaganda",
+      "Contra – ORCRIM",
+      "Contrainteligência Cibernética"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 60,
+    "pergunta": "É o conjunto de medidas destinado a detectar, identificar, avaliar, explorar e neutralizar ações e ameaças de Organizações Criminosas, bem como de seus integrantes contra os interesses da MB.",
+    "alternativas": [
+      "Contraespionagem",
+      "Prevenção e Combate ao Terrorismo",
+      "Contrapropaganda",
+      "Contra – ORCRIM",
+      "Contrainteligência Cibernética"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 61,
+    "pergunta": "É o conjunto de medidas voltadas para a detecção e neutralização de ameaças cibernéticas contra o Espaço Cibernético de Interesse da MB.",
+    "alternativas": [
+      "Contraespionagem",
+      "Prevenção e Combate ao Terrorismo",
+      "Contrapropaganda",
+      "Contra – ORCRIM",
+      "Contrainteligência Cibernética"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 62,
+    "pergunta": "É o conjunto de medidas destinado a detectar, identificar, avaliar e neutralizar ações e ameaças terroristas.",
+    "alternativas": [
+      "Contraespionagem",
+      "Prevenção e Combate ao Terrorismo",
+      "Contrapropaganda",
+      "Contra – ORCRIM",
+      "Contrainteligência Cibernética"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 63,
+    "pergunta": "É o conjunto de medidas destinado a detectar, identificar, analisar, explorar e neutralizar ações de propaganda adversa que possam causar prejuízos aos interesses da MB.",
+    "alternativas": [
+      "Contraespionagem",
+      "Prevenção e Combate ao Terrorismo",
+      "Desinformação",
+      "Contra – ORCRIM",
+      "Contrapropaganda"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 64,
+    "pergunta": "É uma técnica especializada utilizada para iludir ou confundir um centro decisor, por meio da manipulação planejada de informações falsas e/ou verdadeiras, visando, intencionalmente, induzi-lo a erro de avaliação.",
+    "alternativas": [
+      "Contraespionagem",
+      "Prevenção e Combate ao Terrorismo",
+      "Desinformação",
+      "Contra – ORCRIM",
+      "Contrapropaganda"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  }
+]
