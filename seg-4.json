@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "pergunta": "A Segurança das Instalações refere-se às medidas de proteção do entorno, das áreas comuns, do pessoal e do material existente na Organização, com o propósito de evitar a entrada de pessoas não autorizadas e a ocorrência de acidentes.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 2,
+    "pergunta": "São definidas por meio de convenções, em claro ou por códigos, informando às pessoas os diferentes graus de sensibilidade, sendo um primeiro elemento dissuasor.",
+    "alternativas": [
+      "Implantação de Barreiras",
+      "Demarcação de áreas",
+      "Controle de Acesso",
+      "Restrição de Pessoal",
+      "Limitação"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 3,
+    "pergunta": "Envolve o emprego de cercas, muros, vigias, sistemas de identificação e sistemas eletrônicos de travamento de portas ou cancelas.",
+    "alternativas": [
+      "Implantação de Barreiras",
+      "Demarcação de áreas",
+      "Controle de Acesso",
+      "Restrição de Pessoal",
+      "Limitação"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 4,
+    "pergunta": "Implementado por meio da utilização de crachás, cartões magnéticos e senhas que identifiquem positivamente o pessoal com acesso a determinada área.",
+    "alternativas": [
+      "Implantação de Barreiras",
+      "Demarcação de áreas",
+      "Controle de Acesso",
+      "Restrição de Pessoal",
+      "Limitação"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 6,
+    "pergunta": "Área que engloba o patrimônio integrado às OM ou Complexos Navais, onde o controle de acesso é rígido e exercido por autoridades militares.",
+    "alternativas": [
+      "Área militar terrestre",
+      "Área militar marítima",
+      "Área sob administração militar",
+      "Área demarcada",
+      "Área limitada"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 7,
+    "pergunta": "Área externa ao perímetro das OM, adjacente à área sob administração militar, onde a restrição ao público só ocorre se necessária à Segurança.",
+    "alternativas": [
+      "Área militar terrestre",
+      "Área militar marítima",
+      "Área sob administração militar",
+      "Área demarcada",
+      "Área limitada"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 8,
+    "pergunta": "Área em que é necessária a colocação de boias de demarcação a 200m do perímetro para alertar embarcações sobre a proximidade de uma área de segurança.",
+    "alternativas": [
+      "Área militar terrestre",
+      "Área militar marítima",
+      "Área sob administração militar",
+      "Área demarcada",
+      "Área limitada"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 9,
+    "pergunta": "Usadas para definir limites físicos, canalizando, restringindo ou impedindo o acesso de elementos adversos.",
+    "alternativas": [
+      "Demarcação",
+      "Barreiras de proteção",
+      "Portas",
+      "Paredes"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 10,
+    "pergunta": "As barreiras de proteção dividem-se em duas categorias: Naturais e Estruturais.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 11,
+    "pergunta": "Incluem elementos existentes no terreno como cursos d'água não vadeáveis, pântanos e montanhas.",
+    "alternativas": [
+      "Barreiras de proteção estruturais",
+      "Barreiras de proteção sensíveis",
+      "Barreiras de proteção de concreto",
+      "Barreiras de proteção Naturais"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 12,
+    "pergunta": "Utilizam elementos confeccionados pelo homem, como cercas, muros, grades e telhados.",
+    "alternativas": [
+      "Barreiras de proteção estruturais",
+      "Barreiras de proteção sensíveis",
+      "Barreiras de proteção de concreto",
+      "Barreiras de proteção Naturais"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 13,
+    "pergunta": "As barreiras de proteção contribuem para dissuadir elementos das forças adversas a realizar entradas não autorizadas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro** "
+  },
+  {
+    "id": 14,
+    "pergunta": "Quando as barreiras envolverem grandes áreas, deve ser planejada uma estrada para patrulhas motorizadas pelo perímetro externo.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (A estrada deve ser pelo perímetro interno) "
+  },
+  {
+    "id": 15,
+    "pergunta": "Os portões devem ser guarnecidos por militares da segurança, mantendo o controle do trânsito sem provocar atrasos desnecessários.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (O gabarito indica 'militares de segurança' como correção para a frase original) "
+  },
+  {
+    "id": 16,
+    "pergunta": "As janelas, portas e outras aberturas devem ser protegidas por grades ou telas metálicas para impedir a entrada de objetos ou pessoas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 17,
+    "pergunta": "A iluminação de segurança é um componente essencial, devendo ser instalada de forma a não deixar pontos cegos ou sombras que facilitem a ocultação de invasores.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 18,
+    "pergunta": "O sistema de alarme deve apenas detectar a intrusão, não sendo necessária a comunicação imediata ao centro de operações.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Deve avisar prontamente ao centro de controle ou força de reação)."
+  },
+  {
+    "id": 19,
+    "pergunta": "A proteção de áreas sensíveis deve ser feita por meio de camadas, onde o invasor encontra dificuldades crescentes à medida que se aproxima do objetivo.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 20,
+    "pergunta": "O controle de chaves e dispositivos de abertura é responsabilidade da Divisão de Serviço ou setor equivalente da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 21,
+    "pergunta": "Sobre o Plano de Segurança Orgânica (PSO), assinale a alternativa correta:",
+    "alternativas": [
+      "É um documento ostensivo de livre circulação.",
+      "Deve ser revisado apenas em caso de invasão confirmada.",
+      "É o documento que consolida todas as medidas de segurança da OM.",
+      "Não precisa prever ações contra incêndios."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 22,
+    "pergunta": "As inspeções de segurança servem para verificar a eficácia das medidas implantadas e identificar novas vulnerabilidades.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 23,
+    "pergunta": "O pessoal de serviço deve estar capacitado para operar sistemas de CFTV (Circuito Fechado de Televisão) quando houver.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 24,
+    "pergunta": "A identificação de veículos deve ser feita apenas por meio da placa, sem necessidade de adesivos ou cartões de identificação da MB.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Requer identificação própria e/ou autorização específica)."
+  },
+  {
+    "id": 25,
+    "pergunta": "Em situações de crise, o controle de acesso pode ser restringido apenas a pessoal essencial e previamente listado.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 26,
+    "pergunta": "Visitantes estrangeiros possuem as mesmas facilidades de acesso que militares da MB dentro das OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Seguem protocolos específicos de escolta e autorização)."
+  },
+  {
+    "id": 27,
+    "pergunta": "O uso de drones para vigilância do perímetro é uma medida de Segurança Orgânica que auxilia na detecção antecipada.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 28,
+    "pergunta": "As patrulhas móveis devem ter horários e itinerários fixos para facilitar o controle administrativo.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Devem ser aleatórios para evitar previsibilidade)."
+  },
+  {
+    "id": 29,
+    "pergunta": "A segurança das instalações visa proteger apenas contra invasores humanos, ignorando riscos como incêndios ou alagamentos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Visa a proteção contra ameaças de qualquer natureza)."
+  },
+  {
+    "id": 30,
+    "pergunta": "A sinalização de advertência (ex: 'Proibido entrar') deve ser visível e legível mesmo à distância.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 31,
+    "pergunta": "A limpeza do terreno no entorno das barreiras estruturais é importante para evitar que a vegetação sirva de esconderijo ou auxílio para escalada.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 32,
+    "pergunta": "A revista de volumes e mochilas no controle de acesso é uma medida discricionária do sentinela, podendo ser ignorada se o visitante parecer confiável.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Deve seguir as normas estabelecidas no PSO sem distinção)."
+  },
+  {
+    "id": 33,
+    "pergunta": "Diante de um agravamento no quadro de ameaças, além da inspeção interna do veículo, deve-se empregar espelhos de inspeção e cães farejadores.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 34,
+    "pergunta": "Nas áreas sensíveis das OM não é necessária a instalação de sistemas eletrônicos de travamento de portas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (Pode ser instalado, É recomendável o uso de sistemas eletrônicos nestas áreas)."
+  },
+  {
+    "id": 35,
+    "pergunta": "A redução do pessoal de serviço envolvido no controle de acesso contribui para aumentar a vulnerabilidade física desse pessoal.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** DIMINUIR"
+  },
+  {
+    "id": 36,
+    "pergunta": "Os servidores e funcionários de outras organizações ingressarão mediante a apresentação do cartão de identidade ou crachá de identificação.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 37,
+    "pergunta": "Visitantes civis que desejarem se comunicar pessoalmente com militares, ou funcionários de firmas que estão prestando serviços deverão dirigir-se a um militar Identificador na entrada e apresentarem sua identificação (documento público oficial com fotografia).",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 38,
+    "pergunta": "O visitado será o responsável pelo retorno do visitante à Sala de Estado, devendo acompanhá-lo ou providenciar um militar para fazê-lo.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 39,
+    "pergunta": "A permanência de visitantes ou civis prestadores de serviços no interior de OM, Complexos Navais ou outras instalações sob responsabilidade da MB deverá ser regulada pelo Imediato da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** ( Titular da OM)"
+  },
+  {
+    "id": 40,
+    "pergunta": "Para o caso de prestadores de serviços que devam durar mais de cinco dias, os setores atendidos deverão oficializar o serviço junto ao setor responsável pela Segurança Orgânica da OM/Complexo Naval, com antecedência mínima de dois dias úteis, fornecendo a relação nominal dos prestadores de serviços, com o número de identidade, fotografia 3x4, tipo, período e localização dos serviços a serem executados.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 41,
+    "pergunta": "O pessoal civil não lotado na OM (previamente cadastrado), tais como concessionários de cantina, empregados de agências bancárias, empresas de limpeza etc., deve ter suas atividades e comportamento permanentemente acompanhado pelo pessoal do setor de inteligência da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 42,
+    "pergunta": "Aos visitantes militares da ativa uniformizados e aos da reserva ou reformados, serão aplicadas as normas previstas para visitantes civis.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso** (à paisana)"
+  },
+  {
+    "id": 43,
+    "pergunta": "O controle de acesso dos veículos pode ser complementado com sua inspeção. A inspeção de veículos, bem como dos volumes neles transportados, visa coibir e inibir a retirada ou ingresso irregular, na área sob administração militar, de itens sensíveis, como armamento, munição, drogas e de bens materiais de propriedade da Marinha.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  },
+  {
+    "id": 44,
+    "pergunta": "Servidores que tenham seus veículos roubados ou furtados com o cartão da OM ou outros documentos devem comunicar imediatamente a OM onde servem, visando alertar para a possibilidade de utilização desses meios para uma tentativa de intrusão.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**"
+  }
+]
