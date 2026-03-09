@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "pergunta": "É a atividade que objetiva prevenir, detectar, obstruir e neutralizar a Inteligência adversa e as ações que constituam ameaça à salvaguarda de dados, Conhecimentos, pessoas, áreas e instalações de interesse da sociedade e do Estado. [cite: 45, 46]",
+    "pergunta": "É a atividade que objetiva prevenir, detectar, obstruir e neutralizar a Inteligência adversa e as ações que constituam ameaça à salvaguarda de dados, Conhecimentos, pessoas, áreas e instalações de interesse da sociedade e do Estado. ",
     "alternativas": [
       "Sabotagem ",
       "Ataque Cibernético ",
@@ -26,7 +26,7 @@
   },
   {
     "id": 3,
-    "pergunta": "É a ação que visa à obtenção de Conhecimentos ou dados sensíveis para beneficiar Estados, grupos de países, organizações, facções, grupos de interesse, empresas ou indivíduos. [cite: 50, 51]",
+    "pergunta": "É a ação que visa à obtenção de Conhecimentos ou dados sensíveis para beneficiar Estados, grupos de países, organizações, facções, grupos de interesse, empresas ou indivíduos. ",
     "alternativas": [
       "Sabotagem ",
       "Ataque Cibernético ",
@@ -39,7 +39,7 @@
   },
   {
     "id": 4,
-    "pergunta": "É a ação deliberada, com efeitos físicos, materiais ou psicológicos, que visa a destruir, danificar, comprometer ou inutilizar, total ou parcialmente, definitiva ou temporariamente, dados ou Conhecimentos; ferramentas; materiais; matérias-primas; equipamentos; cadeias produtivas; instalações ou sistemas logísticos, sobretudo aqueles necessários ao funcionamento da infraestrutura crítica do País, com o objetivo de suspender ou paralisar o trabalho ou a capacidade de satisfação das necessidades gerais, essenciais e impreteríveis do Estado ou da população. [cite: 52, 53]",
+    "pergunta": "É a ação deliberada, com efeitos físicos, materiais ou psicológicos, que visa a destruir, danificar, comprometer ou inutilizar, total ou parcialmente, definitiva ou temporariamente, dados ou Conhecimentos; ferramentas; materiais; matérias-primas; equipamentos; cadeias produtivas; instalações ou sistemas logísticos, sobretudo aqueles necessários ao funcionamento da infraestrutura crítica do País, com o objetivo de suspender ou paralisar o trabalho ou a capacidade de satisfação das necessidades gerais, essenciais e impreteríveis do Estado ou da população. ",
     "alternativas": [
       "Sabotagem ",
       "Ataque Cibernético ",
@@ -98,7 +98,7 @@
   },
   {
     "id": 9,
-    "pergunta": "É a técnica especializada utilizada para iludir ou confundir um centro decisor, por meio da manipulação planejada de informações falsas e/ou verdadeiras, visando, intencionalmente, induzi-lo a erro de avaliação, ou o fenômeno decorrente de acentuadas deficiências em exatidão, amplitude e/ou aprofundamento das informações disponíveis aos decisores e ao público em geral. A desinformação leva a uma percepção significativamente equivocada, incompleta ou distorcida da realidade e, por fim, promove decisões e comportamentos inadequados às circunstâncias. [cite: 58, 59]",
+    "pergunta": "É a técnica especializada utilizada para iludir ou confundir um centro decisor, por meio da manipulação planejada de informações falsas e/ou verdadeiras, visando, intencionalmente, induzi-lo a erro de avaliação, ou o fenômeno decorrente de acentuadas deficiências em exatidão, amplitude e/ou aprofundamento das informações disponíveis aos decisores e ao público em geral. A desinformação leva a uma percepção significativamente equivocada, incompleta ou distorcida da realidade e, por fim, promove decisões e comportamentos inadequados às circunstâncias. ",
     "alternativas": [
       "Espionagem ",
       "Desinformação ",
@@ -192,7 +192,7 @@
       "Material sigiloso"
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C** [cite: 68, 126]"
+    "comentario": "A opção correta é **C** "
   },
   {
     "id": 17,
@@ -205,7 +205,7 @@
       "Segurança de informação"
     ],
     "correta": 0,
-    "comentario": "A opção correta é **A** [cite: 69, 126]"
+    "comentario": "A opção correta é **A** "
   },
   {
     "id": 18,
@@ -218,7 +218,7 @@
       "Nomeação"
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B** [cite: 70, 126]"
+    "comentario": "A opção correta é **B** "
   },
   {
     "id": 19,
@@ -231,7 +231,7 @@
       "Confidencialidade"
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D** [cite: 71, 126]"
+    "comentario": "A opção correta é **D** "
   },
   {
     "id": 191,
@@ -244,7 +244,7 @@
       "Confidencialidade"
     ],
     "correta": 0,
-    "comentario": "A opção correta é **A** [cite: 72, 126]"
+    "comentario": "A opção correta é **A** "
   },
   {
     "id": 20,
@@ -254,7 +254,7 @@
       "Falso"
     ],
     "correta": 1,
-    "comentario": "A opção correta é **Falso** (O comprometimento pode advir...) [cite: 73, 74, 126]"
+    "comentario": "A opção correta é **Falso** (O comprometimento pode advir...) "
   },
   {
     "id": 21,
@@ -267,7 +267,7 @@
       "Credencial de Segurança"
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D** [cite: 75, 127]"
+    "comentario": "A opção correta é **D** "
   },
   {
     "id": 22,
@@ -280,7 +280,7 @@
       "Credencial de Segurança"
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C** [cite: 76, 127]"
+    "comentario": "A opção correta é **C** "
   },
   {
     "id": 23,
@@ -306,7 +306,7 @@
       "Credencial de Segurança"
     ],
     "correta": 4,
-    "comentario": "A opção correta é **E** [cite: 77, 127]"
+    "comentario": "A opção correta é **E** "
   },
   {
     "id": 25,
@@ -319,7 +319,7 @@
       "Credencial de Segurança"
     ],
     "correta": 0,
-    "comentario": "A opção correta é **A** [cite: 78, 127]"
+    "comentario": "A opção correta é **A** "
   },
   {
     "id": 26,
@@ -332,7 +332,7 @@
       "Credencial de Segurança"
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B** [cite: 79, 127]"
+    "comentario": "A opção correta é **B** "
   },
   {
     "id": 27,
@@ -345,11 +345,11 @@
       "Credencial de Segurança"
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C** [cite: 80, 127]"
+    "comentario": "A opção correta é **C** "
   },
   {
     "id": 28,
-    "pergunta": "Técnica por meio da qual uma pessoa procura persuadir outra a executar determinadas ações. No contexto da Contrainteligência, é considerada uma prática adversa, usada para explorar a boa intenção ou abusar da ingenuidade e da confiança de outras pessoas.",
+    "pergunta": "Técnica por meio da qual uma pessoa procura persuadir outra a executar determinadas ações. No contexto da Contrainteligência, é considerada uma prática adversa, usada por indivíduos para tentar explorar a boa intenção ou abusar da ingenuidade e da confiança de outras pessoas, a fim de aplicar golpes, ludibriar ou obter informações sigilosas e importantes.",
     "alternativas": [
       "Informação Sigilosa",
       "Integridade",
@@ -358,7 +358,7 @@
       "Engenharia de Segurança"
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D** [cite: 81, 82, 127]"
+    "comentario": "A opção correta é **D** "
   },
   {
     "id": 29,
@@ -371,7 +371,7 @@
       "Informação Classificada"
     ],
     "correta": 4,
-    "comentario": "A opção correta é **E** [cite: 83, 127]"
+    "comentario": "A opção correta é **E** "
   },
   {
     "id": 30,
@@ -384,7 +384,7 @@
       "Informação Sigilosa"
     ],
     "correta": 4,
-    "comentario": "A opção correta é **E** [cite: 84, 127]"
+    "comentario": "A opção correta é **E** "
   },
   {
     "id": 31,
@@ -440,7 +440,7 @@
     "pergunta": "É o documento sem restrição de conhecimento e de divulgação, no âmbito interno.",
     "alternativas": [
       "Sigiloso",
-      "Aberta",
+      "Aberto",
       "Ostensivo",
       "Reservado",
       "Administrativo"
@@ -486,6 +486,19 @@
     ],
     "correta": 3,
     "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 39,
+    "pergunta": "Restrição de acesso público a determinados conteúdos, em razão da imprescindibilidade dessa restrição à segurança da sociedade e do Estado. Quanto ao Grau de Sigilo, é a gradação, em face da proteção atribuída a dados, Conhecimentos, áreas ou instalações consideradas sigilosas em decorrência de sua natureza ou conteúdo.",
+    "alternativas": [
+      "Restrição pública",
+      "Integridade",
+      "Segurança",
+      "Sigilo",
+      "Habilitação de Segurança"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
   },
   {
     "id": 40,
@@ -539,7 +552,7 @@
     "alternativas": [
       "Resultantes de fenômenos naturais",
       "Resultantes de acidentes",
-      "Involuntárias, resultantes de imprudência ou negligência",
+      "Involuntárias, geralmente resultantes de ação humana, como a imprudência, negligência, imperícia, falha no uso de equipamentos de proteção etc",
       "Voluntárias, onde o agente atua com deliberada intenção de produzir dano",
       "Todas as opções acima estão corretas como causas de comprometimento"
     ],
@@ -548,7 +561,7 @@
   },
   {
     "id": 45,
-    "pergunta": "É o segmento que preconiza a adoção de um conjunto de medidas destinadas a prevenir e obstruir ameaças, de qualquer natureza, dirigidas a pessoas, dados, conhecimentos, materiais, áreas e instalações.",
+    "pergunta": "É o segmento que preconiza a adoção de um conjunto de medidas destinadas a prevenir e obstruir ameaças, de qualquer natureza, dirigidas a pessoas, dados, Conhecimentos, materiais, áreas e instalações do órgão.",
     "alternativas": [
       "Segurança do Pessoal",
       "Segurança Orgânica",
@@ -567,7 +580,7 @@
       "Falso"
     ],
     "correta": 0,
-    "comentario": "A opção correta é **Verdadeiro** [cite: 508, 509]"
+    "comentario": "A opção correta é **Verdadeiro** "
   },
   {
     "id": 47,
@@ -587,7 +600,7 @@
       "Falso"
     ],
     "correta": 1,
-    "comentario": "A opção correta é **Falso** (O termo correto é Segurança Cibernética (SegCiber) em vez de Segurança de Dados) [cite: 511, 512, 529]"
+    "comentario": "A opção correta é **Falso** (O termo correto é Segurança Cibernética (SegCiber) em vez de Segurança de Dados) "
   },
   {
     "id": 49,
@@ -636,11 +649,11 @@
       "Falso"
     ],
     "correta": 0,
-    "comentario": "A opção correta é **Verdadeiro** [cite: 516, 517]"
+    "comentario": "A opção correta é **Verdadeiro** "
   },
   {
     "id": 53,
-    "pergunta": "Conjunto de medidas voltado para la salvaguarda de conhecimentos e dados sigilosos durante as ações de transmissão e recepção.",
+    "pergunta": "Conjunto de medidas voltado para a salvaguarda de conhecimentos e dados sigilosos durante as ações de transmissão e recepção.",
     "alternativas": [
       "Segurança do Pessoal",
       "Segurança das Comunicações",
@@ -662,7 +675,7 @@
       "Segurança da Documentação"
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D** [cite: 519, 520, 531]"
+    "comentario": "A opção correta é **D** "
   },
   {
     "id": 55,
@@ -698,7 +711,7 @@
       "Contra-Simar"
     ],
     "correta": 4,
-    "comentario": "A opção correta é **E** (Os 7 grupos são: Contraespionagem, Prevenção e Combate ao Terrorismo, Contrassabotagem, Contrapropaganda, Desinformação, Contra-ORCRIM e Contrainteligência Cibernética) [cite: 531, 532]"
+    "comentario": "A opção correta é **E** (Os 7 grupos são: Contraespionagem, Prevenção e Combate ao Terrorismo, Contrassabotagem, Contrapropaganda, Desinformação, Contra-ORCRIM e Contrainteligência Cibernética) "
   },
   {
     "id": 58,

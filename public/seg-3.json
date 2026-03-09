@@ -7,11 +7,11 @@
       "Falso"
     ],
     "correta": 0,
-    "comentario": "A opção correta é **Verdadeiro** "
+    "comentario": "A opção correta é **Falso** (pequenos prejuízos -> Grandes prejuízos)"
   },
   {
     "id": 2,
-    "pergunta": "Qual atributo define que o agente deve possuir bom estado de saúde e preparo físico para desempenhar as atividades de guarda e manter a atenção ao serviço?",
+    "pergunta": "O agente deve possuir bom estado de saúde e preparo físico, a fim de desempenhar todas as atividades necessárias à guarda da instalação e das pessoas que ela ocupam, mantendo sempre muita atenção ao serviço.",
     "alternativas": [
       "Honestidade",
       "Resistência à fadiga",
@@ -24,7 +24,7 @@
   },
   {
     "id": 3,
-    "pergunta": "Qual atributo refere-se ao fato de que, dependendo da importância do bem protegido, o pessoal de segurança pode ser visado e tentado a ser corrompido por elementos adversos?",
+    "pergunta": "De acordo com a importância da instalação ou do bem a ser protegido, o pessoal da segurança pode se tornar um elemento visado e tentado a ser corrompido, a fim de permitir a facilitação para uma aproximação em relação aos propósitos do elemento adverso.",
     "alternativas": [
       "Honestidade",
       "Resistência à fadiga",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "pergunta": "Atributo que orienta que o pessoal de segurança deve ser o mais discreto possível para não aumentar a antipatia peculiar à atividade e evitar ficar em evidência.",
+    "pergunta": "Preferencialmente, devido à natureza da atividade, o pessoal da segurança deve ser o mais discreto possível nas suas atitudes para não aumentar a antipatia que é peculiar à atividade. Deverá ainda ter como preocupação constante não ficar em muita evidência.",
     "alternativas": [
       "Honestidade",
       "Resistência à fadiga",
@@ -50,7 +50,7 @@
   },
   {
     "id": 5,
-    "pergunta": "Atributo que indica que o pessoal deve estar ciente de que poderá enfrentar situações críticas que coloquem em risco sua própria vida.",
+    "pergunta": "Dependendo da situação do país e da importância da instalação confiada, o pessoal da segurança deve estar ciente de que poderá enfrentar as mais diversas situações críticas, podendo por em risco sua própria vida.",
     "alternativas": [
       "Honestidade",
       "Resistência à fadiga",
@@ -63,7 +63,7 @@
   },
   {
     "id": 6,
-    "pergunta": "Refere-se ao controle emocional frente aos problemas que o agente possa vir a enfrentar no desempenho da segurança.",
+    "pergunta": "É o controle emocional frente aos problemas que possa vir a enfrentar no desempenho da segurança.",
     "alternativas": [
       "Honestidade",
       "Resistência à fadiga",
@@ -86,7 +86,7 @@
   },
   {
     "id": 8,
-    "pergunta": "Fundamental para o contato direto com militares, funcionários e público, garantindo tratamento cortês e educado sem perder a firmeza ou energia no serviço.",
+    "pergunta": "Considerando que o pessoal estará em contato direto com militares de diversos níveis hierárquicos e funcionários de distintos cargos, com visitantes e o público em geral que se dirige aos portões de acesso para identificação ou obter informações, torna-se fundamental um tratamento cortês e educado, o que não se traduz, de forma alguma, por falta de firmeza ou energia durante o desempenho do serviço.",
     "alternativas": [
       "Honestidade",
       "Resistência à fadiga",
@@ -112,7 +112,7 @@
   },
   {
     "id": 10,
-    "pergunta": "O pessoal da segurança deve estar apto a imobilizar e desarmar elementos que estejam dando alteração na OM ou tentando se infiltrar.",
+    "pergunta": "O pessoal da segurança deve estar apto a imobilizar e desarmar elementos que estejam dando alteração na OM ou indivíduos que estejam tentando se infiltrar na instalação.",
     "alternativas": [
       "Preparo Físico",
       "Manuseio de armas",
@@ -125,7 +125,7 @@
   },
   {
     "id": 11,
-    "pergunta": "Durante a execução do serviço, é permitido ao militar comer, beber, conversar ou fumar nos locais de serviço, sendo também permitida a presença de celulares e revistas.",
+    "pergunta": "Durante a execução do serviço o militar é permitido comer, beber, conversar ou fumar. As refeições e o fumo poderão ser feitos no horários e locais de serviço. É permitida a presença de celulares, rádios, equipamentos de som, revistas ou livros.",
     "alternativas": [
       "Verdadeiro",
       "Falso"
@@ -135,7 +135,7 @@
   },
   {
     "id": 12,
-    "pergunta": "O militar de serviço deve ter conhecimento sobre as condições de emprego de seu armamento - se está alimentado e travado - e sobre as senhas e contra-senhas em vigor.",
+    "pergunta": "O militar de serviço deve ter conhecimento sobre as condições de emprego de seu armamento - se está alimentado e travado - e sobre as senhas e contras senhas em vigor.",
     "alternativas": [
       "Verdadeiro",
       "Falso"
@@ -145,7 +145,7 @@
   },
   {
     "id": 13,
-    "pergunta": "As militares do sexo feminino deverão, quando de efetivo serviço voltado à segurança de áreas e instalações, trajar calças compridas.",
+    "pergunta": "Usar uniformes ou trajes adequados ao local e tipo de missão, devendo ser o mais discreto possível, e nunca se descuidar da apresentação pessoal (cabelo, barba, asseio corporal, apuro no traje). Os militares do sexo feminino deverão, quando de efetivo serviço voltado à segurança de áreas e instalações, trajar calças compridas.",
     "alternativas": [
       "Verdadeiro",
       "Falso"
@@ -155,27 +155,27 @@
   },
   {
     "id": 14,
-    "pergunta": "Ser pontual e conhecer a missão é essencial, pois a mínima dúvida pode gerar grande prejuízo ao Serviço de Segurança e comprometer a incolumidade da autoridade.",
+    "pergunta": "Ser pontual e conhecer a missão e sempre tirar dúvidas, por menores que sejam, do que deverá ser feito. A mínima dúvida pode gerar grande prejuízo ao Serviço de Segurança, comprometendo, inclusive, a incolumidade da autoridade.",
     "alternativas": [
       "Verdadeiro",
       "Falso"
     ],
     "correta": 0,
-    "comentario": "A opção correta é **Verdadeiro** "
+    "comentario": "A opção correta é **Falso** (sempre tirar dúvidas -> NUNCA TER DÚVIDAS)"
   },
   {
     "id": 15,
-    "pergunta": "Uma das formas dos integrantes da segurança cumprirem suas tarefas é estimulando quaisquer elementos adversos de realizar qualquer ato ofensivo contra a instalação.",
+    "pergunta": "Uma das formas dos integrantes da segurança cumprirem suas tarefas é estimulando quaisquer elementos adversos de realizar qualquer ato ofensivo contra a instalação ou as pessoas que devem ser protegidas.",
     "alternativas": [
       "Verdadeiro",
       "Falso"
     ],
     "correta": 1,
-    "comentario": "A opção correta é **Falso** (A tarefa é demover ou impedir, não estimular) "
+    "comentario": "A opção correta é **Falso** (Desestimulando) "
   },
   {
     "id": 16,
-    "pergunta": "Estar familiarizado com as normas contidas no Plano de Segurança Orgânica (PSO) e Ordens Internas é um dever do pessoal de segurança.",
+    "pergunta": "Estar familiarizado com as normas contidas no Plano de Segurança Orgânica (PSO) e Ordens Internas.",
     "alternativas": [
       "Verdadeiro",
       "Falso"
@@ -185,7 +185,7 @@
   },
   {
     "id": 17,
-    "pergunta": "A Divisão de Serviço é a encarregada de operacionalizar as medidas de Segurança Orgânica e é o mais importante elo do PSO.",
+    "pergunta": "A Divisão de Serviço é a encarregada de operacionalizar as medidas de Segurança Orgânica e, portanto, o mais importante elo do PSO e dela dependerá o sucesso ou fracasso na contenção de ações adversas.",
     "alternativas": [
       "Verdadeiro",
       "Falso"
@@ -207,7 +207,7 @@
   },
   {
     "id": 19,
-    "pergunta": "A Autodisciplina envolve diversos procedimentos preventivos. Assinale a opção que NÃO faz parte desses procedimentos:",
+    "pergunta": "A Autodisciplina é desenvolvida tanto na atividade profissional como na vida particular, procurando observar os seguintes procedimentos, EXCETO:",
     "alternativas": [
       "Evitar falar de sua atividade profissional com quem quer que seja",
       "Manter o procedimento característico de sua vida, mesmo em atividades de risco",
@@ -216,11 +216,11 @@
       "Desconhecer números de telefones de emergência"
     ],
     "correta": 4,
-    "comentario": "A opção correta é **E** (Deve-se conhecer os números de emergência) "
+    "comentario": "A opção correta é **E** (São 7 procedimentos no total )"
   },
   {
     "id": 20,
-    "pergunta": "É o sigilo com que o elemento deve manter suas funções e seu local de trabalho, não revelando o tipo de atividade que desenvolve ou sua rotina na OM.",
+    "pergunta": "É o sigilo com que o elemento deve manter suas funções e seu local de trabalho, não revelando ou deixando transparecer o tipo de atividade que desenvolve ou prestando informações relativas à sua rotina na OM.",
     "alternativas": [
       "Comprometimento",
       "Discrição",
@@ -233,7 +233,7 @@
   },
   {
     "id": 21,
-    "pergunta": "Constitui-se na necessidade de não revelar assuntos e atividades a pessoas sem 'necessidade de conhecer', evitando também inteirar-se de assuntos fora de sua responsabilidade.",
+    "pergunta": "Constitui-se tanto em uma necessidade individual para o trato com matéria sigilosa, onde os militares envolvidos na segurança, não devem revelar a uma pessoa, sem “necessidade de conhecer”, os assuntos e atividades com que trabalha bem como evitar inteirar-se de assuntos que não estejam sob sua responsabilidade.",
     "alternativas": [
       "Comprometimento",
       "Discrição",
@@ -242,11 +242,11 @@
       "Fator humano"
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D** "
+    "comentario": "A opção correta é **D**"
   },
   {
     "id": 22,
-    "pergunta": "O fator humano é considerado o elo mais forte da corrente de segurança, pois o homem é imprevisível mas sempre segue as normas.",
+    "pergunta": "De um modo geral as pessoas são importantes fontes de dados, não sendo recomendado descartar, de imediato, dados que possam afetar a atividade de segurança ainda que a hipótese de uma ameaça se concretizar possa parecer remota.",
     "alternativas": [
       "Verdadeiro",
       "Falso"
@@ -275,6 +275,6 @@
       "Falta de Reação coordenada das Guardas"
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C** "
+    "comentario": "A opção correta é **C** (São 7 FALHAS de procedimento do pessoal)"
   }
 ]
