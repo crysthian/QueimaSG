@@ -1,0 +1,826 @@
+[
+  {
+    "id": 1,
+    "pergunta": "De acordo com o guia de estudo, são manifestações essenciais do valor militar:",
+    "alternativas": [
+      "O civismo e o culto das tradições históricas.",
+      "O espírito de corpo, orgulho do militar pela marinha.",
+      "O amor à profissão das armas e o patriotismo com que é exercida.",
+      "O aprimoramento técnico motivacional.",
+      "A fé na missão sustentada das forças armadas."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 2,
+    "pergunta": "Segundo Mário Alencastro, um conjunto de normas de conduta que devem ser propostas e executadas durante o exercício profissional denomina-se:",
+    "alternativas": [
+      "Comportamento social.",
+      "Regras de conduta.",
+      "Conduta profissional.",
+      "Ética profissional.",
+      "Convívio social."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 3,
+    "pergunta": "O emprego das forças armadas na defesa da pátria, na garantia dos poderes constitucionais, da lei e da ordem, e na participação em operações de paz é de responsabilidade do:",
+    "alternativas": [
+      "Presidente do Senado Federal.",
+      "Presidente da República.",
+      "Presidente do Supremo Tribunal Federal.",
+      "Ministro de Estado da Defesa.",
+      "Presidente do Superior Tribunal de Justiça."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 4,
+    "pergunta": "Das opções abaixo assinale a que corresponde a um dos artigos constantes da declaração dos Direitos Humanos.",
+    "alternativas": [
+      "Todos os seres humanos nascem iguais em lealdade.",
+      "Ninguém será mantido em escravidão e será submetido a tortura.",
+      "Ninguém será arbitrariamente preso, detido ou exilado.",
+      "Todo ser humano tem direito a vida, liberdade e à segurança armada.",
+      "Todo ser humano tem igual direito de acesso ao serviço burocrático do seu país."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 5,
+    "pergunta": "Os direitos Individuais estão expressos na constituição da República Federativa do Brasil, no seu artigo quinto, assinale abaixo um desses direitos.",
+    "alternativas": [
+      "Ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude da lei.",
+      "É inviolável o sigilo da correspondência e das comunicações exteriores de dados.",
+      "A casa é asilo inviolável do indivíduo, apenas os vizinhos podem entrar sem consentimento do morador.",
+      "É plena a liberdade de associação para fins lícitos inclusive a de caráter paramilitar.",
+      "A lei excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 6,
+    "pergunta": "É a ciência que estuda os códigos de ética profissional ou tratados que definem os princípios éticos que regem a conduta de observância obrigatória, no exercício da profissão.",
+    "alternativas": [
+      "Civismo.",
+      "Patriotismo.",
+      "Sacrificio.",
+      "Ética Profissional Militar.",
+      "Deontologia."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 7,
+    "pergunta": "A constituição de 1988, no capítulo dedicado a tratar das forças armadas, especificamente estabelece em seu art. 142, estabelece que elas são constituídas pela Marinha, pelo Exército e pela Aeronáutica, classificando-os como:",
+    "alternativas": [
+      "Instituições nacionais regulares.",
+      "Instituições independentes e permanentes.",
+      "Instituições subordinadas e regulares.",
+      "Instituições nacionais, permanentes e regulares.",
+      "Instituições de caráter regulamentar."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 8,
+    "pergunta": "Assinale nas opções abaixo um dos crimes resultantes de preconceito de raça ou de cor (lei n°7.716/1989) e Injúria Racial (art.140,$ 3° do código penal)",
+    "alternativas": [
+      "Permitir atos discriminatórios.",
+      "Compactuar com atos de terrorismo.",
+      "Impedir ou vender subsídios para o ingresso nas forças armadas.",
+      "Praticar ou subsidiar atos restritivos e discriminatórios.",
+      "Impedir acesso a cargo da administração pública ou suas concessionárias."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 9,
+    "pergunta": "Para o crime de preconceito de raça ou de cor, as penas variam de acordo com o ato praticado e possuem agravantes tais como:",
+    "alternativas": [
+      "Se o crime foi praticado contra um maior de 18 anos.",
+      "Se o crime foi praticado por funcionário público.",
+      "Se o crime foi praticado no local de trabalho.",
+      "Se o crime foi praticado contra transexual.",
+      "Se o crime foi praticado na residência da vítima."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 10,
+    "pergunta": "O art. 140 § 3° do código penal estabelece o crime resultante de injúria racial como injuriar alguém, ofendendo-lhe a dignidade ou o decoro, tem como pena:",
+    "alternativas": [
+      "Reclusão, de um a três anos, e multa.",
+      "Reclusão, de dois a cinco anos, e multa.",
+      "Detenção, de um a seis meses, ou multa.",
+      "Detenção, de seis meses a um ano, e multa.",
+      "Apenas multa."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A Lei 14.532/2023 alterou a pena para reclusão, de dois a cinco anos, e multa."
+  },
+  {
+    "id": 11,
+    "pergunta": "De acordo com a legislação vigente o crime de tortura consiste em constranger alguém com o emprego de violência causando-lhe:",
+    "alternativas": [
+      "Sofrimento financeiro e mental.",
+      "Sofrimento mental e familiar.",
+      "Sofrimento material e financeiro.",
+      "Sofrimento físico ou mental.",
+      "Sofrimento mental e discriminatório."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 12,
+    "pergunta": "Das opções abaixo assinale a que corresponde a um agravante do crime de tortura.",
+    "alternativas": [
+      "Se o crime foi praticado por menor de idade.",
+      "Se o crime foi cometido mediante ameaça de familiares.",
+      "Se o crime é cometido por agente público.",
+      "Se o crime é cometido com o uso de arma de fogo.",
+      "Se o crime foi premeditado pelo agressor."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 13,
+    "pergunta": "Qual o nome do tratado celebrado pelos integrantes a Organização de Estados Americanos (OEA), em 22 de novembro de 1969 e tendo entrado em vigor a 18 de Julho de 1978?",
+    "alternativas": [
+      "Pacto de São Domingo e Costa rica.",
+      "Tratado de San Remo.",
+      "Tratado de San Martin e Costa Rica.",
+      "Acordo de São José e Tenerife.",
+      "Pacto de São José da Costa Rica."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 14,
+    "pergunta": "Associe os princípios do DICA (coluna 1) com suas respectivas definições (coluna 2) e assinale a alternativa que apresenta a sequência correta de cima para baixo. \n \n Coluna 1: (1) Distinção, \n (2) Humanidade, \n (3) Limitação, \n (4) Necessidade Militar. \n \n Coluna 2: ( ) proíbe que se provoque sofrimento ás pessoas e destruição de propriedades se tais atos não forem necessários para obrigar o inimigo a se render. \n ( ) O direito das partes beligerantes na escolha dos meios para causar danos ao inimigo não é limitado, sendo imperiosa a exclusão de meios e métodos que levem ao sofrimento desnecessário ou danos extensos e supérfluos. \n ( ) Distinguir os combatentes e não combatentes. Os não combatentes são protegidos contra os ataques. \n ( ) Em todo conflito armado, o uso da força devecorresponder á vantagem militar que se pretende obter.",
+    "alternativas": [
+      "2, 3, 1, 4",
+      "1, 2, 3, 4",
+      "4, 3, 2, 1",
+      "3, 4, 1, 2",
+      "2, 1, 4, 3"
+    ],
+    "correta": 0,
+    "comentario": "A sequência correta é: (2) Humanidade, (3) Limitação, (1) Distinção, (4) Necessidade Militar."
+  },
+  {
+    "id": 15,
+    "pergunta": "A I convenção de Genebra protege os soldados feridos e enfermos durante a guerra marítima.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso**. A I Convenção de Genebra protege os feridos e enfermos em campanha (guerra terrestre)."
+  },
+  {
+    "id": 16,
+    "pergunta": "A II convenção de Genebra aplica-se especificamente aos prisioneiros de guerra.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **Falso**. A II Convenção de Genebra protege os militares feridos, enfermos e náufragos durante a guerra marítima."
+  },
+  {
+    "id": 17,
+    "pergunta": "A IV convenção de Genebra estabelece a proteção aos civis, inclusive em território ocupado.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **Verdadeiro**."
+  },
+  {
+    "id": 18,
+    "pergunta": "É o conjunto de regras ou padrões que levam o militar a agir de acordo com o sentimento do dever, a honra pessoal, o pundonor militar e o decoro da classe, impondo a cada militar conduta moral irrepreensível. Qual é este conceito?",
+    "alternativas": [
+      "Ética Profissional",
+      "Deontologia",
+      "Ética Militar",
+      "Civismo",
+      "Patriotismo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 19,
+    "pergunta": "É um conjunto de hábitos e comportamentos morais que visam o bem comum do homem em sociedade. Qual é este conceito?",
+    "alternativas": [
+      "Moral",
+      "Ética",
+      "Deontologia",
+      "Ética Profissional",
+      "Conduta Social"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 20,
+    "pergunta": "É o conjunto de normas de conduta que devem ser propostas e executadas durante o exercício profissional. Qual é este Conceito?",
+    "alternativas": [
+      "Ética",
+      "Moral",
+      "Deontologia",
+      "Ética Profissional",
+      "Código de Conduta"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 21,
+    "pergunta": "É a Ciência que estuda os códigos de ética profissional ou tratados que definem os princípios éticos que regem a conduta, de observância obrigatória, no exercício da profissão. Qual é este Conceito?",
+    "alternativas": [
+      "Ética",
+      "Moral",
+      "Deontologia",
+      "Ética Profissional",
+      "Axiologia"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 22,
+    "pergunta": "É um processo cognitivo que envolve a análise e a escolha de uma alternativa dentre algumas opções de conduta e desenvolver habilidades. Qual é este conceito?",
+    "alternativas": [
+      "Raciocínio Lógico",
+      "Tomada de decisão",
+      "Análise de Risco",
+      "Planejamento Estratégico",
+      "Julgamento Crítico"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual a missão Constitucional das FFAA?",
+    "alternativas": [
+      "Apenas a defesa da Pátria.",
+      "Apenas a garantia da lei e da ordem.",
+      "A defesa da Pátria, a garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.",
+      "A participação em operações de paz e a segurança interna.",
+      "A fiscalização das fronteiras e o combate ao narcotráfico."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual das opções abaixo representa uma das manifestações essenciais do Valor Militar?",
+    "alternativas": [
+      "A disciplina e a hierarquia.",
+      "O civismo e o culto das tradições históricas.",
+      "A coragem e a lealdade.",
+      "O patriotismo e o amor à profissão.",
+      "A probidade e a honestidade."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 25,
+    "pergunta": "De acordo com as normas gerais para organização, preparo e emprego das Forças Armadas, uma de suas atribuições é atuar, por meio de ações preventivas e repressivas, contra delitos transfronteiriços e ambientais. Quais são as ações listadas para essa atuação?",
+    "alternativas": [
+      "Patrulhamento, revista de pessoas, de veículos terrestres, de embarcações e de aeronaves e prisões em flagrante delito.",
+      "Apenas patrulhamento e revista de veículos.",
+      "Apenas prisões em flagrante e controle de tráfego aéreo.",
+      "Patrulhamento, investigação e emissão de multas.",
+      "Revista de embarcações, controle aduaneiro e policiamento ostensivo."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual das opções abaixo contém dois princípios presentes na Declaração Universal dos Direitos Humanos?",
+    "alternativas": [
+      "Direito ao trabalho e à propriedade privada ilimitada.",
+      "Todos nascem livres e iguais em dignidade e direitos; e direito à vida, à liberdade e à segurança pessoal.",
+      "Direito de portar armas e liberdade de expressão irrestrita.",
+      "Ninguém será submetido à tortura e direito a um julgamento parcial.",
+      "Direito à educação gratuita e dever de obedecer ao Estado incondicionalmente."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 27,
+    "pergunta": "Qual protocolo adicional às convenções de Genebra trata da proteção das vítimas dos conflitos armados não-internacionais?",
+    "alternativas": [
+      "Protocolo I",
+      "Protocolo II",
+      "Protocolo III",
+      "Protocolo IV",
+      "Protocolo V"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 28,
+    "pergunta": "Como é chamado o conjunto de normas originadas na ONU que abarcam aspectos de Haia e Genebra de forma complementar, aplicável a conflitos armados?",
+    "alternativas": [
+      "Direito de Haia",
+      "Direito de Genebra",
+      "Direito de Nova York (ou Direito Misto)",
+      "Direito de Roma",
+      "Direito de Paris"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que acontece com navios que tentam violar um bloqueio, segundo o Manual de San Remo?",
+    "alternativas": [
+      "São sempre afundados imediatamente.",
+      "São escoltados para o porto neutro mais próximo.",
+      "Podem ser tomados como presas ou atacados se resistirem.",
+      "Recebem um aviso e são autorizados a prosseguir.",
+      "Sua carga é confiscada, mas o navio é liberado."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 30,
+    "pergunta": "Ações e/ou omissões proibidas pelas normas do DICA são consideradas:",
+    "alternativas": [
+      "Atos de heroísmo",
+      "Crimes de Guerra",
+      "Estratégias militares",
+      "Infrações disciplinares",
+      "Atos de sabotagem"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 31,
+    "pergunta": "A qual princípio do DICA se refere a definição: 'Meios para causar danos ao inimigos não são ilimitados. Imperiosa a exclusão de meios e métodos, que levem ao sofrimento desnecessário e a danos supérfluos.'?",
+    "alternativas": [
+      "Humanidade",
+      "Distinção",
+      "Proporcionalidade",
+      "Limitação",
+      "Necessidade Militar"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 32,
+    "pergunta": "A qual princípio do DICA se refere a definição: 'Proíbe que se provoque sofrimento às pessoas e destruição de propriedades, se tais atos não forem necessários para obrigar o inimigo a se render.'?",
+    "alternativas": [
+      "Humanidade",
+      "Distinção",
+      "Proporcionalidade",
+      "Limitação",
+      "Necessidade Militar"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 33,
+    "pergunta": "A qual princípio do DICA se refere a definição: 'Em todo conflito armado, o uso da força deve corresponder à vantagem militar que se pretende obter. Elas não justificam condutas desumanas, tampouco atividades que sejam proibidas pelo DICA.'?",
+    "alternativas": [
+      "Humanidade",
+      "Distinção",
+      "Proporcionalidade",
+      "Limitação",
+      "Necessidade Militar"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 34,
+    "pergunta": "Qual das opções abaixo descreve um ato considerado crime de genocídio?",
+    "alternativas": [
+      "Homicídio doloso em combate.",
+      "Impor medidas para evitar nascimentos dentro de um grupo específico.",
+      "Tomar reféns civis.",
+      "Destruir propriedade inimiga.",
+      "Usar uniformes inimigos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 35,
+    "pergunta": "Qual protocolo adicional às convenções de Genebra trata da proteção das vítimas dos conflitos armados internacionais?",
+    "alternativas": [
+      "Protocolo I",
+      "Protocolo II",
+      "Protocolo III",
+      "Protocolo IV",
+      "Protocolo V"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 36,
+    "pergunta": "Qual das opções abaixo é considerada um Crime de Guerra?",
+    "alternativas": [
+      "Deserção em tempo de paz.",
+      "Emprego de armas tóxicas.",
+      "Insulto a superior.",
+      "Descumprimento de ordem legal.",
+      "Perda de material da fazenda nacional."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 37,
+    "pergunta": "Qual das opções abaixo é considerada um Crime Contra a Humanidade?",
+    "alternativas": [
+      "O extermínio.",
+      "A espionagem.",
+      "A sabotagem de instalações militares.",
+      "A recusa em combater.",
+      "A propaganda de guerra."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 38,
+    "pergunta": "Qual direito estabelece os direitos e deveres dos beligerantes durante a condução de operações militares, impondo limitações aos meios utilizados para provocar danos aos inimigos?",
+    "alternativas": [
+      "Direito de Genebra",
+      "Direito de Haia",
+      "Direito de Nova York",
+      "Direito de Roma",
+      "Direito do Mar"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 39,
+    "pergunta": "O que significa a 'Passagem Inocente' estabelecida pela Convenção das Nações Unidas sobre o Direito do Mar (CNDUM)?",
+    "alternativas": [
+      "Navegação livre, estabelecido pela OMI.",
+      "Direito de passagem, estabelecido pelo Tratado de Tordesilhas.",
+      "Atravessar o mar territorial de um Estado de forma contínua e rápida, sem prejudicar a paz, a boa ordem ou a segurança do Estado costeiro.",
+      "Trânsito irrestrito, estabelecido pelo Pacto de Varsóvia.",
+      "Passagem em trânsito, estabelecido pelo Direito de Haia."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 40,
+    "pergunta": "Como são chamadas as áreas marítimas notificadas internacionalmente pelas partes beligerantes para conter a área geográfica do conflito?",
+    "alternativas": [
+      "Zonas de guerra naval",
+      "Águas territoriais",
+      "Zonas de exclusão",
+      "Corredores humanitários",
+      "Zonas de livre navegação"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 41,
+    "pergunta": "Atentados contra bens jurídicos individuais fundamentais, tais como a vida, integridade física, saúde e liberdade, quando cometidos como parte de um ataque generalizado ou sistemático contra qualquer população civil, são considerados:",
+    "alternativas": [
+      "Crime de Guerra",
+      "Crime de Genocídio",
+      "Crime Comum",
+      "Crime Contra a Humanidade",
+      "Crime de Agressão"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 42,
+    "pergunta": "Quais áreas são consideradas Zonas de Guerra Naval?",
+    "alternativas": [
+      "Apenas o alto mar.",
+      "As águas interiores, águas territoriais, ZEE e plataforma continental dos Estados beligerantes; o alto mar; e a ZEE e a plataforma continental dos Estados neutros.",
+      "Apenas as águas territoriais dos Estados em conflito.",
+      "Apenas a Zona Econômica Exclusiva (ZEE) de todos os países.",
+      "Qualquer área marítima designada pela ONU."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 43,
+    "pergunta": "Qual das opções abaixo é um critério válido para o exercício de um bloqueio naval?",
+    "alternativas": [
+      "Deve ser mantido em segredo para surpreender o inimigo.",
+      "Pode ser aplicado a portos de nações neutras sem restrições.",
+      "Deve ser declarado oficialmente pelo governo de uma nação em conflito.",
+      "Não precisa ser efetivo, bastando a declaração.",
+      "Pode ser aplicado de forma discriminatória, afetando apenas certos navios."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 44,
+    "pergunta": "Qual ramo do direito tem por objetivo salvaguardar e proteger as vítimas de conflitos armados, como feridos, doentes, náufragos e prisioneiros de guerra?",
+    "alternativas": [
+      "Direito de Haia",
+      "Direito de Genebra",
+      "Direito de Nova York",
+      "Direito do Mar",
+      "Direito Penal Internacional"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 45,
+    "pergunta": "Qual ramo do direito internacional se aplica SOMENTE por ocasião de um conflito armado?",
+    "alternativas": [
+      "Direitos Humanos",
+      "Direito Constitucional",
+      "Direito Internacional dos Conflitos Armados (DICA)",
+      "Direito Administrativo",
+      "Direito Civil"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 46,
+    "pergunta": "Qual tribunal internacional é independente, permanente, de abrangência universal e possui como característica o Princípio da Complementariedade?",
+    "alternativas": [
+      "Corte Internacional de Justiça",
+      "Tribunal Marítimo",
+      "Tribunal Penal Internacional (TPI)",
+      "Superior Tribunal Militar",
+      "Corte Interamericana de Direitos Humanos"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 47,
+    "pergunta": "Quais são as embarcações que gozam de imunidade contra ataques em um conflito armado?",
+    "alternativas": [
+      "Todos os navios mercantes.",
+      "Navios de guerra de nações neutras.",
+      "Navios-hospital e pequenos barcos de pesca costeira.",
+      "Iates de luxo e navios de cruzeiro.",
+      "Submarinos em missão de paz."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 48,
+    "pergunta": "A que conceito se refere a seguinte definição: 'Deverá ser contínua e rápida. Ela compreende o parar e o fundear, mas apenas na medida em que estes constituam incidentes comuns de navegação ou tenham sido impostos por motivo de força maior ou dificuldade grave.'?",
+    "alternativas": [
+      "Passagem em Trânsito",
+      "Passagem Inocente",
+      "Navegação Livre",
+      "Direito de Aproximação",
+      "Passagem Arquipelágica"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como é definido 'Qualquer ato com a intenção de destruir, no todo ou em parte, uma nação, etnia, raça ou grupo religioso'?",
+    "alternativas": [
+      "Crime de Guerra",
+      "Crime Contra a Humanidade",
+      "Crime de Agressão",
+      "Crime de Genocídio",
+      "Terrorismo"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 50,
+    "pergunta": "Qual é a Convenção de Genebra que trata e protege os militares feridos, enfermos e náufragos durante a guerra marítima?",
+    "alternativas": [
+      "Primeira Convenção",
+      "Segunda Convenção",
+      "Terceira Convenção",
+      "Quarta Convenção",
+      "Protocolo Adicional I"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 51,
+    "pergunta": "Qual é a Convenção de Genebra que protege os soldados feridos e enfermos durante a guerra terrestre?",
+    "alternativas": [
+      "Primeira Convenção",
+      "Segunda Convenção",
+      "Terceira Convenção",
+      "Quarta Convenção",
+      "Protocolo Adicional II"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 52,
+    "pergunta": "Qual é a Convenção de Genebra que se aplica especificamente aos prisioneiros de guerra?",
+    "alternativas": [
+      "Primeira Convenção",
+      "Segunda Convenção",
+      "Terceira Convenção",
+      "Quarta Convenção",
+      "Todas as convenções"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 53,
+    "pergunta": "Qual é a Convenção de Genebra que estabelece a proteção aos civis, inclusive em território ocupado?",
+    "alternativas": [
+      "Primeira Convenção",
+      "Segunda Convenção",
+      "Terceira Convenção",
+      "Quarta Convenção",
+      "Nenhuma das convenções"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como são chamadas todas as operações multinacionais autorizadas ou dirigidas pela ONU?",
+    "alternativas": [
+      "Missões de Guerra",
+      "Intervenções Humanitárias",
+      "Operações de Paz",
+      "Forças de Coalizão",
+      "Operações de Garantia da Lei e da Ordem"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 55,
+    "pergunta": "A qual princípio do DICA esta definição se refere: 'A utilização dos meios e métodos de guerra deve ser proporcional à vantagem militar concreta e direta.'?",
+    "alternativas": [
+      "Humanidade",
+      "Distinção",
+      "Proporcionalidade",
+      "Limitação",
+      "Necessidade Militar"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 56,
+    "pergunta": "A qual princípio do DICA esta definição se refere: 'Distinguir os combatentes e os não combatentes. Distinguir bens de caráter civil e objetivos militares.'?",
+    "alternativas": [
+      "Humanidade",
+      "Distinção",
+      "Proporcionalidade",
+      "Limitação",
+      "Necessidade Militar"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como se define o 'conjunto de normas internacionais, de origem convencional ou consuetudinária, especificamente destinado a ser aplicado nos conflitos armados'?",
+    "alternativas": [
+      "Direitos Humanos",
+      "Direito Internacional Humanitário (ou DICA)",
+      "Direito do Mar",
+      "Direito Penal Internacional",
+      "Direito Constitucional"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 58,
+    "pergunta": "Quais são os crimes julgados pelo Estatuto do Tribunal Penal Internacional?",
+    "alternativas": [
+      "Genocídio, contra a humanidade, de guerra e de agressão.",
+      "Terrorismo, pirataria e tráfico de drogas.",
+      "Crimes fiscais, ambientais e eleitorais.",
+      "Apenas crimes de guerra e genocídio.",
+      "Todos os crimes internacionais, sem exceção."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como deve ser a Passagem Inocente no mar territorial de um Estado?",
+    "alternativas": [
+      "Lenta e com paradas para turismo.",
+      "Rápida e contínua.",
+      "Apenas durante o dia.",
+      "Apenas com autorização prévia.",
+      "Silenciosa e sem emissão de luzes."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como devem ser tratados em situação de combate o pessoal dos serviços de saúde e o pessoal de serviço médico?",
+    "alternativas": [
+      "Devem ser considerados combatentes.",
+      "Podem ser feitos prisioneiros de guerra.",
+      "Têm status de protegido e não devem ser atacados.",
+      "Devem se render incondicionalmente.",
+      "Podem ser atacados se estiverem em zona de combate."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 61,
+    "pergunta": "O que acontece com os civis que tenham participação direta nas hostilidades?",
+    "alternativas": [
+      "Continuam com imunidade total.",
+      "São considerados prisioneiros de guerra se capturados.",
+      "Perdem suas imunidades e podem ser atacados.",
+      "Devem ser julgados por um tribunal civil.",
+      "Recebem um aviso antes de qualquer ação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 62,
+    "pergunta": "Como são chamados os militares ou civis, que se encontrem em situação de perigo no mar ou em outras águas em consequência de um infortúnio?",
+    "alternativas": [
+      "Sobreviventes",
+      "Náufragos",
+      "Desaparecidos",
+      "Refugiados",
+      "Vítimas"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 63,
+    "pergunta": "Qual sistema tem como função defender e proteger juridicamente os Direitos Humanos previstos em acordos internacionais nos países que fazem parte do sistema?",
+    "alternativas": [
+      "Sistema Universal de Proteção (ONU)",
+      "Sistemas Regionais de Proteção dos Direitos Humanos",
+      "Tribunais Penais Internacionais",
+      "Cortes Constitucionais Nacionais",
+      "Organizações Não Governamentais (ONGs)"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 64,
+    "pergunta": "Qual pacto tem influência marcante da Declaração Universal dos Direitos Humanos, que compreende o ideal do ser humano livre, isento do temor e da miséria?",
+    "alternativas": [
+      "Pacto Internacional sobre Direitos Civis e Políticos",
+      "Pacto de São José da Costa Rica (Convenção Americana sobre Direitos Humanos)",
+      "Carta da ONU",
+      "Convenção de Genebra",
+      "Estatuto de Roma"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  }
+]
+
