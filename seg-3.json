@@ -6,7 +6,7 @@
       "Verdadeiro",
       "Falso"
     ],
-    "correta": 0,
+    "correta": 1,
     "comentario": "A opção correta é **Falso** (pequenos prejuízos -> Grandes prejuízos)"
   },
   {
@@ -160,7 +160,7 @@
       "Verdadeiro",
       "Falso"
     ],
-    "correta": 0,
+    "correta": 1,
     "comentario": "A opção correta é **Falso** (sempre tirar dúvidas -> NUNCA TER DÚVIDAS)"
   },
   {
