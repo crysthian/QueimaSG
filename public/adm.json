@@ -1,0 +1,1596 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual o Documento Nomativo pela qual os Almirantes, em cargo de Comando, Direção ou Chefia, bem como os Oficiais Superiores Comandantes de Força estabelecem normase procedimentos que serão cumpridos pelas OMs que lhes são subordinadas?",
+    "alternativas": [
+      "Termo.",
+      "Requerimento.",
+      "Comunicação Padronizada.",
+      "Norma Permanente.",
+      "Atestado."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual o ducumento administrativo que dá validade a nomeação, designação, promoção, aposentadoria, exoneração, punição à civis e determinação de tarefas, salvo em âmbito exclusivo de uma OM?",
+    "alternativas": [
+      "Ordem Interma.",
+      "Portaria",
+      "Carta",
+      "Oficio Extemo.",
+      "Oficio Interno."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual o documento de correspondência por meio do qual o Comandante da Marinha e os Titulares de OM correspondem-se entre si, podendo ser assinado por delegação de competência, por outro oficial ou civil assemelhado?",
+    "alternativas": [
+      "Correspondência Eletrônica.",
+      "Comunicação Intema.",
+      "Certidão.",
+      "Atestado.",
+      "Oficio"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 4,
+    "pergunta": "Como denomina-se o documento pelo qual o Comandante da Marinha e os titulares de OM, se correspondem com autoridades e entidades extra-Marinha a respeito de assunto técnico ou administrativo, de caráter exclusivamente oficial, podendo serassinado por delagação de competência poroutro oficail ou civil assemelhado?",
+    "alternativas": [
+      "Requerimento.",
+      "Cominicação Interna.",
+      "Comunicação Padronizada.",
+      "Oficio Externo",
+      "Carta."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual o documento lavrado por pessoa especificamente autorizada - em alguns casos, por mais de uma - com a finalidade de relatar fatos, inventariar bens ou documentos, escriturar resultados de inspeções e vistorias ou descrever formalmente qualquer outra situação?",
+    "alternativas": [
+      "Termo.",
+      "Parecer.",
+      "Ordem de Serviço.",
+      "Instrução Normativa.",
+      "Carta."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 6,
+    "pergunta": "Na gestão de documentos, qual a fase que um Elemento Organizacional da OM, após o estudo de uma situação ou de um documento recebido, prepara um novo DA?",
+    "alternativas": [
+      "Recepção.",
+      "Estudo.",
+      "Produção.",
+      "Seleção.",
+      "Expedição."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual o Documento Administrativo utlizado na aprovação de Regulamentos, Regimentos Intemos, Normas, Organizações Administrativas e de Combate, Trabalhos, Distintivos e Estandartes de OM??",
+    "alternativas": [
+      "Norma Permanente.",
+      "Portarnia.",
+      "Carta.",
+      "Requerimento.",
+      "Oficio Extemo."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual o Documento Administrativo, pelo qual especialistas emitem opinião fundamentada sobre determinado assunto?",
+    "alternativas": [
+      "Atestado.",
+      "Ordem do Dia.",
+      "Certidăo.",
+      "Parecer.",
+      "Termo."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 9,
+    "pergunta": "Como se denomina a dedicação ao serviço naval e a capacidade para o mando?",
+    "alternativas": [
+      "Liderança.",
+      "Disciplina.",
+      "Hierarquia.",
+      "Autoridade.",
+      "Aptidão para a carreira."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 10,
+    "pergunta": "Como são classificados os Boletins da Marinha do Brasil (BMB)?",
+    "alternativas": [
+      "(PMB) NÃO controladas, ostensivas, informativas e listas.",
+      "(PMB) Controladas, ostensivas, informativas e listas.",
+      "(PMB) NÃO controladas, reservadas, informativas e listas.",
+      "(PMB) Controladas, reservadas, informativas e listas.",
+      "(PMB) NÃO controladas, ostensivas formativas e listas"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 11,
+    "pergunta": "Como são classificados os Boletins do Pessoal da Marinha do Brasil (BPMB)?",
+    "alternativas": [
+      "(PMB) NÃO controladas, ostensivas, informativas e listas.",
+      "(PMB) controladas, ostensivas, informativas e listas.",
+      "(PMB) NÃO controladas, reservadas, informativas e listas.",
+      "(PMB) controladas, reservadas, informativas e listas.",
+      "(PMB) NÃO controladas, ostensivas fomativas e listas"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 12,
+    "pergunta": "Quais as especificações dos Boletins da Marinha do Brasil(BMB)?",
+    "alternativas": [
+      "TOMO I Administrativo, TOMO II Pessoal militar e TOMO III Pessoal Civil.",
+      "TOMO I Pessoal Militar, TOMO II Pessoal Civil e TOMO III Administrativo.",
+      "TOMOIPessoal Civil, TOMO II Administrativo e TOMO III Pessoal Militar.",
+      "TOMO IAdministrativo, TOMO II Pessoal Civil e TOMO III Pessoal Militar.",
+      "TOMO I Pesoal Militar, TOMO II Administrativo e TOMO III Pessoal Civil."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 13,
+    "pergunta": "Quem são os auxiliares diretos do Gestor de Bens Patrimoniais e do seu substituto nas atividades inerentes à gestão dos bens de estoque das OM.?",
+    "alternativas": [
+      "Fiel de Suprimento.",
+      "Fiel de Armazenamento.",
+      "Fiel de Material.",
+      "Relatorda Gestão de Material.",
+      "Encarregado de Incumbência."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 14,
+    "pergunta": "Quais são os documentos que visam divulgar normas, transmitir ordens, decisões, esclarecer situações, declarar direitos, especificarmateriais e estabelecer procedimentos técnicos?",
+    "alternativas": [
+      "Administrativos.",
+      "Normas técnicas.",
+      "Especiais.",
+      "Portarias.",
+      "Operativos."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 15,
+    "pergunta": "Qual é o documento por meio do qual os titulares de OM estabelecem normas e procedimentos, no âmbito intemo de suas OM?",
+    "alternativas": [
+      "Comunicação Intema.",
+      "Ordem Interma.",
+      "Portaria.",
+      "Ordem-do-Dia.",
+      "Organização Administrativa."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual é o documento utilizado por oficiais e servidores civis assemelhados, para tratar de assunto de serviço, quando houver necessidade de apresentação formal?",
+    "alternativas": [
+      "Oficio Extermo.",
+      "Cartão.",
+      "Requerimento.",
+      "Carta.",
+      "Nota eletrônica oficial."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 17,
+    "pergunta": "Que documento os Elementos Organizacionais de OM diferentes, excetuados os respectivos titulares, tratam de assuntos de rotina e que quando envolve o titular da OM, como origem ou como destinatário, deve ser empregado o ofício?",
+    "alternativas": [
+      "Carta.",
+      "Cartão.",
+      "Requerimento.",
+      "Certidão.",
+      "Comunicação Padronizada."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual o sistema desenvolvido pela DPMM que toma disponivel,em meio eletrônico, os BPMB referidos ao pessoal militar da Marinha?",
+    "alternativas": [
+      "SISMAТ.",
+      "MODEAD.",
+      "SISMOV.",
+      "SISDPMM.",
+      "SISBOL."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 19,
+    "pergunta": "Que documento uma pessoa se dirige a uma autoridade para pleitear direitos ou beneficios previstos em legislação?",
+    "alternativas": [
+      "Carta.",
+      "Requerimento.",
+      "Cartão.",
+      "Termo.",
+      "Certidão."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 20,
+    "pergunta": "Que documento é utilizado pelos titulares de OM, afim de comprovar, a pedido, um fato ou situação de que tenham conhecimento?",
+    "alternativas": [
+      "Certidăo.",
+      "Atestado.",
+      "Portaria.",
+      "Termo.",
+      "Parecer."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual é o documento que os titulares de OMs utilizam para declarar a existência de fatos com base em outros documentos existentes na OM?",
+    "alternativas": [
+      "Certidão.",
+      "Atestado.",
+      "Portaria.",
+      "Temo.",
+      "Parecer."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual é o documento em que o Comandante da Marinha e os titulares de OM registram os direitos e as obrigações do pessoal relativos a diárias, gratificações e alterações de funções?",
+    "alternativas": [
+      "Ordem de Serviço.",
+      "Portaria.",
+      "Memorando.",
+      "Comunicação Intema.",
+      "Organização Administrativa."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 23,
+    "pergunta": "Quanto ao âmbito, como se classificam os documentos administrativos?",
+    "alternativas": [
+      "Intemo e extemo.",
+      "Rotina, especial e urgente.",
+      "Ostensivos e sigilosos.",
+      "Ultrassecreto, secreto e reservado.",
+      "Intemo e especial."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 24,
+    "pergunta": "Quanto à tramitação qual a precedência dos documentos administrativos?",
+    "alternativas": [
+      "Intemo e extemo.",
+      "Rotina, especial e urgente.",
+      "Ostensivos e sigilosos.",
+      "Ultrassecreto, secreto e reservado.",
+      "Intemo e especial."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 25,
+    "pergunta": "Quanto ao acesso como se classificam os documentos administrativos?",
+    "alternativas": [
+      "Intermo e extemo.",
+      "Rotina, especial e urgente.",
+      "Ostensivos, sigilosos e Informção Pessoal.",
+      "Ultrassecreto, secreto, e reservado.",
+      "Intemos e especíais."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 26,
+    "pergunta": "Quanto ao grau de sigilo como se classificam os documentos administrativos?",
+    "alternativas": [
+      "Intemo e extemo.",
+      "Rotina, especial e urgente.",
+      "Ostensivos e sigilosos.",
+      "Ultrassecreto, secreto e reservado.",
+      "Intemos e especiais."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 27,
+    "pergunta": "Qual é o tipo de documento cujo acesso é irrestrito, NÃO havendo limitação de conhecimento e de divulgação, no âmbito intemo?",
+    "alternativas": [
+      "Rotina.",
+      "Especial.",
+      "Urgente.",
+      "Ostensivo.",
+      "Sigiloso."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual é o grau de sigilo que será atribuído a documento que requeira excepcionais medidas de segurança?",
+    "alternativas": [
+      "Ultrassecreto.",
+      "Secreto.",
+      "Rotina",
+      "Reservado.",
+      "Especial."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 29,
+    "pergunta": "Qual é o grau de sigilo que será atribuldo ao documento que requeira rigorosas medidas de segurança?",
+    "alternativas": [
+      "Ultrassecreto.",
+      "Secreto.",
+      "Rotina.",
+      "Reservado.",
+      "Especial."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual é o grau de sigilo que será dado aos documentos que NÃO deva, imediatamente, ser do conhecimento de público em geral?",
+    "alternativas": [
+      "Ultrassecreto.",
+      "Secreto.",
+      "Rotina.",
+      "Reservado.",
+      "Especial."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 31,
+    "pergunta": "Qual é a fase da gestão de documentos que compreende registro do DA, recebido em meio físico ou digital, no Sistema de Gerência de Documentos homologado pela Marinha?",
+    "alternativas": [
+      "Estudo.",
+      "Elaboração.",
+      "Seleção.",
+      "Expedição.",
+      "Recepção."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 32,
+    "pergunta": "Qual é a fase da gestão de documento que um DA, após assinado, será remetido aos endereçados.?",
+    "alternativas": [
+      "Recepção.",
+      "Expedição.",
+      "Tramitação.",
+      "Estudo.",
+      "Elaboração."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 33,
+    "pergunta": "Qual a fase da gestão de documento, que Compreende o encaminhamento, a circulação e o controle do DA no âmbito interno da OM.?",
+    "alternativas": [
+      "Controle.",
+      "Circulação.",
+      "Estudo.",
+      "Distribuição Intema",
+      "Tramitação"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 34,
+    "pergunta": "Quais são os agentes que realizam as tarefas inerentes à gestão patrimonial das OMe estão estreitamente vinculados ao Ordenadorde Despesa ou seu substituto, na condição de corresponsáveis?",
+    "alternativas": [
+      "Ordenador de Despesas.",
+      "Agente Fiscal.",
+      "Fielde Pagamento.",
+      "Fiel de Amazenamento.",
+      "Gestor de Bens Patrimoniais e Gestor de Bens Patrimoniais Substituto."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 35,
+    "pergunta": "Atividade de natureza administrativa e contábil, que tem como finalidade o controle patrimonial de bens da Fazenda Nacional e a fiscalização da atuação de seus agentes responsáveis pela administação ou guarda desses bens. Este é o conceito de:",
+    "alternativas": [
+      "controle de material.",
+      "gestão de municiamento.",
+      "gestão de equipamento.",
+      "gestão patrimonial.",
+      "escrituração do material."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 36,
+    "pergunta": "Que Documento Declaratório por meio do qualo CM e os Titulares de OM registram punições impostas a Oficiais e Suboficiais?",
+    "alternativas": [
+      "Comunicação Padronizada.",
+      "Circular.",
+      "Ordem de Serviço.",
+      "Oficio Extemo.",
+      "Correspondência Eletrônica."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 37,
+    "pergunta": "A critério de quem, e observando o interesse do militar, o início do afastamento por Motivo de Luto, poderá ser postergado nos casos em que ele se encontre desempenhando serviços ou atividades que impeçam o seu imediato afastamento?",
+    "alternativas": [
+      "Diretor do Pessoal Militar da Marinha.",
+      "Encarregado do Pessoal da ОМ.",
+      "Comandante do Distrito Naval.",
+      "Comando Imediatamente Superior.",
+      "Titular da OM."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 38,
+    "pergunta": "A quem compete digitalizar e/ou microfilmar as DB, inclusive os documentos anexos, e incinerar os referidos papeis?",
+    "alternativas": [
+      "DSM.",
+      "Titular da OM.",
+      "ComDN.",
+      "DPMM/DPesFN.",
+      "DGPM."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 39,
+    "pergunta": "Qual é o tipo de medalha militar com passador, concedida àquele que completar 50 anos de bons serviços, prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passadorde platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passador de ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passadorde bronze."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 40,
+    "pergunta": "Qual é o tipo de medalha militar com passador, concedida àquele que completar 40 anos de bons serviços prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passador de platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passador de ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passador de bronze."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 41,
+    "pergunta": "Qual é o tipo de medalha militar com passador, concedida àquele que completar 30 anos de bons serviços prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passador de platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passador de ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passador de bronze."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 42,
+    "pergunta": "Qual é o tipo de medalha militar com passador concedida àquele que completar 20 anos de bons serviços prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passador de platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passador de ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passadorde bronze."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 43,
+    "pergunta": "Qual é o tipo de medalha militar com passador, concedida àquele que completar 10 anos de bons serviços prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passador de platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passadorde ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passadorde bronze."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 44,
+    "pergunta": "Quem é o responsável em restituir para o Encarregado do Pessoal as DD que NÃO atendam aos requisitos de dependência?",
+    "alternativas": [
+      "DPMM.",
+      "Titularda OM.",
+      "Certificador.",
+      "Declarante.",
+      "CPesFN."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 45,
+    "pergunta": "É a ação realizada entre o homem e a mulher, como entidade familiar, configurada na convivência pública, continua e duradoura, estabelecida com o objetivo de constituir famllia, e desde que NÃO existam impedimentos para o casamento.",
+    "alternativas": [
+      "União Estável.",
+      "Compromisso Civil.",
+      "Viver sobre o mesmo teto.",
+      "Dependência Econômica.",
+      "Arrimo de Família."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 46,
+    "pergunta": "Qual o DA declaratório, mediante o qual o CM e os Titulares de OM, exaltam datas históricas ou fatos significativos?",
+    "alternativas": [
+      "Ordem de Serviço.",
+      "Boletim de Ordens e Noticias.",
+      "Ordem do Dia.",
+      "Instrução Normativa.",
+      "Instrução Permanente."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 47,
+    "pergunta": "Qual a classifcação,quanto ao grau de sigilo de um DA,que somente poderá ser atribuída, no âmbito do Poder Executivo, pelo Presidente da República, Vice-Presidente da República, Ministros de Estado e autoridades com as mesmas prerrogativas, Comandantes da Marinha, do Exército e da Aeronáutica,e Chefes de Missões Diplomáticas e Consulares permanentes no exterior?",
+    "alternativas": [
+      "Ostensiva.",
+      "Ultrassecreto.",
+      "Secreto.",
+      "Sigiloso",
+      "Secreto."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 48,
+    "pergunta": "Qual a ação atribuida ao titular da OM ou por autoridade por ele delegada, que confere existência à todo documento?",
+    "alternativas": [
+      "Determinação.",
+      "Delegação de Competência.",
+      "Indicação.",
+      "Assinatura.",
+      "Divulgação."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como denomina-se o sistema que permite o gerenciamento de parte do Ciclo de Processamento do DA, contemplando, em especial, recursos para a elaboração de DA, assinatura digital, estabelecimento de privilégios de acesso, pesquisa/recuperação por temas/números/datas, distribuição em rede, circulação em rede para comentáriose aprovação, registro de alterações, segurança e autenticidade, a inclusão de documentos digitalizados eo arquivamento e recuperação segura de DA?",
+    "alternativas": [
+      "SIGDEM.",
+      "SISMOV.",
+      "SISEAD.",
+      "MODEAD.",
+      "SISBOL."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 50,
+    "pergunta": "É o documento por meio do qual os elementos organizacionais de OM diferentes,excetuados os respectivos titulares, tratam de assuntos de rotina.",
+    "alternativas": [
+      "Oficio.",
+      "Carta.",
+      "Comunicação Padronizada.",
+      "Requerimento.",
+      "Portaria."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 51,
+    "pergunta": "Em que mês de gestação será concedida a licença gestante, mediante apresentação protocolada de documento médico, emitido por médico especialista em ginecologia e/ou obstetrícia, à OM de lotação da militar?",
+    "alternativas": [
+      "4°més.",
+      "5°més.",
+      "6°més.",
+      "7°més.",
+      "8°mes."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** (a partir do 8º mês)"
+  },
+  {
+    "id": 52,
+    "pergunta": "Quem são os auxiliares diretos do Gestor de Bens Patrimonials no cumprimento das fases de recebimento dos bens móveis e bens de estoque das OM. Além disso, são responsáveis pelo controle fisico dos almoxarifados das OM e pela distribuição interna do Estoque para Consumo aos setores apropriados?",
+    "alternativas": [
+      "Fiel do Rancho",
+      "Fiel de Material.",
+      "Agente Fiscal.",
+      "Fiel de Amazenagem.",
+      "Fiel de Suprimento."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 53,
+    "pergunta": "Qual o entendimento dado a pessoa que, sozinha, ampara uma ou mais pessoas, ministrando-lhes, totalmente, os meios de subsistência, por motivo de falecimento dos pais,ou de um deles, sendo, neste último caso, dependente do militar?",
+    "alternativas": [
+      "Titularidade.",
+      "Dependência..",
+      "Arrimo.",
+      "Dependência econômica..",
+      "Viver sob o mesmo teto.."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 54,
+    "pergunta": "No entendimento sobre relação de dependência, o que significa residir, efetiva e permenentemente, no mesmo endereço de residência do militar, ou seja, quando o declarante ou o declarado habitam em moradia comum?",
+    "alternativas": [
+      "Arrimo.",
+      "Viver sob o mesmo teto.",
+      "Dependência econômica.",
+      "União estável.",
+      "Casamento."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 55,
+    "pergunta": "É o documento administrativo (DA) normativo por meio do qual o EMA, ODS, GCM e as OM com atribuições de diretoria especializada, estabelecem normas e procedimentos sobre assuntos de sua competência, para toda a MB.",
+    "alternativas": [
+      "Normas Permanentes.",
+      "Ordem Intema.",
+      "Instrução permanente.",
+      "Instrução Normativa.",
+      "Portaria."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 56,
+    "pergunta": "Uma das situações que constitui em fator impeditivo, para que o militar NÃO faça jus à Medalha Militar, é:",
+    "alternativas": [
+      "utilizar o anonimato.",
+      "faltar ao serviço a bordo.",
+      "perder o navio.",
+      "estar subjúdice.",
+      "estar de LESM."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 57,
+    "pergunta": "A entrega do Diploma da Medalha Militar e do Passadorrespectivo será feita pelo Comandante, Diretor ou autoridade equivalente da OM em que servir o agraciado, na(s) seguinte(s) ocasião(ões):",
+    "alternativas": [
+      "somente por ocasião do Aniversário da Batalha Naval do Riachuelo.",
+      "somente nas homenagens ao Almirante Tamandaré.",
+      "nas datas das promoçdes.",
+      "nos dias 13 de dezembro, 11 de junho e na Páscoa dos Militares.",
+      "nas datas solenes previstas no Cerimonial da Marinha."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 58,
+    "pergunta": "Uma das situações que resultará na cassação da Medalha Militar para Oficiais e praças é ter.",
+    "alternativas": [
+      "sofrido punição na carreira.",
+      "sido condenado à pena de reclusão superior a 6 meses.",
+      "sido condenado à pena superior a 3 anos de reclusão.",
+      "sido atingido por sentença condenatória passado em julgado e cuja pena for supenor a 2 anos de reclusão.",
+      "sido punido disciplinarmente."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 59,
+    "pergunta": "Para ter direito a Licença para Acompanhar Cônjuge ou Companheiro (a), o militar deverá contar com quantos anos de efetivo serviço?",
+    "alternativas": [
+      "Menos de 10 (dez) anos.",
+      "Mais de 10 (dez) anos..",
+      "05 (cinco) anos.",
+      "20 (vinte) anos.",
+      "15 (quinze) anos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 60,
+    "pergunta": "O periodo de licença para a militar que adotar uma criança com idade inferior a um ano de idade será de:",
+    "alternativas": [
+      "120 dias.",
+      "90 dias.",
+      "60 dias.",
+      "30 dias.",
+      "15 dias."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 61,
+    "pergunta": "O militar terá direito ao gozo de oito (8) dias para afastamento total do serviço, em caso de falecimento do (s):",
+    "alternativas": [
+      "pais, avós, tios, irmão, cunhados e noras.",
+      "pais, avós, cônjuge, genro, companheira(o) e tios.",
+      "pais, cunhados, cônjuge, filhos, companheira(o) e sogros.",
+      "genro, pais, avós, cônjuge, sogros e filhos.",
+      "pais, avós, cônjuge, filhos, companheira(o), netos e imãos."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 62,
+    "pergunta": "Tem direito a medalha militar, o militar que NÃO tenha sofrido, durante o decênio, penas disciplinares que,somadas ou NÃO, excedam em quantos dias de impedimento no período da confecção do respectivo processo?",
+    "alternativas": [
+      "3 dias.",
+      "5 dias.",
+      "10 dias.",
+      "20 dias.",
+      "30 dias."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 63,
+    "pergunta": "Os grupos de documentos de interesse da MB são os seguintes:",
+    "alternativas": [
+      "administrativos, operativos, comunicações e especiais.",
+      "administrativos, diretrizes, publicações e especiais.",
+      "publicações, operativos, correspondências e sigilosos.",
+      "operativos, administrativos, publicações e especiais.",
+      "administrativos, operativos, publicações e informativos."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 64,
+    "pergunta": "Os documentos administrativos subdividem-se nos seguintes tipos:",
+    "alternativas": [
+      "Nomativos, correspondência e declaratórios.",
+      "Operativos, correspondência e declaratórios.",
+      "Nomativos, publicações e normativos.",
+      "Correspondėncia, especiais e declaratórios.",
+      "Normativos, correspondência e sigilosos."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 65,
+    "pergunta": "Qual é o documento pelo qual os Almirantes, em cargo de Comando, Direção ou Chefia e os Oficiais Superiores Comandantes de Força, promovem alteração de documentos nomativos, exceto portarias?",
+    "alternativas": [
+      "Comunicação padronizada.",
+      "Requerimento.",
+      "Ordem-do-Dia.",
+      "Circular.",
+      "Memorando."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 66,
+    "pergunta": "Das opções a seguir, assinale a que corresponde ao grau de precedência atribuído aos documentos que devam receber prioridade sobre os de rotina.",
+    "alternativas": [
+      "Reservado.",
+      "Especial.",
+      "Urgente.",
+      "Declaratório.",
+      "Ostensivo."
+    ],
+    "correta": 1,
+    "comentario": "Grau de precedência que prioriza sobre a rotina."
+  },
+  {
+    "id": 67,
+    "pergunta": "Como se chama a fase da Gestão de Documentos, na qual um documento após assinado, será remetido aos endereçados?",
+    "alternativas": [
+      "Encaminhamento.",
+      "Tramitação.",
+      "Expedição.",
+      "Envio.",
+      "Remessa."
+    ],
+    "correta": 2,
+    "comentario": "Fase em que o documento assinado é remetido aos destinatários."
+  },
+  {
+    "id": 68,
+    "pergunta": "O Boletim da Marinha do Brasil que publica assuntos concementes à careira do pessoal civil da MB, é o:",
+    "alternativas": [
+      "TOMO III.",
+      "TOMO N.",
+      "TOMOI.",
+      "Administrativo.",
+      "TOMO II."
+    ],
+    "correta": 4,
+    "comentario": "Onde são publicados assuntos de pessoal (Militar e Civil)."
+  },
+  {
+    "id": 69,
+    "pergunta": "A organização do processo de Medalha Militarserá feita:",
+    "alternativas": [
+      "pordeterminação da DPMM, com base na CR-Cadastro.",
+      "\"ex-officio\",com base na CR do militar.",
+      "através de requerimento do militar, dirigido ao seu Comandante.",
+      "porindicação de Oficial-General.",
+      "a pedido do militar."
+    ],
+    "correta": 1,
+    "comentario": "Forma de organização do processo de medalha."
+  },
+  {
+    "id": 70,
+    "pergunta": "Para a concessão da Licença para tratar de Interesse Particular, o militar solicitante deverá contar com mais de quantos anos de efetivo serviço?",
+    "alternativas": [
+      "10",
+      "20",
+      "15",
+      "05",
+      "08"
+    ],
+    "correta": 0,
+    "comentario": "Anos mínimos de serviço para concessão de LTIP."
+  },
+  {
+    "id": 71,
+    "pergunta": "A quem a OM do militar participará, por meio de mensagem, os palses e os respectivos períodos intencionados, com informação à DPMM, ao CIM e aos Adidos Navais ou Adidos Militares dos países a serem visitados?",
+    "alternativas": [
+      "COMIMSUP.",
+      "CM.",
+      "CON.",
+      "DGPM.",
+      "ComDN da área."
+    ],
+    "correta": 4,
+    "comentario": "A autoridade a ser informada é o ComDN da área."
+  },
+  {
+    "id": 72,
+    "pergunta": "O periodo de férias na MB tem duração de:",
+    "alternativas": [
+      "20 dias úteis.",
+      "29 dias.",
+      "28 dias.",
+      "30 dias.",
+      "31 dias."
+    ],
+    "correta": 3,
+    "comentario": "Duração regulamentar das férias militares."
+  },
+  {
+    "id": 73,
+    "pergunta": "Qual é a duração do periodo de afastamento para núpcias?",
+    "alternativas": [
+      "20 dias.",
+      "15 dias.",
+      "10 dias.",
+      "08 dias.",
+      "04 dias."
+    ],
+    "correta": 3,
+    "comentario": "Período de afastamento por núpcias."
+  },
+  {
+    "id": 74,
+    "pergunta": "Em caso de falecimento de tio e cunhado, o período de afastamento por motivo de luto, será de:",
+    "alternativas": [
+      "12 dias.",
+      "10 dias.",
+      "08 dias.",
+      "05 dias.",
+      "03 dias."
+    ],
+    "correta": 4,
+    "comentario": "Período de luto por falecimento de tios ou cunhados."
+  },
+  {
+    "id": 75,
+    "pergunta": "Qual o documento utilizado pela Marinha do Brasil para o registro de dependentes, no qual serão concedidos ou suspensos os beneficios, a que se fizerem jus?",
+    "alternativas": [
+      "Declaração de Dependentes Inicial.",
+      "Declaração de Dependentes em Aditamento.",
+      "Declaração de Beneficianos Inicial.",
+      "Declaração de Dependentes.",
+      "Declaração de Beneficiánios em Aditamento."
+    ],
+    "correta": 3,
+    "comentario": "Documento para registro e concessão de benefícios a dependentes."
+  },
+  {
+    "id": 76,
+    "pergunta": "Das opções abaixo, qual NÃO faz parte da responsabilidade do Encarregado do Pessoal, com relação à Declaração de Dependentes?",
+    "alternativas": [
+      "Atentar para o correto preenchimento dos dados atinentes ao dependente do militar.",
+      "Encaminhar as DD ao certificador.",
+      "Lançar na CR dos militares o registro de seus dependentes e os beneficios que fazem jus.",
+      "Providenciar a remessa à (ao) DPMM/CPesFN, conforme o caso, da primeia via das DD após a assinaturas do titular da OM.",
+      "Responder pela veracidade das informações prestadas na declaração de dependentes."
+    ],
+    "correta": 4,
+    "comentario": "Esta é uma responsabilidade do Declarante, não do Encarregado."
+  },
+  {
+    "id": 77,
+    "pergunta": "Quando ocorrer falecimento de militar da ativa, sua CR, após completadas todas as alterações, inclusive a do falecimento, deverá ser emetida a quem?",
+    "alternativas": [
+      "ComDN onde houve o falecimento.",
+      "DPMM.",
+      "A familia do falecido.",
+      "DPHDM.",
+      "Serviço Social."
+    ],
+    "correta": 1,
+    "comentario": "Destino da CR de militar falecido na ativa."
+  },
+  {
+    "id": 78,
+    "pergunta": "Qual o documento administrativo utilizado na validação da atividade de criação de organização militar?",
+    "alternativas": [
+      "Portaria.",
+      "Oficio.",
+      "Circular.",
+      "Instrução Normativa.",
+      "Instrução Permanente."
+    ],
+    "correta": 0,
+    "comentario": "Documento que valida o ato de criação de OM."
+  },
+  {
+    "id": 79,
+    "pergunta": "A dispensa de serviço como recompensa será concedida ao militar a critério de quem?",
+    "alternativas": [
+      "Comandante da Marinha.",
+      "Titular da OM do recompensado.",
+      "Comandante do DN do recompensado.",
+      "Encarregado de Divisão do recompensado.",
+      "Sargenteante Geral do militar em questão."
+    ],
+    "correta": 1,
+    "comentario": "Autoridade que concede a dispensa como recompensa."
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual o período de escrituração das Folhas de Alterações no 1º semestre?",
+    "alternativas": [
+      "2JAN a 29JUN.",
+      "2JAN a 30JUN.",
+      "1JAN a 30JUN.",
+      "2JAN a 13JUN.",
+      "1JAN a 1JUL."
+    ],
+    "correta": 2,
+    "comentario": "Período de escrituração do 1º semestre."
+  },
+  {
+    "id": 81,
+    "pergunta": "Qual o período de escrituração das Folhas de Alterações no 2° semestre?",
+    "alternativas": [
+      "1JUL a 30DEZ.",
+      "30JUN a 31DEZ.",
+      "1JUL a 30NOV.",
+      "1JUL a 31DEZ.",
+      "1JUL a 1DEZ."
+    ],
+    "correta": 3,
+    "comentario": "Período de escrituração do 2º semestre."
+  },
+  {
+    "id": 82,
+    "pergunta": "A CR do militar desertor, decomridos dois anos da data da deserção, será remetida à (ao):",
+    "alternativas": [
+      "DGPM.",
+      "DPHDM.",
+      "DAdM.",
+      "DPMM.",
+      "CPesFN."
+    ],
+    "correta": 1,
+    "comentario": "A CR do desertor é remetida à DPHDM após dois anos."
+  },
+  {
+    "id": 83,
+    "pergunta": "Os Documentos Administrativos são classificados de acordo com os seguintes aspectos:",
+    "alternativas": [
+      "âmbito, precedência e ao acesso.",
+      "âmbito, segurança e ostensivos.",
+      "âmbito, precedência, segurança e sigilo.",
+      "ostensivos, sigilosos, especial.",
+      "rotina, especial e urgente."
+    ],
+    "correta": 0,
+    "comentario": "Aspectos de classificação dos documentos."
+  },
+  {
+    "id": 84,
+    "pergunta": "A tramitação dos Documentos Administrativos far-se-á de acordo com as seguintes precedências:",
+    "alternativas": [
+      "internos e externos.",
+      "rotina, especial e urgente.",
+      "ostensivos e sigilosos.",
+      "ultrassecreto, secreto e reservado.",
+      "interno e especial."
+    ],
+    "correta": 1,
+    "comentario": "Graus de precedência na tramitação."
+  },
+  {
+    "id": 85,
+    "pergunta": "Quais as partes básicas dos documentos administrativos (DA)?",
+    "alternativas": [
+      "Cabeçalho, estética, texto e assinatura.",
+      "Texto, cabeçalho, assinatura e cópia.",
+      "Cabeçalho, texto metrificação e distribuição.",
+      "Cabeçalho, texto, assinatura e estética.",
+      "Texto, cabeçalho, estética e assinatura."
+    ],
+    "correta": 1,
+    "comentario": "Partes básicas do documento administrativo."
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual a autorização concedida ao militar para ausentar-se do seu local de trabalho, pelo titular da OM, por período de tempo limitado a dez dias, a ser descontado do respectivo período de férias?",
+    "alternativas": [
+      "Dispensa de serviço.",
+      "Desconto em férias.",
+      "Licença para desconto em férias.",
+      "Dispensa de serviço para desconto em férias.",
+      "Licença para tratar de interesse particular."
+    ],
+    "correta": 3,
+    "comentario": "Afastamento limitado a 10 dias."
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual a autorização concedida ao militar pelo seu Comandante, para se ausentar do seu local de trabalho, em decorrência de prescrição médica?",
+    "alternativas": [
+      "Licença para tratamento da saúde própria.",
+      "Licença à gestante.",
+      "Licença para tratamento de saúde de pessoa da familia.",
+      "Dispensa de serviço por dispensa médica.",
+      "Dispensa de serviço em decorrência de prescrição médica."
+    ],
+    "correta": 4,
+    "comentario": "Concedida segundo a DGPM-406."
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual documento é destinado ao lançamento das caracteristicas fisicas e pessoais do militar ao ingressar na MB?",
+    "alternativas": [
+      "Folha de Identificação.",
+      "Folha de Alterações.",
+      "Folha de praça aspirante.",
+      "Guia-registro.",
+      "Folha de rascunho."
+    ],
+    "correta": 0,
+    "comentario": "Contém dados físicos e pessoais do militar."
+  },
+  {
+    "id": 89,
+    "pergunta": "A Folha de Identificação (FI) da CR será escriturada por ocasião do ingresso do militar na MB pela (o):",
+    "alternativas": [
+      "Serviço de Identificação da Marinha.",
+      "DPMM.",
+      "Com1°DN.",
+      "Distrito Naval.",
+      "Órgão de admissão."
+    ],
+    "correta": 4,
+    "comentario": "O órgão de admissão é responsável pela escrituração inicial da FI."
+  },
+  {
+    "id": 90,
+    "pergunta": "Oficialmente, de quem é a responsabilidade pela guarda, digitação, conferência e assinatura das Folhas de Alteração (FA) da CR?",
+    "alternativas": [
+      "Chefe do Departamento de Administração.",
+      "Encarregados de divisões ou autoridades equivalentes.",
+      "Imediato da OM.",
+      "Comandante da OM.",
+      "Encarregado da Divisão do Pessoal Militar."
+    ],
+    "correta": 1,
+    "comentario": "Responsáveis pela escrituração da CR."
+  },
+  {
+    "id": 91,
+    "pergunta": "As folhas de alterações serão digitadas semestralmente ou quando houver:",
+    "alternativas": [
+      "desligamento, falecimento, falta a bordo ou deserção.",
+      "deserção, falta a bordo, falecimento ou extravio.",
+      "desligamento, deserção, falecimento ou destaque.",
+      "desaparecimento, extravio, deserção ou destaque.",
+      "desaparecimento, deserção, desligamento ou destaque."
+    ],
+    "correta": 2,
+    "comentario": "Situações que geram escrituração da FA."
+  },
+  {
+    "id": 92,
+    "pergunta": "A CR do desertor será encerrada e encaminhada ao ComDN e depois será remetida à DPHDM, após decorrido (s):",
+    "alternativas": [
+      "1 ano da deserção.",
+      "2 anos da deserção.",
+      "3 anos da deserção.",
+      "4 anos da deserção.",
+      "5 anos da deserção."
+    ],
+    "correta": 1,
+    "comentario": "Após 2 anos, a CR do desertor é encaminhada à DPHDM."
+  },
+  {
+    "id": 93,
+    "pergunta": "A CR extraviada será restabelecida por meio de cópias fotostáticas autenticadas, extraídas da CR-Cadastro, mediante solicitação à (ao):",
+    "alternativas": [
+      "DPMM e ao SRD.",
+      "CPesFN e ao Com1°DN.",
+      "DPMM e ao CPesFN.",
+      "DGPM e à DPMM.",
+      "SRD."
+    ],
+    "correta": 2,
+    "comentario": "Órgãos para solicitação de cópias da CR-Cadastro em caso de extravio."
+  },
+  {
+    "id": 94,
+    "pergunta": "O Boletim que é publicado e que se destina à divulgação de matérias relativas à carreira do pessoal militar da MB, inclusive do pessoal do CFN, é o:",
+    "alternativas": [
+      "TOMO I - DAdM.",
+      "TOMO I - DPMM.",
+      "TOMO II - DAdM.",
+      "TOMO II - DPMM.",
+      "TOMO III - DAdM."
+    ],
+    "correta": 3,
+    "comentario": "O TOMO II do BPMB trata da carreira do pessoal militar."
+  },
+  {
+    "id": 95,
+    "pergunta": "A publicação do Boletim TOMO II tem periodicidade:",
+    "alternativas": [
+      "anual.",
+      "trimestral.",
+      "bienal.",
+      "mensal.",
+      "quinzenal."
+    ],
+    "correta": 4,
+    "comentario": "O TOMO II do BPMB é publicado quinzenalmente."
+  },
+  {
+    "id": 96,
+    "pergunta": "Qual é a periodicidade de publicação do Boletim TOMO I?",
+    "alternativas": [
+      "trienal.",
+      "bienal.",
+      "mensal.",
+      "semanal.",
+      "quinzenal."
+    ],
+    "correta": 3,
+    "comentario": "O TOMO I do BMB é publicado semanalmente."
+  },
+  {
+    "id": 97,
+    "pergunta": "A Medalha Militar e o respectivo passador serão concedidos por Portaria do:",
+    "alternativas": [
+      "CPesFN e DPMM.",
+      "Comandante da Marinha.",
+      "DPMM e DGPM.",
+      "DGPM.",
+      "Comandante Imediatamente Superior."
+    ],
+    "correta": 1,
+    "comentario": "Autoridade que concede a Medalha Militar."
+  },
+  {
+    "id": 98,
+    "pergunta": "Quando o processo de concessão da Medalha Militar referir-se ao titular da OM, de quem é a iniciativa da organização do mesmo?",
+    "alternativas": [
+      "Comandante da Marinha.",
+      "DPMM.",
+      "DGPM.",
+      "Comandante do DN da área.",
+      "Comandante imediatamente superior."
+    ],
+    "correta": 4,
+    "comentario": "Iniciador do processo de medalha para o Titular da OM."
+  },
+  {
+    "id": 99,
+    "pergunta": "A militar que comprovar a gestação em seu 8º mês, entrará em gozo de Licença à Gestante (LG) e, neste caso, permanecerá:",
+    "alternativas": [
+      "incapaz definitivamente para o SAM.",
+      "apta para o SAM, porém dispensada de realizar o TAF.",
+      "apta para o SAM, com restrições.",
+      "incapaz, parcial e temporariamente para o SAM.",
+      "apta para o SAM."
+    ],
+    "correta": 4,
+    "comentario": "Condição da militar em licença gestante no 8º mês."
+  },
+  {
+    "id": 100,
+    "pergunta": "Qual é o período de duração da Licença à Adotante (LA), para a militar que adotar uma criança com oito meses de idade?",
+    "alternativas": [
+      "120 dias.",
+      "90 dias.",
+      "60 dias.",
+      "30 dias.",
+      "15 dias."
+    ],
+    "correta": 1,
+    "comentario": "Duração da licença para adoção de criança com 8 meses."
+  },
+  {
+    "id": 101,
+    "pergunta": "Qual é o período de duração da Licença à Adotante (LA) para a militar que adotar uma criança com dois anos de idade?",
+    "alternativas": [
+      "30 dias.",
+      "45 dias.",
+      "60 dias.",
+      "90 dias.",
+      "120 dias."
+    ],
+    "correta": 0,
+    "comentario": "Duração da licença para adoção de criança com 2 anos."
+  },
+  {
+    "id": 102,
+    "pergunta": "Qual é o período de afastamento do militar em gozo de Licença-Paternidade?",
+    "alternativas": [
+      "20 dias.",
+      "15 dias.",
+      "10 dias.",
+      "5 dias.",
+      "4 dias."
+    ],
+    "correta": 0,
+    "comentario": "Período da licença-paternidade."
+  },
+  {
+    "id": 103,
+    "pergunta": "Qual é o período de afastamento por motivo de luto, quando se tratar de falecimento dos pais, avós ou cônjuge?",
+    "alternativas": [
+      "15 dias.",
+      "12 dias.",
+      "10 dias.",
+      "8 dias.",
+      "5 dias."
+    ],
+    "correta": 3,
+    "comentario": "O afastamento por luto para parentes diretos é de 8 dias."
+  },
+  {
+    "id": 104,
+    "pergunta": "O 3º SG-ES JOÃO DA SILVA, em determinado momento de sua vida, deparou-se com a seguinte situação: sozinho, amparava pessoas, ministrando-lhes totalmente os meios de subsistência, devido ao falecimento de seus pais, que já eram dependentes do citado militar e NÃO possulam outros parentes que pudessem ou deveriam fazê-lo. À vista do fato apresentado, para efeito de Declaração de Dependentes, qual critério de relação de dependência pode ser aplicado no caso do militar em questão?",
+    "alternativas": [
+      "Viver sob o mesmo teto.",
+      "Dependência econômica.",
+      "Arrimo.",
+      "União estável.",
+      "Invalidez."
+    ],
+    "correta": 2,
+    "comentario": "Critério para pessoa que ampara sozinha seus dependentes."
+  },
+  {
+    "id": 105,
+    "pergunta": "O militar deverá apresentar sua Declaração de Beneficiários Inicial (DBI), a contar da data em que passou a sofrer os descontos de contribuição, no prazo máximo de:",
+    "alternativas": [
+      "16 meses.",
+      "4 meses.",
+      "6 meses.",
+      "3 meses.",
+      "2 meses."
+    ],
+    "correta": 2,
+    "comentario": "Prazo para apresentação da DBI."
+  },
+  {
+    "id": 106,
+    "pergunta": "É uma publicação destinada a dar conhecimento de assuntos, de cunho oficial, de caráter ostensivo, que necessitem de divulgação rápida e simultânea a um grande numero de destinatários?",
+    "alternativas": [
+      "Boletim TOMO I.",
+      "Boletim TOMO III.",
+      "Plano do dia.",
+      "BONO.",
+      "Boletim TOMO II."
+    ],
+    "correta": 3,
+    "comentario": "Publicação para divulgação rápida de assuntos ostensivos."
+  },
+  {
+    "id": 107,
+    "pergunta": "É a autorização concedida ao militar para afastamento total do serviço, durante oito dias, para contrair matrimonio",
+    "alternativas": [
+      "Afastamento por motivo de luto.",
+      "Afastamento por motivo instalação.",
+      "Afastamento por motivo trânsito.",
+      "Dispensa como recompensa.",
+      "Afastamento por motivo de núpcias."
+    ],
+    "correta": 4,
+    "comentario": "Afastamento de 8 dias para casamento."
+  },
+  {
+    "id": 108,
+    "pergunta": "Os funcionários civis são punidos por qual documento administrativo?",
+    "alternativas": [
+      "Ordem do Dia.",
+      "Portaria.",
+      "Carta.",
+      "Parecer.",
+      "Termo."
+    ],
+    "correta": 1,
+    "comentario": "Documento para punição de servidores civis."
+  },
+  {
+    "id": 109,
+    "pergunta": "Quanto a Licença de Pagamento, a concessão será em função da conveniência do serviço, não devendo implicar na interrupção do funcionamento da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A Licença de Pagamento depende da conveniência do serviço."
+  },
+  {
+    "id": 110,
+    "pergunta": "Prorrogação da Licença à Adotante será garantida às militares que requeiram o benefício até o final do primeiro mês após a obtenção dos Termos constantes na alínea \"a\" da Guia de Estudo, e terá duração de (45) quarenta e cinco dias, no caso de criança de até um ano de idade.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "Prorrogação da LA é de 45 dias para crianças de até um ano."
+  },
+  {
+    "id": 111,
+    "pergunta": "A Prorrogação da Licença à Adotante será garantida às militares que requeiram o benefício até o final do primeiro mês após a obtenção dos Termos constantes na alínea \"c\" e terá duração de (20) vinte dias, no caso de criança com mais de um ano de idade e até doze anos de idade incompletos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A prorrogação para crianças com mais de um ano é de 15 dias, não 20."
+  },
+  {
+    "id": 112,
+    "pergunta": "Documento, em sentido amplo, é toda informação registrada em suporte material, suscetível de consulta, estudo, prova e pesquisa.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "Esta é a definição correta de documento em sentido amplo."
+  },
+  {
+    "id": 113,
+    "pergunta": "Portaria é o Documento Administrativo normativo por meio do qual o Estado-Maior da Armada (EMA), os Órgãos de Direção Setorial (ODS), o Gabinete do Comandante da Marinha (GCM) e as Organizações Militares (OM) com atribuições de Diretoria Especializada (DE) estabelecem normas e procedimentos sobre assuntos de sua competência, para toda a MB.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A definição apresentada refere-se à Instrução Permanente (INST), não à Portaria."
+  },
+  {
+    "id": 114,
+    "pergunta": "Ordem Interna é o documento administrativo nomativo pelo qual os Titulares de OM estabelecem normas e procedimentos no âmbito intemo de suas OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "Esta é a definição correta de Ordem Interna."
+  },
+  {
+    "id": 115,
+    "pergunta": "Compete ao EMA planejar, dirigir, coordenar e controlar as atividades relacionadas com o pessoal militar, bem como manter o seu cadastro.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "Planejar atividades de pessoal militar compete à DPM, não ao EMA."
+  },
+  {
+    "id": 116,
+    "pergunta": "O manuseio das CR deverá ser restrito somente aos Oficiais que, pelas suas funções, tenham necessidade de conhecer os lançamentos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "O manuseio das CR é permitido a Oficiais e Praças com necessidade funcional."
+  },
+  {
+    "id": 117,
+    "pergunta": "As capas e contracapas das Cadernetas-Registro serão confeccionadas em plástico nas seguintes cores: Pretas para Oficiais e Marrom para Praças.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "As cores das capas da CR são preta para Oficiais e marrom para Praças."
+  },
+  {
+    "id": 118,
+    "pergunta": "Folha de Alterações é o modelo utilizado por ocasião do ingresso na Marinha do Brasil (MB), contendo as características físicas e pessoais do militar.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A Folha de Identificação (FI) é que contém os dados de ingresso, não a FA."
+  },
+  {
+    "id": 119,
+    "pergunta": "A responsabilidade pela guarda, escrituração, conferência e assinatura das Folhas de Alterações é dos Encarregados de Divisões ou autoridades equivalentes, sob orientação do Encarregado do Pessoal.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "Esta é a responsabilidade correta para a escrituração das FAs."
+  },
+  {
+    "id": 120,
+    "pergunta": "O Gestor de Material é responsável pela suspensão do pagamento de vencimentos dos militares que se recusaram a efetuar a DBI, indicados pelo Encarregado do Pessoal e autorizado pelo Titular da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A suspensão do pagamento por falta de DBI é competência do Gestor de Pagamento."
+  },
+  {
+    "id": 121,
+    "pergunta": "Na Licença para Candidatar-se a Cargo Eletivo de Natureza Política (LCCE), a DPMM ou o DGPM, conforme cada caso, deverá providenciar a reversão do militar Não eleito, a partir da data em que ele se apresentar.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "O procedimento de reversão para militares não eleitos está correto."
+  },
+  {
+    "id": 122,
+    "pergunta": "Quanto a Licença para Acompanhar Cônjuge ou Companheira (LAC), ocorrerá SEM prejuízo da remuneração do militar.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A LAC é concedida SEM remuneração."
+  },
+  {
+    "id": 123,
+    "pergunta": "É assegurado a todos militares, candidatos a cargo público da Administração Pública Federal, Estadual e do Distrito Federal, poderem optar por receber, durante a realização do curso, a remuneração de seu posto ou graduação. Tal opção deverá constar do requerimento de solicitação da Licença para Frequentar Curso de Formação Profissional (LFCFP).",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "O militar em LFCFP pode optar pela remuneração do posto/graduação."
+  },
+  {
+    "id": 124,
+    "pergunta": "O militar em serviço da União no exterior, ou designado para curso no exterior, com duração igual ou superior a um ano, tem direito a um período de férias para cada ano de comissão, podendo gozá-la no Brasil ou em outros países.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "O direito a férias para militares em comissão no exterior está correto."
+  },
+  {
+    "id": 125,
+    "pergunta": "O militar em Licença para Tratar de Interesse Particular (LTIP), poderá exercer atividades remuneradas de qualquer natureza; porém com ressalvas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "É permitido o exercício de atividade remunerada durante a LTIP, com restrições."
+  },
+  {
+    "id": 126,
+    "pergunta": "As Férias dos alunos dos Estabelecimentos de Ensino na MB, têm a duração de um mês.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "As férias dos alunos são reguladas pelo calendário escolar e não necessariamente de um mês."
+  },
+  {
+    "id": 127,
+    "pergunta": "Expedir o Cartão de Habilitação para Assistência Médico-Hospitalar (CHASM), para os dependentes cadastrados com idade inferior a oito anos é de competência do Titular da OM/Ordenador de Despesas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A expedição do CHASM é competência da DPM/CPesFN."
+  }
+]

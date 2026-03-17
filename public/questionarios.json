@@ -1,11 +1,6 @@
 [
-  {"id": "seg", "nome": "Segurança Orgânica - Todos capítulos"},
-  {"id": "seg-1", "nome": "Segurança Orgânica - Capítulo 1"},
-  {"id": "seg-2", "nome": "Segurança Orgânica - Capítulo 2"},
-  {"id": "seg-3", "nome": "Segurança Orgânica - Capítulo 3"},
-  {"id": "seg-4", "nome": "Segurança Orgânica - Capítulo 4"},
-  {"id": "etica", "nome": "Ética - Todos capítulos"},
-  {"id": "etica-1", "nome": "Ética - Capítulo 1"},
-  {"id": "etica-2", "nome": "Ética - Capítulo 2"},
-  {"id": "etica-3", "nome": "Ética - Capítulo 3"}
+  {"id": "adm", "nome": "Administração Naval - Todos capítulos"},
+  {"id": "adm-1", "nome": "Administração Naval  - Capítulo 1"},
+  {"id": "adm-2", "nome": "Administração Naval  - Capítulo 2"},
+  {"id": "adm-3", "nome": "Administração Naval  - Capítulo 3"}
 ]

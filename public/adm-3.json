@@ -1,0 +1,980 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Como se denomina a dedicação ao serviço naval e a capacidade para o mando?",
+    "alternativas": [
+      "Liderança.",
+      "Disciplina.",
+      "Hierarquia.",
+      "Autoridade.",
+      "Aptidão para a carreira."
+    ],
+    "correta": 4,
+    "comentario": "Aptidão para a carreira. Índice que espelha a dedicação ao serviço e a capacidade para o comando."
+  },
+  {
+    "id": 2,
+    "pergunta": "Como são classificados os Boletins da Marinha do Brasil (BMB)?",
+    "alternativas": [
+      "(PMB) NÃO controladas, ostensivas, informativas e listas.",
+      "(PMB) Controladas, ostensivas, informativas e listas.",
+      "(PMB) NÃO controladas, reservadas, informativas e listas.",
+      "(PMB) Controladas, reservadas, informativas e listas.",
+      "(PMB) NÃO controladas, ostensivas formativas e listas"
+    ],
+    "correta": 1,
+    "comentario": "Esta é a classificação dos BMB."
+  },
+  {
+    "id": 3,
+    "pergunta": "Como são classificados os Boletins do Pessoal da Marinha do Brasil (BPMB)?",
+    "alternativas": [
+      "(PMB) NÃO controladas, ostensivas, informativas e listas.",
+      "(PMB) controladas, ostensivas, informativas e listas.",
+      "(PMB) NÃO controladas, reservadas, informativas e listas.",
+      "(PMB) controladas, reservadas, informativas e listas.",
+      "(PMB) NÃO controladas, ostensivas fomativas e listas"
+    ],
+    "correta": 3,
+    "comentario": "Classificação específica dos Boletins do Pessoal (BPMB)."
+  },
+  {
+    "id": 4,
+    "pergunta": "Quais as especificações dos Boletins da Marinha do Brasil(BMB)?",
+    "alternativas": [
+      "TOMO I Administrativo, TOMO II Pessoal militar e TOMO III Pessoal Civil.",
+      "TOMO I Pessoal Militar, TOMO II Pessoal Civil e TOMO III Administrativo.",
+      "TOMOIPessoal Civil, TOMO II Administrativo e TOMO III Pessoal Militar.",
+      "TOMO IAdministrativo, TOMO II Pessoal Civil e TOMO III Pessoal Militar.",
+      "TOMO I Pesoal Militar, TOMO II Administrativo e TOMO III Pessoal Civil."
+    ],
+    "correta": 0,
+    "comentario": "TOMO I Administrativo, TOMO II Pessoal militar e TOMO III Pessoal Civil. Reflete a estrutura de divulgação dos atos da MB."
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual o sistema desenvolvido pela DPMM que toma disponivel,em meio eletrônico, os BPMB referidos ao pessoal militar da Marinha?",
+    "alternativas": [
+      "SISMAТ.",
+      "MODEAD.",
+      "SISMOV.",
+      "SISDPMM.",
+      "SISBOL."
+    ],
+    "correta": 4,
+    "comentario": "SISBOL. Sistema que disponibiliza os Boletins do Pessoal em meio eletrônico."
+  },
+  {
+    "id": 6,
+    "pergunta": "A critério de quem, e observando o interesse do militar, o início do afastamento por Motivo de Luto, poderá ser postergado nos casos em que ele se encontre desempenhando serviços ou atividades que impeçam o seu imediato afastamento?",
+    "alternativas": [
+      "Diretor do Pessoal Militar da Marinha.",
+      "Encarregado do Pessoal da ОМ.",
+      "Comandante do Distrito Naval.",
+      "Comando Imediatamente Superior.",
+      "Titular da OM."
+    ],
+    "correta": 4,
+    "comentario": "Titular da OM. A autoridade competente para decidir sobre o afastamento por luto."
+  },
+  {
+    "id": 7,
+    "pergunta": "A quem compete digitalizar e/ou microfilmar as DB, inclusive os documentos anexos, e incinerar os referidos papeis?",
+    "alternativas": [
+      "DSM.",
+      "Titular da OM.",
+      "ComDN.",
+      "DPMM/DPesFN.",
+      "DGPM."
+    ],
+    "correta": 3,
+    "comentario": "DPMM/CPesFN. Órgãos responsáveis por processar, microfilmar e incinerar as declarações de beneficiários."
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual é o tipo de medalha militar com passador, concedida àquele que completar 50 anos de bons serviços, prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passadorde platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passador de ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passadorde bronze."
+    ],
+    "correta": 0,
+    "comentario": "Platina com passador de platina. Concedida por 50 anos de serviço."
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual é o tipo de medalha militar com passador, concedida àquele que completar 40 anos de bons serviços prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passador de platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passador de ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passador de bronze."
+    ],
+    "correta": 1,
+    "comentario": "Ouro com passador de platina. Concedida por 40 anos de serviço."
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual é o tipo de medalha militar com passador, concedida àquele que completar 30 anos de bons serviços prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passador de platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passador de ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passador de bronze."
+    ],
+    "correta": 2,
+    "comentario": "Ouro com passador de ouro. Concedida por 30 anos de serviço."
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual é o tipo de medalha militar com passador concedida àquele que completar 20 anos de bons serviços prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passador de platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passador de ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passadorde bronze."
+    ],
+    "correta": 3,
+    "comentario": "Prata com passador de prata. Concedida por 20 anos de serviço."
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual é o tipo de medalha militar com passador, concedida àquele que completar 10 anos de bons serviços prestados à Marinha do Brasil?",
+    "alternativas": [
+      "Platina com passador de platina.",
+      "Ouro com passador de platina.",
+      "Ouro com passadorde ouro.",
+      "Prata com passador de prata.",
+      "Bronze com passadorde bronze."
+    ],
+    "correta": 4,
+    "comentario": "Bronze com passador de bronze. Concedida por 10 anos de serviço."
+  },
+  {
+    "id": 13,
+    "pergunta": "Quem é o responsável em restituir para o Encarregado do Pessoal as DD que NÃO atendam aos requisitos de dependência?",
+    "alternativas": [
+      "DPMM.",
+      "Titularda OM.",
+      "Certificador.",
+      "Declarante.",
+      "CPesFN."
+    ],
+    "correta": 2,
+    "comentario": "Certificador. Agente que restitui as declarações de dependentes incorretas."
+  },
+  {
+    "id": 14,
+    "pergunta": "É a ação realizada entre o homem e a mulher, como entidade familiar, configurada na convivência pública, continua e duradoura, estabelecida com o objetivo de constituir famllia, e desde que NÃO existam impedimentos para o casamento.",
+    "alternativas": [
+      "União Estável.",
+      "Compromisso Civil.",
+      "Viver sobre o mesmo teto.",
+      "Dependência Econômica.",
+      "Arrimo de Família."
+    ],
+    "correta": 0,
+    "comentario": "União Estável. Entidade familiar configurada na convivência pública e duradoura."
+  },
+  {
+    "id": 15,
+    "pergunta": "Em que mês de gestação será concedida a licença gestante, mediante apresentação protocolada de documento médico, emitido por médico especialista em ginecologia e/ou obstetrícia, à OM de lotação da militar?",
+    "alternativas": [
+      "4°més.",
+      "5°mês.",
+      "6°mês.",
+      "7°més.",
+      "8°mes."
+    ],
+    "correta": 4,
+    "comentario": "8º mês. Momento em que a militar gestante apresenta o comprovante para licença."
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual o entendimento dado a pessoa que, sozinha, ampara uma ou mais pessoas, ministrando-lhes, totalmente, os meios de subsistência, por motivo de falecimento dos pais,ou de um deles, sendo, neste último caso, dependente do militar?",
+    "alternativas": [
+      "Titularidade.",
+      "Dependência..",
+      "Arrimo.",
+      "Dependência econômica..",
+      "Viver sob o mesmo teto.."
+    ],
+    "correta": 2,
+    "comentario": "Arrimo. Pessoa que ampara sozinha dependentes por falecimento dos pais."
+  },
+  {
+    "id": 17,
+    "pergunta": "No entendimento sobre relação de dependência, o que significa residir, efetiva e permenentemente, no mesmo endereço de residência do militar, ou seja, quando o declarante ou o declarado habitam em moradia comum?",
+    "alternativas": [
+      "Arrimo.",
+      "Viver sob o mesmo teto.",
+      "Dependência econômica.",
+      "União estável.",
+      "Casamento."
+    ],
+    "correta": 1,
+    "comentario": "Viver sob o mesmo teto. Significa habitar no mesmo endereço de residência do militar."
+  },
+  {
+    "id": 18,
+    "pergunta": "Uma das situações que constitui em fator impeditivo, para que o militar NÃO faça jus à Medalha Militar, é:",
+    "alternativas": [
+      "utilizar o anonimato.",
+      "faltar ao serviço a bordo.",
+      "perder o navio.",
+      "estar subjúdice.",
+      "estar de LESM."
+    ],
+    "correta": 3,
+    "comentario": "Estar subjúdice é um fator impeditivo."
+  },
+  {
+    "id": 19,
+    "pergunta": "A entrega do Diploma da Medalha Militar e do Passadorrespectivo será feita pelo Comandante, Diretor ou autoridade equivalente da OM em que servir o agraciado, na(s) seguinte(s) ocasião(ões):",
+    "alternativas": [
+      "somente por ocasião do Aniversário da Batalha Naval do Riachuelo.",
+      "somente nas homenagens ao Almirante Tamandaré.",
+      "nas datas das promoçdes.",
+      "nos dias 13 de dezembro, 11 de junho e na Páscoa dos Militares.",
+      "nas datas solenes previstas no Cerimonial da Marinha."
+    ],
+    "correta": 4,
+    "comentario": "nas datas solenes previstas no Cerimonial da Marinha. Ocasiões para entrega da medalha militar."
+  },
+  {
+    "id": 20,
+    "pergunta": "Uma das situações que resultará na cassação da Medalha Militar para Oficiais e praças é ter.",
+    "alternativas": [
+      "sofrido punição na carreira.",
+      "sido condenado à pena de reclusão superior a 6 meses.",
+      "sido condenado à pena superior a 3 anos de reclusão.",
+      "sido atingido por sentença condenatória passado em julgado e cuja pena for supenor a 2 anos de reclusão.",
+      "sido punido disciplinarmente."
+    ],
+    "correta": 3,
+    "comentario": "sido atingido por sentença condenatória passado em julgado e cuja pena for supenor a 2 anos de reclusão. Causa de cassação da medalha para Oficiais."
+  },
+  {
+    "id": 21,
+    "pergunta": "Para ter direito a Licença para Acompanhar Cônjuge ou Companheiro (a), o militar deverá contar com quantos anos de efetivo serviço?",
+    "alternativas": [
+      "Menos de 10 (dez) anos.",
+      "Mais de 10 (dez) anos..",
+      "05 (cinco) anos.",
+      "20 (vinte) anos.",
+      "15 (quinze) anos."
+    ],
+    "correta": 1,
+    "comentario": "Mais de 10 anos de serviço são necessários."
+  },
+  {
+    "id": 22,
+    "pergunta": "O militar terá direito ao gozo de oito (8) dias para afastamento total do serviço, em caso de falecimento do (s):",
+    "alternativas": [
+      "pais, avós, tios, irmão, cunhados e noras.",
+      "pais, avós, cônjuge, genro, companheira(o) e tios.",
+      "pais, cunhados, cônjuge, filhos, companheira(o) e sogros.",
+      "genro, pais, avós, cônjuge, sogros e filhos.",
+      "pais, avós, cônjuge, filhos, companheira(o), netos e imãos."
+    ],
+    "correta": 4,
+    "comentario": "pais, avós, cônjuge, filhos, companheira(o), netos e irmãos. Familiares que dão direito a 8 dias de luto."
+  },
+  {
+    "id": 23,
+    "pergunta": "Tem direito a medalha militar, o militar que NÃO tenha sofrido, durante o decênio, penas disciplinares que,somadas ou NÃO, excedam em quantos dias de impedimento no período da confecção do respectivo processo?",
+    "alternativas": [
+      "3 dias.",
+      "5 dias.",
+      "10 dias.",
+      "20 dias.",
+      "30 dias."
+    ],
+    "correta": 3,
+    "comentario": "20 dias. Limite de dias de impedimento para manter o direito à medalha militar."
+  },
+  {
+    "id": 24,
+    "pergunta": "O Boletim da Marinha do Brasil que publica assuntos concementes à careira do pessoal civil da MB, é o:",
+    "alternativas": [
+      "TOMO III.",
+      "TOMO N.",
+      "TOMOI.",
+      "Administrativo.",
+      "TOMO II."
+    ],
+    "correta": 0,
+    "comentario": "O TOMO III publica assuntos do pessoal civil."
+  },
+  {
+    "id": 25,
+    "pergunta": "A organização do processo de Medalha Militarserá feita:",
+    "alternativas": [
+      "pordeterminação da DPMM, com base na CR-Cadastro.",
+      "\"ex-officio\",com base na CR do militar.",
+      "através de requerimento do militar, dirigido ao seu Comandante.",
+      "porindicação de Oficial-General.",
+      "a pedido do militar."
+    ],
+    "correta": 1,
+    "comentario": "\"ex-officio\", com base na CR do militar. Forma de organização do processo de medalha."
+  },
+  {
+    "id": 26,
+    "pergunta": "Para a concessão da Licença para tratar de Interesse Particular, o militar solicitante deverá contar com mais de quantos anos de efetivo serviço?",
+    "alternativas": [
+      "10",
+      "20",
+      "15",
+      "05",
+      "08"
+    ],
+    "correta": 0,
+    "comentario": "10. Anos mínimos de serviço para concessão de LTIP."
+  },
+  {
+    "id": 27,
+    "pergunta": "A quem a OM do militar participará, por meio de mensagem, os palses e os respectivos períodos intencionados, com informação à DPMM, ao CIM e aos Adidos Navais ou Adidos Militares dos países a serem visitados?",
+    "alternativas": [
+      "COMIMSUP.",
+      "CM.",
+      "CON.",
+      "DGPM.",
+      "ComDN da área."
+    ],
+    "correta": 4,
+    "comentario": "A autoridade a ser informada é o ComDN da área."
+  },
+  {
+    "id": 28,
+    "pergunta": "O periodo de férias na MB tem duração de:",
+    "alternativas": [
+      "20 dias úteis.",
+      "29 dias.",
+      "28 dias.",
+      "30 dias.",
+      "31 dias."
+    ],
+    "correta": 3,
+    "comentario": "30 dias. Duração regulamentar das férias militares."
+  },
+  {
+    "id": 29,
+    "pergunta": "Qual é a duração do periodo de afastamento para núpcias?",
+    "alternativas": [
+      "20 dias.",
+      "15 dias.",
+      "10 dias.",
+      "08 dias.",
+      "04 dias."
+    ],
+    "correta": 3,
+    "comentario": "08 dias. Período de afastamento por núpcias."
+  },
+  {
+    "id": 30,
+    "pergunta": "Em caso de falecimento de tio e cunhado, o período de afastamento por motivo de luto, será de:",
+    "alternativas": [
+      "12 dias.",
+      "10 dias.",
+      "08 dias.",
+      "05 dias.",
+      "03 dias."
+    ],
+    "correta": 4,
+    "comentario": "Período de luto por falecimento de tios ou cunhados."
+  },
+  {
+    "id": 31,
+    "pergunta": "Qual o documento utilizado pela Marinha do Brasil para o registro de dependentes, no qual serão concedidos ou suspensos os beneficios, a que se fizerem jus?",
+    "alternativas": [
+      "Declaração de Dependentes Inicial.",
+      "Declaração de Dependentes em Aditamento.",
+      "Declaração de Beneficianos Inicial.",
+      "Declaração de Dependentes.",
+      "Declaração de Beneficiánios em Aditamento."
+    ],
+    "correta": 3,
+    "comentario": "Declaração de Dependentes. Documento para registro e concessão de benefícios a dependentes."
+  },
+  {
+    "id": 32,
+    "pergunta": "Das opções abaixo, qual NÃO faz parte da responsabilidade do Encarregado do Pessoal, com relação à Declaração de Dependentes?",
+    "alternativas": [
+      "Atentar para o correto preenchimento dos dados atinentes ao dependente do militar.",
+      "Encaminhar as DD ao certificador.",
+      "Lançar na CR dos militares o registro de seus dependentes e os beneficios que fazem jus.",
+      "Providenciar a remessa à (ao) DPMM/CPesFN, conforme o caso, da primeia via das DD após a assinaturas do titular da OM..",
+      "Responder pela veracidade das informações prestadas na declaração de dependentes."
+    ],
+    "correta": 4,
+    "comentario": "Responder pela veracidade das informações prestadas na declaração de dependentes. Esta é uma responsabilidade do Declarante, não do Encarregado."
+  },
+  {
+    "id": 33,
+    "pergunta": "Quando ocorrer falecimento de militar da ativa, sua CR, após completadas todas as alterações, inclusive a do falecimento, deverá ser emetida a quem?",
+    "alternativas": [
+      "ComDN onde houve o falecimento.",
+      "DPMМ.",
+      "A familia do falecido.",
+      "DPHDм.",
+      "Serviço Social."
+    ],
+    "correta": 1,
+    "comentario": "DPMM. Destino da CR de militar falecido na ativa."
+  },
+  {
+    "id": 34,
+    "pergunta": "A dispensa de serviço como recompensa será concedida ao militar a critério de quem?",
+    "alternativas": [
+      "Comandante da Marinha.",
+      "Titular da OM do recompensado.",
+      "Comandante do DN do recompensado.",
+      "Encarregado de Divisão do recompensado.",
+      "Sargenteante Geral do militar em questão."
+    ],
+    "correta": 1,
+    "comentario": "Titular da OM do recompensado. Autoridade que concede a dispensa como recompensa."
+  },
+  {
+    "id": 35,
+    "pergunta": "Qual o período de escrituração das Folhas de Alterações no 1º semestre?",
+    "alternativas": [
+      "2JAN a 29JUN.",
+      "2JAN a 30JUN.",
+      "1JAN a 30JUN.",
+      "2JAN a 13JUN.",
+      "1JAN a 1JUL."
+    ],
+    "correta": 2,
+    "comentario": "1º JAN a 30 JUN. Período de escrituração do 1º semestre."
+  },
+  {
+    "id": 36,
+    "pergunta": "Qual o período de escrituração das Folhas de Alterações no 2° semestre?",
+    "alternativas": [
+      "1JUL a 30DEZ.",
+      "30JUN a 31DEZ.",
+      "1JUL a 30NOV.",
+      "1JUL a 31DEZ.",
+      "1JUL a 1DEZ."
+    ],
+    "correta": 3,
+    "comentario": "1º JUL a 31 DEZ. Período de escrituração do 2º semestre."
+  },
+  {
+    "id": 37,
+    "pergunta": "A CR do militar desertor, decomridos dois anos da data da deserção, será remetida à (ao):",
+    "alternativas": [
+      "DGPМ.",
+      "DPHDM.",
+      "DAdМ.",
+      "DPMМ.",
+      "CPesFN."
+    ],
+    "correta": 1,
+    "comentario": "A CR do desertor é remetida à DPHDM após dois anos."
+  },
+  {
+    "id": 38,
+    "pergunta": "Qual a autorização concedida ao militar para ausentar-se do seu local de trabalho, pelo titular da OM, por período de tempo limitado a dez dias, a ser descontado do respectivo período de férias?",
+    "alternativas": [
+      "Dispensa de serviço.",
+      "Desconto em férias.",
+      "Licença para desconto em férias.",
+      "Dispensa de serviço para desconto em férias.",
+      "Licença para tratarde interesse particular."
+    ],
+    "correta": 3,
+    "comentario": "Dispensa de serviço para desconto em férias. Afastamento limitado a 10 dias."
+  },
+  {
+    "id": 39,
+    "pergunta": "Qual a autorização concedida ao militar pelo seu Comandante, para se ausentar do seu local de trabalho, em decorrência de prescrição médica?",
+    "alternativas": [
+      "Licença para tratamento da saủde própria.",
+      "Licença à gestante.",
+      "Licença para tratamento de saúde de pessoa da familia.",
+      "Dispensa de serviço por dispensa médica.",
+      "Dispensa de serviço em decorrência de prescrição médica."
+    ],
+    "correta": 4,
+    "comentario": "Dispensa de serviço em decorrência de prescrição médica. Concedida segundo a DGPM-406."
+  },
+  {
+    "id": 40,
+    "pergunta": "Qual documento é destinado ao lançamento das caracteristicas fisicas e pessoais do militar ao ingressar na MB?",
+    "alternativas": [
+      "Folha de Identificação.",
+      "Folha de Alterações.",
+      "Folha de praça aspirante.",
+      "Guia-registro.",
+      "Folha de rascunho."
+    ],
+    "correta": 0,
+    "comentario": "Folha de Identificação. Contém dados físicos e pessoais do militar."
+  },
+  {
+    "id": 41,
+    "pergunta": "A Folha de Identificação (Fl) da CR será escriturada por ocasião do ingresso do militar na MB pela (o):",
+    "alternativas": [
+      "Serviço de Identificação da Marinha.",
+      "DPMМ.",
+      "Com1°DN.",
+      "Distrito Naval.",
+      "Órgão de admissão."
+    ],
+    "correta": 4,
+    "comentario": "O órgão de admissão é responsável pela escrituração inicial da FI."
+  },
+  {
+    "id": 42,
+    "pergunta": "Oficialmente, de quem é a responsabilidade pela guarda, digitação, conferência e assinatura das Folhas de Alteração (FA) da CR?",
+    "alternativas": [
+      "Chefe do Departamento de Administração.",
+      "Encarregados de divisões ou autoridades equivalentes.",
+      "Imediato da OM.",
+      "Comandante da ОМ.",
+      "Encaregado da Divisão do Pessoal Militar,"
+    ],
+    "correta": 1,
+    "comentario": "Encarregados de divisões ou autoridades equivalentes. Responsáveis pela escrituração da CR."
+  },
+  {
+    "id": 43,
+    "pergunta": "As folhas de alterações serão digitadas semestralmente ou quando houver:",
+    "alternativas": [
+      "desligamento, falecimento, falta a bordo ou deserção.",
+      "deserção, falta a bordo, falecimento ou extravio.",
+      "desligamento, deserção, falecimento ou destaque.",
+      "desaparecimento, extravio, deserção ou destaque.",
+      "desaparecimento, deserção, desligamento ou destaque."
+    ],
+    "correta": 2,
+    "comentario": "desligamento, deserção, falecimento ou destaque. Situações que geram escrituração da FA."
+  },
+  {
+    "id": 44,
+    "pergunta": "A CR do desertor serå encerrada e encaminhada ao ComDN e depois será remetida à DPHDM, após decorrido (s):",
+    "alternativas": [
+      "1 ano da deserção.",
+      "2 anos da deserção.",
+      "3 anos da deserção.",
+      "4 anos da deserção.",
+      "5 anos da deserção."
+    ],
+    "correta": 1,
+    "comentario": "Após 2 anos, a CR do desertor é encaminhada à DPHDM."
+  },
+  {
+    "id": 45,
+    "pergunta": "A CR extraviada será restabelecida por meio de cópias fotostáticas autenticadas, extraldas da CR-Cadastro, mediante solicitação à (ao):",
+    "alternativas": [
+      "DPMM e ao SRD.",
+      "CPesFN e ao Com1°DN.",
+      "DPMM e ao CPesFN.",
+      "DGPM e à DPMM.",
+      "SRD."
+    ],
+    "correta": 2,
+    "comentario": "DPMM e ao CPesFN. Órgãos para solicitação de cópias da CR-Cadastro em caso de extravio."
+  },
+  {
+    "id": 46,
+    "pergunta": "O Boletim que é publicado e que se destina à divulgação de matérias relativas à carreira do pessoal militar da MB, inclusive do pessoal do CFN, é o:",
+    "alternativas": [
+      "TOMOI - DAdM.",
+      "TOMOI - DPMм.",
+      "TOMO II - DAdM.",
+      "TOMO II - DPMм.",
+      "TOMO III - DAdM."
+    ],
+    "correta": 3,
+    "comentario": "O TOMO II do BPMB trata da carreira do pessoal militar."
+  },
+  {
+    "id": 47,
+    "pergunta": "A publicação do Boletim TOMO II tem periodicidade:",
+    "alternativas": [
+      "anual.",
+      "trimestral.",
+      "bienal.",
+      "mensal.",
+      "quinzenal."
+    ],
+    "correta": 4,
+    "comentario": "O TOMO II do BPMB é publicado quinzenalmente."
+  },
+  {
+    "id": 48,
+    "pergunta": "Qual é a periodicidade de publicação do Boletim TOMO I!?",
+    "alternativas": [
+      "trienal.",
+      "bienal.",
+      "mensal.",
+      "semanal.",
+      "quinzenal."
+    ],
+    "correta": 3,
+    "comentario": "O TOMO I do BMB é publicado semanalmente."
+  },
+  {
+    "id": 49,
+    "pergunta": "A Medalha Militar e o respectivo passador serão concedidos por Portaria do:",
+    "alternativas": [
+      "CPesFN e DPMM.",
+      "Comandante da Marinha.",
+      "DPMM e DGPM.",
+      "DGPM."
+    ],
+    "correta": 1,
+    "comentario": "Comandante da Marinha. Autoridade que concede a Medalha Militar."
+  },
+  {
+    "id": 50,
+    "pergunta": "Quando o processo de concessão da Medalha Militarreferir-se ao titular da OM, de quem é a iniciativa da organização do mesmo?",
+    "alternativas": [
+      "Comandante da Marinha.",
+      "DPMМ.",
+      "DGPM.",
+      "Comandante do DN da área.",
+      "Comandante imediatamente superior."
+    ],
+    "correta": 4,
+    "comentario": "Comandante imediatamente superior. Iniciador do processo de medalha para o Titular da OM."
+  },
+  {
+    "id": 51,
+    "pergunta": "A militar que comprovar a gestação em seu 8º mês, entrará em gozo de Licença à Gestante (LG) e, neste caso, permanecerá:",
+    "alternativas": [
+      "incapaz definitivamente para o SAM.",
+      "apta para o SAM, porém dispensada de realizar o TAF.",
+      "apta para o SAM, com restrições.",
+      "incapaz, parcial e temporariamente para o SAM.",
+      "apta para o SAM."
+    ],
+    "correta": 4,
+    "comentario": "apta para o SAM. Condição da militar em licença gestante no 8º mês."
+  },
+  {
+    "id": 52,
+    "pergunta": "Qual é o período de duração da Licença à Adotante (LA), para a militar que adotar uma criança com oito meses de idade?",
+    "alternativas": [
+      "120 dias.",
+      "90 dias.",
+      "60 dias.",
+      "30 dias.",
+      "15 dias."
+    ],
+    "correta": 1,
+    "comentario": "Duração da licença para adoção de criança com 8 meses."
+  },
+  {
+    "id": 53,
+    "pergunta": "Qual é o período de duração da Licença à Adotante (LA) para a militar que adotar uma criança com dois anos de idade?",
+    "alternativas": [
+      "30 dias.",
+      "45 dias.",
+      "60 dias.",
+      "90 dias.",
+      "120 dias."
+    ],
+    "correta": 0,
+    "comentario": "30 dias. Duração da licença para adoção de criança com 2 anos."
+  },
+  {
+    "id": 54,
+    "pergunta": "Qual é o período de afastamento do militar em gozo de Licença-Patemidade?",
+    "alternativas": [
+      "20 dias.",
+      "15 dias.",
+      "10 dias.",
+      "5 dias.",
+      "4 dias."
+    ],
+    "correta": 0,
+    "comentario": "Período da licença-paternidade."
+  },
+  {
+    "id": 55,
+    "pergunta": "Qual é o período de afastamento para núpcias?",
+    "alternativas": [
+      "20 dias.",
+      "15 dias.",
+      "10 dias.",
+      "8 dias.",
+      "5 dias."
+    ],
+    "correta": 3,
+    "comentario": "Período de afastamento por núpcias."
+  },
+  {
+    "id": 56,
+    "pergunta": "Em caso de falecimento de tio ou cunhado,o período de afastamento por motivo de luto será de:",
+    "alternativas": [
+      "2 dias.",
+      "3 dias.",
+      "4 dias.",
+      "5 dias.",
+      "6 dias."
+    ],
+    "correta": 1,
+    "comentario": "Período de luto por falecimento de tios ou cunhados."
+  },
+  {
+    "id": 57,
+    "pergunta": "Qual é o período de afastamento por motivo de luto, quando se tratar de falecimento dos pais, avós ou cônjuge?",
+    "alternativas": [
+      "15 dias.",
+      "12 dias.",
+      "10 dias.",
+      "8 dias.",
+      "5 dias."
+    ],
+    "correta": 3,
+    "comentario": "O afastamento por luto para parentes diretos é de 8 dias."
+  },
+  {
+    "id": 58,
+    "pergunta": "O 3º SG-ES JOÃO DA SILVA, em determinado momento de sua vida, deparou-se com a seguinte situação: sozinho, amparava pessoas, ministrando-lhes totalmente os meios de subsistência, devido ao falecimento de seus pais, que já eram dependentes do citado militar e NÃO possulam outros parentes que pudessem ou deveriam fazê-lo. Å vista do fato apresentado, para efeito de Declaração de Dependentes, qual critério de relação de dependência pode ser aplicado no caso do militar em questão?",
+    "alternativas": [
+      "Viver sob o mesmo teto.",
+      "Dependência econômica.",
+      "Arrimo.",
+      "União estável.",
+      "Invalidez."
+    ],
+    "correta": 2,
+    "comentario": "Arrimo. Critério para pessoa que ampara sozinha seus dependentes."
+  },
+  {
+    "id": 59,
+    "pergunta": "O militar deverá apresentar sua Declaração de Beneficiários Inicial (DBI), a contar da data em que passou a sofrer osdescontos de contribuição, no prazo máximo de:",
+    "alternativas": [
+      "16 meses.",
+      "4 meses.",
+      "6 meses.",
+      "3 meses.",
+      "2 meses."
+    ],
+    "correta": 2,
+    "comentario": "6 meses. Prazo para apresentação da DBI."
+  },
+  {
+    "id": 60,
+    "pergunta": "É uma publicação destinada a dar conhecimento de assuntos, de cunho oficial, de caráter ostensivo, que necessitem de divulgação rápida e simultânea a um grande numero de destinatários?",
+    "alternativas": [
+      "Boletim TOMO I.",
+      "Boletim TOMO III.",
+      "Plano do dia.",
+      "BONO.",
+      "Boletim TOMO II."
+    ],
+    "correta": 3,
+    "comentario": "BONO. Publicação para divulgação rápida de assuntos ostensivos."
+  },
+  {
+    "id": 61,
+    "pergunta": "Qual o sistema desenvolvido pela DPMM que toma disponível em meio eletrônico os boletim do pessoal da do Brasil(BPMB), referente ao pessoal militar da Marinha?",
+    "alternativas": [
+      "SISBOL",
+      "SISEVENTO",
+      "SISMOV",
+      "SISMEDALHA",
+      "SISBENF"
+    ],
+    "correta": 0,
+    "comentario": "Sistema que disponibiliza os Boletins do Pessoal em meio eletrônico."
+  },
+  {
+    "id": 62,
+    "pergunta": "É a autorização concedida ao militar para afastamento total do serviço, durante oito dias, para contrair matrimonio",
+    "alternativas": [
+      "Afastamento por motivo de luto.",
+      "Afastamento por motivo instalação.",
+      "Afastamento por motivo trânsito.",
+      "Dispensa como recompensa.",
+      "Afastamento por motivo de núpcias."
+    ],
+    "correta": 4,
+    "comentario": "Afastamento por motivo de núpcias. Afastamento de 8 dias para casamento."
+  },
+  {
+    "id": 63,
+    "pergunta": "É a autorização concedida ao militar, pelo titular da OM, para ausentar-se do seu local de trabalho, por periodo de tempo limitado à dez dias, a serdescontado do respectivo período de férias?",
+    "alternativas": [
+      "Dispensa do serviço como recompensa.",
+      "Dispensa de serviço em decorrência de prescrição médica.",
+      "Dispensa de serviço para desconto em férias.",
+      "Férias.",
+      "Afastamento por motivo de trânsito."
+    ],
+    "correta": 2,
+    "comentario": "Afastamento limitado a 10 dias."
+  },
+  {
+    "id": 64,
+    "pergunta": "Quanto a Licença de Pagamento, a concessão será em Aunção da conveniência do serviço,não devendo implicar na interrupção do funcionamento da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A Licença de Pagamento depende da conveniência do serviço."
+  },
+  {
+    "id": 65,
+    "pergunta": "Prorrogação da Licença à Adotante sera garanitida às mitares que requeiram o beneficio até o final do prirmeiro mês após a obtenção dos Temros constantes na alinia \"a\" da Guia de Estudo, e terá duração de (45) quarenta e cinco dias, no caso de criança de até um ano de idade.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "Prorrogação da LA é de 45 dias para crianças de até um ano."
+  },
+  {
+    "id": 66,
+    "pergunta": "A Prorrogação da Licença à Adotante será garantida às militares que requeiram o beneficio até o final do primeiro mês após a obtenção dos Termos constantes na alinea \"c\" e terá duração de (20) vinte dias, no caso de criança com: mais de um ano de idade e até doze anos de idade incompletos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A prorrogação para crianças com mais de um ano é de 15 dias, não 20."
+  },
+  {
+    "id": 67,
+    "pergunta": "Compete ao EMA planejar, dirigir, coordenare controlar as atividades relacionadas como pessoal militar, bem como manter o seu cadastro.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "Planejar atividades de pessoal militar compete à DPM, não ao EMA."
+  },
+  {
+    "id": 68,
+    "pergunta": "O manuseio das CR deverá ser restrito somente aos Oficiais que, pelas suas funções, tenham necessidade de conhecer os lançamentos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "O manuseio das CR é permitido a Oficiais e Praças com necessidade funcional."
+  },
+  {
+    "id": 69,
+    "pergunta": "As capas e contracapas das Cademetas-Registro serão confeccionadas em plástico nas seguintes cores: Pretas para Oficiais e Marron para Praças.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "As cores das capas da CR são preta para Oficiais e marrom para Praças."
+  },
+  {
+    "id": 70,
+    "pergunta": "Folha de Alterações é o modelo utilizado por ocasião do ingresso na Marinha do Brasil (MB), contendo as características fisicas e pessoais do militar.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A Folha de Identificação (FI) é que contém os dados de ingresso, não a FA."
+  },
+  {
+    "id": 71,
+    "pergunta": "Aresponsabilidade pela guarda, escrituração,conferência e assinatura das Folhas de Alterações é dos Encarregados de Divisões ou autoridades equivalentes, sob orientação do Encarregado do Pessoal.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "Esta é a responsabilidade correta para a escrituração das FAs."
+  },
+  {
+    "id": 72,
+    "pergunta": "O Gestor de Material é reponsável pela suspensão do pagamento de vencimentos dos militares que se recusaram a efetuar a DBI, indicados pelo Encarregado do Pessoal e autorizado pelo Titular da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A suspensão do pagamento por falta de DBI é competência do Gestor de Pagamento."
+  },
+  {
+    "id": 73,
+    "pergunta": "Na Licença para Candidatar-se a Cargo Eletivo de Natureza Política (LCCE), a DPMM ou o DGPM, conforme cada caso, deverá providenciar a reversão do militar Não eleito, a partir da data em que ele se apresentar.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "O procedimento de reversão para militares não eleitos está correto."
+  },
+  {
+    "id": 74,
+    "pergunta": "Quanto a Licença para Acompanhar Conjuge ou Companheira (LAC), ocorerá SEM prejuizo da remuneração do miltar.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A LAC é concedida SEM remuneração."
+  },
+  {
+    "id": 75,
+    "pergunta": "É assegurado a todos militares, candidatos a cargo público da Administração Pública Federal, Estadual e do Distrito Federal, poderem optar por receber, durante a realização do curso, a remuneração de seu posto ou graduação. Tal opcão deverá constar do requeriemento de solicitação da Licença para Frequentar Curso de Formação Profissional (LFCFP).",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "O militar em LFCFP pode optar pela remuneração do posto/graduação."
+  },
+  {
+    "id": 76,
+    "pergunta": "O militar em serviço da União no exterior, ou designado para curso no exterior, com duração igual ou superior a um ano, tem direiro a um período de férias para cada ano de comissão, podendo gozá-la no Brasil ou em outros países.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "O direito a férias para militares em comissão no exterior está correto."
+  },
+  {
+    "id": 77,
+    "pergunta": "O militar em Licença para Tratar de Interesse Particular (LTIP), poderá exercer atividades remuneradas de qualquer natureza; porém com resalvas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "É permitido o exercício de atividade remunerada durante a LTIP, com restrições."
+  },
+  {
+    "id": 78,
+    "pergunta": "As Férias dos alunos dos Estabelimentos de Ensino na MB, têm a duração de um mês.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "As férias dos alunos são reguladas pelo calendário escolar e não necessariamente de um mês."
+  },
+  {
+    "id": 79,
+    "pergunta": "Expediro Cartão de Habilitação para Assistência Médico-Hospitalar (CHASM), para os dependentes cadastrados com idade inferior a oito anos é de competência do Titular da OM/Ordenador de Despesas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A expedição do CHASM é competência da DPM/CPesFN."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Quem são os auxiliares diretos do Gestor de Bens Patrimoniais e do seu substituto nas atividades inerentes à gestão dos bens de estoque das OM.?",
+    "alternativas": [
+      "Fiel de Suprimento.",
+      "Fiel de Armazenamento.",
+      "Fiel de Material.",
+      "Relatorda Gestão de Material.",
+      "Encarregado de Incumbência."
+    ],
+    "correta": 0,
+    "comentario": "Fiel de Suprimento. Auxiliares diretos do Gestor na gestão de bens de estoque."
+  },
+  {
+    "id": 2,
+    "pergunta": "Quais são os agentes que realizam as tarefas inerentes à gestão patrimonial das OMe estão estreitamente vinculados ao Ordenadorde Despesa ou seu substituto, na condição de corresponsáveis?",
+    "alternativas": [
+      "Ordenador de Despesas.",
+      "Agente Fiscal.",
+      "Fielde Pagamento.",
+      "Fiel de Amazenamento.",
+      "Gestor de Bens Patrimoniais e Gestor de Bens Patrimoniais Substituto."
+    ],
+    "correta": 4,
+    "comentario": "Gestor de Bens Patrimoniais e Gestor de Bens Patrimoniais Substituto. Agentes corresponsáveis vinculados ao Ordenador de Despesa."
+  },
+  {
+    "id": 3,
+    "pergunta": "Atividade de natureza administrativa e contábil, que tem como finalidade o controle patrimonial de bens da Fazenda Nacional e a fiscalização da atuação de seus agentes responsáveis pela administação ou guarda desses bens. Este é o conceito de:",
+    "alternativas": [
+      "controle de material.",
+      "gestão de municiamento.",
+      "gestão de equipamento.",
+      "gestão patrimonial.",
+      "escrituração do material."
+    ],
+    "correta": 3,
+    "comentario": "Gestão patrimonial. Conceito de controle e fiscalização dos bens da Fazenda Nacional."
+  },
+  {
+    "id": 4,
+    "pergunta": "Quem são os auxiliares diretos do Gestor de Bens Patrimonials no cumprimento das fases de recebimento dos bens móveis e bens de estoque das OM. Além disso, são responsáveis pelo controle fisico dos almoxarifados das OM e pela distribuição interna do Estoque para Consumo aos setores apropriados?",
+    "alternativas": [
+      "Fiel do Rancho",
+      "Fiel de Material.",
+      "Agente Fiscal.",
+      "Fiel de Amazenagem.",
+      "Fiel de Suprimento."
+    ],
+    "correta": 3,
+    "comentario": "Fiel de Armazenagem. Auxiliar no recebimento e controle físico de almoxarifados."
+  }
+]
