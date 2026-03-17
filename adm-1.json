@@ -1,0 +1,539 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual o Documento Nomativo pela qual os Almirantes, em cargo de Comando, Direção ou Chefia, bem como os Oficiais Superiores Comandantes de Força estabelecem normase procedimentos que serão cumpridos pelas OMs que lhes são subordinadas?",
+    "alternativas": [
+      "Termo.",
+      "Requerimento.",
+      "Comunicação Padronizada.",
+      "Norma Permanente.",
+      "Atestado."
+    ],
+    "correta": 3,
+    "comentario": "Definida como o documento pelo qual Almirantes e Oficiais Superiores Comandantes de Força estabelecem normas para as OM subordinadas."
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual o ducumento administrativo que dá validade a nomeação, designação, promoção, aposentadoria, exoneração, punição à civis e determinação de tarefas, salvo em âmbito exclusivo de uma OM?",
+    "alternativas": [
+      "Ordem Interma.",
+      "Portaria",
+      "Carta",
+      "Oficio Extemo.",
+      "Oficio Interno."
+    ],
+    "correta": 1,
+    "comentario": "Utilizada para validar nomeação, promoção, punição a civis, entre outros atos administrativos."
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual o documento de correspondência por meio do qual o Comandante da Marinha e os Titulares de OM correspondem-se entre si, podendo ser assinado por delegação de competência, por outro oficial ou civil assemelhado?",
+    "alternativas": [
+      "Correspondência Eletrônica.",
+      "Comunicação Intema.",
+      "Certidão.",
+      "Atestado.",
+      "Oficio"
+    ],
+    "correta": 4,
+    "comentario": "É a correspondência entre o Comandante da Marinha e Titulares de OM."
+  },
+  {
+    "id": 4,
+    "pergunta": "Como denomina-se o documento pelo qual o Comandante da Marinha e os titulares de OM, se correspondem com autoridades e entidades extra-Marinha a respeito de assunto técnico ou administrativo, de caráter exclusivamente oficial, podendo serassinado por delagação de competência poroutro oficail ou civil assemelhado?",
+    "alternativas": [
+      "Requerimento.",
+      "Cominicação Interna.",
+      "Comunicação Padronizada.",
+      "Oficio Externo",
+      "Carta."
+    ],
+    "correta": 3,
+    "comentario": "Utilizado para correspondência oficial com autoridades e entidades extra-MB."
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual o documento lavrado por pessoa especificamente autorizada - em alguns casos, por mais de uma - com a finalidade de relatar fatos, inventariar bens ou documentos, escriturar resultados de inspeções e vistorias ou descrever formalmente qualquer outra situação?",
+    "alternativas": [
+      "Termo.",
+      "Parecer.",
+      "Ordem de Serviço.",
+      "Instrução Normativa.",
+      "Carta."
+    ],
+    "correta": 0,
+    "comentario": "Documento lavrado por pessoa autorizada para relatar fatos, inventariar bens ou descrever vistorias."
+  },
+  {
+    "id": 6,
+    "pergunta": "Na gestão de documentos, qual a fase que um Elemento Organizacional da OM, após o estudo de uma situação ou de um documento recebido, prepara um novo DA?",
+    "alternativas": [
+      "Recepção.",
+      "Estudo.",
+      "Produção.",
+      "Seleção.",
+      "Expedição."
+    ],
+    "correta": 2,
+    "comentario": "Fase da gestão documental em que o Elemento Organizacional prepara um novo documento administrativo."
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual o Documento Administrativo utlizado na aprovação de Regulamentos, Regimentos Intemos, Normas, Organizações Administrativas e de Combate, Trabalhos, Distintivos e Estandartes de OM??",
+    "alternativas": [
+      "Norma Permanente.",
+      "Portarnia.",
+      "Carta.",
+      "Requerimento.",
+      "Oficio Extemo."
+    ],
+    "correta": 1,
+    "comentario": "Documento utilizado para aprovação de regulamentos, regimentos e organizações de OM."
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual o Documento Administrativo, pelo qual especialistas emitem opinião fundamentada sobre determinado assunto?",
+    "alternativas": [
+      "Atestado.",
+      "Ordem do Dia.",
+      "Certidăo.",
+      "Parecer.",
+      "Termo."
+    ],
+    "correta": 3,
+    "comentario": "Documento declaratório onde especialistas emitem opinião fundamentada."
+  },
+  {
+    "id": 9,
+    "pergunta": "Quais são os documentos que visam divulgar normas, transmitir ordens, decisões, esclarecer situações, declarar direitos, especificarmateriais e estabelecer procedimentos técnicos?",
+    "alternativas": [
+      "Administrativos.",
+      "Normas técnicas.",
+      "Especiais.",
+      "Portarias.",
+      "Operativos."
+    ],
+    "correta": 0,
+    "comentario": "Grupo de documentos que visam divulgar normas, transmitir ordens e decisões."
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual é o documento por meio do qual os titulares de OM estabelecem normas e procedimentos, no âmbito intemo de suas OM?",
+    "alternativas": [
+      "Comunicação Intema.",
+      "Ordem Interma.",
+      "Portaria.",
+      "Ordem-do-Dia.",
+      "Organização Administrativa."
+    ],
+    "correta": 1,
+    "comentario": "Estabelece normas e procedimentos no âmbito interno de uma OM."
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual é o documento utilizado por oficiais e servidores civis assemelhados, para tratar de assunto de serviço, quando houver necessidade de apresentação formal?",
+    "alternativas": [
+      "Oficio Extermo.",
+      "Cartão.",
+      "Requerimento.",
+      "Carta.",
+      "Nota eletrônica oficial."
+    ],
+    "correta": 3,
+    "comentario": "Utilizada em comunicações sociais e apresentações formais extra-MB."
+  },
+  {
+    "id": 12,
+    "pergunta": "Que documento uma pessoa se dirige a uma autoridade para pleitear direitos ou beneficios previstos em legislação?",
+    "alternativas": [
+      "Carta.",
+      "Requerimento.",
+      "Cartão.",
+      "Termo.",
+      "Certidão."
+    ],
+    "correta": 1,
+    "comentario": "Documento para pleitear direitos previstos na legislação."
+  },
+  {
+    "id": 13,
+    "pergunta": "Que documento é utilizado pelos titulares de OM, afim de comprovar, a pedido, um fato ou situação de que tenham conhecimento?",
+    "alternativas": [
+      "Certidăo.",
+      "Atestado.",
+      "Portaria.",
+      "Termo.",
+      "Parecer."
+    ],
+    "correta": 1,
+    "comentario": "Comprova, a pedido, um fato ou situação de conhecimento da autoridade."
+  },
+  {
+    "id": 14,
+    "pergunta": "Qual é o documento que os titulares de OMs utilizam para declarar a existência de fatos com base em outros documentos existentes na OM?",
+    "alternativas": [
+      "Certidão.",
+      "Atestado.",
+      "Portaria.",
+      "Temo.",
+      "Parecer."
+    ],
+    "correta": 0,
+    "comentario": "Declara a existência de fatos com base em documentos da OM."
+  },
+  {
+    "id": 15,
+    "pergunta": "Qual é o documento em que o Comandante da Marinha e os titulares de OM registram os direitos e as obrigações do pessoal relativos a diárias, gratificações e alterações de funções?",
+    "alternativas": [
+      "Ordem de Serviço.",
+      "Portaria.",
+      "Memorando.",
+      "Comunicação Intema.",
+      "Organização Administrativa."
+    ],
+    "correta": 0,
+    "comentario": "Registra direitos, obrigações, diárias e alterações de funções."
+  },
+  {
+    "id": 16,
+    "pergunta": "Quanto ao âmbito, como se classificam os documentos administrativos?",
+    "alternativas": [
+      "Intemo e extemo.",
+      "Rotina, especial e urgente.",
+      "Ostensivos e sigilosos.",
+      "Ultrassecreto, secreto e reservado.",
+      "Intemo e especial."
+    ],
+    "correta": 0,
+    "comentario": "Classificação quanto ao âmbito de tramitação."
+  },
+  {
+    "id": 17,
+    "pergunta": "Quanto à tramitação qual a precedência dos documentos administrativos?",
+    "alternativas": [
+      "Intemo e extemo.",
+      "Rotina, especial e urgente.",
+      "Ostensivos e sigilosos.",
+      "Ultrassecreto, secreto e reservado.",
+      "Intemo e especial."
+    ],
+    "correta": 1,
+    "comentario": "Classificação quanto à precedência."
+  },
+  {
+    "id": 18,
+    "pergunta": "Quanto ao acesso como se classificam os documentos administrativos?",
+    "alternativas": [
+      "Intermo e extemo.",
+      "Rotina, especial e urgente.",
+      "Ostensivos, sigilosos e Informção Pessoal.",
+      "Ultrassecreto, secreto, e reservado.",
+      "Intemos e especíais."
+    ],
+    "correta": 2,
+    "comentario": "Classificação quanto ao acesso."
+  },
+  {
+    "id": 19,
+    "pergunta": "Quanto ao grau de sigilo como se classificam os documentos administrativos?",
+    "alternativas": [
+      "Intemo e extemo.",
+      "Rotina, especial e urgente.",
+      "Ostensivos e sigilosos.",
+      "Ultrassecreto, secreto e reservado.",
+      "Intemos e especiais."
+    ],
+    "correta": 3,
+    "comentario": "Classificação quanto ao grau de sigilo."
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual é o tipo de documento cujo acesso é irrestrito, NÃO havendo limitação de conhecimento e de divulgação, no âmbito intemo?",
+    "alternativas": [
+      "Rotina.",
+      "Especial.",
+      "Urgente.",
+      "Ostensivo.",
+      "Sigiloso."
+    ],
+    "correta": 3,
+    "comentario": "Documento sem classificação de sigilo e de acesso franqueado."
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual é a fase da gestão de documentos que compreende registro do DA, recebido em meio físico ou digital, no Sistema de Gerência de Documentos homologado pela Marinha?",
+    "alternativas": [
+      "Estudo.",
+      "Elaboração.",
+      "Seleção.",
+      "Expedição.",
+      "Recepção."
+    ],
+    "correta": 4,
+    "comentario": "Fase de registro do documento no sistema de gerência."
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual é a fase da gestão de documento que um DA, após assinado, será remetido aos endereçados.?",
+    "alternativas": [
+      "Recepção.",
+      "Expedição.",
+      "Tramitação.",
+      "Estudo.",
+      "Elaboração."
+    ],
+    "correta": 1,
+    "comentario": "Fase em que o documento assinado é remetido aos destinatários."
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual a fase da gestão de documento, que Compreende o encaminhamento, a circulação e o controle do DA no âmbito interno da OM.?",
+    "alternativas": [
+      "Controle.",
+      "Circulação.",
+      "Estudo.",
+      "Distribuição Intema",
+      "Tramitação"
+    ],
+    "correta": 4,
+    "comentario": "Compreende o encaminhamento e circulação interna do documento."
+  },
+  {
+    "id": 24,
+    "pergunta": "Que Documento Declaratório por meio do qualo CM e os Titulares de OM registram punições impostas a Oficiais e Suboficiais?",
+    "alternativas": [
+      "Comunicação Padronizada.",
+      "Circular.",
+      "Ordem de Serviço.",
+      "Oficio Extemo.",
+      "Correspondência Eletrônica."
+    ],
+    "correta": 2,
+    "comentario": "Registra punições impostas a Oficiais e Suboficiais."
+  },
+  {
+    "id": 25,
+    "pergunta": "Qual o DA declaratório, mediante o qual o CM e os Titulares de OM, exaltam datas históricas ou fatos significativos?",
+    "alternativas": [
+      "Ordem de Serviço.",
+      "Boletim de Ordens e Noticias.",
+      "Ordem do Dia.",
+      "Instrução Normativa.",
+      "Instrução Permanente."
+    ],
+    "correta": 2,
+    "comentario": "Exalta datas históricas ou fatos significativos."
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual a ação atribuida ao titular da OM ou por autoridade por ele delegada, que confere existência à todo documento?",
+    "alternativas": [
+      "Determinação.",
+      "Delegação de Competência.",
+      "Indicação.",
+      "Assinatura.",
+      "Divulgação."
+    ],
+    "correta": 3,
+    "comentario": "Ato que confere existência legal ao documento."
+  },
+  {
+    "id": 27,
+    "pergunta": "Como denomina-se o sistema que permite o gerenciamento de parte do Ciclo de Processamento do DA, contemplando, em especial, recursos para a elaboração de DA, assinatura digital, estabelecimento de privilégios de acesso, pesquisa/recuperação por temas/números/datas, distribuição em rede, circulação em rede para comentáriose aprovação, registro de alterações, segurança e autenticidade, a inclusão de documentos digitalizados eo arquivamento e recuperação segura de DA?",
+    "alternativas": [
+      "SIGDEM.",
+      "SISMOV.",
+      "SISEAD.",
+      "MODEAD.",
+      "SISBOL."
+    ],
+    "correta": 0,
+    "comentario": "Sistema atual de gerenciamento de documentos da Marinha."
+  },
+  {
+    "id": 28,
+    "pergunta": "É o documento por meio do qual os elementos organizacionais de OM diferentes,excetuados os respectivos titulares, tratam de assuntos de rotina.",
+    "alternativas": [
+      "Oficio.",
+      "Carta.",
+      "Comunicação Padronizada.",
+      "Requerimento.",
+      "Portaria."
+    ],
+    "correta": 2,
+    "comentario": "Utilizada para rotina entre elementos organizacionais."
+  },
+  {
+    "id": 29,
+    "pergunta": "É o documento administrativo (DA) normativo por meio do qual o EMA, ODS, GCM e as OM com atribuições de diretoria especializada, estabelecem normas e procedimentos sobre assuntos de sua competência, para toda a MB.",
+    "alternativas": [
+      "Normas Permanentes.",
+      "Ordem Intema.",
+      "Instrução permanente.",
+      "Instrução Normativa.",
+      "Portaria."
+    ],
+    "correta": 3,
+    "comentario": "A resposta correta é Instrução Normativa."
+  },
+  {
+    "id": 30,
+    "pergunta": "Os grupos de documentos de interesse da MB são os seguintes:",
+    "alternativas": [
+      "administrativos, operativos, comunicações e especiais.",
+      "administrativos, diretrizes, publicações e especiais.",
+      "publicações, operativos, correspondências e sigilosos.",
+      "operativos, administrativos, publicações e especiais.",
+      "administrativos, operativos, publicações e informativos."
+    ],
+    "correta": 3,
+    "comentario": "operativos, administrativos, publicações e especiais. Grupos de documentos da MB."
+  },
+  {
+    "id": 31,
+    "pergunta": "Os documentos administrativos subdividem-se nos seguintes tipos:",
+    "alternativas": [
+      "Nomativos, correspondência e declaratórios.",
+      "Operativos, correspondência e declaratórios.",
+      "Nomativos, publicações e normativos.",
+      "Correspondėncia, especiais e declaratórios.",
+      "Normativos, correspondência e sigilosos."
+    ],
+    "correta": 0,
+    "comentario": "Normativos, correspondência e declaratórios. Tipos de documentos administrativos."
+  },
+  {
+    "id": 32,
+    "pergunta": "Qual é o documento pelo qual os Almirantes, em cargo de Comando, Direção ou Chefia e os Oficiais Superiores Comandantes de Força, promovem alteração de documentos nomativos, exceto portarias?",
+    "alternativas": [
+      "Comunicação padronizada.",
+      "Requerimento.",
+      "Ordem-do-Dia.",
+      "Circular.",
+      "Memorando."
+    ],
+    "correta": 3,
+    "comentario": "Circular. Altera documentos normativos, exceto portarias."
+  },
+  {
+    "id": 33,
+    "pergunta": "Das opções a seguir, assinale a que corresponde ao grau de precedência atribuído aos documentos que devam receber prioridade sobre os de rotina.",
+    "alternativas": [
+      "Reservado.",
+      "Especial.",
+      "Urgente.",
+      "Declaratório.",
+      "Ostensivo."
+    ],
+    "correta": 1,
+    "comentario": "Especial. Grau de precedência que prioriza sobre a rotina."
+  },
+  {
+    "id": 34,
+    "pergunta": "Como se chama a fase da Gestão de Documentos, na qual um documento após assinado, será remetido aos endereçados?",
+    "alternativas": [
+      "Encaminhamento.",
+      "Tramitação.",
+      "Expedição.",
+      "Envio.",
+      "Remessa."
+    ],
+    "correta": 2,
+    "comentario": "Fase em que o documento assinado é remetido aos destinatários."
+  },
+  {
+    "id": 35,
+    "pergunta": "Qual o documento administrativo utilizado na validação da atividade de criação de organização militar?",
+    "alternativas": [
+      "Portaria.",
+      "Oficio.",
+      "Circular.",
+      "Instrução Normativa.",
+      "Instrução Permanente."
+    ],
+    "correta": 0,
+    "comentario": "Portaria. Documento que valida o ato de criação de OM."
+  },
+  {
+    "id": 36,
+    "pergunta": "Os Documentos Administrativos são classificados de acordo com os seguintes aspectos:",
+    "alternativas": [
+      "âmbito, precedência e ao acesso.",
+      "âmbito, segurança e ostensivos.",
+      "âmbito, precedência, segurança e sigilo.",
+      "ostensivos, sigilosos, especial.",
+      "rotina, especial e urgente."
+    ],
+    "correta": 0,
+    "comentario": "âmbito, precedência e ao acesso. Aspectos de classificação dos documentos."
+  },
+  {
+    "id": 37,
+    "pergunta": "A tramitação dos Documentos Administrativos far-se-á de acordo com as seguintes precedências:",
+    "alternativas": [
+      "internos e externos.",
+      "rotina, especial e urgente.",
+      "ostensivos e sigilosos.",
+      "ultrassecreto, secreto e reservado.",
+      "interno e especial."
+    ],
+    "correta": 1,
+    "comentario": "rotina, especial e urgente. Graus de precedência na tramitação."
+  },
+  {
+    "id": 38,
+    "pergunta": "Quais as partes básicas dos documentos administrativos (DA)?",
+    "alternativas": [
+      "Cabeçalho, estética, texto e assinatura.",
+      "Texto, cabeçalho, assinatura e cópia.",
+      "Cabeçalho, texto metrificação e distribuição.",
+      "Cabeçalho, texto, assinatura e estética.",
+      "Texto, cabeçalho, estética e assinatura."
+    ],
+    "correta": 1,
+    "comentario": "Texto, cabeçalho, assinatura e cópia. Partes básicas do documento administrativo."
+  },
+  {
+    "id": 39,
+    "pergunta": "Os funcionários civis são punidos por qual documento administrativo?",
+    "alternativas": [
+      "Ordem do Dia.",
+      "Portaria.",
+      "Carta.",
+      "Parecer.",
+      "Termo."
+    ],
+    "correta": 1,
+    "comentario": "Portaria. Documento para punição de servidores civis."
+  },
+  {
+    "id": 40,
+    "pergunta": "Documento, em sentido amplo, é toda informação registrada em suporte material, suscetível de consulta, estudo, prova e pesquisa.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "Esta é a definição correta de documento em sentido amplo."
+  },
+  {
+    "id": 41,
+    "pergunta": "Portaria é o Documento Administrativo normativo por meio do qual o Estado-Maior da Armada (EMA), os Órgãos de Direção Setorial (ODS), o Gabinete do Comandante da Marinha (GCM) e as Organizações Militares (OM) com atribuições de Diretoria Especializada (DE) estabelecem normas e procedimentos sobre assuntos de sua competência, para toda a MB.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A definição apresentada refere-se à Instrução Permanente (INST), não à Portaria."
+  },
+  {
+    "id": 42,
+    "pergunta": "Ordem Interna é o documento administrativo nomativo pelo qual os Titulares de OM estabelecem normas e procedimentos no âmbito intemo de suas OМ.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "Esta é a definição correta de Ordem Interna."
+  }
+]
