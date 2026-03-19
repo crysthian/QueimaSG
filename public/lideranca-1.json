@@ -1,0 +1,1301 @@
+[
+  {
+    "id": 1,
+    "pergunta": "1. O conhecimento técnico-profissional é de suma importância para a execução das tarefas de qualquer agente em sua organização.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 2,
+    "pergunta": "1. É vasta em apresentar exemplos de líderes do passado que se destacaram por suas habilidades nesta arte.",
+    "alternativas": [
+      "Escopo",
+      "Manual de Liderança",
+      "Filosofia",
+      "Doutrina de Liderança",
+      "Literatura militar"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 3,
+    "pergunta": "1. A MB possui dois documentos principais sobre o tema liderança, quais são?",
+    "alternativas": [
+      "Doutrina de Liderança da Marinha (EMA-137) e Manual de Liderança da Marinha (DEnsM-1005).",
+      "Doutrina de Liderança da Marinha (EMA-147) e Manual de Liderança da Marinha (DEnsM-105)",
+      "Manual de Liderança da Marinha (EMA-137) e Doutrina de Liderança da Marinha (DEnsM-1005).",
+      "Manual de Liderança da Marinha (EMA-147) e Doutrina de Liderança da Marinha (DEnsM-105)",
+      "Doutrina de Liderança da Marinha (DEnsM-137) e Manual de Liderança da Marinha (EMA-1005)."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 4,
+    "pergunta": "1. Tem o propósito precípuo de orientar o desenvolvimento do ensino de liderança na Força Naval, por meio da apresentação de conceitos básicos.",
+    "alternativas": [
+      "Manual de liderança da Marinha (EMA-137)",
+      "Doutrina de liderança da Marinha (DEnsM-1005)",
+      "Manual de liderança da Marinha (DEnsM-1005)",
+      "Doutrina de liderança da Marinha (EMA-137)",
+      "Rosa das Virtudes"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 5,
+    "pergunta": "1. Tem a finalidade de disponibilizar um conteúdo de cunho teórico-prático, a ser empregado principalmente nas escolas de formação e por aqueles que desejarem aperfeiçoar-se na prática desta importante disciplina.",
+    "alternativas": [
+      "Doutrina de liderança da Marinha (EMA-137)",
+      "Manual de liderança da Marinha (EMA-137)",
+      "Doutrina de liderança da Marinha (DEnsM-1005)",
+      "Rosa das Virtudes",
+      "Manual de liderança da Marinha (DEnsM-1005)"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 6,
+    "pergunta": "1. \"É a força que nos impele a prestigiar nossa personalidade. É o sentimento avançado do nosso patrimônio moral, um misto de brio e de valor.\" (Joaquim Marques Lisboa - Patrono da Marinha)",
+    "alternativas": [
+      "Liderança",
+      "Conhecimento técnico-profissional",
+      "Ética",
+      "Honra",
+      "Moral"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 7,
+    "pergunta": "1. \"Ela exige a posse da perfeita compreensão do que é justo, nobre e respeitável, para elevação da nossa dignidade; a bravura para desafrontar perigos de toda ordem, na defesa da verdade, do direito e da justiça.\" (Joaquim Marques Lisboa - Patrono da Marinha)",
+    "alternativas": [
+      "Patriotismo",
+      "Honra",
+      "Ética",
+      "Coragem",
+      "Moral"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 8,
+    "pergunta": "1.1 Quais são os aspectos fundamentais conceituais de Liderança?",
+    "alternativas": [
+      "Fisiológicos, Filosóficos e psicológicos",
+      "Fisiológicos, psicológicos e sociológicos",
+      "Instrumento de trabalho, método e o escopo",
+      "Instrumento de trabalho, método ou finalidade",
+      "Filosóficos, psicológicos e sociológicos"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 9,
+    "pergunta": "1.2. ASPECTOS FILOSÓFICOS O mundo contemporâneo caracteriza-se pelo culto à ciência e à tecnologia.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 10,
+    "pergunta": "1.2.1 Quais são os atributos específicos da Filosofia?",
+    "alternativas": [
+      "Ciência e tecnologia.",
+      "Instrumento de trabalho, método e o escopo.",
+      "Percepção, motivação e atitude.",
+      "Fisiológicos, psicológicos e sociológicos.",
+      "Ética e moral."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 11,
+    "pergunta": "1.2.1 Quais são os atributos específicos da Filosofia?",
+    "alternativas": [
+      "Conhecimento, inteligência emocional e disciplina",
+      "Cooperação, competição e conflito",
+      "Fisiológicos, psicológicos e sociológicos",
+      "Instrumento de trabalho, método ou finalidade",
+      "Percepção, motivação e atitude"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 12,
+    "pergunta": "1.2.1. Atributos da Filosofia No dizer de Platão, o instrumento de trabalho do filósofo é a razão pura.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 13,
+    "pergunta": "1.2.1 Seu objetivo único é o conhecimento e a pesquisa da verdade em si mesma. Ela está, portanto, segundo Aristoteles, livre para contemplar o verdadeiro.",
+    "alternativas": [
+      "Percepção",
+      "Método",
+      "Escopo",
+      "Teoria dos valores",
+      "Axiologia"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 14,
+    "pergunta": "1.2.1 Seu objetivo único é o conhecimento e a pesquisa da verdade em si mesma. Ela está, portanto, segundo Aristoteles, livre para contemplar o verdadeiro.",
+    "alternativas": [
+      "Axiologia",
+      "Finalidade",
+      "Ética",
+      "Efeito Halo",
+      "Moral"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 15,
+    "pergunta": "1.2.1 Quanto ao escopo (ou finalidade), a filosofia não tem compromisso com fins imediatos ou interesseiros de qualquer ordem.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 16,
+    "pergunta": "1.2.2 É um dos grandes temas filosóficos, que pretende servir instrumentalmente à filosofia, fornecendo-lhe as regras do pensamento correto.",
+    "alternativas": [
+      "Lógica",
+      "Moral",
+      "Disciplina",
+      "Percepção",
+      "Ética"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 17,
+    "pergunta": "1.2.2 Um dos grandes temas filosóficos é a questão da lógica, que pretende servir instrumentalmente à filosofia, fornecendo-lhe as regras do pensamento correto. Outras questões abrangidas pela filosofia incluem o problema do conhecimento que...",
+    "alternativas": [
+      "se refere ao estudo do homem inserido em seu grupo social e de sua produção de cultura.",
+      "estuda o homem em seus múltiplos aspectos.",
+      "interessa também a outras áreas de conhecimento, tais como fisiologia, psicologia, sociologia etc.",
+      "se refere à educação, em geral.",
+      "se refere sobre suas origens, formas e valor."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 18,
+    "pergunta": "1.2.2 Um dos grandes temas filosóficos é a questão da lógica, que pretende servir instrumentalmente à filosofia, fornecendo-lhe as regras do pensamento correto. Outras questões abrangidas pela filosofia incluem o problema da linguagem que...",
+    "alternativas": [
+      "interessa também a outras áreas de conhecimento, tais como fisiologia, psicologia, sociologia etc.",
+      "estuda o homem em seus múltiplos aspectos.",
+      "se refere à educação, em geral.",
+      "se refere sobre suas origens, formas e valor.",
+      "se refere ao estudo do homem inserido em seu grupo social e de sua produção de cultura."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 19,
+    "pergunta": "1.2.2 Um dos grandes temas filosóficos é a questão da lógica, que pretende servir instrumentalmente à filosofia, fornecendo-lhe as regras do pensamento correto. Outras questões abrangidas pela filosofia incluem o problema antropológico que...",
+    "alternativas": [
+      "se refere ao estudo do homem inserido em seu grupo social e de sua produção de cultura.",
+      "estuda o homem em seus múltiplos aspectos.",
+      "se refere sobre suas origens, formas e valor.",
+      "se refere à educação, em geral.",
+      "interessa também a outras áreas de conhecimento, tais como fisiologia, psicologia, sociologia etc."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 20,
+    "pergunta": "1.2.2 Um dos grandes temas filosóficos é a questão da lógica, que pretende servir instrumentalmente à filosofia, fornecendo-lhe as regras do pensamento correto. Outras questões abrangidas pela filosofia incluem a questão pedagógica que...",
+    "alternativas": [
+      "estuda o homem em seus múltiplos aspectos.",
+      "se refere à educação, em geral.",
+      "interessa também a outras áreas de conhecimento, tais como fisiologia, psicologia, sociologia etc.",
+      "se refere ao estudo do homem inserido em seu grupo social e de sua produção de cultura.",
+      "se refere sobre suas origens, formas e valor."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 21,
+    "pergunta": "1.2.2 Um dos grandes temas filosóficos é a questão da lógica, que pretende servir instrumentalmente à filosofia, fornecendo-lhe as regras do pensamento correto. Outras questões abrangidas pela filosofia incluem a questão cultural que...",
+    "alternativas": [
+      "se refere ao estudo do homem inserido em seu grupo social e de sua produção de cultura.",
+      "se refere à educação, em geral.",
+      "estuda o homem em seus múltiplos aspectos.",
+      "interessa também a outras áreas de conhecimento, tais como fisiologia, psicologia, sociologia etc.",
+      "se refere sobre suas origens, formas e valor."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 22,
+    "pergunta": "1.2.2 É um processo de influenciar pessoas e deve existir em função daquilo que é do interesse específico da instituição Marinha do Brasil, tendo propósitos absolutamente impessoais.",
+    "alternativas": [
+      "Hierarquia",
+      "Moral",
+      "Ética",
+      "Liderança",
+      "Espírito Militar"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 23,
+    "pergunta": "1.2.2 A ESSÊNCIA DA LIDERANÇA caracteriza-se pela relação _______ e _______ com o processo de influenciação.",
+    "alternativas": [
+      "da ética e da axiologia",
+      "da motivação e do incentivo",
+      "da ética e da moral",
+      "da hierarquia e disciplina",
+      "da honra e da teoria dos valores"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 24,
+    "pergunta": "1.2.2 Caracteriza-se pela relação da ética e da axiologia com o processo de influenciação.",
+    "alternativas": [
+      "Efeito Halo",
+      "Escopo",
+      "Essência da liderança",
+      "Liderança estratégica",
+      "Autoridade Moral"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 25,
+    "pergunta": "1.2.3. A Ética A ética não é um valor em si mesma, é, sim, um processo de escolha por meio de valores. Assim, um comportamento ético é aquele selecionado, dentre tantos outros, a partir de valores culturalmente consagrados. Esses valores se referem:",
+    "alternativas": [
+      "à filosofia moral.",
+      "às virtudes.",
+      "à liderança.",
+      "ao valor moral."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 26,
+    "pergunta": "1.2.2 A ética trata fundamentalmente da moral e de sua prática; ao passo que a axiologia ou teoria dos valores refere-se ao estudo e à hierarquia desses.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 27,
+    "pergunta": "1.2.3 \"É a parte da filosofia que se ocupa com a reflexão a respeito dos fundamentos da vida moral\".",
+    "alternativas": [
+      "Ética",
+      "Axiologia",
+      "Teoria dos valores",
+      "Filosofia organizacional",
+      "Percepção"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 28,
+    "pergunta": "1.2.3 \"É a parte da filosofia que se ocupa com a reflexão a respeito dos fundamentos da vida moral\".",
+    "alternativas": [
+      "Filosofia moral",
+      "Axiologia",
+      "Teoria dos valores",
+      "Filosofia estratégica",
+      "Filosofia perceptiva"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 29,
+    "pergunta": "1.2.3 Conjunto de regras que determinam o comportamento dos indivíduos em uma dada sociedade.",
+    "alternativas": [
+      "Moral",
+      "Ética",
+      "Axiologia",
+      "Teoria dos valores",
+      "Liderança"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 30,
+    "pergunta": "1.2.3 O ato moral é complexo, livre, consciente e intencional; o que implica na responsabilidade do indivíduo com a comunidade à qual pertence.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 31,
+    "pergunta": "1.2.4 Para a grande maioria dos Filósofos, é considerada a parte mais nobre e a mais importante da Filosofia.",
+    "alternativas": [
+      "Teoria dos valores",
+      "Moral",
+      "Etnocentrismo",
+      "Liderança",
+      "Ética"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 32,
+    "pergunta": "1.2.4 Para a grande maioria dos Filósofos, é considerada a parte mais nobre e a mais importante da Filosofia.",
+    "alternativas": [
+      "Teoria dos valores",
+      "Moral",
+      "Etnocentrismo",
+      "Liderança",
+      "Ética"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 33,
+    "pergunta": "1.2.4 É basilar no sentido de lançar sólidos alicerces para a elaboração de uma nova cultura de dimensões cosmopolitas e da criação de uma nova sociedade.",
+    "alternativas": [
+      "Axiologia",
+      "Liderança",
+      "Etnocentrismo",
+      "Ética",
+      "Moral"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 34,
+    "pergunta": "1.2.4 É basilar no sentido de lançar sólidos alicerces para a elaboração de uma nova cultura de dimensões cosmopolitas e da criação de uma nova sociedade.",
+    "alternativas": [
+      "Ética",
+      "Teoria dos valores",
+      "Moral",
+      "Liderança",
+      "Tenacidade"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 35,
+    "pergunta": "1.2.4 Qual a característica fundamental da axiologia?",
+    "alternativas": [
+      "Considerar a cultura do próprio grupo como superior às demais",
+      "Hierarquização dos valores",
+      "Reflexão a respeito dos fundamentos da vida moral",
+      "Comportamento dos indivíduos em uma dada sociedade",
+      "Conhecimento e a pesquisa da verdade em si mesma"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 36,
+    "pergunta": "1.3 Podemos assegurar que a matéria prima da Psicologia é a vida humana em seus múltiplos aspectos: mentais, corporais e de interação com o mundo externo.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 37,
+    "pergunta": "1.3 A liderança consiste em uma relação que envolve pessoas (líder e liderados), construída ao longo do tempo e sujeita a permanente reavaliação.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 38,
+    "pergunta": "1.3 É importante para o líder conhecer seu próprio perfil psicológico.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 39,
+    "pergunta": "1.3 Quais são os três conceitos da Psicologia?",
+    "alternativas": [
+      "Motivação, incentivo e método.",
+      "Instrumento de trabalho, método ou finalidade.",
+      "Efeito Halo, estereótipo e similaridade suposta.",
+      "Instrumento de trabalho, método e o escopo.",
+      "Percepção, motivação e atitude."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 40,
+    "pergunta": "1.3.1 \"O homem é sempre capaz de receber estímulos do mundo externo e responder a eles após os haver interpretado. Tais estímulos incluem coisas, pessoas e situações\". Se refere à qual conceito de psicologia?",
+    "alternativas": [
+      "Incentivo",
+      "Atitude",
+      "Percepção",
+      "Motivação",
+      "Etnocentrismo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 41,
+    "pergunta": "1.3.1 \"Quando conhecemos alguém, tendemos a formar impressões imediatas sobre a pessoa. Podemos achá-la simpática, inteligente, mas um pouco arrogante. Um segundo observador, ao conhecer esta mesma pessoa, pode considerá-la simpática, não muito inteligente, e bastante simples, já um terceiro, poderá dizer que nem se aproximou muito por considerá-la antipática\". Se refere à qual conceito de psicologia?",
+    "alternativas": [
+      "Percepção",
+      "Motivação",
+      "Atitude",
+      "Incentivo",
+      "Axiologia"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 42,
+    "pergunta": "1.3.1 Referente ao conceito de Percepção, qual das alternativas abaixo não é um dos processos mais comumente postos em prática pelos observadores, em geral, que conduzem à graves equívocos na formação de juízos sobre terceiros?",
+    "alternativas": [
+      "Efeito Halo",
+      "Preconceito e discriminação",
+      "Etnocentrismo",
+      "Similaridade suposta",
+      "Estereótipo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 43,
+    "pergunta": "1.3.1 \"É muito comum categorizarmos o objeto de nossa percepção em termos de bom ou mau, deduzindo, a partir desta primeira classificação, os demais traços do indivíduo observado\". Esta tendência é chamada de:",
+    "alternativas": [
+      "Discriminação",
+      "Preconceito",
+      "Similaridade suposta",
+      "Estereótipo",
+      "Efeito halo"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 44,
+    "pergunta": "1.3.1 \"É comum a tendência das pessoas de suporem que as outras são semelhantes a elas mesmas\". É o que se chama de:",
+    "alternativas": [
+      "Preconceito",
+      "Similaridade suposta",
+      "Discriminação",
+      "Efeito halo",
+      "Estereótipo"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 45,
+    "pergunta": "1.3.1. PERCEPÇÃO \"O avaliador atribui seus próprios valores ou características de personalidade ao avaliado.\"",
+    "alternativas": [
+      "Motivação",
+      "Estereótipo",
+      "Incentivo",
+      "Preconceito e discriminação",
+      "Similaridade suposta"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 46,
+    "pergunta": "1.3.1 \"São crenças sobre características que atribuímos a pessoas ou grupos\". É o que se chama de:",
+    "alternativas": [
+      "Estereótipo",
+      "Efeito halo",
+      "Preconceito",
+      "Efeito horn",
+      "Similaridade suposta"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 47,
+    "pergunta": "1.3.1 \"São crenças sobre características que atribuímos a pessoas ou grupos. Os psicólogos sociais contemporâneos identificam como a base cognitiva do preconceito\". É o que se chama de:",
+    "alternativas": [
+      "Efeito horn",
+      "Similaridade suposta",
+      "Efeito halo",
+      "Discriminação",
+      "Estereótipo"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 48,
+    "pergunta": "1.3.1 Os psicólogos sociais contemporâneos identificam como a base cognitiva do preconceito.",
+    "alternativas": [
+      "Efeito halo",
+      "Estereótipo",
+      "Discriminação",
+      "Efeito horn",
+      "Similaridade suposta"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 49,
+    "pergunta": "1.3.1 É uma atitude em que uma pessoa pode comporta-se de maneira ofensiva com determinado grupo, por acreditar que aquele grupo possui características negativas.",
+    "alternativas": [
+      "Similaridade suposta",
+      "Preconceito",
+      "Efeito halo",
+      "Discriminação",
+      "Estereótipo"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 50,
+    "pergunta": "1.3.1 Tecnicamente, esse termo pode ser positivo ou negativo. Em Psicologia Social é usado apenas no caso de atitudes negativas, não levando necessariamente a atos hostis ou comportamentos discriminatórios.",
+    "alternativas": [
+      "Estereótipo",
+      "Preconceito",
+      "Similaridade suposta",
+      "Discriminação",
+      "Efeito halo"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 51,
+    "pergunta": "1.3.1 Utilizamos esse termo quando nos referimos ao comportamento. Neste caso sentimentos hostis somados a crenças estereotipadas deságuam numa atuação que pode variar de um tratamento diferenciado a expressões verbais de desprezo e a atos manifestos de agressividade.",
+    "alternativas": [
+      "Similaridade suposta",
+      "Discriminação",
+      "Estereótipo",
+      "Preconceito",
+      "Efeito halo"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 52,
+    "pergunta": "1.3.1 No processo de percepção de indivíduos interagem três variáveis: 1. O observador, objeto da ação; 2. A pessoa percebida, sujeito da ação; e 3. A situação em que ambos estão envolvidos.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 53,
+    "pergunta": "1.3.2 \"Resultante da interação do indivíduo com a situação e que seu nível varia tanto de indivíduo para indivíduo, quanto em um mesmo indivíduo em diferentes situações\". Se refere à qual conceito da Psicologia:",
+    "alternativas": [
+      "Incentivo",
+      "Percepção",
+      "Atitude",
+      "Comportamento",
+      "Motivação"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 54,
+    "pergunta": "1.3.2 \"É uma condição interna que leva o indivíduo a agir e persistir em um dado comportamento, visando um determinado objetivo\".",
+    "alternativas": [
+      "Etnocentrismo",
+      "Motivação",
+      "Atitude",
+      "Percepção",
+      "Incentivo"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 55,
+    "pergunta": "1.3.2 \"Todo comportamento humano é motivado. Nossos atos, mesmo os mais rotineiros, têm, por trás de si, motivos que os norteiam\".",
+    "alternativas": [
+      "Verdadeiro",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 56,
+    "pergunta": "1.3.2 Um conceito importante, relacionado à motivação, é o de _______ de grande utilidade para aqueles que, como os líderes, necessitam influenciar os comportamentos de outras pessoas.",
+    "alternativas": [
+      "Incentivo",
+      "Axiologia",
+      "Percepção",
+      "Comportamento",
+      "Atitude"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 57,
+    "pergunta": "1.3.2 São objetos ou condições que podem despertar motivos ou simplesmente modificar o comportamento do indivíduo. Só serão eficazes se a intensidade, a direção e a persistência atenderem às necessidades do indivíduo em determinada circunstância.",
+    "alternativas": [
+      "Comportamento",
+      "Incentivo",
+      "Motivação",
+      "Percepção",
+      "Atitude"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 58,
+    "pergunta": "1.3.3 É um conceito hipotético, isto é, não pode ser diretamente observável, o que não impede que seu efeito possa ser inferido a partir do comportamento decorrente.",
+    "alternativas": [
+      "Motivação",
+      "Atitude",
+      "Estereótipo",
+      "Incentivo",
+      "Percepção"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 59,
+    "pergunta": "1.3.3. Atitude e Comportamento Comportamento é a expressão de uma atitude ou a combinação de atitudes.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 60,
+    "pergunta": "1.3.3 Afirma-se que atitude é um sistema, portanto, compõe-se de partes. Que partes são essas?",
+    "alternativas": [
+      "Elemento psicológico, filosófico e sociológico",
+      "Elemento cognitivo, afetivo e comportamental",
+      "Elemento perceptivo, motivacional e cognitivo",
+      "Elemento afetivo, comportamental e sociológico",
+      "Elemento sociológico, fisiológico e perceptivo"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 61,
+    "pergunta": "1.3.3 Afirma-se que atitude é um sistema que compõe-se de três partes. Uma delas é chamada de elemento cognitivo que:",
+    "alternativas": [
+      "é de caráter racional, ligado à consciência do indivíduo.",
+      "está relacionado a sentimentos e emoções do sujeito.",
+      "trata-se das tendências ou predisposições do indivíduo para agir de maneira própria.",
+      "refere-se à formação, à educação, ao cultivo do homem.",
+      "refere-se à quantidade de saber em geral que alguém é capaz de deter."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 62,
+    "pergunta": "1.3.3 Afirma-se que atitude é um sistema, portanto, compõe-se de partes. Uma delas, de caráter racional, é conceitual, ligado, portanto, à consciência do indivíduo. É chamada de elemento:",
+    "alternativas": [
+      "Cognitivo",
+      "Afetivo",
+      "Comportamental",
+      "Perceptivo",
+      "Motivacional"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 63,
+    "pergunta": "1.3.3 Afirma-se que atitude é um sistema que compõe-se de três partes. Uma delas é chamada de elemento afetivo que:",
+    "alternativas": [
+      "refere-se ao caráter racional, ligado à consciência do indivíduo.",
+      "refere-se à formação, à educação, ao cultivo do homem.",
+      "trata-se das tendências ou predisposições do indivíduo para agir de maneira própria.",
+      "está relacionado a sentimentos e emoções do sujeito. Trata-se de gostar de um determinado objeto, independente de argumentos racionais.",
+      "refere-se à quantidade de saber em geral que alguém é capaz de deter."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 64,
+    "pergunta": "1.3.3 Afirma-se que atitude é um sistema, portanto, compõe-se de partes. Uma delas está relacionado a sentimentos e emoções do sujeito, tratando-se de gostar de um determinado objeto, independente de argumentos racionais. É chamada de elemento:",
+    "alternativas": [
+      "Afetivo",
+      "Cognitivo",
+      "Motivacional",
+      "Perceptivo",
+      "Comportamental"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 65,
+    "pergunta": "1.3.3 Afirma-se que atitude é um sistema que compõe-se de três partes. Uma delas é chamada de elemento comportamental que:",
+    "alternativas": [
+      "trata-se de gostar de um determinado objeto, independente de argumentos racionais.",
+      "refere-se à quantidade de saber em geral que alguém é capaz de deter.",
+      "refere-se à formação, à educação, ao cultivo do homem.",
+      "trata-se das tendências ou predisposições do indivíduo para agir de maneira própria.",
+      "refere-se ao caráter racional, ligado à consciência do indivíduo."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 66,
+    "pergunta": "1.3.3 Afirma-se que atitude é um sistema, portanto, compõe-se de partes. Uma delas, trata-se das tendências ou predisposições do indivíduo para agir de maneira própria. É chamada de elemento:",
+    "alternativas": [
+      "Afetivo",
+      "Cognitivo",
+      "Motivacional",
+      "Perceptivo",
+      "Comportamental"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 67,
+    "pergunta": "1.3.3 A liderança é um processo de influenciação, que consiste precisamente em atuar no complexo sistema de atitudes de indivíduos.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 68,
+    "pergunta": "1.4 \"Max Weber afirma que uma situação social é aquela em que as pessoas orientam suas ações umas para as outras\".",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 69,
+    "pergunta": "1.4 \"A sociologia tem como meta mostrar o lado de dentro das sociedades, com o propósito de refletir, com profundidade, sobre a dinâmica de forças atuantes em dada coletividade.\"",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 70,
+    "pergunta": "1.4.1 \"É tudo que é socialmente aprendido e partilhado pelos membros de dada sociedade\".",
+    "alternativas": [
+      "Ética",
+      "Incentivo",
+      "Teoria dos valores",
+      "Comportamento",
+      "Cultura"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 71,
+    "pergunta": "1.4.1 \"É um termo que pode ter significado elitista, pedagógico e antropológico\".",
+    "alternativas": [
+      "Axiologia",
+      "Moral",
+      "Etnocentrismo",
+      "Cultura",
+      "Ética"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 72,
+    "pergunta": "1.4.1 A cultura é um termo que pode ter significado:",
+    "alternativas": [
+      "Elitista, pedagógico e antropológico",
+      "Racional, social e pedagógico",
+      "Motivacional, comportamental e antropológico",
+      "Cognitivo, afetivo e comportamental",
+      "Social, elitista e pedagógico"
+    ],
+    "correta": 0,
+    "comentario": ""
+  },
+  {
+    "id": 73,
+    "pergunta": "1.4.1 A cultura é um termo que tem três significados, na primeira acepção, refere-se à quantidade de saber em geral que alguém é capaz de deter. Como se chama essa acepção?",
+    "alternativas": [
+      "Comportamental",
+      "Cognitivo",
+      "Antropológico",
+      "Pedagógico",
+      "Elitista"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 74,
+    "pergunta": "1.4.1 A cultura é um termo que tem três significados, na primeira acepção, a Elitista refere-se:",
+    "alternativas": [
+      "ao conjunto de língua, costumes, técnicas e valores que caracteriza um grupo social, um povo, uma nação.",
+      "à quantidade de saber em geral que alguém é capaz de deter.",
+      "à formação, à educação, ao cultivo do homem.",
+      "à tendência ou predisposição do indivíduo para agir de maneira própria.",
+      "aos sentimentos e emoções do sujeito."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 75,
+    "pergunta": "1.4.1 A cultura é um termo que tem três significados, na segunda acepção, refere-se à formação, à educação, ao cultivo do homem. Como se chama essa acepção?",
+    "alternativas": [
+      "Sociológico",
+      "Pedagógico",
+      "Cognitivo",
+      "Elitista",
+      "Antropológico"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 76,
+    "pergunta": "1.4.1 A cultura é um termo que tem três significados, na segunda acepção, o pedagógico refere-se:",
+    "alternativas": [
+      "à tendência ou predisposição do indivíduo para agir de maneira própria.",
+      "à quantidade de saber em geral que alguém é capaz de deter.",
+      "ao caráter racional, ligado à consciência do indivíduo.",
+      "ao conjunto de língua, costumes, técnicas e valores que caracteriza um grupo social, um povo, uma nação.",
+      "à formação, à educação, ao cultivo do homem."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 77,
+    "pergunta": "1.4.1 A cultura é um termo que tem três significados, na terceira acepção, trata-se do conjunto de língua, costumes, técnicas e valores que caracteriza um grupo social, um povo, uma nação. Como se chama essa acepção?",
+    "alternativas": [
+      "Pedagógico",
+      "Ética",
+      "Sociológico",
+      "Antropológico",
+      "Elitista"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 78,
+    "pergunta": "1.4.1 A cultura é um termo que tem três significados, na terceira acepção, o antropológico refere-se:",
+    "alternativas": [
+      "à formação, à educação, ao cultivo do homem.",
+      "à quantidade de saber em geral que alguém é capaz de deter.",
+      "ao conjunto de língua, costumes, técnicas e valores que caracteriza um grupo social, um povo, uma nação.",
+      "ao caráter racional, ligado à consciência do indivíduo.",
+      "à tendência ou predisposição do indivíduo para agir de maneira própria."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 79,
+    "pergunta": "1.4.1 \"A _______ é, sem dúvida, o primeiro elemento a unir grupos de indivíduos sob um signo comum. É o elemento catalisador, agente das relações sociais\".",
+    "alternativas": [
+      "Religião",
+      "Educação",
+      "Moral",
+      "Cultura",
+      "Língua"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 80,
+    "pergunta": "1.4.1 \"A língua é suficiente por si só para caracterizar uma cultura\".",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 81,
+    "pergunta": "1.4.1 É importante perceber que, dentro de uma determinada cultura, podemos notar grupos de pessoas que desenvolvem comportamentos próprios, não compartilhados por todos os membros desta cultura. É o que se define como:",
+    "alternativas": [
+      "Pré-cultura",
+      "Axiologia",
+      "Subcultura",
+      "Pós-cultura",
+      "Etnocentrismo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 82,
+    "pergunta": "1.4.1 \"A liderança, por definição, pressupõe a atuação do líder sobre grupos humanos\".",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 83,
+    "pergunta": "1.4.2 Tal prática consiste em considerar a cultura do próprio grupo como superior às demais, ou seja, é usada como padrão de referência em relação às outras.",
+    "alternativas": [
+      "Teoria dos valores",
+      "Etnocentrismo",
+      "Subcultura",
+      "Elemento cognitivo",
+      "Axiologia"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 84,
+    "pergunta": "1.4.2 \"Os sociólogos afirmam que o etnocentrismo é um produto de cultivo consciente\".",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 85,
+    "pergunta": "1.4.2. Etnocentrismo Aspecto positivo - refere-se ao fortalecimento da autoestima do grupo, sua lealdade interna e, consequentemente, sua autopreservação; é fator de estímulo do patriotismo, do nacionalismo, do espírito de corpo e do \"espírito de navio\".",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 86,
+    "pergunta": "1.4.2 O fortalecimento da autoestima do grupo, sua lealdade interna e, consequentemente, sua autopreservação. É um aspecto positivo do Etnocentrismo.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 87,
+    "pergunta": "1.4.2. Etnocentrismo Aspecto negativo - diz respeito à proteção contra eventuais mudanças e a não aceitação de elementos externos àquela cultura.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 88,
+    "pergunta": "1.4.2 A proteção contra eventuais mudanças e a não aceitação de elementos externos àquela cultura. É um aspecto negativo do Etnocentrismo.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 89,
+    "pergunta": "1.4.2 O Etnocentrismo pode conduzir ao isolamento, à cristalização e à falta de autocrítica no seio do grupo.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 90,
+    "pergunta": "1.4.3 Papel e Status são aspectos de um mesmo fenômeno, constantemente vivenciados pelos membros de qualquer grupo social.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 91,
+    "pergunta": "1.4.3 É um conjunto de privilégios e deveres:",
+    "alternativas": [
+      "Status",
+      "Líder",
+      "Papel",
+      "Sociedade",
+      "Liderança"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 92,
+    "pergunta": "1.4.3 Papel é um conjunto de privilégios e deveres; e Status é o comportamento derivado de tal conjunto de privilégios e deveres.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 93,
+    "pergunta": "1.4.3 É o comportamento esperado de um indivíduo que detém determinado status.",
+    "alternativas": [
+      "Papel",
+      "Responsabilidade",
+      "Disciplina",
+      "Fidelidade",
+      "Tenacidade"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 94,
+    "pergunta": "1.4.3 As normas da cultura são retidas através da aprendizagem de papéis; todos nós, ao longo da existência, devemos aprender a desempenhar vários papéis, como de: cidadão, pai, filho, marido, profissional, membro de determinada classe social ou de uma religião, e assim por diante. Para tanto, dois aspectos, basicamente, apoiam essa aprendizagem, quais são?",
+    "alternativas": [
+      "Aprendemos a cumprir deveres e reivindicar direitos relativos a um dado papel e devemos adquirir atitudes positivas em relação ao status.",
+      "Aprendemos a cumprir deveres e reivindicar direitos relativos a um dado papel e devemos adquirir atitudes positivas em relação ao papel.",
+      "Aprendemos a cumprir deveres e reivindicar direitos relativos a um dado status e devemos adquirir atitudes positivas em relação ao papel.",
+      "Aprendemos a cumprir deveres e reivindicar direitos relativos a um dado papel e devemos adquirir atitudes negativas em relação ao status."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 95,
+    "pergunta": "1.4.3 A noção de \"papel\", estabelece dois conceitos, papel atribuído e papel adquirido.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 96,
+    "pergunta": "1.4.3 Independem de escolha do indivíduo.",
+    "alternativas": [
+      "Status e papéis atribuídos",
+      "Status e papel adquiridos"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 97,
+    "pergunta": "1.4.3 São pertinentes às escolhas do indivíduo, e são obtidos através de sua capacidade e desempenho.",
+    "alternativas": [
+      "Status e papel adquiridos",
+      "Status e papéis atribuídos"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 98,
+    "pergunta": "1.4.3 \"Líder é um papel de grande complexidade, entre outras razões, porque a liderança tem caráter situacional\".",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 99,
+    "pergunta": "1.4.3 Líder é um papel de grande complexidade, entre outras razões, porque a liderança tem caráter:",
+    "alternativas": [
+      "Organizacional",
+      "Racional",
+      "Situacional",
+      "Motivacional",
+      "Comportamental"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 100,
+    "pergunta": "1.4.4 Processos Sociais Quais são processos de interação de maior incidência nas sociedades e grupos humanos?",
+    "alternativas": [
+      "Percepção, motivação e atitude",
+      "Elitista, pedagógico e antropológico",
+      "Cooperação, competição e conflito",
+      "Elemento cognitivo, afetivo e comportamental",
+      "Papel e Status"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 101,
+    "pergunta": "1.4.4 Processos sociais Etimologicamente, significa trabalhar em conjunto. Implica uma opção pelo coletivo em detrimento do individual. É a forma ideal de atuação de grupos.",
+    "alternativas": [
+      "Conflito",
+      "Competição",
+      "Antropologia",
+      "Cooperação",
+      "Cultura"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 102,
+    "pergunta": "1.4.4 Processos sociais É definida como a luta pela posse de recompensas cuja oferta é limitada.",
+    "alternativas": [
+      "Motivação",
+      "Percepção",
+      "Cooperação",
+      "Competição",
+      "Conflito"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 103,
+    "pergunta": "1.4.4 Processos sociais É a exacerbação da competição.",
+    "alternativas": [
+      "Disciplina",
+      "Tenacidade",
+      "Motivação",
+      "Conflito",
+      "Cooperação"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 104,
+    "pergunta": "1.4.4 Processos sociais Consiste em obter recompensas pela eliminação ou enfraquecimento dos competidores.",
+    "alternativas": [
+      "Abnegação",
+      "Conflito",
+      "Espírito de sacrifício",
+      "Competição",
+      "Cooperação"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 105,
+    "pergunta": "1.4.4 Processos sociais É uma forma de competição em que a violência tende a se instalar, e vai-se intensificando, à medida que aumenta a duração do processo, já que este em caráter cumulativo.",
+    "alternativas": [
+      "Cooperação",
+      "Guerra",
+      "Batalha",
+      "Espírito militar",
+      "Conflito"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 106,
+    "pergunta": "1.5 A Teoria dos grupos humanos No estudo da liderança, quatro componentes coexistem e interagem, exceto:",
+    "alternativas": [
+      "Motivação",
+      "Situação",
+      "Cultura organizacional",
+      "Liderados",
+      "Líder"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 107,
+    "pergunta": "1.5 Duas correntes de pensamento manifestam-se com relação à visão que se tem dos grupos: A primeira delas, difundida no passado, considera a personalidade do grupo como sendo o somatório das personalidades dos indivíduos que o compõem. A segunda, mais recente, defende que a personalidade do grupo é algo novo, resultante da combinação das personalidades de seus membros; ou seja, o grupo tem \"cara\" própria.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  }
+]

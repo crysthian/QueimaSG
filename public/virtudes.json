@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "pergunta": "É o sentimento que induz o indivíduo à prática do Bem, da Justiça e da Moral. É a força que o impele a prestigiar sua própria personalidade, como um sentimento de seu patrimônio moral, um misto de brio e valor. Qual virtude está explicita?",
+    "alternativas": [
+      "Honra",
+      "Lealdade",
+      "Fidelidade",
+      "Disciplina",
+      "Fogo Sagrado"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 2,
+    "pergunta": "É o verdadeiro, espontâneo e incansável devotamento a uma causa, a sincera obediência à autoridade dos superiores e o respeito aos sentimentos de dignidade alheia. Qual virtude está explicita?",
+    "alternativas": [
+      "Honra",
+      "Espírito de Sacrifício",
+      "Abnegação",
+      "Disciplina",
+      "Lealdade"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 3,
+    "pergunta": "O subordinado com essa virtude cumpre as ordens que recebe sempre com o mesmo ardor, quer esteja perto ou longe de quem as deu, ainda que, por vezes, intimamente não as compreenda. Qual virtude está explicita?",
+    "alternativas": [
+      "Iniciativa",
+      "Lealdade",
+      "Abnegação",
+      "Disciplina",
+      "Espirito Militar"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 4,
+    "pergunta": "Um militar cumpre de forma conscienciosa as obrigações, as rotinas de seu cargo, faz o treinamento regular de seus homens, etc. Um outro faz tudo isto e vê onde um aperfeiçoamento pode ser introduzido. Qual virtude está explicita?",
+    "alternativas": [
+      "Cooperação",
+      "Coragem",
+      "Iniciativa",
+      "Disciplina",
+      "Zelo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 5,
+    "pergunta": "É auxiliar eficiente e desinteressadamente; é esforçar-se em benefício de uma causa comum. O militar deve sempre agir no interesse maior do conjunto dos serviços. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Lealdade",
+      "Cooperação",
+      "Fogo Sagrado",
+      "Abnegação"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 6,
+    "pergunta": "É a disposição sincera de realmente oferecer, espontaneamente, interesses, comodidades, vida, tudo, em prol do cumprimento do dever. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito Militar",
+      "Espírito de Sacrifício",
+      "Patriotismo",
+      "Fogo Sagrado",
+      "Tenacidade"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 7,
+    "pergunta": "É atributo que não depende, em alto grau, de preparo profissional, de predicados especiais de inteligência e de saber. É, por isso mesmo, virtude que deve ser comum a todos os que servem à Marinha. Essa qualidade é consequência direta do “amor próprio”, do amor à Marinha e à Nação. Qual virtude está explicita?",
+    "alternativas": [
+      "Fogo Sagrado",
+      "Ordem",
+      "Zelo",
+      "Espírito Militar",
+      "Patriotismo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 8,
+    "pergunta": "É a disposição natural que nos permite dominar o medo e enfrentar qualquer perigo. É a força capaz de fazer com que aquele que ama a vida, e que nela é feliz, saiba arriscá-la e se disponha a morrer por uma causa nobre. Qual virtude está explicita?",
+    "alternativas": [
+      "Honra",
+      "Lealdade",
+      "Cooperação",
+      "Coragem",
+      "Iniciativa"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 9,
+    "pergunta": "É diligência, porque economiza o tempo, e é previdência, porque o conserva. Como exemplo de disciplina e método, tal virtude orienta o espírito e promove segurança, porque resguarda e alinha em lugar próprio aquilo que será utilizado no futuro. Qual virtude está explicita?",
+    "alternativas": [
+      "Zelo",
+      "Coragem",
+      "Ordem",
+      "Fidelidade",
+      "Fogo Sagrado"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 10,
+    "pergunta": "É ser honesto, ter têmpera forte para opinar e agir sempre pelo bem, mesmo, e principalmente, quando não favorecer ou até contrariar as conveniências pessoais. Essa virtude impede que o militar cuide de afazeres e atividades estranhos à Marinha, enquanto estiver ao seu serviço, e negligencie as suas obrigações. Qual virtude está explicita?",
+    "alternativas": [
+      "Zelo",
+      "Coragem",
+      "Ordem",
+      "Fidelidade",
+      "Fogo Sagrado"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 11,
+    "pergunta": "É a paixão, a fé, o entusiasmo com que o militar se dedica à sua carreira; é o seu intenso amor à Marinha, o seu devotamento pela grandeza da sua profissão; é a larga medida de uma verdadeira vocação e de um sadio patriotismo; é o supremo amor pelo serviço. Qual virtude está explicita?",
+    "alternativas": [
+      "Patriotismo",
+      "Espírito Militar",
+      "Abnegação",
+      "Disciplina",
+      "Fogo Sagrado"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 12,
+    "pergunta": "É a disposição para estudar tanto o material em si como também a maneira de utilizá-lo; para estar a par das rotinas, da organização interna de bordo, da ordenança, dos regulamentos e das leis; para bem conhecer tudo referente aos aspectos essenciais da profissão. Qual virtude está explicita?",
+    "alternativas": [
+      "Decisão",
+      "Tenacidade",
+      "Patriotismo",
+      "Disciplina",
+      "Fogo Sagrado"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 13,
+    "pergunta": "É tomar resolução, é sentenciar, é orientar a ação. O verdadeiro chefe medita bem antes de chegar a uma decisão. Se sabe dizer sim ou não, com serena energia e acerto, e mantém-se firme em sua posição, ganha confiança de seus subordinados. Qual virtude está explicita?",
+    "alternativas": [
+      "Decisão",
+      "Tenacidade",
+      "Patriotismo",
+      "Disciplina",
+      "Fogo Sagrado"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 14,
+    "pergunta": "É o esquecimento voluntário do que há de egoístico nos desejos e tendências naturais, em proveito de uma pessoa, causa ou ideia. É a renegação de si mesmo e a disposição de se colocar a serviço dos outros com o sacrifício dos próprios interesses. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Espírito Militar",
+      "Abnegação",
+      "Disciplina",
+      "Tenacidade"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 15,
+    "pergunta": "É a qualidade que impele o militar de cumprir com natural interesse, dentro da ética, os deveres e obrigações do serviço, com disciplina e lealdade, sempre animado pelo desejo de ver brilhar o seu navio, a sua classe e aumentar a eficiência e o prestígio da Marinha. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Espírito Militar",
+      "Abnegação",
+      "Disciplina",
+      "Tenacidade"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 16,
+    "pergunta": "É indispensável não só a um Organismo Militar, mas a qualquer outro que pretenda reunir indivíduos em uma unidade sólida e eficaz. Tal virtude tem um único inimigo verdadeiro, que é o egoísmo, tão mais obstinado quanto mais inconsciente de si mesmo. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Espírito Militar",
+      "Abnegação",
+      "Disciplina",
+      "Tenacidade"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 17,
+    "pergunta": "É o sentimento irresistível que prende os indivíduos à terra em que nasceram. É a trama de afetos que, através das gerações, vai sendo tecido em suas almas ao redor do solo querido. Qual virtude está explicita?",
+    "alternativas": [
+      "Decisão",
+      "Espírito Militar",
+      "Abnegação",
+      "Patriotismo",
+      "Honra"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 18,
+    "pergunta": "Ela exige a posse do perfeito sentimento do que é justo e respeitável, para a elevação da dignidade e da bravura desse indivíduo, e,assim, afrontar perigos de toda a ordem, na sustentação dos ditames da Verdade e do Direito. Qual virtude está explicita?",
+    "alternativas": [
+      "Honra",
+      "Lealdade",
+      "Fidelidade",
+      "Disciplina",
+      "Fogo Sagrado"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 19,
+    "pergunta": "É o sentimento que leva, pois, o subordinado a fazer tudo quanto for humanamente possível para bem cumprir uma ordem ou desempenhar uma dada missão. Qual virtude está explicita?",
+    "alternativas": [
+      "Honra",
+      "Espírito de Sacrifício",
+      "Abnegação",
+      "Disciplina",
+      "Lealdade"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 20,
+    "pergunta": "Tal virtude exige que se manifeste ao superior, disciplinadamente e no interesse do serviço, toda eventual incompreensão em relação à determinação ou orientação recebida. Qual virtude está explicita?",
+    "alternativas": [
+      "Iniciativa",
+      "Lealdade",
+      "Abnegação",
+      "Disciplina",
+      "Espirito Militar"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 21,
+    "pergunta": "Em um plano mais elevado, é a faculdade de deliberar acertadamente em circunstâncias imprevistas ou na ausência dos superiores, agindo sob responsabilidade própria, mas dentro da doutrina, a bem do serviço. Qual virtude está explicita?",
+    "alternativas": [
+      "Cooperação",
+      "Coragem",
+      "Iniciativa",
+      "Disciplina",
+      "Zelo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 22,
+    "pergunta": "Em todas as atividades, o trabalho deve obedecer a esse espírito de comunhão de esforços, a fim de que a potencialidade do conjunto, como um todo, seja a mais elevada possível. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Lealdade",
+      "Cooperação",
+      "Fogo Sagrado",
+      "Abnegação"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 23,
+    "pergunta": "O cultivo dessa virtude é praticado vencendo os pequenos incômodos pessoais, os menores percalços do dia a dia. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito Militar",
+      "Espírito de Sacrifício",
+      "Patriotismo",
+      "Fogo Sagrado",
+      "Tenacidade"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 24,
+    "pergunta": "É o sentimento que leva a não poupar esforços para o bom desempenho das funções que lhes são atribuídas. É o sentimento que conduz à dedicação ao serviço, como autêntica expressão do Dever. Qual virtude está explicita?",
+    "alternativas": [
+      "Fogo Sagrado",
+      "Ordem",
+      "Zelo",
+      "Espírito Militar",
+      "Patriotismo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 25,
+    "pergunta": "É a força psíquica que ampara os homens nas crises do pensamento e do caráter. É a sustentação das próprias ordens, atitudes e convicções; o saber assumir a responsabilidade dos seus atos; o afrontamento à perfídia, à inveja e à incompreensão; a manutenção intransigente do rumo moral, custe o que custar. Qual virtude está explicita?",
+    "alternativas": [
+      "Honra",
+      "Lealdade",
+      "Cooperação",
+      "Coragem",
+      "Iniciativa"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 26,
+    "pergunta": "A sua falta traz o desperdício e a perda do tempo, bem precioso, e que, uma vez perdido, não há como reaver. A arte de organizar, pôr em ordem, é essencial em um condutor de homens. Qual virtude está explicita?",
+    "alternativas": [
+      "Zelo",
+      "Coragem",
+      "Ordem",
+      "Fidelidade",
+      "Fogo Sagrado"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 27,
+    "pergunta": "O aprendizado da arte de organizar inicia-se individualmente na ordenação do próprio trabalho; organizando o material, os livros, os uniformes; encontrando o tempo necessário para se ocupar adequadamente dos estudos e das demais atividades de formação. Qual virtude está explicita?",
+    "alternativas": [
+      "Zelo",
+      "Coragem",
+      "Ordem",
+      "Fidelidade",
+      "Fogo Sagrado"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 28,
+    "pergunta": "Mas, cumprir ordens difíceis, arriscando a vida, contrariando os próprios interesses e opiniões, é muito mais digno, porquanto implica sacrifício, que caracteriza a virtude militar. Qual virtude está explicita?",
+    "alternativas": [
+      "Zelo",
+      "Coragem",
+      "Ordem",
+      "Fidelidade",
+      "Fogo Sagrado"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 29,
+    "pergunta": "É essa força misteriosa que, dominando a alma do verdadeiro marinheiro, o conduz sempre ao sacrifício com inexcedível vibração e estoica resignação. Qual virtude está explicita?",
+    "alternativas": [
+      "Patriotismo",
+      "Espírito Militar",
+      "Abnegação",
+      "Espírito de Sacrifício",
+      "Fogo Sagrado"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 30,
+    "pergunta": "É o saber querer longamente, sem desfalecimento e sem trégua. É a presença de ânimo perante qualquer obstáculo ou dificuldade, a vontade constante de tudo superar e bem desempenhar a tarefa ou função, de caráter operativo ou administrativo. Qual virtude está explicita?",
+    "alternativas": [
+      "Decisão",
+      "Tenacidade",
+      "Patriotismo",
+      "Disciplina",
+      "Fogo Sagrado"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 31,
+    "pergunta": "O hábito constante de examinar todas as possíveis situações e analisar todos os dados disponíveis é muito recomendável. Qual virtude está explicita?",
+    "alternativas": [
+      "Decisão",
+      "Tenacidade",
+      "Patriotismo",
+      "Disciplina",
+      "Fogo Sagrado"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 32,
+    "pergunta": "Tem a consciência do “servir”; inclui a base de todas as virtudes, a humanidade; e possui a simplicidade em todas as suas ações e palavras. Fortalece o desenvolvimento de todas as atividades de serviço à Marinha, criando a unidade de ação, pois ela é passar por cima de qualquer interesse individual. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Espírito Militar",
+      "Abnegação",
+      "Disciplina",
+      "Tenacidade"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 33,
+    "pergunta": "O militar demonstra estar possuído dessa virtude em suas maneiras de agir e de se expressar; no apuro de seus uniformes; na saudação a seus superiores; na discrição com que se manifesta; na seriedade que imprime ao seu serviço, como expressão da dignidade da sua função e da eficiência dos seus encargos. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Espírito Militar",
+      "Abnegação",
+      "Disciplina",
+      "Tenacidade"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 34,
+    "pergunta": "O militar dotado dessa virtude cria em torno de si um ambiente de compostura, seriedade e confiança, qualidades essenciais a quem comanda e tem sob sua direta responsabilidade a guarda e a defesa de preciosos valores morais e materiais da Nação. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Espírito Militar",
+      "Abnegação",
+      "Disciplina",
+      "Tenacidade"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 35,
+    "pergunta": "Manifesta-se basicamente: pela obediência pronta às ordens do superior; pela utilização total das energias em prol do serviço; e pela correção de atitudes e cooperação espontânea em benefício da disciplina coletiva e da eficiência da instituição. Qual virtude está explicita?",
+    "alternativas": [
+      "Espírito de Sacrifício",
+      "Espírito Militar",
+      "Abnegação",
+      "Disciplina",
+      "Tenacidade"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 36,
+    "pergunta": "Externamente, é a emoção que os indivíduos sentem ao ouvir os acordes do Hino Nacional e ao ver desfraldada a Bandeira de sua Pátria. É a força de coesão poderosa que os torna solidários em um interesse comum, ensinando-os a bem querer, servir, honrar e defender a Pátria. Qual virtude está explicita?",
+    "alternativas": [
+      "Decisão",
+      "Espírito Militar",
+      "Abnegação",
+      "Patriotismo",
+      "Honra"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  }
+]
