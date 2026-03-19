@@ -1,6 +1,8 @@
 [
-  {"id": "adm", "nome": "Administração Naval - Todos capítulos"},
-  {"id": "adm-1", "nome": "Administração Naval  - Capítulo 1"},
-  {"id": "adm-2", "nome": "Administração Naval  - Capítulo 2"},
-  {"id": "adm-3", "nome": "Administração Naval  - Capítulo 3"}
+  {"id": "lideranca", "nome": "Liderança"},
+  {"id": "virtudes", "nome": "Rosa das virtudes"},
+  {"id": "lideranca-1", "nome": "Liderança - Cap 1"},
+  {"id": "lideranca-23", "nome": "Liderança - Cap 2 e 3"},
+  {"id": "lideranca-4", "nome": "Liderança - Cap 4"}
+
 ]
