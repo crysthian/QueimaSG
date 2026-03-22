@@ -1,0 +1,838 @@
+[
+  {
+    "id": 1,
+    "pergunta": "4.1 A prática de liderança é uma atividade complexa, em que o líder deverá flexibilizar o emprego de diferentes estilos e processos de influenciação. Esta versatilidade no exercício da liderança causa impacto direto na geração de resultados, pelo maior ou menor comprometimento dos liderados e dependerá da combinação equilibrada e indissociável de quatro fatores fundamentais, exceto:",
+    "alternativas": [
+      "A cultura organizacional",
+      "Integridade ética",
+      "A equipe",
+      "O ser humano",
+      "A situação"
+    ],
+    "correta": 1,
+    "comentario": "Segundo o manual, a prática da liderança depende da combinação de quatro fatores fundamentais: o ser humano, a equipe, a situação e a cultura organizacional. A \"integridade ética\" é listada como uma competência individual almejada, e não como um dos quatro fatores da prática em si."
+  },
+  {
+    "id": 2,
+    "pergunta": "4.2 O líder tende a ser eficaz quando alterna flexivelmente entre os estilos de liderança na medida do necessário.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O texto afirma explicitamente que o líder tende a ser eficaz quando alterna de forma flexível entre os estilos de liderança conforme a necessidade do contexto."
+  },
+  {
+    "id": 3,
+    "pergunta": "4.2 A aplicação da liderança é a combinação equilibrada e indissociável de quatro fatores fundamentais, exceto:",
+    "alternativas": [
+      "A situação",
+      "Autoridade moral",
+      "A equipe",
+      "A cultura organizacional",
+      "O ser humano"
+    ],
+    "correta": 1,
+    "comentario": "Os quatro fatores fundamentais são o ser humano, a equipe, a situação e a cultura organizacional. A \"autoridade moral\" é classificada no manual como uma das quatro bases (fatores predisponentes) da liderança, não devendo ser confundida com os fatores da prática."
+  },
+  {
+    "id": 4,
+    "pergunta": "4.2.1 O autoconhecimento e o conhecimento individual do liderado são fatores essenciais para o exercício da liderança.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O manual destaca que o autoconhecimento e o conhecimento individual de cada liderado são essenciais para que o líder possa exercer sua influência de maneira eficaz."
+  },
+  {
+    "id": 5,
+    "pergunta": "4.2.1 O autoconhecimento e o conhecimento individual do liderado são fatores essenciais para o exercício da liderança. O líder deve conhecer as características e limitações próprias de cada liderado. Com exceção de qual alternativa abaixo?",
+    "alternativas": [
+      "Desenvolvimento profissional",
+      "Personalidade / Temperamento / Caráter",
+      "Desenvolvimento emocional",
+      "Graduação, idade, sexo, formação acadêmica.",
+      "Atuando juntas em harmonia, interdependência e sinergia."
+    ],
+    "correta": 4,
+    "comentario": "Esta opção descreve uma característica do conceito de equipe. As características individuais que o líder deve conhecer no liderado incluem seu desenvolvimento profissional e emocional, dados funcionais (graduação, idade, sexo) e sua personalidade/caráter."
+  },
+  {
+    "id": 6,
+    "pergunta": "4.2.3 Fatores Fundamentais “Não existem normas ou fórmulas que mostrem com exatidão o que deve ser feito. O líder precisa compreender a dinâmica do processo de liderança, os fatores principais que o compõem, as características de seus liderados e aplicar estes conhecimentos”. Se refere à qual fator fundamental?",
+    "alternativas": [
+      "O ser humano",
+      "A cultura organizacional",
+      "A equipe",
+      "A Visão",
+      "A situação"
+    ],
+    "correta": 4,
+    "comentario": "No item 4.2.3, o manual explica que, como não existem fórmulas exatas, o líder deve aplicar seus conhecimentos como um guia específico para cada situação particular."
+  },
+  {
+    "id": 7,
+    "pergunta": "4.2.4 Fatores Fundamentais É o conjunto de pressupostos básicos desenvolvidos que em um grupo a partir do aprendizado adquirido com problemas ocorridos internamente e com o meio externo, sendo valorizados e passados aos novos integrantes como sendo a forma correta de agir e pensar dentro do grupo.",
+    "alternativas": [
+      "Cultura organizacional",
+      "Liderança estratégica",
+      "Gestão de competência",
+      "Autoridade organizacional",
+      "Inteligência interpessoal"
+    ],
+    "correta": 0,
+    "comentario": "A definição apresentada (conjunto de pressupostos básicos passados aos novos integrantes como a forma correta de agir) corresponde exatamente ao conceito de Cultura Organizacional citado no manual."
+  },
+  {
+    "id": 8,
+    "pergunta": "4.2.4 Os elementos fundamentais da cultura são:",
+    "alternativas": [
+      "A língua, os costumes, as técnicas e os valores.",
+      "A língua, a ética, a moral e os costumes.",
+      "Integridade ética, a moral, a língua e os valores.",
+      "Integridade ética, os costumes e os valores.",
+      "O ser humano, o grupo e a situação."
+    ],
+    "correta": 0,
+    "comentario": "O manual identifica esses quatro itens como os elementos fundamentais que compõem a cultura de qualquer grupo ou instituição."
+  },
+  {
+    "id": 9,
+    "pergunta": "4.3 Estilos de Liderança As principais escolas de liderança consideram a existência de sete estilos de liderança, divididos em três eixos, que são:",
+    "alternativas": [
+      "Liderança direta, organizacional e estratégica.",
+      "Inteligência interpessoal, Inteligência intrapessoal e Integridade ética.",
+      "Grau de centralização do poder, tipo de incentivo e o foco.",
+      "Perfil Real, Gestão de Competência e Autoridade Moral.",
+      "Cultura organizacional, o ser humano e a situação."
+    ],
+    "correta": 2,
+    "comentario": "Conforme o manual, as principais escolas dividem os sete estilos de liderança nestes três eixos fundamentais."
+  },
+  {
+    "id": 10,
+    "pergunta": "4.3 Estilos de Liderança Segundo Lewin (1978), existem 3 estilos de liderança quanto ao grau de centralização do poder, que são:",
+    "alternativas": [
+      "Organizacional, Transacional e Transformacional.",
+      "Organizacional, participativo e Transformacional.",
+      "Centralizador, organizacional e estratégico.",
+      "Direto, organizacional e transacional.",
+      "Centralizador, participativo e delegativo."
+    ],
+    "correta": 4,
+    "comentario": "Estes são os três estilos clássicos de Lewin (1978) quanto ao grau de centralização do poder adotados na doutrina da Marinha."
+  },
+  {
+    "id": 11,
+    "pergunta": "4.3 Estilos de Liderança Tomada de decisões: Apenas o líder decide sem nenhuma participação do grupo. O líder define todos os parâmetros para o cumprimento das tarefas. Se refere à qual estilo de liderança?",
+    "alternativas": [
+      "Participativo",
+      "Estratégico",
+      "Centralizador",
+      "Organizacional",
+      "Delegativo"
+    ],
+    "correta": 2,
+    "comentario": "No estilo centralizador, o líder decide sozinho e define todos os parâmetros sem a participação do grupo."
+  },
+  {
+    "id": 12,
+    "pergunta": "4.3 Estilos de Liderança Comportamento: É disciplinador. O líder exerce pressão contínua. O líder determina. Se refere à qual estilo de liderança?",
+    "alternativas": [
+      "Participativo",
+      "Delegativo",
+      "Centralizador",
+      "Organizacional",
+      "Direto"
+    ],
+    "correta": 2,
+    "comentario": "O comportamento disciplinador e a pressão contínua para determinar como as tarefas serão feitas são características marcantes do líder centralizador."
+  },
+  {
+    "id": 13,
+    "pergunta": "4.3 Estilos de Liderança Tomada de decisões: O líder decide após debater as ideias e as sugestões do grupo. Se refere à qual estilo de liderança?",
+    "alternativas": [
+      "Centralizador",
+      "Participativo",
+      "Delegativo",
+      "Organizacional",
+      "Estratégico"
+    ],
+    "correta": 1,
+    "comentario": "O líder participativo é aquele que abre espaço para o debate de ideias e sugestões antes de tomar a decisão final."
+  },
+  {
+    "id": 14,
+    "pergunta": "4.3 Estilos de Liderança Comportamento: Trabalha como educador, treinador da equipe, encoraja a participação e aceita sugestões. O líder consulta, persuade e compartilha. Se refere à qual estilo de liderança?",
+    "alternativas": [
+      "Estratégico",
+      "Delegativo",
+      "Participativo",
+      "Direto",
+      "Centralizador"
+    ],
+    "correta": 2,
+    "comentario": "Atuar como educador, encorajar a participação e compartilhar decisões são os comportamentos esperados no estilo participativo."
+  },
+  {
+    "id": 15,
+    "pergunta": "4.3 Estilos de Liderança Tomada de decisões: O grupo decide. O líder acompanha e interfere quando não concordar. Se refere à qual estilo de liderança?",
+    "alternativas": [
+      "Participativo",
+      "Delegativo",
+      "Estratégico",
+      "Organizacional",
+      "Centralizador"
+    ],
+    "correta": 1,
+    "comentario": "No estilo delegativo, o grupo tem autonomia para decidir, cabendo ao líder apenas acompanhar e intervir em caso de discordância."
+  },
+  {
+    "id": 16,
+    "pergunta": "4.3 Estilos de Liderança Comportamento: Atua somente quando é solicitado ou conclui que os objetivos não serão alcançados. Se refere à qual estilo de liderança?",
+    "alternativas": [
+      "Centralizador",
+      "Direto",
+      "Organizacional",
+      "Delegativo",
+      "Participativo"
+    ],
+    "correta": 3,
+    "comentario": "O líder delegativo atua de forma mínima, intervindo somente quando solicitado ou quando percebe que os objetivos correm risco."
+  },
+  {
+    "id": 17,
+    "pergunta": "4.3 Estilos de Liderança “Não existe um melhor estilo de liderança, os líderes eficazes utilizam estilos diferentes, em distintos cenários”.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O manual reforça que não há um estilo \"melhor\" absoluto; a eficácia vem da escolha do estilo certo para cada cenário e equipe."
+  },
+  {
+    "id": 18,
+    "pergunta": "4.3 Estilos de Liderança É uma excelente ferramenta de auxílio ao líder na escolha de qual estilo de liderança adotar.",
+    "alternativas": [
+      "Planilha de Avaliação",
+      "Janela de Johari",
+      "Teoria da Liderança Situacional",
+      "Plano de Desenvolvimento",
+      "Identificação Projetiva"
+    ],
+    "correta": 2,
+    "comentario": "O texto descreve a Teoria da Liderança Situacional como a ferramenta ideal para auxiliar o líder a escolher o estilo mais adequado com base na maturidade dos subordinados."
+  },
+  {
+    "id": 19,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) De acordo com o tipo de incentivo utilizado pelo líder para inspirar seus liderados, os estilos de liderança podem ser classificados em Liderança:",
+    "alternativas": [
+      "Participativa e Situacional",
+      "Estratégica e Delegativa",
+      "Organizacional e Direta",
+      "Transacional e Transformacional",
+      "Participativa e Centralizadora"
+    ],
+    "correta": 3,
+    "comentario": "Quanto ao tipo de incentivo, a liderança divide-se nestas duas grandes categorias."
+  },
+  {
+    "id": 20,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) Se vale dos incentivos que apelam aos interesses e, especialmente, às necessidades primárias dos seguidores para alcançar os resultados organizacionais desejados.",
+    "alternativas": [
+      "Liderança organizacional",
+      "Liderança direta",
+      "Liderança transformacional",
+      "Liderança transacional",
+      "Liderança estratégica"
+    ],
+    "correta": 3,
+    "comentario": "A liderança transacional foca na troca e apela para interesses e necessidades primárias (recompensas) para atingir resultados."
+  },
+  {
+    "id": 21,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) Fundamentada em uma relação de troca de natureza econômica ou psicológica.",
+    "alternativas": [
+      "Liderança organizacional",
+      "Liderança transacional",
+      "Liderança transformacional",
+      "Liderança estratégica",
+      "Liderança direta"
+    ],
+    "correta": 1,
+    "comentario": "Ela fundamenta-se especificamente em uma relação de troca, seja ela de natureza econômica ou psicológica."
+  },
+  {
+    "id": 22,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) A eficácia da Liderança Transacional é permanente.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "O manual afirma que a eficácia da liderança transacional é temporária, devendo ser usada apenas de forma pontual."
+  },
+  {
+    "id": 23,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) A Liderança Transacional concretiza-se por um modo diferente de agir.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A liderança transacional refere-se a um modo diferente de agir, focando em mudanças externas de comportamento."
+  },
+  {
+    "id": 24,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) A Liderança Transacional concretiza-se por um modo diferente de ser.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "O modo diferente de ser é uma característica da liderança transformacional, enquanto a transacional foca no agir."
+  },
+  {
+    "id": 25,
+    "pergunta": "4.3 Estilos de Liderança (Tipo de incentivo) A Liderança Transformacional concretiza-se por um modo diferente de ser.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A liderança transformacional exige uma mudança de consciência e valores, caracterizando-se como um modo diferente de ser."
+  },
+  {
+    "id": 26,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) A Liderança Transformacional concretiza-se por um modo diferente de agir.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "Conforme o manual, a liderança transformacional é um modo de ser, enquanto o modo de agir define a transacional."
+  },
+  {
+    "id": 27,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) Está voltada para o crescimento e o desenvolvimento das pessoas e para mudanças no seu nível de consciência levando-as a pensar por si mesmas, a trabalhar de forma independente, a dedicar-se a uma causa, um produto, uma ideia e a buscarem padrões de desempenho que vão além do seu próprio cargo e um propósito coletivo mais elevado.",
+    "alternativas": [
+      "Liderança situacional",
+      "Liderança motivacional",
+      "Liderança transformacional",
+      "Liderança organizacional",
+      "Liderança transacional"
+    ],
+    "correta": 2,
+    "comentario": "Este estilo foca no crescimento pessoal, no propósito coletivo elevado e na independência de pensamento dos liderados."
+  },
+  {
+    "id": 28,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) Envolve estimulação intelectual, autorrealização, mudanças de crenças e valores, a dicotomia trabalho/prazer desaparece e pode aumentar o potencial motivacional.",
+    "alternativas": [
+      "Liderança organizacional",
+      "Liderança motivacional",
+      "Liderança transacional",
+      "Liderança direta",
+      "Liderança transformacional"
+    ],
+    "correta": 4,
+    "comentario": "A estimulação intelectual e a eliminação da dicotomia trabalho/prazer são pilares da liderança transformacional."
+  },
+  {
+    "id": 29,
+    "pergunta": "4.3.2 Estilos de Liderança (Tipo de incentivo) Auxilia a preparar os liderados para situações de pressão, crise, mudança e ausência dos líderes.",
+    "alternativas": [
+      "Liderança situacional",
+      "Liderança transacional",
+      "Liderança estratégica",
+      "Liderança organizacional",
+      "Liderança transformacional"
+    ],
+    "correta": 4,
+    "comentario": "Ao desenvolver a autonomia e a consciência dos liderados, este estilo os prepara melhor para agir em crises ou na ausência do líder."
+  },
+  {
+    "id": 30,
+    "pergunta": "4.3.3 Estilos de Liderança (Foco do Líder) O líder deve preocupar-se com duas vertentes do desenvolvimento do trabalho da equipe que lidera, que são:",
+    "alternativas": [
+      "Resultado das tarefas e o relacionamento interpessoal",
+      "Conhecimento técnico e o desempenho das tarefas",
+      "Ralacionamento interpessoal e o desenvolvimento do feedback",
+      "Relacionamento intrapessoal e o conhecimento técnico",
+      "Desempenho das tarefas e a gestão de competência"
+    ],
+    "correta": 0,
+    "comentario": "O líder deve equilibrar sempre estas duas vertentes: o cumprimento da missão (tarefa) e o clima do grupo (relacionamento)."
+  },
+  {
+    "id": 31,
+    "pergunta": "4.3.3 Estilos de Liderança (Foco do Líder) Quanto ao foco do líder, existem dois estilos de liderança, que são:",
+    "alternativas": [
+      "Liderança Centralizadora e Liderança Delegativa",
+      "Liderança Centralizadora e Liderança Participativa",
+      "Liderança orientada para a tarefa e Liderança orientada para o relacionamento",
+      "Liderança organizacional e Liderança direta",
+      "Liderança transacional e Liderança transformacional"
+    ],
+    "correta": 2,
+    "comentario": "Estes são os dois estilos classificados de acordo com o foco predominante do líder."
+  },
+  {
+    "id": 32,
+    "pergunta": "4.3.3 Estilos de Liderança (Foco do Líder) Nesse estilo de liderança, o líder focaliza o desempenho das tarefas e a realização dos objetivos, transmitindo orientações específicas, definindo maneiras de realizar o trabalho, o que espera de cada um e quais são os padrões organizacionais.",
+    "alternativas": [
+      "Liderança estratégica",
+      "Liderança organizacional",
+      "Liderança orientada para tarefa",
+      "Liderança orientada para o relacionamento",
+      "Liderança delegativa"
+    ],
+    "correta": 2,
+    "comentario": "Este estilo ocorre quando o líder prioriza o desempenho, definindo padrões técnicos e formas específicas de realizar o trabalho."
+  },
+  {
+    "id": 33,
+    "pergunta": "4.3.3 Estilos de Liderança (Foco do Líder) Nesse estilo de liderança, o foco do líder é a manutenção e fortalecimento das relações pessoais e do próprio grupo. O líder demonstra sensibilidade às necessidades pessoais dos liderados, concentra-se nas relações interpessoais, no clima e no moral do grupo.",
+    "alternativas": [
+      "Liderança situacional",
+      "Liderança direta",
+      "Liderança orientada para o relacionamento",
+      "Liderança orientada para tarefa",
+      "Liderança motivacional"
+    ],
+    "correta": 2,
+    "comentario": "O foco aqui é a sensibilidade às necessidades humanas, ao moral e ao clima organizacional do grupo."
+  },
+  {
+    "id": 34,
+    "pergunta": "4.3.3 Estilos de Liderança (Foco do Líder) Esse estilo de liderança, que está significativamente associado a medidas de satisfação dos liderados em relação ao trabalho e ao chefe, pode ser útil em situações de tensão, frustração, insatisfação e desmotivação do grupo.",
+    "alternativas": [
+      "Liderança orientada para o relacionamento",
+      "Liderança motivacional",
+      "Liderança orientada para tarefa",
+      "Liderança organizacional",
+      "Liderança direta"
+    ],
+    "correta": 0,
+    "comentario": "Este estilo é especialmente útil para elevar a satisfação e motivar grupos em situações de alta frustração ou tensão."
+  },
+  {
+    "id": 35,
+    "pergunta": "4.4 É a designação atribuída a alguém para o cumprimento de determinadas tarefas, conferindo-lhe, em consequência, a autoridade necessária para a tomada das decisões afetas às citadas tarefas.",
+    "alternativas": [
+      "Participação",
+      "Centralização",
+      "Autoridade moral",
+      "Autoridade organizacional",
+      "Delegação"
+    ],
+    "correta": 4,
+    "comentario": "A delegação é definida como a transferência de tarefas e da autoridade necessária para que o subordinado tome decisões sobre elas."
+  },
+  {
+    "id": 36,
+    "pergunta": "4.4 Delegação (Características fundamentais) A cada delegação corresponde poderes e autoridade estabelecidos pelo superior.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "É um princípio fundamental: a cada tarefa delegada deve corresponder o poder e a autoridade necessários estabelecidos pelo superior."
+  },
+  {
+    "id": 37,
+    "pergunta": "4.4 Delegação (Características fundamentais) A delegação exclui a responsabilidade de quem delegou, pelo cumprimento das tarefas delegadas.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 1,
+    "comentario": "No ambiente militar, a delegação de autoridade não extingue a responsabilidade do superior pelo cumprimento da missão."
+  },
+  {
+    "id": 38,
+    "pergunta": "4.4 Delegação A delegação consciente e controlada, além de descentralizar as ações, contribui para o fortalecimento da equipe e para o desenvolvimento técnico e psicológico dos subordinados.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "A delegação controlada é uma ferramenta de fortalecimento da equipe e de desenvolvimento profissional e psicológico dos subordinados."
+  },
+  {
+    "id": 39,
+    "pergunta": "4.4.1 Princípios Fundamentais da Delegação Qual das alternativas abaixo não é um princípio fundamental da delegação?",
+    "alternativas": [
+      "Comunicar de forma clara, precisa e concisa",
+      "Acompanhar e orientar a execução",
+      "Fornecer meios à realização",
+      "Transmitir à pessoa habilitada",
+      "Propor desafios",
+      "Centralizar as atribuições o máximo possível"
+    ],
+    "correta": 5,
+    "comentario": "O princípio correto é descentralizar o máximo possível para aumentar a eficiência da execução."
+  },
+  {
+    "id": 40,
+    "pergunta": "4.4.2 Vantagens da Delegação A liderança é caracterizada, dentre outros aspectos, pelo esforço diuturno de orientar, instruir, avaliar e inspirar os liderados.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O manual descreve a liderança como este esforço contínuo e diário de orientar e inspirar o grupo."
+  },
+  {
+    "id": 41,
+    "pergunta": "4.4.2 Vantagens da Delegação Com a delegação, são observadas vantagens. Qual das alternativas abaixo não é uma vantagem?",
+    "alternativas": [
+      "Avaliação da capacidade executiva",
+      "Autodesenvolvimento",
+      "Moral do pessoal",
+      "Descentralização de atribuições o mínimo possível",
+      "Resolução em nível de execução"
+    ],
+    "correta": 3,
+    "comentario": "Uma das grandes vantagens da delegação é justamente permitir a descentralização das atribuições o máximo possível."
+  },
+  {
+    "id": 42,
+    "pergunta": "4.4.2 É o melhor processo de avaliação da capacidade de liderança e de empreendedorismo, tendo em vista que propicia a iniciativa, a coragem para assumir responsabilidades e a capacidade de adoção de soluções oportunas e acertadas.",
+    "alternativas": [
+      "Liderança estratégica",
+      "Liderança organizacional",
+      "Liderança orientada para tarefa",
+      "Delegação",
+      "Liderança direta"
+    ],
+    "correta": 3,
+    "comentario": "A delegação é citada como o melhor meio para avaliar a capacidade de liderança e o espírito empreendedor dos subordinados."
+  },
+  {
+    "id": 43,
+    "pergunta": "4.4.2 Vantagens da Delegação Delegar aumenta a eficiência da Instituição, valorizando o trabalho em equipe, incentivando a iniciativa, aprimorando o senso de responsabilidade e contribuindo para o desenvolvimento profissional e psicológico dos liderados.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "Delegar valoriza o trabalho em equipe, incentiva a iniciativa e aprimora a responsabilidade individual."
+  },
+  {
+    "id": 44,
+    "pergunta": "4.4.3 Cuidados ao Delegar A delegação é um aprendizado bilateral, tanto de quem delega quanto de quem recebe a delegação, e exige um clima organizacional favorável e regras claras.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O manual destaca que a delegação ensina tanto quem delega quanto quem recebe, exigindo regras claras e confiança mútua."
+  },
+  {
+    "id": 45,
+    "pergunta": "4.4.3 Cuidados ao Delegar Alguns procedimentos devem ser adotados, a fim de dirimir possíveis riscos indesejáveis. Com exceção de qual alternativa abaixo?",
+    "alternativas": [
+      "Certificar-se de que o subordinado tem capacidade para realizar a tarefa delegada",
+      "Evitar delegar a nível decisório",
+      "Evitar delegar somente tarefas desagradáveis",
+      "Manter o controle sobre a execução da tarefa, assumindo a responsabilidade por eventuais erros ou falhas",
+      "Deixar claro que você delegou, estando a postos para ajudar sem, em nenhum momento, se eximir de suas responsabilidades"
+    ],
+    "correta": 1,
+    "comentario": "O procedimento correto é definir claramente o nível decisório, e não evitá-lo, para que o subordinado saiba até onde pode decidir."
+  },
+  {
+    "id": 46,
+    "pergunta": "4.4.3 Cuidados ao Delegar A delegação desempenha os papéis de:",
+    "alternativas": [
+      "Cultura organizacional, iniciativa e integridade ética",
+      "Integridade ética, inteligência interpessoal e inteligência intrapessoal",
+      "Cultura organizacional, obtenção do perfil real e gestão das competências",
+      "Incentivo, entusiasmo e carisma",
+      "Descentralização de ações, treinamento e desenvolvimento pessoal"
+    ],
+    "correta": 4,
+    "comentario": "Estes são os três papéis fundamentais desempenhados pela prática da delegação na Marinha."
+  },
+  {
+    "id": 47,
+    "pergunta": "4.5 Processos de Influenciação Para o convencimento dos liderados, o líder poderá aplicar os processos de influenciação de acordo com as circunstâncias. Qual das alternativas abaixo não é um processo de influenciação?",
+    "alternativas": [
+      "Afirmação e repetição",
+      "Exemplo",
+      "Incentivação",
+      "Sugestão",
+      "Integridade ética"
+    ],
+    "correta": 4,
+    "comentario": "A \"integridade ética\" é uma competência individual (Primeiro Passo), enquanto os outros itens são processos de influenciação."
+  },
+  {
+    "id": 48,
+    "pergunta": "4.5 Processos de Influenciação Para o convencimento dos liderados, o líder poderá aplicar os processos de influenciação de acordo com as circunstâncias. Qual das alternativas abaixo não é um processo de influenciação?",
+    "alternativas": [
+      "Exortação",
+      "Argumentação",
+      "Prestígio",
+      "Carisma",
+      "Efeito de atmosfera ou ambiente"
+    ],
+    "correta": 3,
+    "comentario": "O \"carisma\" é classificado como uma das quatro bases da liderança, e não como um processo de influenciação situacional."
+  },
+  {
+    "id": 49,
+    "pergunta": "4.5 Processos de Influenciação A caracterização desse processo visa atender aos fatores extrínsecos (periféricos) do indivíduo, com o objetivo de manter o grau de insatisfação dos liderados no nível mais baixo possível, pode conseguir, temporariamente, uma mudança de comportamento.",
+    "alternativas": [
+      "Efeito de atmosfera ou ambiente",
+      "Prestígio",
+      "Incentivação",
+      "Exortação",
+      "Exemplo"
+    ],
+    "correta": 2,
+    "comentario": "A incentivação foca em fatores extrínsecos para evitar a insatisfação e gerar mudanças temporárias de comportamento."
+  },
+  {
+    "id": 50,
+    "pergunta": "4.5 Processos de Influenciação “Cria uma opinião e mais tarde uma crença”.",
+    "alternativas": [
+      "Argumentação",
+      "Incentivação",
+      "Sugestão",
+      "Exemplo",
+      "Afirmação e repetição"
+    ],
+    "correta": 4,
+    "comentario": "O processo de afirmação e repetição baseia-se na premissa de que uma mensagem repetida cria uma opinião que se consolida em crença."
+  },
+  {
+    "id": 51,
+    "pergunta": "4.5 Processos de Influenciação Para caracterizar esse processo, a informação explorada já deve estar contida na memória ou no inconsciente do subordinado.",
+    "alternativas": [
+      "Exemplo",
+      "Sugestão",
+      "Argumentação",
+      "Exortação",
+      "Efeito de atmosfera ou ambiente"
+    ],
+    "correta": 1,
+    "comentario": "A sugestão utiliza o apelo a ideias ou tendências que já existem no inconsciente ou na memória do liderado."
+  },
+  {
+    "id": 52,
+    "pergunta": "4.5 Processos de Influenciação Para caracterizar esse processo, não deve haver ausência entre a mensagem do “influenciador” e a sua prática.",
+    "alternativas": [
+      "Exortação",
+      "Exemplo",
+      "Incentivação",
+      "Prestígio",
+      "Argumentação"
+    ],
+    "correta": 1,
+    "comentario": "No processo pelo exemplo, deve haver total coerência entre o que o líder prega (mensagem) e o que ele faz (prática)."
+  },
+  {
+    "id": 53,
+    "pergunta": "4.5 Processos de Influenciação Para caracterizar esse processo o “influenciador” deve se utilizar do próprio prestígio ou de outrem para mudar o comportamento de um indivíduo ou de um grupo de pessoas.",
+    "alternativas": [
+      "Incentivação",
+      "Exemplo",
+      "Argumentação",
+      "Prestígio",
+      "Exortação"
+    ],
+    "correta": 3,
+    "comentario": "O processo de prestígio ocorre quando o líder utiliza seu próprio reconhecimento ou o de terceiros para influenciar o grupo."
+  },
+  {
+    "id": 54,
+    "pergunta": "4.5 Processos de Influenciação Para caracterizar esse processo, o influenciador deverá utilizar-se de dados estatísticos, comparações, analogias, generalizações e opiniões do autor.",
+    "alternativas": [
+      "Exemplo",
+      "Efeito de atmosfera ou ambiente",
+      "Sugestão",
+      "Argumentação",
+      "Exortação"
+    ],
+    "correta": 3,
+    "comentario": "A argumentação apela à razão lógica através do uso de dados, estatísticas e analogias para convencer."
+  },
+  {
+    "id": 55,
+    "pergunta": "4.5 Processos de Influenciação Para caracterizar esse processo, deverá ocorrer uma comunicação verbal seguida de uma reação emocional da plateia.",
+    "alternativas": [
+      "Exortação",
+      "Efeito atmosfera ou ambiente",
+      "Incentivação",
+      "Prestígio",
+      "Argumentação"
+    ],
+    "correta": 0,
+    "comentario": "A exortação caracteriza-se por uma fala que busca gerar uma reação emocional imediata e intensa na plateia."
+  },
+  {
+    "id": 56,
+    "pergunta": "4.5 Processos de Influenciação Para caracterizar esse processo, o influenciador deverá preparar um cenário favorável com estímulos externos visando a uma reação dos liderados, normalmente inconsciente, favorável aos propósitos desejados.",
+    "alternativas": [
+      "Exemplo",
+      "Exortação",
+      "Efeito de atmosfera/ambiente",
+      "Sugestão",
+      "Argumentação"
+    ],
+    "correta": 2,
+    "comentario": "Este processo utiliza estímulos externos (cenário, música, cores) para provocar reações, muitas vezes inconscientes, nos liderados."
+  },
+  {
+    "id": 57,
+    "pergunta": "4.7 As virtudes são os valores morais, vividos em atos.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "Conforme o manual, as virtudes não são teóricas, mas sim valores morais colocados em prática através de atos reais."
+  },
+  {
+    "id": 58,
+    "pergunta": "4.8 É o estado de espírito de alguém, gerado pelas circunstâncias que afetam a participação dele como membro de um grupo.",
+    "alternativas": [
+      "A carisma",
+      "O prestígio",
+      "O entusiasmo",
+      "O moral",
+      "A ética"
+    ],
+    "correta": 3,
+    "comentario": "O moral é definido tecnicamente como o estado de espírito resultante das circunstâncias que afetam o indivíduo no grupo."
+  },
+  {
+    "id": 59,
+    "pergunta": "4.8 O moral é um estado psicológico.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O moral é explicitamente descrito como um estado psicológico decorrente de diversos fatores."
+  },
+  {
+    "id": 60,
+    "pergunta": "4.8. O MORAL Marque a alternativa correta. O moral é o estado de espírito de alguém, gerado pelas circunstâncias que afetam a participação dele como membro de um grupo. Esse estado psicológico resulta de: \n\nI. valores morais de cada um diante do imenso esforço que lhe será exigido na superação de barreiras da própria consciência nas situações de estresse; \nII. engajamento na missão: \nIII. realização profissional ou esperança de realização da causa que defende; e \nIV. aceitação das condições de vida, quer a sua, quer a de seus dependentes.",
+    "alternativas": [
+      "F - F - F - F",
+      "F - F - F - V",
+      "V - V - V - V",
+      "V - V - V - F"
+    ],
+    "correta": 2,
+    "comentario": "Todos os itens listados (valores morais, engajamento, realização e aceitação da vida) são componentes que resultam no estado psicológico do moral."
+  },
+  {
+    "id": 61,
+    "pergunta": "4.8. O MORAL Marque a alternativa correta. O moral é o estado de espírito de alguém, gerado pelas circunstâncias que afetam a participação dele como membro de um grupo. Esse estado psicológico resulta de: \n\nI. credibilidade dos líderes; \nII. prontificação operativa; \nIII. incentivação da cultura Organizacional; e \nIV. aumento da auto-avaliação.",
+    "alternativas": [
+      "V - V - V - V",
+      "F - F - F - F",
+      "V - V - V - F",
+      "F - F - F - V"
+    ],
+    "correta": 2,
+    "comentario": "O item IV está incorreto porque o moral resulta do aumento da autonomia (via delegação), e não do aumento da \"autoavaliação\"."
+  },
+  {
+    "id": 62,
+    "pergunta": "4.8.1 É a qualidade coletiva que confere ao militar maior capacidade de combate, sustentando a vontade de lutar e a resistência às vicissitudes e pressões do combate.",
+    "alternativas": [
+      "Inteligência interpessoal",
+      "Conexão interpessoal",
+      "Valor Moral da Tropa",
+      "Liderança organizacional",
+      "Cultura organizacional"
+    ],
+    "correta": 2,
+    "comentario": "O Valor Moral da Tropa é a qualidade coletiva que sustenta a vontade de lutar e a resistência em combate."
+  },
+  {
+    "id": 63,
+    "pergunta": "4.9.1 Decorre do relacionamento entre duas ou mais pessoas. Essa relação sofre influência do contexto onde ela está inserida, podendo ser um contexto familiar, escolar, de trabalho ou de comunidade e pode ser conceituada no âmbito da sociologia ou psicologia.",
+    "alternativas": [
+      "Inteligência interpessoal",
+      "Inteligência intrapessoal",
+      "Liderança participativa",
+      "Conexão interpessoal",
+      "Liderança direta"
+    ],
+    "correta": 3,
+    "comentario": "A definição refere-se à conexão interpessoal, que é o vínculo entre pessoas influenciado pelo contexto social ou profissional."
+  },
+  {
+    "id": 64,
+    "pergunta": "4.9.1 A conexão interpessoal é importante, sendo um eixo estruturante para o aprimoramento de líderes.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O manual estabelece a conexão interpessoal como um eixo estruturante para que os líderes se aprimorem e criem equipes coesas."
+  },
+  {
+    "id": 65,
+    "pergunta": "4.9.2 É um conceito da psicologia que caracteriza o indivíduo que é capaz de identificar e controlar seus sentimentos e suas emoções com mais facilidade.",
+    "alternativas": [
+      "Inteligência intrapessoal",
+      "Liderança transformacional",
+      "Liderança direta",
+      "Inteligência emocional",
+      "Inteligência interpessoal"
+    ],
+    "correta": 3,
+    "comentario": "A capacidade de identificar e controlar as próprias emoções e sentimentos define a inteligência emocional."
+  },
+  {
+    "id": 66,
+    "pergunta": "4.9.3 É um processo didático pedagógico que tem como objetivo acompanhar e orientar o indivíduo ao longo do seu aprendizado.",
+    "alternativas": [
+      "Liderança organizacional",
+      "Liderança direta",
+      "Tutoria",
+      "Liderança orientada para o relacionamento",
+      "Liderança orientada para tarefa"
+    ],
+    "correta": 2,
+    "comentario": "A tutoria é o processo pedagógico focado em acompanhar e orientar o aprendizado do indivíduo."
+  },
+  {
+    "id": 67,
+    "pergunta": "4.9.3 Tutoria e Mentoria O tutor preocupa-se em orientar seu tutorado nas habilidades mais técnicas. O mentor, entretanto, oferece orientação mais abrangente e de longo prazo, de caráter comportamental.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O manual diferencia o tutor (focado em habilidades técnicas e execução) do mentor (focado em comportamento e visão de longo prazo)."
+  },
+  {
+    "id": 68,
+    "pergunta": "4.9.3 Tutoria e Mentoria Ser um pouco tutor ou mentor de nossos subordinados contribui para fomentar a conexão interpessoal.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "Praticar a tutoria ou mentoria com subordinados é uma forma eficaz de fortalecer a conexão interpessoal e a lealdade."
+  },
+  {
+    "id": 69,
+    "pergunta": "4.9.3. Tutoria e Mentoria O tutor preocupa-se em orientar seu tutorado nas habilidades mais técnicas relacionadas à execução da tarefa. Funciona como uma espécie de coach, que deve possuir três habilidades bem desenvolvidas: \n\na)escutar, para entender o ponto de vista do outro; \nb)questionar, ajudando as pessoas a descobrir suas próprias soluções; e \nc)reconhecer, realçando às pessoas que elas possuem habilidades que são úteis.",
+    "alternativas": [
+      "VERDADEIRO",
+      "FALSO"
+    ],
+    "correta": 0,
+    "comentario": "O tutor atua como um coach, utilizando as três habilidades fundamentais: escuta empática, questionamento socrático e reconhecimento de talentos"
+  }
+]
