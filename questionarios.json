@@ -1,8 +1,3 @@
 [
-  {"id": "lideranca", "nome": "Liderança"},
-  {"id": "virtudes", "nome": "Rosa das virtudes"},
-  {"id": "lideranca-1", "nome": "Liderança - Cap 1"},
-  {"id": "lideranca-23", "nome": "Liderança - Cap 2 e 3"},
-  {"id": "lideranca-4", "nome": "Liderança - Cap 4"}
-
+  {"id": "compsocial", "nome": "Comportamento Social"}
 ]
