@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Um militar durante a apresentação de uma palestra no auditório da Escola de Cursos de Formação foi avistado fumando pelo palestrante. Quanto a este episódio, é possível afirmar que o militar:",
+    "alternativas": [
+      "cometeu um crime militar.",
+      "fumou porque havia autorização oficial da coordenação do evento.",
+      "NÃO atentou para o fato de que o fumo é um vício e NÃO um castigo.",
+      "fumou porque as regras de etiqueta permitem tal ato.",
+      "cometeu uma contravenção disciplinar."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 2,
+    "pergunta": "Das alternativas abaixo relacionadas aos cuidados importantes quanto à etiqueta, assinale a alternativa CORRETA.",
+    "alternativas": [
+      "Bocejar é um ato perdoável, especialmente nas formaturas quando se fica mais tempo em pé.",
+      "Quanto ao uso do perfume, NÃO se deve saturar um ambiente com seu cheiro de forma exagerada.",
+      "Mastigar chicletes é um hábito que NÃO interfere na elegância em situações ou eventos informais.",
+      "Utilizar guarda-chuva pode ser considerado elegante.",
+      "Conversar com uma pessoa utilizando óculos escuros."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 3,
+    "pergunta": "Leia o texto atentamente e assinale a opção CORRETA. \n \n Em um evento organizado pelo Comandante do CIAA para confraternização entre os militares da tripulação da OM, você como componente da guarnição, deverá chegar:",
+    "alternativas": [
+      "no horário previsto, mesmo que a autoridade já tenha chegado.",
+      "SOMENTE quando o Imediato chegar.",
+      "antes da hora marcada com uma antecedência aproximada de 30 minutos.",
+      "pontualmente.",
+      "após a autoridade chegar, para demonstrar respeito."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 4,
+    "pergunta": "Quais das opções a seguir podem ser consideradas como elementos representativos da nossa personalidade?",
+    "alternativas": [
+      "O tom de voz e a discrição.",
+      "A linguagem  e a discrição.",
+      "Os gestos e a discrição.",
+      "A maneira de falar e a linguagem correta.",
+      "A conversação e a linguagem."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  }
+  ,
+  {
+    "id": 5,
+    "pergunta": "O que deve ser abolido(a) da conversação?",
+    "alternativas": [
+      "A interrupção para contradizer.",
+      "A tolerância para ouvir opiniões contrárias.",
+      "A linguagem correta.",
+      "O tom de voz discreto.",
+      "A discrição."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  }
+  ,
+  {
+    "id": 6,
+    "pergunta": "Quanto a andaina de uniformes é CORRETO afirmar:",
+    "alternativas": [
+      "a correção do uniforme militar NÃO deve ser excessiva.",
+      "a tonalidade do uniforme NÃO faz diferença no que se refere ao alinho e apuro.",
+      "em outra OM de outra FFAA, o militar deverá usar o uniforme que estiver estabelecido na sua OM de origem e NÂO o da OM visitada.",
+      "Todo militar deve ter uma andaina completa de uniforme.",
+      "o militar deve ter pelo menos o uniforme do dia em seu armário."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  }
+  ,
+  {
+    "id": 7,
+    "pergunta": "Etiqueta, boas maneiras e postura são qualidades aprimoradas ao longo da vida, porém, a base de tudo é a (o):",
+    "alternativas": [
+      "alegria.",
+      "educação.",
+      "civismo.",
+      "motivação.",
+      "integração."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  }
+  ,
+  {
+    "id": 8,
+    "pergunta": "Como se verifica o valor de nossa educação?",
+    "alternativas": [
+      "Pelo nosso relacionamento com estranhos.",
+      "Por nossas atitudes à mesa de refeições.",
+      "Através da nossa linguagem.",
+      "Pelo nosso tom de voz.",
+      "Pelo grau de escolaridade."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  }
+  ,
+  {
+    "id": 9,
+    "pergunta": "Na relação entre o casal, marido e esposa, como deve ser o comportamento do homem?",
+    "alternativas": [
+      "Havendo contenda, pedir opinião alheia.",
+      "Demostrar mau humor.",
+      "Constranger sua esposa.",
+      "Tratar com deferência sua mulher.",
+      "NÃO ser gentil."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  }
+  ,
+  {
+    "id": 10,
+    "pergunta": "Entre as atitudes abaixo, qual NÃO deve ser tomada à mesa?",
+    "alternativas": [
+      "Falar baixo durante as refeições.",
+      "Apoiar os cotovelos.",
+      "Manter as mãos sobre a mesa apoiando os punhos.",
+      "Manter o tronco ereto.",
+      "Evitar assuntos como política, religião, etc."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  }
+  ,
+  {
+    "id": 11,
+    "pergunta": "Quando surgiu por volta do século XII, o cavalheirismo, tornou-se:",
+    "alternativas": [
+      "motivo de chacota.",
+      "um estilo de vida.",
+      "símbolo de arrogância.",
+      "hierarquia militar.",
+      "motivo de orgulho."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  }
+  ,
+  {
+    "id": 12,
+    "pergunta": "O militar, autêntico cavalheiro, educado e gentil com as mulheres NÃO deve:",
+    "alternativas": [
+      "zelar e amparar as mulheres.",
+      "ser sempre solícito e bem humorado.",
+      "romper com o princípio da hierarquia militar.",
+      "tratar com deferência a sua esposa.",
+      "havendo divergência pedir opinião alheia."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  }
+  ,
+  {
+    "id": 13,
+    "pergunta": "Em reunião militar entre alunos da turma do Curso Especial de Habilitação a Promoção a Sargento do ano de 2013, na Casa do Marinheiro, foi observado que os militares atentos ao \"comportamento social\" adotaram o seguinte procedimento:",
+    "alternativas": [
+      "formaram grupinho fechados.",
+      "dentro do possível, ficaram circulando no ambiente dando atenção a todos.",
+      "os fumantes acenderam cigarros.",
+      "ficaram \"fofocando\".",
+      "ficaram sentados, pois haviam marcado seus lugares."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  }
+  ,
+  {
+    "id": 14,
+    "pergunta": "Ao utilizar o serviço de bufê, podemos afirmar que é CORRETO:",
+    "alternativas": [
+      "usar qualquer talher para o alimento.",
+      "deixar o prato cair é normal.",
+      "ter controle e atenção.",
+      "misturar vários alimentos no prato.",
+      "a fila NÃO é necessária."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  }
+  ,
+  {
+    "id": 15,
+    "pergunta": "Baseado no princípio da hierarquia, assinale a alternativa CORRETA.",
+    "alternativas": [
+      "Os mais antigos abrem a porta para os mais modernos.",
+      "Os mais modernos NÃO cedem passagem para os mais antigos.",
+      "Os mais modernos cedem o lugar para os mais antigos.",
+      "Em cerimônias, os mais antigos chegam antes dos mais modernos.",
+      "Os mais antigos levantam-se na presença dos mais modernos."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  }
+  ,
+  {
+    "id": 16,
+    "pergunta": "No relacionamento é fundamental para tomar convivência mais fácil.",
+    "alternativas": [
+      "NÃO saber perdoar.",
+      "Falar alto com o subordinado.",
+      "Mau humor.",
+      "Ser simpático.",
+      "NÃO admitir que errou."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  }
+  ,
+  {
+    "id": 17,
+    "pergunta": "As boas normas aplicadas ao comportamento social, estão relacionadas à:",
+    "alternativas": [
+      "educação.",
+      "intolerância.",
+      "falta de decoro.",
+      "família.",
+      "conduta ético militar."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 18,
+    "pergunta": "Identifique a opção com a descrição CORRETA.",
+    "alternativas": [
+      "As pessoas mais velhas serão SEMPRE apresentadas as mais jovens.",
+      "O beijo NÃO é uma forma educada de cumprimento na sociedade.",
+      "O aperto de mão deve ser demorado.",
+      "Todo cumprimento deve ser honesto.",
+      "A mulher casada é apresentada à mulher solteira."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 19,
+    "pergunta": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      "O homem sempre se levanta para cumprimentar.",
+      "Em sociedade, o homem tem sempre precedência sobre a mulher.",
+      "O homem é apresentado à mulher.",
+      "NÃO se estende a mão para cumprimentar enfermos.",
+      "O aperto de mão deve ser firme."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 20,
+    "pergunta": "Em um almoço João conheceu Antônio, que é advogado, e durante a conversa aproveitou a oportunidade para tirar dúvidas quanto ao problema de divórcio que está enfrentando. João cometeu um pecado capital, que deve ser banido de toda conversa, que é:",
+    "alternativas": [
+      "falar de negócios.",
+      "consulta profissional.",
+      "excesso de naturalidade.",
+      "intransigência.",
+      "maledicência."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  }
+]
