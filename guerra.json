@@ -1,0 +1,571 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Na Guerra Eletrônica e Radiogoniometria, os dados produzidos pelas Estações Radiogoniométricas de Alta Frequência (ERGAF), serão enviados à Estação Controladora da Rede (ECR) para Análise Imediata com cópia ao Centro de Guerra Eletrônica da Marinha (CGEM). Em quantas modalidades estão divididas a Análise Imediata?",
+    "alternativas": [
+      "Cinco",
+      "Quatro",
+      "Três",
+      "Dois",
+      "Um"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** - Análise de Mensagens / Análise de Tráfego / Análise de Localização / Análise Técnica / Análise Final"
+  },
+  {
+    "id": 2,
+    "pergunta": "Nas Medidas de Guerra Eletrônica (MAE), como pode ser classificado o Despistamento Eletromagnético quanto ao Método?",
+    "alternativas": [
+      "Controle e Sistemas",
+      "Acústica e Eletromagnética",
+      "Mecânico e Eletrônico",
+      "Irradiação e Reirradiação",
+      "Manipulativo e Imitativo"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** No que se refere aos MÉTODOS empregados no despistamento, ele se classifica em Imitativo e Manipulativo. E no que se refere aos MEIOS empregados no despistamento, ele se classifica em eletrônico ou mecânico"
+  },
+  {
+    "id": 3,
+    "pergunta": "A criação de um banco de dados (Biblioteca de Emissões), que possibilite identificar as principais frequência utilizadas pelas Marinhas e as características peculiares dessas comunicações, é resultado dos conhecimentos obtidos pela:",
+    "alternativas": [
+      "Análise de tráfego",
+      "Análise de conteudo",
+      "Utilização de espectro",
+      "Análise criptográfica",
+      "Integração e Avaliação"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 4,
+    "pergunta": "A RRGAF é constituída por quatro estações pertencentes à MB, localizadas em:",
+    "alternativas": [
+      "Belém, Natal, Rio de Janeiro, Manaus",
+      "Natal, Recife, Campos Novos, Belém",
+      "Belém, Natal, Rio Grande, Recife",
+      "Recife, Rio Grande, Campos Novos, Natal",
+      "Natal, Rio Grande, Belém, Campos Novos"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** ERGAF 2 - ERGAF 3 - ERGAF 3 - ERGAF 1 - ERGAF 5 –– (Boa Vista RR), ERGAF 6 –– (Belém PA); e ERGAF 7 –– (Porto Velho RO)."
+  },
+  {
+    "id": 5,
+    "pergunta": "Quem tem a finalidade de interceptar, monitorar e localizar geograficamente fontes de tráfego de radiocomunicações na faixa de alta frequência (HF) nas áreas marítimas ou terrestre de interesse do Centro de Inteligência Operacional (CIOp)?",
+    "alternativas": [
+      "Estação Controladora da Rede (ECR)",
+      "Sistema de Inteligência Operacional da Marinha do Brasil (SIOp-MB)",
+      "Sistema Integrado de Radiogoniometria (SIR)",
+      "Sistema Naval de Comando e Controle (SNCC)",
+      "Oficial em Comando Tático (OCT)"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 6,
+    "pergunta": "Quais são as Medidas de Guerra Eletrônica?",
+    "alternativas": [
+      "MAE, AGE, APEL",
+      "CONSET, MAE, MAGE",
+      "RETRON, APEL, AGE",
+      "MAGE, MPE, INFET",
+      "MAGE, MAE, MPE"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual é a Medida de Ataque Eletrônico (MAE) que tem por propósito induzir o inimigo a errar ao tentar interpretar os dados sobre nossas Forças?",
+    "alternativas": [
+      "Bloqueio eletrônico",
+      "Bloqueio de barragem",
+      "Despistamento Manipulativo",
+      "Bloqueio Mecânico",
+      "Despistamento Eletromagnético"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 8,
+    "pergunta": "Como se denomina o conjunto de ações tomadas para evitar, impedir ou reduzir o uso efetivo do espectro eletromagnético pelo inimigo?",
+    "alternativas": [
+      "Medidas de Proteção Eletrônica (MPE)",
+      "Reconhecimento Eletrônico (RETRON)",
+      "Aprestamento Eletrônico (APEL)",
+      "Medidas de Apoio a Guerra Eletrônica (MAGE)",
+      "Medida de Ataque Eletrônico (MAE)"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 9,
+    "pergunta": "As Medidas de Proteção Eletrônico (MPE) – ANTI-MAE (Medidas de Ataque Eletrônico), podem ser classificadas em quantos métodos distintos de execução?",
+    "alternativas": [
+      "Um",
+      "Dois",
+      "Três",
+      "Quatro",
+      "Cinco"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** - Técnica de sistemas e controle de frequencias"
+  },
+  {
+    "id": 10,
+    "pergunta": "A redução do efeito das Medidas de Ataque Eletrônico (MAE) inimigas, pelo emprego de técnicas especiais, constitui um efeito desejado de qual setor da Guerra Eletrônica (GE)?",
+    "alternativas": [
+      "Reconhecimento Eletrônico",
+      "Localização Eletrônica",
+      "Medidas de Proteção Eletrônica",
+      "Despistamento Imitativo",
+      "Eletrônico e Mecânico"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 11,
+    "pergunta": "Como é denominada o conjunto de ações tomadas para proteção de meios, sistemas, equipamentos, pessoal e instalação, a fim de assegurar o uso efetivo do espectro eletromagnético, diante do emprego de ações da Guerra Eletrônica (GE) por Forças Amigas ou Inimigas?",
+    "alternativas": [
+      "Medidas de Bloqueio Radiogoniométrico",
+      "Medidas de Proteção Evasiva",
+      "Medidas de Prevenção Logística",
+      "Medidas de Proteção Eletrônica",
+      "Medidas Eletrônicas e Bloqueio"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual é o instrumento através do qual o Comandante dissemina suas instruções para a condução das ações de Guerra Eletrônica (GE) no âmbito de uma Força Naval, Aeronaval e de Fuzileiros Navais?",
+    "alternativas": [
+      "Organograma de Guerra Eletrônica",
+      "Plano de Fase da Guerra Eletrônica",
+      "Plano de Guerra Eletrônica (PLAGE)",
+      "Fase da Guerra Eletrônica",
+      "Organização da Guerra Eletrônica"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** - PLANEJAMENTO DAS AÇÕES DE GUERRA ELETRÔNICA (PLAGE)"
+  },
+  {
+    "id": 13,
+    "pergunta": "Como são conhecidas as Medidas de Ataque Eletrônica (MAE) Destrutiva?",
+    "alternativas": [
+      "HARD FACE",
+      "HARD LINE",
+      "HARD ELETRÔNIC",
+      "HARD STOP",
+      "HARD KILL"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 14,
+    "pergunta": "Qual é a Estação Radiogoniométrica de Alta Frequência situada em Boa Vista-RR, integrante do Sistema Integrado de Radiogoniometria (SIR), pertencente ao Sistema de Proteção da Amazônia (SIPAM)?",
+    "alternativas": [
+      "ERGAF-1",
+      "ERGAF-6",
+      "ERGAF-3",
+      "ERGAF-7",
+      "ERGAF-5"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 15,
+    "pergunta": "De quem é a responsabilidade pelo estabelecimento de uma política de Controle das Irradiações Eletromagnéticas e Acústicas (CIEMA), devido grande importância para as ações de Guerra Eletrônica?",
+    "alternativas": [
+      "Oficial Coordenador da Guerra Eletrônica (COGE)",
+      "Oficial em Comando Tático (OCT)",
+      "Oficial de Manobras Táticas (OMT)",
+      "Centro de Inteligência Operacional da Marinha (CiOp-MB)",
+      "Oficial da Estação Controladora da Rede (ECR)"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual é a MAE que tem o propósito de restringir ou anular o desempenho dos equipamentos ou sistemas eletrônicos, em uso pelo inimigo?",
+    "alternativas": [
+      "Despistamento",
+      "Bloqueio Eletrônico",
+      "Busca",
+      "CIEMA",
+      "CONSET"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 17,
+    "pergunta": "Qual é a Estação Controladora da Rede (ECR) das Estações Radiogoniométrica de Alta Frequência (ERGAF)?",
+    "alternativas": [
+      "ERMRJ-RJ",
+      "ERMBE-PA",
+      "ERMNT-RN",
+      "ERMRN-AM",
+      "ERMCN-RJ"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual a OM subordinada ao Comando de Operações Navais (CON), que entre outras, possui a tarefa de gerenciar as informações das Estações Radiogoniométricas de Alta Frequência (ERGAF)?",
+    "alternativas": [
+      "Centro de Guerra Eletrônica da Marinha (CGEM)",
+      "Centro de Inteligencia Operacional da Marinha (CiOp-MB)",
+      "Diretoria Geral do Material Marinha (DGMM)",
+      "Estado Maior da Armada (EMA)",
+      "Comando em Chefe da Esquadra (COMEMCH)"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 19,
+    "pergunta": "O CIEMA e a Evasiva Tática destacam-se em quais medidas?",
+    "alternativas": [
+      "MAE",
+      "MPE",
+      "MPE anti-MAGE",
+      "MPE anti-MAE",
+      "MAE NÃO Destrutiva"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 20,
+    "pergunta": "Dentro da Análise de Campo, como é conhecida a parte da criptologia que estuda as técnicas matemáticas utilizadas para quebrar algoritmos criptográficos, buscando vulnerabilidades e falhas de concepção que permitam a obtenção de atalhos na decifração de um texto cifrado, sem o conhecimento da chave empregada?",
+    "alternativas": [
+      "Registro de frequências",
+      "Utilização de espectro",
+      "Tráfego de comunicações",
+      "Conteúdo das mensagens",
+      "Criptoanálise"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 21,
+    "pergunta": "Cite todas as ERGAF que efetivamente pertencem ao SIPAM.",
+    "alternativas": [
+      "ERGAF-1, ERGAF-2 e ERGAF-4",
+      "ERGAF-2, ERGAF-3 e ERGAF-4",
+      "ERGAF-5, ERGAF-6 e ERGAF-7",
+      "ERGAF-1, ERGAF-5 e ERGAF-6",
+      "ERGAF-1, ERGAF-3 e ERGAF-4"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual é a OM que exerce o controle operativo da RRGAF, para atender às operações do SIR, exerce por intermédio de outra OM?",
+    "alternativas": [
+      "Estação Controladora da Rede (ECR)",
+      "Comando dos Distritos Navais",
+      "CIOp",
+      "Centro de Comando",
+      "ComImSup"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 23,
+    "pergunta": "Sabendo que as Medidas de Apoio a Guerra Eletrônica (MAGE) é um conjunto de ações visando busca, interceptação, identificação e localização eletrônica das fontes de energia eletromagnética, quantas são as fases das Medidas de Apoio à Guerra Eletrônica (MAGE)?",
+    "alternativas": [
+      "Sete",
+      "Seis",
+      "Cinco",
+      "Quatro",
+      "Três"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 24,
+    "pergunta": "As cópias das informações das mensagens especiais, produzidas pelas ERGAF, após processamento, serão encaminhadas a qual OM?",
+    "alternativas": [
+      "Comando dos Distritos Navais",
+      "CGEM",
+      "CIOp",
+      "DCTIM",
+      "CON"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 25,
+    "pergunta": "Indique a informação que NÃO compõe as fases da MAGE.",
+    "alternativas": [
+      "Identificação",
+      "Registro",
+      "Reconhecimento Eletrônico",
+      "Monitoragem",
+      "Busca e Interceptação (BI)"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  },
+  {
+    "id": 26,
+    "pergunta": "Dentro da localização eletrônica, como é conhecido o navio designado para realizar a localização de uma origem cuja emissão eletromagnética é obtida por meio de cruzamentos de marcações em Alta Frequência (HF)?",
+    "alternativas": [
+      "Navio Gônio",
+      "Navio de Socorro",
+      "Navio de Pesquisa",
+      "Navio Auxiliar",
+      "Navios Interceptores"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 27,
+    "pergunta": "A Análise de Mensagens busca extrair dados presentes em uma mensagem transmitida por meio eletromagnético. Por quantas etapas são conduzidas essas Análises de Mensagens?",
+    "alternativas": [
+      "Um",
+      "Dois",
+      "Três",
+      "Quatro",
+      "Cinco"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** Na 1ª tenta-se quebrar a barreira do código utilizado.  Na 2ª consiste comparar os dados da mensagem com o banco de dados, biblioteca de emissões, e com a situação tática, produzindo conhecimentos a serem estudados."
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual é a estação situada em Belém-PA, integrante do SIR, pertencente ao Sistema de Proteção da Amazônia (SIPAM)?",
+    "alternativas": [
+      "ERGAF-3",
+      "ERGAF-4",
+      "ERGAF-5",
+      "ERGAF-6",
+      "ERGAF-7"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 29,
+    "pergunta": "As Medidas de Ataque Eletrônico (MAE), são classificadas em SOFT KILL e HARD KILL",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  },
+  {
+    "id": 30,
+    "pergunta": "A Estação Radiogoniométrica de Alta Frequência (ERGAF-3) está localizada no Rio Grande-RS",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  },
+  {
+    "id": 31,
+    "pergunta": "Reconhecimento Eletrônico (RETRON) é composto pela Inteligência Eletrônica e pela Inteligência de Comunicações",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  },
+  {
+    "id": 32,
+    "pergunta": "Evasiva Tática é uma Medida de Ataque Eletrônico (MAE) que compreende a execução de manobras com navios, aeronaves, submarinos, viaturas e equipamentos portáteis.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **A** FALSO"
+  },
+  {
+    "id": 33,
+    "pergunta": "NGE - Navios de Guerra Estrangeiros navegando ou operando nas áreas de interesse do Centro de Inteligência Operacional (CIOp)",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  },
+  {
+    "id": 34,
+    "pergunta": "Estações Radiogoniométricas de Alta Frequência (ERGAF) - interceptam, monitoram e demodulam sinais de comunicações em HF e obtém a marcação da fonte emissora",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  },
+  {
+    "id": 35,
+    "pergunta": "NPE – Navios de Guerra Estrangeiros navegando ou operando nas áreas de interesse do CIOp",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** FALSO - Navios de Pesquisa Estrangeiros navegando ou operando nas áreas AIB, MTT e ZEE."
+  },
+  {
+    "id": 36,
+    "pergunta": "As Atividades de Guerra Eletrônica (AGE) são todas de caráter estratégico e pessoal",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** FALSO"
+  },
+  {
+    "id": 37,
+    "pergunta": "Uma das atribuições das ERGAF é “buscar as emissões eletromagnéticas na faixa de HF”",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  },
+  {
+    "id": 38,
+    "pergunta": "As ERGAF NÃO estão, permanentemente, ativadas para cumprimento de sua missão",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** FALSO - Sempre estão"
+  },
+  {
+    "id": 39,
+    "pergunta": "As Medidas de Apoio a Guerra Eletrônica (MAGE), constituem a base da Guerra Eletrônica(GE)",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  },
+  {
+    "id": 40,
+    "pergunta": "CIOp - exerce o controle operativo da RRGAF",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  },
+  {
+    "id": 41,
+    "pergunta": "Sigla - denominação e o distrito da estação radiogoniométrica da Marinha em campos novos – ERMCN / ERGAF-1 / 2ºDN",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** FALSO - 1ºDN"
+  },
+  {
+    "id": 42,
+    "pergunta": "Nas fases da MAGE, a monitoragem é a varredura ordenada e sistemática do espectro eletromagnético",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** FALSO - Busca de Interceptação (BI)"
+  },
+  {
+    "id": 43,
+    "pergunta": "(1) MAE NÃO Destrutiva \n (2) CONSET \n (3) MAE Destrutiva \n \n ( ) Armas de Energia Direcionada e Misseis Anti-Radiação. \n ( ) Campo eletromagnético acidental ou intencional. \n ( ) Condições de Silêncio Eletrônico. \n ( ) Bloqueio Eletrônico e Bloqueio Mecânico. \n ( ) Conselho Nacional Eletrônico. \n ( ) Sua natureza é tática e seu emprego eficaz.",
+    "alternativas": [
+      "2 - 3 - 1 -",
+      "3 - 2 1 - -",
+      "- 1 - 2 - 3",
+      "2 - - 3 1 2",
+      "2 - 1 - 3 -"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** "
+  },
+  {
+    "id": 44,
+    "pergunta": "(1) Análise de Localização. \n (2) Análise de Tráfego. \n (3) Análise de Mensagem. \n \n ( ) Busca extrair dado a partir da curva da taxa de ocupação do espectro. \n ( ) Conjunto de atividades de pesquisa, capacitação de recursos humanos. \n ( ) Contrabalanceada por uma contra-medida. \n ( ) Busca extrair dados presentes em uma mensagem transmitida por meio eletromagnético. \n ( ) Extraí dados a partir da localização do transmissor. \n ( ) Monitora todas as principais redes de uma unidade julgada de interesse.",
+    "alternativas": [
+      "2 - 3 - 1 -",
+      "- 1 - 2 - 3",
+      "3 - 2 - 1 -",
+      "2 - - 3 1 2",
+      "2 - 1 - 3 -"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** "
+  },
+  {
+    "id": 45,
+    "pergunta": "(1) CIEMA \n (2) CONSET \n (3) RETRON \n \n ( ) Condição de silêncio eletrônico. \n ( ) Congrega o conjunto de atividades de pesquisa, desenvolvimento. \n ( ) Reconhecimento eletrônico. \n ( ) Identificação eletromagnética. \n ( ) Controle das irradiações eletromagnética e acústica. \n ( ) Sua natureza é tática e seu emprego eficaz.",
+    "alternativas": [
+      "2 - 3 - 1 -",
+      "- 1 - 2 - 3",
+      "3 - 2 - 1 -",
+      "- 3 - 2 - 1",
+      "2 - 1 - 3 -"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** "
+  },
+  {
+    "id": 46,
+    "pergunta": "(1) Análise imediata \n (2) Localização eletrônica \n (3) Registro \n \n ( ) Visa classificar o sinal interceptado como ameaça ou NÃO. \n ( ) Principal responsável pela construção e manutenção da GE. \n ( ) Efetuada durante a fase na monitoragem. \n ( ) Realizada através de navios Gônios. \n ( ) É a última fase da MAGE. \n ( ) Atua NÃO apenas como alarme antecipado da presença inimiga, como também na verificação das emissões da própria força.",
+    "alternativas": [
+      "- 1 - 2 - 3",
+      "3 - 2 - 1 -",
+      "- 3 - 2 - 1",
+      "2 - 3 - 1 -",
+      "1 - 3 2 - - "
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** "
+  },
+  {
+    "id": 47,
+    "pergunta": "(1) Identificação. \n (2) Localização Eletrônica. \n (3) Análise. \n \n ( ) É a deliberada sintonia de uma frequência de interesse. \n  ( ) Análise Imediata e Análise Campo. \n ( ) É efetuada durante a fase da monitoragem. \n ( ) Navios Gônios. \n ( ) Guardas de Interceptação das faixas designadas. \n ( ) É a última fase das Medidas de Apoio a Guerra Eletrônica (MAGE).",
+    "alternativas": [
+      "- 1 - 2 - 3",
+      "3 - 2 - 1 -",
+      "- 3 - 2 - 1",
+      "2 - 3 - 1 -",
+      "1 - 3 2 - - "
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** "
+  }
+]
