@@ -1,0 +1,718 @@
+[
+  {
+    "id": 1,
+    "pergunta": "No dia seguinte ao dia da ativação do sistema próprio de comunicações da MB, a ERMB deverá encaminhar ao COMIMSUP MSG de avaliação de desempenho dos circuitos da Rede Principal.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). ECR ou outra ER encarregada deverá encaminhar á DCTIM mensagem de avaliação de desempenho."
+  },
+  {
+    "id": 2,
+    "pergunta": "A responsabilidade de escoamento de MSG para navios em viagem no estrangeiro é da ERMRJ.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). É da Estação Rádio (ER) responsável pela área de comunicações em que o navio encontra-se navegando."
+  },
+  {
+    "id": 3,
+    "pergunta": "Quando a rede própria da MB for ativada para ADE, as MSG de precedência Preferencial ou Superior NÃO serão escoadas pelo canal de DD da RECIM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). As OM continuarão encaminhando as mensagens de precedência preferencial ou superior através do canal DD da RECIM, de acordo com os procedimentos em vigor."
+  },
+  {
+    "id": 4,
+    "pergunta": "A ERMRJ é a ECR da Rede Fixa Principal.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). ECR da Rede Fixa Principal é ERMB e ERMRJ é a Estação Principal do Serviço Móvel Marítimo."
+  },
+  {
+    "id": 5,
+    "pergunta": "Serviços de Socorro e Salvamento (SAR) e o Monitoragem são alguns tipos de MSG Padronizadas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). Os tipos de MSG Padronizadas são: Logística, Pavilhão de Comando de Força, Pronto Para o Mar (PROMAR), Serviço de Comunicações Interrompido e Serviço de Socorro de Salvamento (SAR)."
+  },
+  {
+    "id": 6,
+    "pergunta": "As Redes Principal, RNIT e RLB, são redes operadas pela ERMB como Estação Principal do Serviço Fixo no meio elétrico.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** (Verdadeiro)."
+  },
+  {
+    "id": 7,
+    "pergunta": "A matéria quando enviada para publicação em BONO é responsabilidade do COMIMSUP.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). É de total responsabilidade da OM de origem."
+  },
+  {
+    "id": 8,
+    "pergunta": "O credenciamento do externo junto a Unidade Postal deve ser feito por meio de comunicação padronizada, com validade máxima de 6 (SEIS) meses.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). MÁXIMO DE 12 MESES."
+  },
+  {
+    "id": 9,
+    "pergunta": "As Redes Funcionais dos DN são redes consideradas alternativas da ERMRJ em caso de inoperância da Rede de Estações Rádio da MB – Navios (Bordo-Terra).",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). É a ERMN."
+  },
+  {
+    "id": 10,
+    "pergunta": "Dentro do SISCOM a ERMRJ é a estação que opera a Rede Principal do Serviço Fixo.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). É ERMB."
+  },
+  {
+    "id": 11,
+    "pergunta": "A MSG Padronizada, Navio de SVC Distrital e/Salvamento (SAR) deverá ser enviada pelo navio que assumiu o Serviço Distrital e/ou Salvamento em uma determinada área.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** (Verdadeiro)."
+  },
+  {
+    "id": 12,
+    "pergunta": "As MSG de ou para OM no Exterior e Adidos Navais poderão ser encaminhadas exclusivamente pelo meio postal, observando o preconizado em documento específico do EMA.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). Pelo meio postal ou elétrico."
+  },
+  {
+    "id": 13,
+    "pergunta": "As MSG de/ou para OM sediada no exterior e Adidos Navais, poderão ser encaminhadas pelos meios óticos e elétrico.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). Encaminhadas pelos meio postal ou elétrico."
+  },
+  {
+    "id": 14,
+    "pergunta": "Em situação normal o tráfego no Serviço Fixo é escoado, preferencialmente, pelo canal dados (DD) RECIM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** (Verdadeiro)."
+  },
+  {
+    "id": 15,
+    "pergunta": "No caso do encaminhamento de MSG para OM sediadas no Exterior e Adidos Navais, será utilizado o canal SC do meio elétrico.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (Falso). Meio postal."
+  },
+  {
+    "id": 16,
+    "pergunta": "As MSG ENVIADAS VIA CORREIO ELETRÔNICO (CIRCUITO 101a E 102 da RECIM) de e para OM sediadas no exterior e Adidos Navais deverão utilizar obrigatoriamente os endereços constantes no “Catálogo de dados de acesso ao serviço Fixo Geral). OBS: Fica disponibilizado na página da DCTIM na INTRANET.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** (Verdadeiro)."
+  },
+  {
+    "id": 17,
+    "pergunta": "As MSG enviadas via correios eletrônico de e para OM sediadas no Exterior e Adidos Navais deverão utilizar obrigatoriamente os endereços constates no Catálogo de dados de acesso ao Serviço Fixo Geral.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** (Verdadeiro)."
+  },
+  {
+    "id": 18,
+    "pergunta": "Das MSG Padronizadas, qual está relacionada (texto) com as condições operacionais do navio?",
+    "alternativas": [
+      "Pavilhão de Comando e Força.",
+      "Serviço de Comunicação Interrompido.",
+      "PROMAR.",
+      "Serviço de Socorro e Salvamento.",
+      "Logística."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 19,
+    "pergunta": "Qual OM tem, entre suas responsabilidades, a de encaminhar, por intermédio de Adidos Navais ou de representação diplomática, solicitação para efetuar transmissões em portos estrangeiros?",
+    "alternativas": [
+      "DCTIM.",
+      "ERMRJ.",
+      "COMIMSUP.",
+      "COMOPNAV.",
+      "DGMM."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 20,
+    "pergunta": "A MSG Padronizada: Navio de Serviço Distrital e Salvamento (SAR) terá como remetente:",
+    "alternativas": [
+      "Comando de DN.",
+      "Navio de Serviço Distrital ou Navio de Salvamento.",
+      "COMOPNAV.",
+      "COMIMSUP.",
+      "Todos navios da Área Distrital."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 21,
+    "pergunta": "Normally, todas as quartas-feiras, serão ativadas as Redes próprias da MB, no horário de:",
+    "alternativas": [
+      "10:00Z às 21:00Z.",
+      "10:00Z às 16:00Z.",
+      "10:00Z às 13:00Z.",
+      "11:00Z às 21:00Z.",
+      "11:00Z às 20:00Z."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 22,
+    "pergunta": "Dentro do SISCOM, qual é a estação Rádio Principal do SMM?",
+    "alternativas": [
+      "ERMB.",
+      "ERMRJ.",
+      "ERMN.",
+      "ERMS.",
+      "ERMBe."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 23,
+    "pergunta": "Serviço de comunicações interrompido. Ao ser enviada a MSG, quando a estação transmissora ou estação indicada NÃO estiver executando determinado tipo de SMM ou de auxílio a navegação, deverá ter como endereçado de informação:",
+    "alternativas": [
+      "DCTIM.",
+      "Todas ER da MB.",
+      "ERMN.",
+      "ERMRJ.",
+      "BHMN/CHM."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 24,
+    "pergunta": "Eliminadas as razões que determinam a impossibilidade da ERMRJ ATD os navios no mar, essa EstaçãoRádio deverá comunicar o restabelecimento do Serviço normal, por meio de MSG. Essa MSG deverá ser repetida em quantos horários?",
+    "alternativas": [
+      "1.",
+      "2.",
+      "3.",
+      "4.",
+      "5."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 25,
+    "pergunta": "Deve ser considerado como recurso externo, em face dos altos custos envolvidos.",
+    "alternativas": [
+      "Tráfego via RLB.",
+      "Tráfego via RENIT.",
+      "Rede de correio e telégrafo (ECT).",
+      "Tráfego via estação costeira aberta à correspondência pública.",
+      "Tráfego com recurso GATEWAY-HF/ALE."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 26,
+    "pergunta": "O emprego dos canais do meio elétrico para encaminhamento de MSG de/ou para OM sediada no exterior e Adidos Navais, será da responsabilidade do (a):",
+    "alternativas": [
+      "DCTIM.",
+      "COMOPNAV.",
+      "CPM.",
+      "OM remetente.",
+      "COM1ºDN."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**  Que arcará com todas as despesas concernentes."
+  },
+  {
+    "id": 27,
+    "pergunta": "Qual o destinatário da MSG Padronizada Navio de SVC Distrital e Salvamento?",
+    "alternativas": [
+      "COMOPNAV.",
+      "DCTIM.",
+      "Navio Distrital ou Navio de Salvamento.",
+      "Comando dos DN.",
+      "Navio que foi submetido."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual é a Estação do SVC Fixo?",
+    "alternativas": [
+      "ERMRJ.",
+      "ERMN.",
+      "ERMB.",
+      "ERMRG.",
+      "ERMS."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 29,
+    "pergunta": "Indique dentro das opções abaixo, a ER substituta do SVC Fixo Principal.",
+    "alternativas": [
+      "ERMRJ.",
+      "ERMN.",
+      "ERMB.",
+      "ERMRG.",
+      "ERMS."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 30,
+    "pergunta": "O emprego dos canais do meio elétrico, para encaminhamento de MSG para OM sediadas no exterior e Adidos Navais, será de responsabilidade de quem?",
+    "alternativas": [
+      "CON.",
+      "DCTIM.",
+      "EMA.",
+      "OM remetente.",
+      "OM endereçada."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 31,
+    "pergunta": "Qual é a Estação Rádio da MB, que efetua tráfego brasileiro na RNIT?",
+    "alternativas": [
+      "ERMRJ-CN.",
+      "ERMN.",
+      "ERMB.",
+      "Ministério das Relações Exteriores (MRE).",
+      "ERMS."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 32,
+    "pergunta": "Nas matérias de BONO para o Mar, a quem caberá VRF a conveniência da inclusão ou não de matéria para navios no mar?",
+    "alternativas": [
+      "CON.",
+      "ER Distrital.",
+      "ERMRJ.",
+      "DCTIM.",
+      "COMIMSUP."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 33,
+    "pergunta": "Quem é responsável por elaborar a seção Geral do BONO?",
+    "alternativas": [
+      "EMA.",
+      "CON.",
+      "COMIMSUP.",
+      "ERMRJ.",
+      "DCTIM."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**"
+  },
+  {
+    "id": 34,
+    "pergunta": "Assinale o período em que estarão ativadas as Redes de comunicações próprias da MB, utilizadas nos SVC Fixo Principal, Secundário e Funcional:",
+    "alternativas": [
+      "0800Z às 1800Z.",
+      "0900Z às 1900Z.",
+      "1000Z às 2000Z.",
+      "1100Z às 2100Z.",
+      "1200Z às 2200Z."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 35,
+    "pergunta": "Qual é a Estação abaixo responsável por efetuar todo o tráfego brasileiro na RNIT?",
+    "alternativas": [
+      "ERMRJ.",
+      "ERMN.",
+      "ERMB.",
+      "ERMRG.",
+      "ERMS."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 36,
+    "pergunta": "Assinale a opção onde estão listadas, exclusivamente, as Redes de Comunicações em que a ERMRJ atua como substituta:",
+    "alternativas": [
+      "Rede Bordo-Terra e RNIT.",
+      "Rede Funcional e RLB.",
+      "Rede Principal e RLB.",
+      "RNIT e Rede Móvel Marítimo.",
+      "REOMARINHA e Rede Terra-Bordo."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 37,
+    "pergunta": "Qual é a precedência das MSG encaminhadas pelo meio postal no caso de se tomar necessária a ativação das Redes de comunicações próprias da MB para ATD a indisponibilidade das facilidades extra-MB?",
+    "alternativas": [
+      "R.",
+      "O.",
+      "Y.",
+      "P.",
+      "Z."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 38,
+    "pergunta": "Qual é o horário, impreterivelmente, do dia útil em que a matéria para publicação oportuna na Seção Geral deverá dar entrada na DCTIM para sua divulgação?",
+    "alternativas": [
+      "1700hs.",
+      "1500hs.",
+      "1400hs.",
+      "1300hs.",
+      "1200hs."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 39,
+    "pergunta": "Qual é o SVC operado pelo meio elétrico em que as ECR devem estabelecer exercícios semanais de ativação das redes de comunicações próprias da MB, a fim de manter os operadores das redes, onde haja escoamento real de MSG, devidamente adestrados?",
+    "alternativas": [
+      "Fixo.",
+      "Móvel Aeronáutico.",
+      "Móvel Terrestre.",
+      "Móvel Marítimo.",
+      "Especiais."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**"
+  },
+  {
+    "id": 40,
+    "pergunta": "Ocorrendo a impossibilidade da ERMRJ efetuar as transmissões para navios no mar por um prazo que se estime superior a SEIS (6) horas nas Redes Terra-Bordo e de Informações Meteorológica, qual é a ER que assumirá a responsabilidade por tais transmissões:",
+    "alternativas": [
+      "ER-ENRN.",
+      "ERMBe.",
+      "ERMN.",
+      "ERMB.",
+      "ERMRJ-CN."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 41,
+    "pergunta": "Qual é a MSG Padronizada a ser enviada pelo navio, quando determinado em diretiva, com a adequada antecedência ao suspender?",
+    "alternativas": [
+      "SAR.",
+      "PROMAR.",
+      "Logística.",
+      "Pavilhão de Comando de Força.",
+      "SVC de Comunicações Interrompido."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**"
+  },
+  {
+    "id": 42,
+    "pergunta": "As MSG encaminhadas de e para OM sediadas no Exterior e Adidos Navais, via correio eletrônico, devem utilizar obrigatoriamente os endereços constantes no:",
+    "alternativas": [
+      "Indicativo Naval.",
+      "Indicativo disponibilizado em Diretiva.",
+      "Indicativo Telegráficos.",
+      "Catálogo de dados de acesso ao SVC Fixo Geral e demais informações.",
+      "Indicativo Visual quando em exercícios."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 43,
+    "pergunta": "O teor da matéria enviada para publicação em BONO é de total responsabilidade da(o):",
+    "alternativas": [
+      "DCTIM.",
+      "DN.",
+      "COMIMSUP.",
+      "OM de Origem.",
+      "ECR."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 44,
+    "pergunta": "Em qual informação do BONO será publicada a matéria cujo conteúdo digitado em espaço UM, exceder a metade da folha tamanho ofício?",
+    "alternativas": [
+      "BONO Geral.",
+      "BONO Sede.",
+      "BONO Especial.",
+      "BONO Especial Sede.",
+      "BONO Geral Sede."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 45,
+    "pergunta": "Dentro de procedimentos para elaboração de matérias a serem publicada em BONO, qual a matéria que NÃO serão incluídas para publicação?",
+    "alternativas": [
+      "Assunto sobre assunção de Comando.",
+      "Material para transferência CFM previsto na SGM-303.",
+      "Matérias com assuntos ligados as Associações ou Clubes com vínculos tradicionais a MB.",
+      "Matérias de caráter Particular.",
+      "Ordem de Dia quando originadas de OM cujos titulares sejam Almirantes."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**"
+  },
+  {
+    "id": 46,
+    "pergunta": "O Comandante do NpaFlu Amapá (P32), ao suspender, determinou ao operador de SVC diário de comunicações, o interesse e a importância de se tomar conhecimento do BONO Seção Geral, parte MAR. Porém, NÃO havendo matéria para transmissão para o Mar, qual é a expressão usada pela ERMRJ identificando a não existência da matéria?",
+    "alternativas": [
+      "NEGAT.",
+      "NEGRAMAR.",
+      "NEGAMAR.",
+      "XIRA XIRORI.",
+      "NÃO há matéria para divulgação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 47,
+    "pergunta": "Qual o propósito da MSG Padronizada Logística?",
+    "alternativas": [
+      "Relaciona necessidades logísticas de Força ou navio, previstas para o próximo porto de escala.",
+      "Informa a movimentação de pessoal e material de saúde entre navios.",
+      "Solicita reparos emergenciais em equipamentos de comunicações.",
+      "Informa o recebimento de combustíveis e lubrificantes no mar.",
+      "Relata o consumo diário de víveres e água potável."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. Relaciona necessidades logísticas de Força ou navio, previstas para o próximo porto de escala, em caso de premente necessidade, pode ser complementada no mar."
+  },
+  {
+    "id": 48,
+    "pergunta": "Qual o SIGILO da MSG informando o SVC de Comunicações Interrompido?",
+    "alternativas": [
+      "Secreto",
+      "Confidencial",
+      "Reservado",
+      "Ostensivo",
+      "Ultrassecreto"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** (Ostensivo)."
+  },
+  {
+    "id": 49,
+    "pergunta": "Qual a palavra introduzida no formato básico de algumas MSG Padronizadas que indica que outros documentos normativos estabelecem o grau de sigilo?",
+    "alternativas": [
+      "A critério",
+      "Variável",
+      "Opcional",
+      "Padrão",
+      "Sob consulta"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A palavra “Opcional” indica que o sigilo fica a critério do remetente ou de outros DOC normativos."
+  },
+  {
+    "id": 50,
+    "pergunta": "Como será iniciado o texto da MSG que complementa as MSG de necessidades logísticas da Força ou Navio?",
+    "alternativas": [
+      "SUPLLOG",
+      "ALTLOG",
+      "COMPLOG",
+      "ADDLOG",
+      "EXTLOG"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (ALTLOG)."
+  },
+  {
+    "id": 51,
+    "pergunta": "As MSG, cujos remetentes, endereçados, precedência, sigilo e texto observam um padrão pré-determinado para melhor atendimento de suas finalidades, são classificadas como:",
+    "alternativas": [
+      "Mensagens Administrativas.",
+      "Mensagens Operativas.",
+      "Mensagens de Rotina.",
+      "Mensagens Padronizadas.",
+      "Mensagens de Serviço."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** (Mensagens Padronizadas)."
+  },
+  {
+    "id": 52,
+    "pergunta": "Ao ser verificada a impossibilidade de operar qualquer das Redes operadas pela ERMRJ e pela ERMB, a quem deve ser feita a comunicação imediata?",
+    "alternativas": [
+      "À DCTIM e ao COMOPNAV.",
+      "Ao COMIMSUP e à ERMN.",
+      "Ao Com1°DN e ao Com7°DN, respectivamente, com informação à DCTIM.",
+      "Ao EMA e ao CGCFN.",
+      "A todas as OM da RECIM simultaneamente."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. ERMRJ comunica ao Com1ºDN e ERMB ao Com7ºDN."
+  },
+  {
+    "id": 53,
+    "pergunta": "Quais são as estações responsáveis por estabelecer procedimentos alternativos em caso de avaria nas Redes do SMM e do SVC Fixo, respectivamente?",
+    "alternativas": [
+      "SMM: ERMB; SVC Fixo: ERMN.",
+      "SMM: ERMN; SVC Fixo: ERMRJ.",
+      "SMM: ERMRJ; SVC Fixo: ERMB.",
+      "SMM: ERMBe; SVC Fixo: ERMS.",
+      "SMM: ERMN; SVC Fixo: ERMN."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Para o SMM é a ERMN e para o SVC Fixo é a ERMRJ."
+  },
+  {
+    "id": 54,
+    "pergunta": "Quais são as precedências utilizadas para o encaminhamento de MSG no tráfego Bordo-Terra?",
+    "alternativas": [
+      "Rotina ou Preferencial.",
+      "Imediata ou Flash.",
+      "Preferencial ou Superior.",
+      "Apenas Preferencial.",
+      "Apenas Rotina."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** (Preferencial ou Superior)."
+  },
+  {
+    "id": 55,
+    "pergunta": "Qual expressão deve conter no início do texto de cada MSG de exercício por ocasião da Ativação das Redes de Comunicações próprias?",
+    "alternativas": [
+      "DGMM-0550 VG CAPÍTULO 7 VG EXERCÍCIO BIPT",
+      "OPEREX BIPT VG CAPÍTULO 7",
+      "SISCOM EXERCÍCIO BIPT DGMM-0550",
+      "EXERCÍCIO DE ATIVAÇÃO REDE PRINCIPAL",
+      "MSG DE SERVIÇO EXERCÍCIO BIPT"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**."
+  },
+  {
+    "id": 56,
+    "pergunta": "Para qual destinatário a ECR deverá enviar MSG com a Avaliação de Desempenho das Redes Secundárias e Funcionais?",
+    "alternativas": [
+      "DCTIM.",
+      "COMOPNAV.",
+      "COMIMSUP.",
+      "ERMRJ.",
+      "Com7ºDN."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** (COMIMSUP)."
+  },
+  {
+    "id": 57,
+    "pergunta": "Ao ser verificada a impossibilidade de operar as Redes Terra-Bordo e de Informações Meteorológica, a quem a ER responsável deverá informar a inoperância?",
+    "alternativas": [
+      "Apenas à DCTIM.",
+      "TODCIR (todas as OM integrantes da RECIM).",
+      "Apenas aos Navios no Mar.",
+      "Ao COMOPNAV e EMA.",
+      "Apenas à ERMN."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** (TODCIR)."
+  },
+  {
+    "id": 58,
+    "pergunta": "Quais informações o COMOPNAV pode solicitar permissão para transmitir em Portos Estrangeiros via Adidos Navais?",
+    "alternativas": [
+      "Frequências, Tipo de Emissão, Potência e Período da Estadia.",
+      "Nomes da Tripulação e Armamento.",
+      "Dados do Radar e Sonar.",
+      "Inventário de víveres e combustíveis.",
+      "Apenas o Indicativo Visual."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**."
+  },
+  {
+    "id": 59,
+    "pergunta": "Quais países fazem parte da RNIT (Rede Naval Interamericana de Telecomunicações)?",
+    "alternativas": [
+      "Apenas Brasil, Argentina e EUA.",
+      "Argentina, Bolívia, Brasil, Chile, Colômbia, Equador, EUA, Guatemala, Honduras, Nicarágua, Panamá, Paraguai, Peru, Rep. Dominicana, Uruguai e Venezuela.",
+      "Brasil, Portugal, Angola e Moçambique.",
+      "Todos os países da ONU.",
+      "Apenas países da América do Sul."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Congrega as marinhas dos países americanos citados."
+  }
+]
