@@ -1,0 +1,2289 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual a característica fundamental da Fase Preparatória, conforme o Art. 18?",
+    "alternativas": [
+      "Realizar a escolha do vencedor da licitação, compatibilizando-a com o plano de contratações.",
+      "Planejar a licitação, compatibilizando-a com o plano anual de contratações e com as leis orçamentárias.",
+      "Divulgar o edital e seus anexos em sítio eletrônico oficial.",
+      "Avaliar as propostas e julgar o melhor preço.",
+      "Apenas definir o objeto e o valor estimado da contratação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 18 e o fichamento definem a Fase Preparatória como o \"Planejamento da licitação, compatível com o plano anual de contratações e leis orçamentárias\"."
+  },
+  {
+    "id": 2,
+    "pergunta": "O Estudo Técnico Preliminar (ETP) deve conter, no mínimo, cinco elementos, sendo um deles:",
+    "alternativas": [
+      "A jus.ficativa para a não realização de licitação.",
+      "A descrição da necessidade da contratação.",
+      "O nome dos licitantes que serão convidados a participar.",
+      "A aprovação do Tribunal de Contas.",
+      "O valor exato e final do contrato."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O fichamento do Art. 18 lista a \"descrição da necessidade\" como um dos elementos mínimos do Estudo Técnico Preliminar (ETP)."
+  },
+  {
+    "id": 3,
+    "pergunta": "Para obras e serviços de engenharia de grande vulto, a lei exige a obrigatoriedade de qual instrumento na fase preparatória?",
+    "alternativas": [
+      "Diálogo compe..vo.",
+      "Termo de referência.",
+      "Catálogo eletrônico de padronização.",
+      "Estudo técnico preliminar simplificado.",
+      "fiatriz de alocação de riscos."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**. A matriz de alocação de riscos é obrigatória \"para obras e serviços de grande vulto e nos regimes de contratação integrada e semi-integrada\"."
+  },
+  {
+    "id": 4,
+    "pergunta": "A respeito da padronização, a não utilização de modelos de minutas de editais e contratos deve ser:",
+    "alternativas": [
+      "Autorizada pelo Tribunal de Contas.",
+      "Jus.ficada por escrito no processo.",
+      "Apenas comunicada ao órgão central.",
+      "Permitida apenas para municípios com até 20.000 habitantes.",
+      "Aprovada por todos os membros da comissão de licitação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O fichamento do Art. 19 afirma que \"O não uso dos instrumentos padronizados deve ser jus.ficado por escrito\"."
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual dos seguintes instrumentos é um dos meios que os órgãos devem instituir para centralizar e padronizar procedimentos?",
+    "alternativas": [
+      "O Catálogo eletrônico de padronização.",
+      "O Diário Oficial da União.",
+      "A Plataforma fiais Brasil.",
+      "O Plano de Contratações Anual.",
+      "O Plano Plurianual (PPA)."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. O Art. 19 menciona o \"Catálogo eletrônico de padronização\" como um dos instrumentos que os órgãos devem instituir para centralizar e padronizar procedimentos."
+  },
+  {
+    "id": 6,
+    "pergunta": "A lei proíbe a aquisição de artigos de luxo. A quem cabe a responsabilidade de definir o que são \"bens comuns\" e \"artigos de luxo\"?",
+    "alternativas": [
+      "Apenas à autoridade máxima da Administração Públicatib) Aos poderes Executivo, Legislativo e Judiciário, em seus respectivos âmbitos.",
+      "Ao Tribunal de Contas da União.",
+      "Aos licitantes, por meio de consulta pública.",
+      "Aos órgãos de controle interno."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 20 indica que \"cabe aos poderes Executivo, Legislativo e Judiciário definir o que são bens comuns e de luxo\"."
+  },
+  {
+    "id": 7,
+    "pergunta": "Em relação aos contratos de grande vulto, qual é o prazo para que o vencedor da licitação implante o programa de integridade, que é uma exigência obrigatória?",
+    "alternativas": [
+      "30 dias.",
+      "90 dias.",
+      "6 meses.",
+      "1 ano.",
+      "2 anos."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O fichamento informa que, para contratos de grande vulto, o programa de integridade é obrigatório e \"O vencedor tem 6 meses para implantálo\"."
+  },
+  {
+    "id": 8,
+    "pergunta": "Sobre o orçamento estimado da contratação, qual a prioridade para obras e serviços de engenharia, de acordo com o fichamento?",
+    "alternativas": [
+      "fiediana de preços do Portal Nacional de Contratações Públicas (PNCP).",
+      "Composição de custos unitários do SINAPI/SICRO.",
+      "Preços praticados em contratações similares.",
+      "O valor da proposta mais baixa.",
+      "Pesquisa de preços com fornecedores."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 23 aponta que, para obras e engenharia, a prioridade para o valor estimado é \"a composição de custos unitários do SINAPI/SICRO\"."
+  },
+  {
+    "id": 9,
+    "pergunta": "O orçamento estimado pode ser sigiloso, desde que jus.ficado. Em qual situação o sigilo não se aplica?",
+    "alternativas": [
+      "Para a autoridade máxima do órgão.",
+      "Para os licitantes durante a fase de propostas.",
+      "Para os órgãos de controle interno e externo.",
+      "Apenas para licitações com grande número de participantes.",
+      "Em licitações com o critério de julgamento de maior desconto."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O fichamento sobre o Art. 24 deixa claro que o sigilo do orçamento \"não se aplica aos órgãos de controle interno e externo\"."
+  },
+  {
+    "id": 10,
+    "pergunta": "A matriz de alocação de riscos é um instrumento que distribui os riscos entre a Administração e o contratado. A lei a torna obrigatória para quais regimes de contratação?",
+    "alternativas": [
+      "Apenas para contratações de bens comuns.",
+      "Apenas para serviços conlnuos.",
+      "Para contratos de grande vulto, integrada e semiintegrada.",
+      "Para todas as contratações diretas.",
+      "Para compras com entrega imediata."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A matriz de alocação de riscos é obrigatória \"para obras e serviços de grande vulto e nos regimes de contratação integrada e semi-integrada\""
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual é o prazo para a realização de uma audiência pública para discutir um edital, contado de sua convocação?",
+    "alternativas": [
+      "5 dias úteis.",
+      "8 dias úteis.",
+      "15 dias úteis.",
+      "20 dias úteis.",
+      "30 dias corridos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O fichamento do Art. 21 especifica que a audiência pública deve ser \"Convocada com 8 dias úteis de antecedência\".12. b) A capacidade de produção nacional seja inferior à quanCdade a ser adquirida.  Comentário: O fichamento do Art. 26 e 27 indica que a margem de preferência \"não se aplica se a capacidade de produção nacional for inferior à quantidade a ser adquirida\"."
+  },
+  {
+    "id": 12,
+    "pergunta": "A respeito da margem de preferência para bens e serviços, a lei estabelece que ela não se aplica caso:",
+    "alternativas": [
+      "A contratação seja de grande vulto.",
+      "A capacidade de produção nacional seja inferior à quantidade a ser adquirida.",
+      "O critério de julgamento seja o maior desconto.",
+      "O contratado seja uma microempresa.",
+      "O contrato seja de escopo predefinido."
+    ],
+    "correta": -1,
+    "comentario": ""
+  },
+  {
+    "id": 13,
+    "pergunta": "Para ter direito à margem de preferência de até 20%, os bens e serviços nacionais devem ser resultantes de:",
+    "alternativas": [
+      "Repactuação de contratos.",
+      "Desenvolvimento e inovação tecnológica.",
+      "Aquisição de bens comuns.",
+      "Padronização de procedimentos.",
+      "fiatriz de alocação de riscos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A margem de preferência de até 20% é destinada a \"Bens e serviços nacionais resultantes de desenvolvimento e inovação tecnológica\"."
+  },
+  {
+    "id": 14,
+    "pergunta": "A lei estabelece uma margem de preferência de até 10% para bens e serviços nacionais que atendam a normas técnicas brasileiras, e também para bens:",
+    "alternativas": [
+      "Usados ou recondicionados.",
+      "Com preço superior ao do mercado internacional.",
+      "Reciclados, recicláveis ou biodegradáveis.",
+      "De luxo ou de alta tecnologia.",
+      "De pronta entrega e pagamento imediato."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O Art. 26 e 27 mencionam que a margem de preferência de até 10% pode ser aplicada a \"bens reciclados, recicláveis ou biodegradáveis\"."
+  },
+  {
+    "id": 15,
+    "pergunta": "A respeito da contratação direta por inexigibilidade ou dispensa, se a estimativa de valor não for possível, o contratado deve comprovar que seus preços estão de acordo com o mercado por meio de:",
+    "alternativas": [
+      "Declaração de preços do próprio fornecedor.",
+      "Pesquisa de mercado com pelo menos três fornecedores.",
+      "Notas fiscais de até 1 ano anterior.",
+      "Preços em atas de registro de preços.",
+      "Publicação em jornal de grande circulação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Para contratação direta, se a estimativa não for possível, o contratado deve comprovar que seus preços estão de acordo com o mercado, apresentando \"notas fiscais de até 1 ano anterior\"."
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual das seguintes informações é uma cláusula adicional que o edital pode prever, de acordo com o fichamento?",
+    "alternativas": [
+      "A responsabilidade pelos encargos trabalhistas da Administração.",
+      "A contratação de um percentual mínimo de mulheres vítimas de violência doméstica.",
+      "O pagamento antecipado em todas as contratações.",
+      "A criação de um comitê de resolução de disputas.",
+      "O prazo de duração do contrato de forma indeterminada."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O fichamento do Art. 25 cita que o edital pode prever a \"contratação de mulheres vítimas de violência doméstica\"."
+  },
+  {
+    "id": 17,
+    "pergunta": "Em qual situação o sigilo do orçamento estimado deve ser quebrado e o preço deve ser divulgado, segundo o fichamento?",
+    "alternativas": [
+      "Quando a contratação for por inexigibilidadetib) Quando a licitação .ver como critério de julgamento o maior desconto.",
+      "Quando o valor da contratação for superior a R$ 10.000,00.",
+      "Quando o licitante solicitar.",
+      "Em todas as licitações presenciais."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O fichamento do Art. 24 estabelece que \"O preço estimado deve ser divulgado em licitações com critério de maior desconto\"."
+  },
+  {
+    "id": 18,
+    "pergunta": "A lei determina que o edital deve conter, de forma obrigatória, a previsão de um índice de reajuste de preço. Essa previsão se refere a qual dos seguintes mecanismos?",
+    "alternativas": [
+      "Repactuação.",
+      "Reajustamento em sentido estrito.",
+      "Reequilíbrio econômico-financeiro.",
+      "Atualização monetária.",
+      "Negociação de preços."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A lei distingue o \"reajustamento em sentido estrito\", para os demais casos, e a \"repactuação\", para serviços com dedicação exclusiva de mão de obra."
+  },
+  {
+    "id": 19,
+    "pergunta": "O que os órgãos devem divulgar anualmente em sítio eletrônico oficial, de acordo com o Art. 27, relacionado à margem de preferência?",
+    "alternativas": [
+      "A relação de todos os editais de licitação publicados no ano.",
+      "A relação de empresas que não cumpriram os contratos.",
+      "A relação de empresas beneficiadas pela margem de preferência e o volume de recursos a elas destinados.",
+      "O valor total das despesas com contratações diretas.",
+      "A relação de todos os agentes públicos envolvidos na fase preparatória."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O Art. 27 exige a divulgação anual da \"relação de empresas favorecidas pela margem de preferência\" e \"o volume de recursos a elas destinados\"."
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual dos seguintes documentos não é um elementochave obrigatório da Fase Preparatória, conforme o fichamento do Art. 18?",
+    "alternativas": [
+      "Estudo Técnico Preliminar (ETP).",
+      "Definição do Objeto.",
+      "Orçamento Estimado.",
+      "Proposta de preços do licitante.",
+      "Análise de Riscos."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O fichamento do Art. 18 lista como elementos-chave da fase preparatória o ETP , a definição do objeto, o orçamento estimado e a análise de riscos, mas a proposta de preços é apresentada pelos licitantes e não é um documento da fase preparatória."
+  },
+  {
+    "id": 21,
+    "pergunta": "Conforme a Lei nº 14.133/2021, qual das seguintes modalidades de licitação é a mais adequada para a contratação de obras e serviços de engenharia?",
+    "alternativas": [
+      "Pregão",
+      "Leilão",
+      "Concurso",
+      "Diálogo CompeIIvo",
+      "Concorrência"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**. A concorrência é a modalidade de licitação adequada para obras e serviços de engenharia e bens e serviços especiais, conforme a lei 1. O pregão é para bens e serviços comuns 2, e o diálogo compeIIvo é para contratações complexas e de inovação."
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual modalidade de licitação, de acordo com o Art. 28 da Lei nº 14.133/2021, é uIlizada para a alienação de bens móveis inservíveis ou legalmente apreendidos?",
+    "alternativas": [
+      "Concorrência",
+      "Pregão",
+      "Leilão",
+      "Concurso",
+      "Diálogo CompeIIvo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O leilão é a modalidade uIlizada para a alienação de bens móveis e imóveis inservíveis ou legalmente apreendidos."
+  },
+  {
+    "id": 23,
+    "pergunta": "Sobre as modalidades de licitação, a Lei nº 14.133/2021 estabelece que:",
+    "alternativas": [
+      "É permiIda a criação de novas modalidades, desde que autorizada por decreto.",
+      "É vedada a criação de novas modalidades ou a combinação das existentes.",
+      "A combinação de modalidades é permiIda em casos de contratações de grande vulto.",
+      "As modalidades podem ser alteradas por portaria do fiinistro da Economia.",
+      "É permiIdo criar novas modalidades apenas para objetos de inovação tecnológica."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 28, § 2º, estabelece que é expressamente vedada a criação de novas modalidades de licitação ou a combinação daquelas já existentes."
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual é a principal caracterísIca que deYne a aplicação do pregão, conforme o Art. 29 da Lei nº 14.133/2021?",
+    "alternativas": [
+      "O valor esImado da contratação.",
+      "A natureza especial do objeto a ser contratado.",
+      "O objeto possuir padrões de desempenho e qualidade que possam ser objeIvamente deYnidos.",
+      "A complexidade do objeto a ser contratado.",
+      "A necessidade de inovação tecnológica."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A lei deYne que o pregão deve ser usado sempre que o objeto puder ser objeIvamente deYnido por padrões de desempenho e qualidade no edital."
+  },
+  {
+    "id": 25,
+    "pergunta": "O pregão, de acordo com o Parágrafo único do Art. 29, não pode ser uIlizado para:",
+    "alternativas": [
+      "Contratação de bens e serviços de TI.",
+      "Contratação de serviços de engenharia comuns.",
+      "Contratação de serviços técnicos especializados de natureza predominantemente intelectual.",
+      "Aquisição de materiais de escritório.",
+      "Contratação de serviços de limpeza e conservação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O Parágrafo único do Art. 29 proíbe o uso do pregão para serviços técnicos especializados de natureza predominantemente intelectual e obras e serviços de engenharia, com uma exceção 7."
+  },
+  {
+    "id": 26,
+    "pergunta": "A modalidade de licitação desInada à escolha de trabalho técnico, cienbYco ou arbsIco, mediante a insItuição de prêmios, é o(a):",
+    "alternativas": [
+      "Concorrência",
+      "Pregão",
+      "Concursod) Leilão",
+      "Diálogo CompeIIvo"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O concurso é a modalidade desInada à escolha de trabalhos técnicos, cienbYcos ou arbsIcos, com a concessão de prêmios ou remuneração."
+  },
+  {
+    "id": 27,
+    "pergunta": "No concurso desInado à elaboração de projeto, qual é a condição estabelecida para o vencedor, conforme o Art. 30, Parágrafo único, da Lei nº 14.133/2021?",
+    "alternativas": [
+      "O vencedor deve autorizar a execução do projeto, mas mantém os direitos autorais.",
+      "O vencedor cede à Administração Pública todos os direitos patrimoniais relaIvos ao projeto.",
+      "A Administração Pública só pode usar o projeto após pagar royalIes ao vencedor.",
+      "O vencedor é obrigado a parIcipar da execução do projeto.",
+      "A remuneração ao vencedor é apenas simbólica, e ele não cede os direitos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. No concurso para projetos, o vencedor deve ceder todos os direitos patrimoniais à Administração Pública, permiIndo que ela use o projeto conforme sua conveniência 9."
+  },
+  {
+    "id": 28,
+    "pergunta": "Quem pode conduzir um leilão, segundo o Art. 31 da Lei nº 14.133/2021?",
+    "alternativas": [
+      "Apenas um servidor público designado pela autoridade competente.",
+      "Apenas um leiloeiro oYcial.",
+      "Um leiloeiro oYcial ou um servidor designado.",
+      "Qualquer agente público, desde que autorizado pelo edital.",
+      "Apenas um agente de contratação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O leilão pode ser conduzido por um leiloeiro oYcial ou por um servidor designado pela autoridade competente."
+  },
+  {
+    "id": 29,
+    "pergunta": "Qual critério de julgamento é usado para a seleção de leiloeiro oYcial pela Administração, caso opte por essa contratação?",
+    "alternativas": [
+      "fiaior lance",
+      "fienor preço",
+      "fielhor técnica",
+      "fiaior desconto para as comissões",
+      "fielhor custo-beneicio"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. Se a Administração optar por contratar um leiloeiro oYcial, a seleção deve ser feita com o critério de maior desconto para as comissões a serem cobradas."
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual das seguintes parIcularidades é uma caracterísIca do leilão, conforme o Art. 31 da Lei nº 14.133/2021?",
+    "alternativas": [
+      "Exige registro cadastral prévio.",
+      "Possui fase de habilitação.",
+      "A homologação ocorre apenas após a execução do contrato.",
+      "Não exige registro cadastral prévio e não tem fase de habilitação.",
+      "A homologação é imediata, sem necessidade de pagamento prévio."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O leilão é caracterizado por não exigir registro cadastral prévio e não ter fase de habilitação, o que torna o processo mais ágil 12."
+  },
+  {
+    "id": 31,
+    "pergunta": "A modalidade de licitação Diálogo CompeIIvo é restrita a contratações em que a Administração busca, principalmente, soluções para:",
+    "alternativas": [
+      "Aquisição de bens e serviços comuns.",
+      "Venda de bens móveis inservíveis.",
+      "Objetos que envolvem inovação tecnológica ou técnica e que não podem ter suas especiYcações deYnidas com precisão.",
+      "Projetos de baixo custo e alta viabilidade.",
+      "Obras de infraestrutura de roIna."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O diálogo compeIIvo é uma modalidade restrita a contratações complexas, especialmente quando a Administração busca inovação e não consegue deYnir com precisão as especiYcações técnicas."
+  },
+  {
+    "id": 32,
+    "pergunta": "No Diálogo CompeIIvo, qual é o prazo mínimo, em dias úteis, para manifestação de interesse na parIcipação, a parIr da divulgação do edital?",
+    "alternativas": [
+      "15 dias",
+      "20 dias",
+      "25 dias",
+      "30 dias",
+      "60 dias"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A fase de diálogo compeIIvo começa com a divulgação do edital, que deve estabelecer um prazo mínimo de 25 dias úteis para a manifestação de interesse."
+  },
+  {
+    "id": 33,
+    "pergunta": "Durante a fase de diálogo do Diálogo CompeIIvo, qual das seguintes ações é vedada?",
+    "alternativas": [
+      "Realização de reuniões com os licitantes préselecionados.",
+      "Registro das reuniões em ata e gravação em áudio e vídeo.",
+      "Divulgação de informações sigilosas de um licitante para outros sem o seu consenImento.",
+      "Declaração de conclusão do diálogo quando a solução é encontrada.",
+      "Restrição das soluções a serem discuIdas em fases sucessivas."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A lei proíbe a divulgação de informações sigilosas ou soluções propostas por um licitante para outros sem o seu consenImento, protegendo a compeIIvidade."
+  },
+  {
+    "id": 34,
+    "pergunta": "Após a conclusão do diálogo compeIIvo e antes do início da fase compeIIva, qual é o prazo mínimo, em dias úteis, para a apresentação das propostas pelos licitantes pré-selecionados?",
+    "alternativas": [
+      "25 dias úteis",
+      "30 dias úteis",
+      "45 dias úteis",
+      "60 dias úteis",
+      "90 dias úteis"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. Após a conclusão do diálogo, a Administração lança o edital para a fase compeIIva, com um prazo não inferior a 60 dias úteis para os licitantes apresentarem suas propostas deYniIvas."
+  },
+  {
+    "id": 35,
+    "pergunta": "A condução do Diálogo CompeIIvo é responsabilidade de uma comissão de contratação composta por, no mínimo:",
+    "alternativas": [
+      "Um servidor efeIvo.",
+      "Dois servidores efeIvos.",
+      "Três servidores efeIvos ou empregados públicos.",
+      "Quatro servidores, sendo um deles comissionado.",
+      "Cinco servidores, sem a possibilidade de contratação de assessoramento técnico.16. A regra que proíbe a criação de outras modalidades de licitação, conforme o Art. 28, §2º da Lei nº 14.133/2021, é considerada um:",
+      "Princípio mexível da lei.",
+      "Exceção à regra geral.",
+      "Princípio rígido da lei.",
+      "Procedimento auxiliar.",
+      "Detalhe sem relevância para provas."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O diálogo compeIIvo é conduzido por uma comissão de contratação composta de, no mínimo, 3 servidores efeIvos ou empregados públicos."
+  },
+  {
+    "id": 36,
+    "pergunta": "Qual das seguintes alternaIvas NÃO é um procedimento auxiliar previsto na Lei nº 14.133/2021?",
+    "alternativas": [
+      "Pré-qualiYcação.",
+      "Sistema de registro de preços.",
+      "Tomada de preços.",
+      "Credenciamento.",
+      "Registro cadastral."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A tomada de preços era uma modalidade de licitação na lei anterior e foi exInta na Lei nº 14.133/2021. As outras opções são procedimentos auxiliares."
+  },
+  {
+    "id": 37,
+    "pergunta": "O pregão é obrigatório para a contratação de bens e serviços de natureza comum. Qual o critério que a lei usa para deYnir se um bem ou serviço é de \"natureza comum\"?",
+    "alternativas": [
+      "Seu valor esImado.",
+      "A existência de padrões de desempenho e qualidade objeIvamente deYnidos.",
+      "A complexidade de sua execução.",
+      "O número de licitantes interessados.",
+      "A natureza intelectual do serviço."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O uso do pregão é deYnido pela capacidade de o objeto possuir padrões de desempenho e qualidade que possam ser objeIvamente deYnidos no edital."
+  },
+  {
+    "id": 38,
+    "pergunta": "A principal Ynalidade do concurso como modalidade de licitação é:",
+    "alternativas": [
+      "Adquirir bens e serviços de forma mais rápida.",
+      "Alienar bens inservíveis com o maior preço.",
+      "Selecionar a proposta mais vantajosa para obras de engenharia.",
+      "Escolher o melhor trabalho técnico, cienbYco ou arbsIco.",
+      "Encontrar a solução mais inovadora para um problema da Administração."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A Ynalidade do concurso é selecionar o melhor trabalho (técnico, cienbYco ou arbsIco), não o menor preço, concedendo um prêmio ou remuneração ao vencedor."
+  },
+  {
+    "id": 39,
+    "pergunta": "Conforme a Lei nº 14.133/2021, o edital de um leilão deve conter, entre outras informações, o(a):",
+    "alternativas": [
+      "Nome do licitante vencedor.",
+      "Data da homologação do processo.",
+      "Valor pelo qual o bem foi avaliado e o preço mínimo.",
+      "O histórico de uso do bem.",
+      "A lista de todos os lances realizados."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O edital de leilão deve conter, entre outras informações, o valor de avaliação do bem e o preço mínimo pelo qual ele pode ser vendido."
+  },
+  {
+    "id": 40,
+    "pergunta": "No contexto do leilão, qual é a principal vantagem de não haver registro cadastral prévio e fase de habilitação?",
+    "alternativas": [
+      "Aumento da compeIIvidade.",
+      "fiaior rigor na Yscalização dos parIcipantes.",
+      "O processo se torna mais rápido e direto.",
+      "A garanIa de que o maior lance será sempre o vencedor.",
+      "A eliminação da necessidade de homologação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A ausência de registro cadastral prévio e de fase de habilitação agiliza o processo do leilão, tornando-o mais direto."
+  },
+  {
+    "id": 41,
+    "pergunta": "A modalidade de licitação \"diálogo compeIIvo\" é uIlizada quando a Administração não tem precisão suYciente para deYnir o(s) quê?",
+    "alternativas": [
+      "O valor do contrato.",
+      "A duração do contrato.",
+      "As especiYcações técnicas.",
+      "O número de parIcipantes.",
+      "Os critérios de julgamento."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O diálogo compeIIvo é usado quando a Administração não tem precisão suYciente para deYnir as especiYcações técnicas, exigindo uma fase de diálogo para que essa deYnição seja feita."
+  },
+  {
+    "id": 42,
+    "pergunta": "Durante a fase de diálogo compeIIvo, a lei exige que as reuniões com os licitantes pré-selecionados sejam:",
+    "alternativas": [
+      "fianIdas em sigilo absoluto, sem nenhum registro.",
+      "Registradas em ata e gravadas mediante áudio e vídeo.",
+      "Acompanhadas por um representante do Tribunal de Contas.",
+      "Apenas registradas em ata, sem a necessidade de gravação.",
+      "Realizadas por videoconferência, sem a necessidade de registro."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A lei exige que as reuniões realizadas durante a fase de diálogo sejam registradas em ata e gravadas para garanIr a transparência do processo."
+  },
+  {
+    "id": 43,
+    "pergunta": "Qual das seguintes modalidades segue o rito procedimental comum, conforme o Art. 29 da Lei nº 14.133/2021?",
+    "alternativas": [
+      "Apenas o pregão.",
+      "Apenas a concorrência.",
+      "Concorrência e pregão.",
+      "Concurso e leilão.",
+      "Diálogo compeIIvo e pregão."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O Art. 29 estabelece que tanto a concorrência quanto o pregão seguem o rito procedimental comum."
+  },
+  {
+    "id": 44,
+    "pergunta": "A exceção que permite o uso do pregão para serviços de engenharia se refere a:",
+    "alternativas": [
+      "Obras de grande complexidade.",
+      "Serviços de engenharia comuns, que possuem padrões de desempenho e qualidade deYnidos.",
+      "Projetos de arquitetura.",
+      "Qualquer serviço de engenharia, desde que o valor seja baixo.",
+      "Obras de recuperação e reforma."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A exceção ao veto do pregão para serviços de engenharia é restrita aos serviços de engenharia que possuem padrões de desempenho e qualidade que podem ser objeIvamente deYnidos, os chamados \"serviços de engenharia comuns\"."
+  },
+  {
+    "id": 45,
+    "pergunta": "No concurso, para que serve a indicação do prêmio ou remuneração no edital?",
+    "alternativas": [
+      "Para deYnir o valor máximo que a Administração está disposta a pagar.",
+      "Para remunerar todos os parIcipantes.",
+      "Para incenIvar a parIcipação e compensar o vencedor pelo trabalho.",
+      "Para determinar o critério de julgamento.",
+      "Para garanIr que o projeto seja executado."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A indicação do prêmio ou remuneração no edital é um elemento central do concurso, servindo para atrair parIcipantes e compensar o vencedor pelo trabalho técnico, cienbYco ou arbsIco."
+  },
+  {
+    "id": 46,
+    "pergunta": "A divulgação do edital de leilão exige, além da aYxação na sede da Administração, a publicação em qual meio?a) Jornal de grande circulação nacional.",
+    "alternativas": [
+      "Diário OYcial da União.",
+      "SíIo eletrônico oYcial.",
+      "Revistas especializadas no objeto do leilão.",
+      "Redes sociais da Administração."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O edital do leilão deve ser divulgado em síIo eletrônico oYcial, além de ser aYxado na sede da Administração."
+  },
+  {
+    "id": 47,
+    "pergunta": "Para a seleção de um leiloeiro oYcial, a Administração Pública deve uIlizar o critério de julgamento de:",
+    "alternativas": [
+      "fienor preço da comissão.",
+      "fiaior desconto para as comissões.",
+      "fielhor técnica e preço.",
+      "fielhor qualidade do serviço prestado.",
+      "fiaior lance da comissão."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A seleção de leiloeiro oYcial deve uIlizar o critério de maior desconto nas comissões a serem cobradas."
+  },
+  {
+    "id": 48,
+    "pergunta": "O que acontece após a fase de diálogo no Diálogo CompeIIvo?",
+    "alternativas": [
+      "A licitação é encerrada e o vencedor é declarado.",
+      "A Administração publica um novo edital, dando início à fase compeIIva.",
+      "Os licitantes pré-selecionados assinam o contrato.",
+      "O processo é reiniciado, com novas manifestações de interesse.",
+      "A comissão de contratação escolhe a proposta vencedora sem concorrência."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Após o encerramento do diálogo, a Administração declara o diálogo concluído e inicia a fase compeIIva, publicando um novo edital com a especiYcação da solução encontrada."
+  },
+  {
+    "id": 49,
+    "pergunta": "Qual dos seguintes Ipos de contratação, por sua natureza intelectual, é vetado ao uso do pregão?",
+    "alternativas": [
+      "Aquisição de computadores.",
+      "Contratação de serviço de vigilância.",
+      "Contratação de uma consultoria jurídica.",
+      "Contratação de serviço de telefonia.",
+      "Contratação de serviço de limpeza."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A contratação de uma consultoria jurídica é um serviço técnico especializado de natureza predominantemente intelectual, para o qual o pregão não se aplica."
+  },
+  {
+    "id": 50,
+    "pergunta": "Conforme o Art. 33 da Lei nº 14.133/2021, qual dos seguintes critérios de julgamento é exclusivo para a modalidade leilão?",
+    "alternativas": [
+      "fienor preço",
+      "fiaior retorno econômico",
+      "fiaior lance",
+      "Técnica e preço",
+      "fiaior desconto"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O critério de maior lance é uOlizado exclusivamente para leilões, que é a modalidade de licitação para a venda de bens."
+  },
+  {
+    "id": 51,
+    "pergunta": "O critério de julgamento \"fiaior Retorno Econômico\" é uOlizado exclusivamente para qual Opo de contrato?",
+    "alternativas": [
+      "Contratos de obras de engenharia.",
+      "Contratos de eRciência.",
+      "Contratos de bens e serviços de tecnologia da informação.",
+      "Contratos de serviços técnicos especializados.",
+      "Contratos de publicidade."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O critério de fiaior Retorno Econômico é usado exclusivamente para contratos de eRciência, cujo objeOvo é gerar a maior economia para a Administração."
+  },
+  {
+    "id": 52,
+    "pergunta": "Na aplicação do critério de julgamento de menor preço ou maior desconto, a Administração Pública pode considerar, além do valor nominal, os:",
+    "alternativas": [
+      "Custos indiretos relacionados ao ciclo de vida do objeto.",
+      "Valores de propostas de outros licitantes.",
+      "Custos de contratações anteriores.",
+      "Custos com a folha de pagamento do contratado.",
+      "Custos de treinamento da equipe da Administração."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. A lei permite que, ao aplicar o menor preço ou maior desconto, a Administração considere os custos indiretos do ciclo de vida do objeto, como despesas de manutenção, reposição, depreciação e impacto ambiental."
+  },
+  {
+    "id": 53,
+    "pergunta": "Qual critério de julgamento é aplicado quando a avaliação se concentra exclusivamente na qualidade da proposta técnica ou ar[sOca, sem considerar o preço?",
+    "alternativas": [
+      "Técnica e preço",
+      "fiaior retorno econômico",
+      "fielhor técnica ou conteúdo ar[sOco",
+      "fiaior desconto",
+      "fienor preço"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O critério \"fielhor Técnica ou Conteúdo Ar[sOco\" avalia exclusivamente a proposta técnica ou ar[sOca, sem levar em consideração o preço da proposta."
+  },
+  {
+    "id": 54,
+    "pergunta": "A modalidade de licitação Concurso, para a escolha de trabalhos técnicos, cien[Rcos ou ar[sOcos, está diretamente relacionada a qual critério de julgamento?",
+    "alternativas": [
+      "fienor preço",
+      "fiaior retorno econômico",
+      "fiaior lance",
+      "fielhor técnica ou conteúdo ar[sOco",
+      "Técnica e preço"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O critério de \"fielhor Técnica ou Conteúdo Ar[sOco\" está inOmamente ligado à modalidade de Concurso, que visa à seleção de trabalhos técnicos, cien[Rcos ou ar[sOcos."
+  },
+  {
+    "id": 55,
+    "pergunta": "A proporção máxima que a proposta técnica pode ter na pontuação Rnal do critério \"Técnica e Preço\" é de:",
+    "alternativas": [
+      "30%",
+      "50%",
+      "70%",
+      "80%",
+      "100%7. O critério de julgamento \"Técnica e Preço\" deve ser preferencialmente uOlizado na contratação de:",
+      "Bens de consumo comuns.",
+      "Obras e serviços de engenharia de baixa complexidade.",
+      "Serviços técnicos especializados de natureza predominantemente intelectual.",
+      "Aquisição de veículos.",
+      "Serviços de limpeza e conservação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Na ponderação do critério \"Técnica e Preço\", a nota técnica pode ter uma valoração máxima de 70%."
+  },
+  {
+    "id": 56,
+    "pergunta": "Quem é responsável por realizar o julgamento das propostas técnicas no critério de \"fielhor Técnica\" ou \"Técnica e Preço\"?",
+    "alternativas": [
+      "O agente de contratação.",
+      "Apenas um servidor efeOvo designado.",
+      "O próprio licitante.",
+      "Uma banca de julgamento com, no mínimo, 3 membros.",
+      "A autoridade superior do órgão."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O julgamento técnico deve ser realizado por uma banca de no mínimo 3 membros, que podem ser servidores efeOvos ou proRssionais contratados e supervisionados."
+  },
+  {
+    "id": 57,
+    "pergunta": "No critério de \"fiaior Retorno Econômico\", a remuneração do contratado é um percentual sobre:",
+    "alternativas": [
+      "O valor total do contrato.",
+      "A economia esOmada no edital.",
+      "O preço de referência do mercado.",
+      "A economia efeOvamente obOda.",
+      "O maior lance ofertado."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. No critério de fiaior Retorno Econômico, a remuneração do contratado é um percentual sobre a economia que ele efeOvamente gerar, e não sobre a economia esOmada."
+  },
+  {
+    "id": 58,
+    "pergunta": "Quando o critério de julgamento é \"fiaior Desconto\", o percentual de desconto deve ser aplicado sobre o:",
+    "alternativas": [
+      "Valor mínimo aceitável pelo edital.",
+      "Preço global de referência Rxado no edital.",
+      "Preço máximo de mercado.",
+      "Custo indireto esOmado.",
+      "Valor total da proposta."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O critério \"fiaior Desconto\" aplica o percentual de desconto sobre um preço global de referência que é Rxado no edital."
+  },
+  {
+    "id": 59,
+    "pergunta": "Qual dos seguintes itens pode ser considerado na pontuação técnica de um licitante, conforme a Lei nº 14.133/2021?",
+    "alternativas": [
+      "O valor do menor preço oferecido.",
+      "O desempenho pretérito em contratos anteriores com a Administração Pública.",
+      "O prazo de entrega do objeto licitado.",
+      "O número de funcionários da empresa.",
+      "A localização da sede da empresa."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A lei permite que o desempenho anterior do licitante em contratos com a Administração seja considerado na pontuação técnica."
+  },
+  {
+    "id": 60,
+    "pergunta": "O Art. 36 da lei estabelece que o critério \"Técnica e Preço\" deve ser usado quando um estudo técnico preliminar demonstra que a qualidade da proposta é:",
+    "alternativas": [
+      "Irrelevante para a contratação.",
+      "Relevante para a Administração.",
+      "Superior a 70% da nota total.",
+      "Apenas um fator secundário.",
+      "fienor que a nota de preço."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O c r i t é r i o d e \" T é c n i c a e P r e ç o \" é e s c o l h i d o quando um estudo técnico preliminar demonstra que a qualidade da proposta é relevante para a Administração Pública."
+  },
+  {
+    "id": 61,
+    "pergunta": "No caso de serviços técnicos especializados de natureza intelectual, com valor esOmado superior a R$ 376.353,48, a lei impõe o uso de quais critérios de julgamento?",
+    "alternativas": [
+      "fienor preço ou maior desconto.",
+      "fiaior lance ou menor preço.",
+      "fielhor técnica ou técnica e preço.",
+      "fiaior retorno econômico ou menor preço.",
+      "Apenas menor preço."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. P a r a s e r v i ç o s t é c n i c o s e s p e c i a l i z a d o s d e natureza intelectual com valor superior a R$ 376.353,48, a lei impõe o uso dos critérios de fielhor Técnica ou Técnica e Preço, com a valoração máxima da técnica de 70%."
+  },
+  {
+    "id": 62,
+    "pergunta": "No critério de julgamento \"fiaior Retorno Econômico\", como é calculado o retorno econômico?",
+    "alternativas": [
+      "Pelo valor total da proposta de preço.",
+      "Pela economia esOmada, somada à proposta de preço.",
+      "Pela economia esOmada, deduzida a proposta de preço.",
+      "Pelo preço de referência, subtraído o preço da proposta.",
+      "Pelo valor total do contrato."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O retorno econômico é calculado pela economia esOmada gerada, deduzida a proposta de preço do contratado."
+  },
+  {
+    "id": 63,
+    "pergunta": "Se a pontuação técnica for baseada na qualiRcação de um proRssional especíRco, o Art. 38 exige que a execução do contrato tenha:",
+    "alternativas": [
+      "A supervisão desse proRssional à distância.",
+      "A parOcipação direta e pessoal desse proRssional.",
+      "A subsOtuição desse proRssional por outro de igual qualiRcação.",
+      "Apenas a apresentação do atestado de capacitação desse proRssional.",
+      "O pagamento de um bônus adicional a esse proRssional."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. S e a p o n t u a ç ã o t é c n i c a f o r b a s e a d a n a qualiRcação de um proRssional, a lei exige que esse proRssional parOcipe de forma direta e pessoal da execução do contrato."
+  },
+  {
+    "id": 64,
+    "pergunta": "A banca de julgamento das propostas técnicas pode ser composta por:",
+    "alternativas": [
+      "Apenas servidores públicos efeOvos.",
+      "Apenas proRssionais contratados por seu conhecimento técnico.",
+      "Servidores efeOvos ou proRssionais contratados, desde que os trabalhos destes úlOmos sejam supervisionados.",
+      "Apenas os licitantes que não apresentaram propostas técnicas.",
+      "Apenas a autoridade máxima do órgão licitante."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A b a n c a p o d e s e r c o m p o s t a p o r s e r v i d o r e s efeOvos ou por proRssionais contratados por seu conhecimento técnico, desde que os trabalhos desses proRssionais sejam supervisionados."
+  },
+  {
+    "id": 65,
+    "pergunta": "Qual dos seguintes critérios de julgamento é considerado um \"critério inovador\" e é uOlizado para buscar a maior economia para a Administração?",
+    "alternativas": [
+      "fienor preço.",
+      "fiaior desconto.",
+      "fielhor técnica.",
+      "Técnica e preço.",
+      "fiaior retorno econômico.18. O critério de \"fielhor Técnica ou Conteúdo Ar[sOco\" é o mais adequado para a contratação de:",
+      "Compra de equipamentos de informáOca.",
+      "Serviços de manutenção de veículos.",
+      "Contrato de publicidade com agência de propaganda.",
+      "Projetos de arquitetura ou urbanismo.",
+      "Compra de combus[veis."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**. O \"fiaior Retorno Econômico\" é um critério inovador, usado exclusivamente em contratos de eRciência, para buscar a maior economia para a Administração Pública."
+  },
+  {
+    "id": 66,
+    "pergunta": "A lei permite que a nota técnica no critério \"Técnica e Preço\" seja atribuída com base na análise de:",
+    "alternativas": [
+      "Apenas o preço da proposta.",
+      "Apenas a qualiRcação da equipe técnica.",
+      "Apenas a metodologia de trabalho.",
+      "A capacitação e experiência do licitante, comprovadas por atestados.",
+      "A valoração da nota de preço."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O julgamento da técnica pode ser feito pela veriRcação da capacitação e experiência do licitante, comprovadas por atestados."
+  },
+  {
+    "id": 67,
+    "pergunta": "Em um contrato de eRciência, se a economia obOda for menor que a contratada, a diferença será:",
+    "alternativas": [
+      "Compensada por meio de um adiOvo contratual.",
+      "Descontada da remuneração do contratado.",
+      "Paga pela Administração ao contratado.",
+      "Considerada como um risco da contratação, sem prejuízo ao contratado.",
+      "Desconsiderada, pois o contrato se baseia na economia esOmada."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Se a economia obOda em um contrato de eRciência for menor que a contratada, a diferença será descontada da remuneração do contratado."
+  },
+  {
+    "id": 68,
+    "pergunta": "Conforme o Art. 45 da Lei nº 14.133/2021, uma das normas que a Administração Pública deve observar em licitações de obras e serviços de engenharia é a garanHa de acessibilidade para pessoas com deJciência ou mobilidade reduzida. Qual das alternaHvas abaixo apresenta outra norma obrigatória?",
+    "alternativas": [
+      "Exigência de uHlização de materiais importados.",
+      "Proteção ao patrimônio histórico, cultural e arqueológico.",
+      "Dispensa de avaliação de impacto de vizinhança.",
+      "Descarte de resíduos sólidos em aterros sem controle ambiental.",
+      "UHlização exclusiva de mão de obra local."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 45 da Lei nº 14.133/2021 lista as normas que a Administração deve observar em licitações de obras, incluindo a proteção do patrimônio histórico, cultural e arqueológico."
+  },
+  {
+    "id": 69,
+    "pergunta": "Segundo a Lei de Licitações, a principal diferença entre a contratação integrada e a contratação semiintegrada, no que se refere aos projetos, é que:",
+    "alternativas": [
+      "A contratação integrada dispensa a elaboração do projeto execuHvo pela Administração, enquanto a semiintegrada exige o projeto básico.",
+      "Na contratação integrada, a Administração elabora o projeto básico, e na semi-integrada, ela elabora o projeto execuHvo.",
+      "Na contratação integrada, o contratado elabora e desenvolve os projetos básico e execuHvo, enquanto na semi-integrada, o contratado elabora apenas o projeto execuHvo a parHr de um projeto básico da Administração.",
+      "Ambas as modalidades exigem que o projeto execuHvo seja elaborado pelo contratado, mas a semiintegrada exige um anteprojeto da Administração.",
+      "A contratação semi-integrada é a única que exige a aprovação do projeto básico pela Administração."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A contratação integrada envolve a responsabilidade do contratado pela elaboração e desenvolvimento dos projetos básico e execuHvo. Já na semi-integrada, o projeto básico é elaborado pela Administração, e o contratado desenvolve apenas o projeto execuHvo."
+  },
+  {
+    "id": 70,
+    "pergunta": "Na contratação integrada, qual documento a Administração Pública elabora em subsHtuição ao projeto básico?",
+    "alternativas": [
+      "Projeto execuHvo",
+      "Termo de Referência",
+      "Estudo Técnico Preliminar",
+      "Anteprojeto",
+      "Projeto de concessão"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. Na contratação integrada, a Administração é dispensada de elaborar o projeto básico e, em seu lugar, elabora um anteprojeto."
+  },
+  {
+    "id": 71,
+    "pergunta": "Conforme o Art. 46, § 2º e § 3º, na contratação integrada, a responsabilidade integral pelos riscos associados ao projeto básico é do(a):",
+    "alternativas": [
+      "Agente de contratação.",
+      "Administração Pública.",
+      "Contratado.",
+      "ProjeHsta independente.",
+      "Fiscal do contrato.5. Qual é a regra fundamental estabelecida no Art. 46, § 1º, para obras e serviços de engenharia?",
+      "É obrigatória a desapropriação prévia dos terrenos.",
+      "É vedada a realização de obras sem projeto execuHvo, salvo no caso de contratação integrada.",
+      "É obrigatória a contratação por preço global em todas as obras.",
+      "É vedada a contratação de obras com valor superior a R$ 500.000,00.",
+      "É obrigatória a contratação de mão de obra local."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Na contratação integrada, o contratado assume a responsabilidade integral pelos riscos associados ao projeto básico que ele mesmo elaborou."
+  },
+  {
+    "id": 72,
+    "pergunta": "Na contratação semi-integrada, a alteração do projeto básico pelo contratado é permiHda, desde que:",
+    "alternativas": [
+      "A alteração não gere custo adicional para a Administração.",
+      "Seja solicitada e aprovada pelo Jscal do contrato.",
+      "Demonstre superioridade, como redução de custos ou aumento da qualidade, e tenha prévia autorização da Administração.",
+      "O contratado assuma a responsabilidade por todos os riscos da obra.",
+      "O projeto execuHvo seja manHdo sem nenhuma alteração."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Na contratação semi-integrada, o projeto básico, que é da Administração, pode ser alterado pelo contratado, mas somente com prévia autorização e se a alteração demonstrar superioridade."
+  },
+  {
+    "id": 73,
+    "pergunta": "O regime de execução \"empreitada por preço unitário\" é caracterizado pelo pagamento:",
+    "alternativas": [
+      "Pela obra completa, em sua totalidade.",
+      "Por etapas do cronograma hsico-Jnanceiro.",
+      "Por unidades de serviço executadas.",
+      "Pela economia efeHvamente gerada.",
+      "Por um percentual sobre o valor total do contrato."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A empreitada por preço unitário é o regime em que o pagamento é feito por unidades de serviço executadas, como o metro quadrado de uma parede."
+  },
+  {
+    "id": 74,
+    "pergunta": "Sobre a sistemáHca de pagamento em regimes de empreitada por preço global, empreitada integral, contratação integrada e semi-integrada, a lei estabelece que:",
+    "alternativas": [
+      "A remuneração é baseada em preços unitários.",
+      "A remuneração é associada à execução de etapas do cronograma e ao cumprimento de metas de resultado.",
+      "O pagamento é feito em uma única parcela após a conclusão da obra.",
+      "É vedada a licitação por preço global.",
+      "O pagamento é baseado na execução de quanHdades de itens unitários."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A lei proíbe que a remuneração seja baseada em preços unitários ou na execução de quanHdades de itens unitários em regimes por preço global. A remuneração deve ser associada às etapas do cronograma hsico-Jnanceiro."
+  },
+  {
+    "id": 75,
+    "pergunta": "A Lei nº 14.133/2021 proíbe a realização de obras e serviços de engenharia sem um projeto execuHvo, exceto quando:",
+    "alternativas": [
+      "O valor da obra for inferior a R$ 100.000,00.",
+      "A obra for contratada na modalidade concurso.",
+      "A obra for contratada na modalidade pregão.",
+      "O regime de execução for a contratação integrada.",
+      "O regime de execução for o fornecimento e prestação de serviço associado."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A contratação integrada é a única exceção à regra que proíbe a realização de obras e serviços sem projeto execuHvo."
+  },
+  {
+    "id": 76,
+    "pergunta": "No contexto de desapropriação em regimes integrado e semi-integrado, o edital e o contrato devem prever a distribuição objeHva dos riscos entre as partes. Qual dos seguintes aspectos deve ser previsto?",
+    "alternativas": [
+      "O valor exato e Jnal das indenizações.",
+      "O nome do proJssional responsável pela desapropriação.",
+      "A distribuição dos riscos Jnanceiros da diferença entre o custo real e a esHmaHva de desapropriação.",
+      "A responsabilidade pela execução da obra, em caso de paralisação.",
+      "A obrigatoriedade de o contratado assumir todos os custos de desapropriação. Parte 2: Compras (Art. 40 a 44)"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O Art. 46, § 4º, exige que o edital e o contrato prevejam a distribuição objeHva dos riscos, incluindo a diferença Jnanceira entre o custo esHmado e o custo real das desapropriações.Parte 2: Compras"
+  },
+  {
+    "id": 77,
+    "pergunta": "O Termo de Referência, documento que deJne o objeto da contratação de compras, deve conter, obrigatoriamente,:",
+    "alternativas": [
+      "O valor máximo de cada item a ser comprado.",
+      "O nome da empresa que será contratada.",
+      "As regras de entrega e para o recebimento provisório e deJniHvo do produto.",
+      "O histórico de consumo de outros órgãos públicos.",
+      "O preço de referência de mercado."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O Termo de Referência deve ser um documento detalhado, e a lei exige que ele contenha as regras de entrega e para o recebimento provisório e deJniHvo do produto."
+  },
+  {
+    "id": 78,
+    "pergunta": "Conforme o Art. 40, § 2º, e § 3º, o princípio do parcelamento, que busca ampliar a compeHção e evitar a concentração de mercado, não é adotado quando:",
+    "alternativas": [
+      "A Administração não consegue dividir o objeto em lotes.",
+      "O valor total da compra é inferior a R$ 50.000,00.",
+      "O objeto for um sistema único e integrado, ou quando a economia de escala recomendar a compra de um único fornecedor.",
+      "O fornecedor for uma micro ou pequena empresa.",
+      "A contratação for por fornecimento conlnuo."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O parcelamento não é adotado quando o objeto é um sistema único e integrado, ou quando a economia de escala ou a redução de custos de gestão jusHJcarem a contratação de um único fornecedor."
+  },
+  {
+    "id": 79,
+    "pergunta": "A indicação de marca ou modelo especíJco em uma licitação é, por regra, vedada. No entanto, ela é permiHda de forma excepcional e jusHJcada em qual das seguintes situações?",
+    "alternativas": [
+      "Para aumentar a compeHHvidade entre os licitantes.",
+      "Quando o fornecedor for uma empresa mulHnacional.",
+      "Quando a marca for a única capaz de atender às necessidades da Administração.",
+      "Apenas quando o valor da contratação for muito alto.",
+      "Quando o licitante vencedor for microempresa."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A indicação de marca é permiHda de forma excepcional e jusHJcada, sendo uma das hipóteses quando a marca ou modelo é o único capaz de atender às necessidades da Administração."
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual das seguintes alternaHvas NÃO é um meio de prova de qualidade de um produto, conforme o Art. 42 da Lei nº 14.133/2021?",
+    "alternativas": [
+      "Conformidade com normas técnicas da ABNT ou Inmetro.",
+      "CerHJcação emiHda por laboratório credenciadotic) Declaração de atendimento saHsfatório de outro órgão público.",
+      "Declaração de conformidade emiHda pelo próprio licitante.",
+      "Laudo de ensaio emiHdo por laboratório."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A lei não prevê a declaração do próprio licitante como meio de prova de qualidade, mas sim a conformidade com normas técnicas, laudos de laboratório e declarações de outros órgãos."
+  },
+  {
+    "id": 81,
+    "pergunta": "A exigência de amostras em uma licitação é permiHda, desde que:",
+    "alternativas": [
+      "Seja solicitada a todos os licitantes.",
+      "Esteja prevista no edital e a necessidade seja jusHJcada.",
+      "O licitante que a fornecer seja o vencedor.",
+      "O valor do contrato seja superior a R$ 100.000,00.",
+      "Não haja qualquer outra forma de comprovação da qualidade."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A exigência de amostras é possível, mas deve ser prevista no edital e jusHJcada, e pode ser solicitada apenas ao licitante provisoriamente vencedor."
+  },
+  {
+    "id": 82,
+    "pergunta": "O processo de padronização, previsto no Art. 43, deve conter, obrigatoriamente:",
+    "alternativas": [
+      "Um parecer técnico e um despacho moHvado da autoridade superior.",
+      "Apenas a aprovação da autoridade superior.",
+      "Apenas um parecer técnico com a análise de custos.",
+      "Apenas a divulgação em site oJcial.",
+      "Um laudo de ensaio e um cerHJcado de qualidade."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. O processo de padronização é um procedimento formal que deve conter um parecer técnico sobre o produto e um despacho moHvado da autoridade superior que aprova a adoção do padrão."
+  },
+  {
+    "id": 83,
+    "pergunta": "Na decisão entre comprar ou alugar um bem, o Art. 44 da lei estabelece que:",
+    "alternativas": [
+      "A compra é sempre a opção mais vantajosa para a Administração.",
+      "O estudo técnico preliminar deve analisar os custos e benehcios para indicar a alternaHva mais vantajosa.",
+      "O aluguel só é permiHdo para bens de baixo custo.",
+      "A decisão cabe ao agente de contratação, sem a necessidade de um estudo prévio.",
+      "A decisão deve ser baseada no menor preço de mercado."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A decisão entre comprar e alugar deve ser baseada em um estudo técnico preliminar que analise os custos e benehcios de cada opção, para indicar a mais vantajosa para a Administração ."
+  },
+  {
+    "id": 84,
+    "pergunta": "O planejamento de compras, conforme o Art. 40 da Lei nº 14.133/2021, deve seguir quais princípios essenciais?",
+    "alternativas": [
+      "Flexibilidade, agilidade e economicidade.",
+      "Padronização, parcelamento e responsabilidade Jscal.",
+      "CompeHHvidade, publicidade e formalidade.",
+      "Planejamento, execução e Jscalização.",
+      "Racionalidade, impessoalidade e legalidade."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O planejamento de compras deve seguir os princípios da padronização, do parcelamento e da responsabilidade Jscal, conforme o Art. 40."
+  },
+  {
+    "id": 85,
+    "pergunta": "O sistema de registro de preços deve ser usado quando for perHnente, especialmente em qual Hpo de fornecimento?",
+    "alternativas": [
+      "Contratações de obras de engenharia.",
+      "Contratações de serviços técnicos especializados.",
+      "Contratações de bens e serviços de TI.",
+      "Fornecimento conlnuo ou frequente.",
+      "Contratações de serviços de publicidade."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O sistema de registro de preços é ideal para contratações em que as quanHdades são indeterminadas e há uma necessidade de fornecimento conlnuo, ou seja, de forma frequente."
+  },
+  {
+    "id": 86,
+    "pergunta": "Conforme o Art. 41, a indicação de marca pode ser feita como referência para melhor compreensão do objeto. Nesse caso, a indicação:",
+    "alternativas": [
+      "Torna a licitação exclusiva para a marca indicada.",
+      "Deve ser acompanhada da expressão \"ou similar\".",
+      "É considerada uma restrição indevida à compeHHvidade.",
+      "Apenas a marca indicada pode ser aceita.",
+      "É uma indicação com caráter de exclusividade. Parte 3: Serviços em Geral (Art. 47 a 50)"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Quando a indicação de marca ou modelo é feita apenas como referência, a lei estabelece que ela deve ser acompanhada da expressão \"ou similar\" para não restringir a compeHHvidade . Parte 3: Serviços em Geral"
+  },
+  {
+    "id": 87,
+    "pergunta": "A regra geral na contratação de serviços é o parcelamento do objeto. Essa regra pode não ser aplicada quando:",
+    "alternativas": [
+      "O valor do serviço for alto.",
+      "A contratação de um único fornecedor for mais econômica ou tecnicamente vantajosa.",
+      "A licitação for na modalidade pregão.",
+      "O serviço não for de natureza intelectual.",
+      "A Administração não conseguir dividir o serviço em lotes."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A regra do parcelamento pode ser afastada quando a contratação de um único fornecedor for tecnicamente inviável ou economicamente desvantajosa, por exemplo, para gerar economia de escala."
+  },
+  {
+    "id": 88,
+    "pergunta": "O Art. 48 da Lei de Licitações detalha o que é vedado à Administração na contratação de serviços terceirizados. Qual das seguintes ações é expressamente proibida?",
+    "alternativas": [
+      "Exigir que a contratada apresente a folha de pagamento dos funcionários.",
+      "Demandar tarefas que não estejam no escopo do contrato.",
+      "Exigir que o edital contenha a remuneração de todos os funcionários.",
+      "Pedir a comprovação de recolhimento de FGTS.",
+      "PermiHr que o contratado tenha uma unidade de prestação de serviços a uma distância compatível."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A Administração não pode demandar tarefas que não estejam no escopo do contrato, sob pena de desvio de função do trabalhador terceirizado e violação das regras da lei."
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual das seguintes alternaHvas NÃO é uma aHvidade permiHda para ser terceirizada, conforme a Lei nº 14.133/2021?",
+    "alternativas": [
+      "AHvidades materiais.",
+      "AHvidades acessórias.",
+      "AHvidades instrumentais.",
+      "AHvidades complementares.",
+      "AHvidades de planejamento estratégico e JnalísHco."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**. A Administração só pode terceirizar aHvidades materiais, acessórias, instrumentais ou complementares, sendo vedada a terceirização de aHvidades de planejamento estratégico e JnalísHco."
+  },
+  {
+    "id": 90,
+    "pergunta": "De acordo com o Art. 48, § único, o edital de serviços terceirizados deve conter a proibição de que o contratado empregue:",
+    "alternativas": [
+      "Apenas cônjuges de agentes públicos.",
+      "Cônjuge, companheiro ou parente de dirigentes ou de agentes públicos que atuem na licitação ou Jscalização do contrato.",
+      "Apenas parentes de até 3º grautid) Apenas funcionários que já atuaram em outros contratos.",
+      "Funcionários com menos de 18 anos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 48, § único, proíbe expressamente que o contratado empregue cônjuge, companheiro ou parente de dirigentes ou de agentes públicos que atuem na licitação ou Jscalização do contrato."
+  },
+  {
+    "id": 91,
+    "pergunta": "A Lei nº 14.133/2021 permite que a Administração contrate mais de uma empresa para executar o mesmo serviço. Para que isso seja possível, qual das seguintes condições é obrigatória?",
+    "alternativas": [
+      "A ausência de perda de economia de escala e a execução concorrente e simultânea.",
+      "A contratação de, no mínimo, três empresas.",
+      "O serviço deve ser de natureza intelectual.",
+      "A contratação múlHpla deve ser mais cara para a Administração.",
+      "O valor do contrato deve ser inferior a R$ 100.000,00."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. Para contratar mais de uma empresa para o mesmo serviço, a lei exige que haja uma jusHJcaHva expressa e que não haja perda de economia de escala, além da possibilidade de execução concorrente e simultânea ."
+  },
+  {
+    "id": 92,
+    "pergunta": "Para a Jscalização de contratos que envolvam dedicação exclusiva de mão de obra, o Art. 50 permite que a Administração exija do contratado a comprovação do cumprimento de suas obrigações. Qual das seguintes obrigações pode ser exigida?",
+    "alternativas": [
+      "O histórico de saúde dos funcionários.",
+      "A declaração de imposto de renda dos sócios.",
+      "A quitação de obrigações trabalhistas de empregados desligados.",
+      "O contrato social da empresa.",
+      "O plano de negócios da empresa."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Em contratos com dedicação exclusiva de mão de obra, a Administração pode exigir a comprovação de várias obrigações, incluindo a quitação das obrigações trabalhistas de empregados que foram desligados."
+  },
+  {
+    "id": 93,
+    "pergunta": "No contexto de contratação de serviços, o edital pode exigir que o contratado tenha uma unidade de prestação de serviços em uma distância compatível com as necessidades da Administração. Essa exigência é para garanHr:",
+    "alternativas": [
+      "Que o contratado seja uma empresa local.",
+      "A qualidade da manutenção e assistência técnica.",
+      "A padronização dos serviços.",
+      "A redução dos custos indiretos.",
+      "A execução do serviço de forma mais rápida."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 47, § 2º, permite que o edital exija que o contratado tenha uma unidade de prestação de serviços a uma distância compatível para garanHr a qualidade da manutenção e assistência técnica."
+  },
+  {
+    "id": 94,
+    "pergunta": "Conforme o Art. 48, é vedado à Administração criar vínculo de subordinação direta com o funcionário terceirizado. Isso signiJca que a Administração não pode:",
+    "alternativas": [
+      "Acompanhar a execução do serviço.",
+      "Dar ordens diretas sobre a forma de trabalho ao funcionário.",
+      "Aprovar a execução do serviço.",
+      "DeJnir o escopo do serviço no edital.",
+      "Exigir que a empresa tenha funcionários qualiJcados."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O vínculo de subordinação é caracterizado por ordens diretas sobre a forma de trabalho, o que é proibido para a Administração em relação aos funcionários terceirizados. A Administração se relaciona diretamente com a empresa contratada."
+  },
+  {
+    "id": 95,
+    "pergunta": "O princípio do parcelamento, no caso de serviços, deve ser aplicado considerando qual dos seguintes fatores?",
+    "alternativas": [
+      "Apenas a viabilidade técnica.",
+      "O preço global do serviço.",
+      "A responsabilidade técnica e os custos administraHvos de ter vários contratos.",
+      "O número de licitantes interessados.",
+      "Apenas a existência de concorrência local."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Ao parcelar um serviço, a Administração deve considerar a responsabilidade técnica e os custos administraHvos envolvidos em gerir vários contratos, com o objeHvo de ampliar a compeHção."
+  },
+  {
+    "id": 96,
+    "pergunta": "A contratação de múlHplas empresas para o mesmo serviço, conforme o Art. 49, exige que a Administração mantenha um controle individualizado para:",
+    "alternativas": [
+      "Acompanhar o cronograma hsico-Jnanceiro de cada empresa.",
+      "Fiscalizar a qualidade do serviço prestado.",
+      "GaranHr a execução e os pagamentos de cada um dos contratos separadamente.",
+      "fianter a compeHHvidade entre as empresas.",
+      "Reduzir os custos administraHvos da Jscalização."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Na contratação de múlHplas empresas, a lei exige que a Administração mantenha um controle individualizado da execução e dos pagamentos para cada um dos contratados."
+  },
+  {
+    "id": 97,
+    "pergunta": "Conforme o Art. 51 da Lei nº 14.133/2021, qual é a regra geral para a locação de imóveis pela Administração Pública?",
+    "alternativas": [
+      "É sempre dispensável a licitação.",
+      "Deve ser precedida de licitação.",
+      "É permifida apenas a locação de imóveis de propriedade de outros órgãos públicos.",
+      "A licitação é obrigatória apenas para contratos de valor superior a R$ 1 milhão.",
+      "A locação é feita por dispensa de licitação, desde que o imóvel seja único."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A regra geral, conforme o Art. 51, é que a locação de imóveis deve ser precedida de licitação, salvo em casos de dispensa que a lei prevê."
+  },
+  {
+    "id": 98,
+    "pergunta": "Antes de alugar um imóvel, qual das seguintes avaliações a Administração Pública deve, obrigatoriamente, realizar?",
+    "alternativas": [
+      "Avaliação dos custos de mobiliário.",
+      "Avaliação do valor do imóvel e do estado de conservação.",
+      "Avaliação do custo de mão de obra para manutenção.",
+      "Avaliação do impacto Tnanceiro no orçamento do Estado.",
+      "Avaliação da proximidade do imóvel a serviços de transporte público."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 51 exige que, antes de alugar um imóvel, a Administração realize a avaliação prévia do valor do bem e de seu estado de conservação, além de avaliar os custos de adaptação, se houver."
+  },
+  {
+    "id": 99,
+    "pergunta": "Em uma licitação de âmbito internacional, se um licitante estrangeiro cotar seu preço em moeda estrangeira, qual direito é garanfido ao licitante brasileiro, conforme o Art. 52, § 1º, da Lei nº 14.133/2021?",
+    "alternativas": [
+      "O licitante brasileiro deve cotar seu preço obrigatoriamente em moeda nacional.",
+      "O licitante brasileiro tem o direito de cotar seu preço na mesma moeda estrangeira.",
+      "O pagamento ao licitante brasileiro será feito em moeda estrangeira.",
+      "O licitante brasileiro tem preferência na contratação.",
+      "O licitante brasileiro está dispensado de apresentar garanfias."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Para garanfir a igualdade de condições entre licitantes nacionais e estrangeiros, o Art. 52, § 1º, estabelece que o licitante brasileiro tem o direito de cotar seu preço na mesma moeda que o estrangeiro."
+  },
+  {
+    "id": 100,
+    "pergunta": "Qual é a regra geral de pagamento para um licitante brasileiro vencedor de uma licitação internacional que cotou em moeda estrangeira?",
+    "alternativas": [
+      "O pagamento será feito na moeda estrangeira cotada.",
+      "O pagamento será feito em dólares americanos.",
+      "O pagamento será feito em moeda corrente nacional.",
+      "O pagamento será realizado em euros.",
+      "O pagamento será feito em uma moeda a ser deTnida em comum acordo."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Embora o licitante brasileiro possa cotar em moeda estrangeira, o pagamento, se ele for o vencedor, será feito em moeda corrente nacional, como determina a lei."
+  },
+  {
+    "id": 101,
+    "pergunta": "A margem de preferência para produtos e serviços brasileiros, em uma licitação internacional, pode ser aplicada por meio de qual dos seguintes critérios?a) Aumento do valor da proposta de licitantes estrangeiros.",
+    "alternativas": [
+      "Desconto no valor da proposta de licitantes brasileiros.",
+      "Aumento do valor das propostas de licitantes estrangeiros em até 10%.",
+      "Desconto no valor das propostas de licitantes brasileiros em até 10%.",
+      "Concessão de um prazo maior para a entrega dos produtos brasileiros."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A margem de preferência é uma forma de dar prioridade a produtos e serviços brasileiros, aumentando o valor das propostas dos licitantes estrangeiros em até 10%, conforme a lei."
+  },
+  {
+    "id": 102,
+    "pergunta": "A licitação para a locação de um imóvel pode ser dispensada em qual das seguintes situações?",
+    "alternativas": [
+      "Quando se trata de um imóvel que é de propriedade de um servidor público.",
+      "Quando o aluguel for de valor muito baixo.",
+      "Quando houver necessidade de locação de um imóvel com caracterísficas que o tornem singular, sendo inviável a compeMção.",
+      "Quando o proprietário do imóvel for uma empresa pública.",
+      "Quando o prazo de locação for inferior a 12 meses."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A dispensa de licitação para a locação de imóvel ocorre quando se trata de um imóvel único com caracterísficas que o tornem singular, o que inviabiliza a compeMção."
+  },
+  {
+    "id": 103,
+    "pergunta": "No caso de dispensa de licitação para a locação de imóvel, qual dos seguintes documentos deve instruir o processo?",
+    "alternativas": [
+      "Apenas a avaliação do valor do aluguel.",
+      "Apenas a cerfidão de propriedade do imóvel.",
+      "Apenas a jusMTcafiva do preço.",
+      "A avaliação prévia do valor do aluguel, a jusMTcafiva do preço e o estudo técnico que comprove a inviabilidade da compeMção.",
+      "Apenas o laudo de vistoria do estado de conservação do imóvel."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O processo de dispensa de licitação para locação de imóvel deve ser instruído com a avaliação do valor do aluguel, a jusMTcafiva do preço e o estudo técnico que comprove a singularidade do imóvel e a inviabilidade da compeMção."
+  },
+  {
+    "id": 104,
+    "pergunta": "Quais informações sobre tributos e demais encargos devem constar no edital de licitação internacional?",
+    "alternativas": [
+      "Apenas o valor dos tributos federais.",
+      "Os valores exatos dos tributos incidentes.",
+      "Esfimafivas ou médias dos tributos e encargos.",
+      "O valor Tnal dos encargos, após a conclusão do contrato.",
+      "O edital não precisa conter informações sobre tributos."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Para garanfir a transparência e uma base de cálculo clara, o edital de licitação internacional deve conter esfimafivas ou médias dos tributos e encargos, e não seus valores exatos."
+  },
+  {
+    "id": 105,
+    "pergunta": "No caso de locação de um imóvel, os custos de adaptação, se houver, devem ser considerados para determinar o(a):",
+    "alternativas": [
+      "Valor do aluguel a ser pago ao proprietário.",
+      "Prazo de amorfização do invesfimento ao longo do contrato.",
+      "Período de vigência do contrato.",
+      "Tipo de licitação a ser ufilizada.",
+      "Valor do seguro do imóvel."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Os custos de adaptação do imóvel devem ser considerados para determinar o prazo de amorfização do invesfimento ao longo do contrato."
+  },
+  {
+    "id": 106,
+    "pergunta": "Se a Administração, em uma licitação internacional, exigir garanfias para o pagamento de um licitante estrangeiro, qual é a obrigação para com os licitantes brasileiros?",
+    "alternativas": [
+      "Dispensá-los de qualquer garanfia.",
+      "Exigir garanfias equivalentes às oferecidas ao estrangeiro.",
+      "Exigir garanfias mais rigorosas para o licitante brasileiro.",
+      "Exigir garanfias com valores mais altos para o licitante brasileiro.",
+      "Permifir que o licitante brasileiro escolha o fipo de garanfia que deseja. Parte 2: Edital"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A lei exige que as garanfias de pagamento para os licitantes brasileiros sejam equivalentes às oferecidas ao licitante estrangeiro, mantendo o princípio da isonomia. Parte 2: Edital"
+  },
+  {
+    "id": 107,
+    "pergunta": "Qual é a principal Tnalidade da análise jurídica do processo licitatório, conforme o Art. 53 da Lei nº 14.133/2021?",
+    "alternativas": [
+      "Aprovar a contratação sem a necessidade de divulgação do edital.",
+      "Realizar um controle prévio de legalidade do processo.",
+      "Avaliar o desempenho dos licitantes em contratos anteriores.",
+      "Determinar o valor de referência do objeto.",
+      "Subsfituir a necessidade de uma comissão de licitação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O Art. 53 estabelece que a principal Tnalidade da análise jurídica é realizar um controle prévio de legalidade, garanfindo que o edital esteja em conformidade com a lei."
+  },
+  {
+    "id": 108,
+    "pergunta": "O edital, após a fase preparatória, deve ser encaminhado para qual órgão?",
+    "alternativas": [
+      "O Tribunal de Contas.",
+      "O órgão de controle interno.",
+      "O órgão de assessoramento jurídico da Administração.",
+      "O fiinistério Público.",
+      "A comissão de contratação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Ao Tnal da fase preparatória, o processo licitatório deve ser encaminhado ao órgão de assessoramento jurídico da Administração para a análise jurídica."
+  },
+  {
+    "id": 109,
+    "pergunta": "A manifestação do órgão jurídico sobre o edital, de acordo com o Art. 53, deve ser, obrigatoriamente,:",
+    "alternativas": [
+      "Apenas uma aprovação formal.",
+      "Objefiva, clara e compreensível, sem indicar a marca ou modelo do objeto.",
+      "Apenas uma validação de valores de referência.",
+      "Um documento conTdencial.",
+      "Apenas uma análise de custos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O parecer jurídico deve ser objefivo, claro e compreensível, e não deve conter informações que restrinjam a compeMfividade, como a indicação de marca."
+  },
+  {
+    "id": 110,
+    "pergunta": "Após a divulgação do edital, se for necessária uma modiTcação que afete a formulação das propostas, o que a Administração deve fazer?",
+    "alternativas": [
+      "Apenas publicar um aviso de reMTcação.",
+      "Comunicar a alteração a todos os licitantes por e-mail.",
+      "Publicar o novo edital, reabrindo o prazo originalmente estabelecido.",
+      "Aumentar o prazo em 5 dias úteistie) Publicar o novo edital, mas o prazo não precisa ser reaberto."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Qualquer modiTcação no edital que afete a formulação das propostas exige a publicação de um novo edital e a reabertura do prazo original para a apresentação das propostas."
+  },
+  {
+    "id": 111,
+    "pergunta": "Qual é a consequência da não observância do prazo mínimo para a divulgação do edital antes da data de recebimento das propostas?",
+    "alternativas": [
+      "A prorrogação automáfica do prazo de entrega das propostas.",
+      "A nulidade do procedimento licitatório.",
+      "A aprovação da licitação com ressalvas.",
+      "A multa para o servidor responsável.",
+      "O licitante que se senfir prejudicado pode entrar com recurso."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A não observância dos prazos mínimos para a divulgação do edital pode levar à nulidade do procedimento licitatório, pois viola o princípio da publicidade."
+  },
+  {
+    "id": 112,
+    "pergunta": "O parecer jurídico sobre o processo licitatório deve conter, entre outras informações:",
+    "alternativas": [
+      "A indicação de todos os licitantes que parficiparão.",
+      "A análise dos riscos associados à contratação.",
+      "A aprovação dos preços propostos.",
+      "O cronograma de desembolso Tnanceiro.",
+      "A aprovação Tnal dos projetos técnicos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O parecer jurídico deve conter a análise dos riscos da contratação e a indicação de cláusulas contratuais adequadas para gerenciá-los."
+  },
+  {
+    "id": 113,
+    "pergunta": "Qual dos seguintes documentos não faz parte do edital, mas deve estar disponível para consulta, conforme o Art. 54, § 2º, da lei?",
+    "alternativas": [
+      "O projeto básico.",
+      "O Termo de Referência.",
+      "A minuta do contrato.",
+      "A lista de todos os licitantes.",
+      "As propostas de preço dos parficipantes."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. O projeto básico é um dos documentos que, embora não faça parte do edital, deve estar disponível para consulta pelos interessados, conforme o Art. 54, § 2º."
+  },
+  {
+    "id": 114,
+    "pergunta": "O edital deve prever a possibilidade de impugnação, ou seja, quesfionamentos por parte dos cidadãos. Qual é o prazo para a apresentação de impugnações?",
+    "alternativas": [
+      "10 dias úteis antes da data de abertura das propostas.",
+      "3 dias úteis antes da data de abertura das propostas.",
+      "5 dias úteis antes da data de abertura das propostas.",
+      "8 dias úteis antes da data de abertura das propostas.",
+      "O edital não pode ser impugnado após a sua divulgação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O prazo para a apresentação de impugnações contra o edital é de até 3 dias úteis antes da data de abertura das propostas."
+  },
+  {
+    "id": 115,
+    "pergunta": "A divulgação do edital, para que seja válida, deve ser feita em qual meio de comunicação?",
+    "alternativas": [
+      "Apenas no Diário OTcial.",
+      "Apenas em jornal de grande circulação.",
+      "Em um sífio eletrônico oTcial.",
+      "Em qualquer sífio eletrônico oTcial ou privado.",
+      "No sistema de compras eletrônicas do órgão."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A lei exige que o edital seja divulgado em um sífio eletrônico oTcial da Administração Pública, como o Portal Nacional de Contratações Públicas."
+  },
+  {
+    "id": 116,
+    "pergunta": "O edital é o instrumento que contém as regras da licitação. O Art. 53, § 1º, estabelece que ele deve ser elaborado com base em qual documento?",
+    "alternativas": [
+      "Na proposta do vencedor.",
+      "Na manifestação da autoridade superior.",
+      "No Termo de Referência, no anteprojeto ou no projeto básico.",
+      "No parecer jurídico.",
+      "Na minuta do contrato. Parte 3: Propostas e Lances"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O Art. 53, § 1º, estabelece que o edital deve ser elaborado com base no Termo de Referência, no anteprojeto ou no projeto básico. Parte 3: Propostas e Lances"
+  },
+  {
+    "id": 117,
+    "pergunta": "Qual é o prazo mínimo, em dias úteis, para a apresentação de propostas em uma licitação de aquisição de bens, quando o critério de julgamento for \"menor preço\" ou \"maior desconto\"?",
+    "alternativas": [
+      "5 dias úteis",
+      "8 dias úteis",
+      "15 dias úteis",
+      "25 dias úteis",
+      "30 dias úteis"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Para a aquisição de bens, o prazo mínimo para a apresentação de propostas com critério de menor preço ou maior desconto é de 8 dias úteis."
+  },
+  {
+    "id": 118,
+    "pergunta": "Para uma contratação integrada de obras e serviços de engenharia, qual o prazo mínimo para a apresentação de propostas?",
+    "alternativas": [
+      "25 dias úteis",
+      "35 dias úteis",
+      "45 dias úteis",
+      "60 dias úteis",
+      "90 dias úteis"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O prazo mínimo para apresentação de propostas em uma contratação integrada de obras e serviços de engenharia é de 60 dias úteis, um dos prazos mais longos da lei."
+  },
+  {
+    "id": 119,
+    "pergunta": "Em uma licitação de serviços especiais ou obras de engenharia especiais, com critério de julgamento de menor preço ou maior desconto, qual é o prazo mínimo, em dias úteis, para a apresentação de propostas?",
+    "alternativas": [
+      "10 dias úteis",
+      "15 dias úteis",
+      "25 dias úteis",
+      "35 dias úteis",
+      "60 dias úteis"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Para serviços especiais e obras de engenharia especiais, o prazo mínimo para a apresentação de propostas com critério de menor preço ou maior desconto é de 25 dias úteis."
+  },
+  {
+    "id": 120,
+    "pergunta": "Qual é o prazo mínimo, em dias úteis, para apresentação de propostas em uma licitação com o critério de julgamento de \"melhor técnica\" ou \"técnica e preço\"?",
+    "alternativas": [
+      "15 dias úteis",
+      "25 dias úteis",
+      "30 dias úteis",
+      "35 dias úteis",
+      "45 dias úteis"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O prazo mínimo para a apresentação de propostas em uma licitação com os critérios de julgamento \"melhor técnica\" ou \"técnica e preço\" é de 35 dias úteis."
+  },
+  {
+    "id": 121,
+    "pergunta": "Se o edital de uma licitação for alterado de forma a afetar a formulação das propostas, qual é a consequência para os prazos?",
+    "alternativas": [
+      "O prazo é prorrogado em 5 dias úteis.",
+      "O prazo original é reiniciado a parfir da nova divulgação.",
+      "O prazo é manfido, mas os licitantes podem entrar com recurso.",
+      "A licitação é canceladatie) A licitação é validada, mas com ressalvas."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A modiTcação do edital que afete a formulação das propostas exige a reabertura do prazo originalmente estabelecido, a parfir da nova divulgação."
+  },
+  {
+    "id": 122,
+    "pergunta": "Para uma licitação de aquisição de bens, se o critério de julgamento for \"melhor técnica\", qual o prazo mínimo, em dias úteis, para apresentação de propostas?",
+    "alternativas": [
+      "8 dias úteis",
+      "10 dias úteis",
+      "15 dias úteis",
+      "25 dias úteis",
+      "35 dias úteis"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Para a aquisição de bens, se o critério de julgamento for \"melhor técnica\", o prazo mínimo para apresentação das propostas é de 15 dias úteis."
+  },
+  {
+    "id": 123,
+    "pergunta": "Qual o prazo mínimo para apresentação de propostas em uma contratação semi-integrada?",
+    "alternativas": [
+      "15 dias úteis",
+      "25 dias úteis",
+      "35 dias úteis",
+      "60 dias úteis",
+      "90 dias úteis"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O prazo mínimo para apresentação de propostas em uma contratação semi-integrada é de 35 dias úteis, um prazo intermediário entre a contratação integrada e as contratações comuns."
+  },
+  {
+    "id": 124,
+    "pergunta": "Em uma licitação de menor preço, qual é a função da fase de lances?",
+    "alternativas": [
+      "Permifir a apresentação de propostas de valor mais alto.",
+      "Aumentar o prazo de entrega das propostas.",
+      "Permifir que os licitantes negociem os preços entre si.",
+      "Permifir a apresentação de lances sucessivos para reduzir o preço.",
+      "Permifir que a Administração negocie o preço com o licitante."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A fase de lances, qpica das modalidades de pregão e concorrência, tem a função de permifir que os licitantes apresentem lances sucessivos para reduzir o preço da proposta."
+  },
+  {
+    "id": 125,
+    "pergunta": "A Lei nº 14.133/2021 estabelece que a fase de lances pode ser realizada em qual modalidade de licitação?",
+    "alternativas": [
+      "Apenas pregão e concorrência.",
+      "Apenas pregão.",
+      "Apenas concorrência.",
+      "Leilão, concorrência e pregão.",
+      "Concurso e diálogo compeMfivo."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A lei permite a realização da fase de lances em três modalidades: leilão, concorrência e pregão, visando a obtenção da proposta mais vantajosa."
+  },
+  {
+    "id": 126,
+    "pergunta": "Se o critério de julgamento for \"maior lance\", o prazo mínimo para a apresentação das propostas é de:",
+    "alternativas": [
+      "8 dias úteis",
+      "10 dias úteis",
+      "15 dias úteis",
+      "25 dias úteis",
+      "35 dias úteis"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Se o critério de julgamento for \"maior lance\", o prazo mínimo para a apresentação das propostas é de 15 dias úteis."
+  },
+  {
+    "id": 127,
+    "pergunta": "Conforme o Art. 59 da Lei nº 14.133/2021, uma proposta será desclassi@cada se:",
+    "alternativas": [
+      "O licitante apresentar um preço com variação de até 10% do valor de referência.",
+      "O preço da proposta for manifestamente inexequível.",
+      "O licitante não apresentar a quali@cação técnica exigida.",
+      "A proposta for apresentada após o prazo @nal, mas antes da abertura.",
+      "O licitante não Qver registro no Portal Nacional de Contratações Públicas."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A desclassi@cação de uma proposta ocorre quando o preço for manifestamente inexequível, ou seja, um valor muito baixo que o licitante não conseguiria cumprir."
+  },
+  {
+    "id": 128,
+    "pergunta": "Segundo a lei, o que acontece com a proposta do licitante que não comprovar a exequibilidade do preço, mesmo se a desclassi@cação for moQvada?",
+    "alternativas": [
+      "O licitante será noQ@cado para apresentar nova proposta.",
+      "A proposta será classi@cada como a mais cara.",
+      "A proposta será desclassi@cada, e o licitante não poderá parQcipar da fase de lances.",
+      "A Administração Pública negocia o preço para torná-lo exequível.",
+      "O licitante é automaQcamente inabilitado."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Se a desclassi@cação for moQvada, o licitante é desclassi@cado e não poderá parQcipar da fase de lances, pois sua proposta é considerada inválida."
+  },
+  {
+    "id": 129,
+    "pergunta": "Qual é o critério para que a Administração Pública negocie o preço com o licitante classi@cado em primeiro lugar?",
+    "alternativas": [
+      "O preço do licitante está 10% abaixo da média das propostas.",
+      "O licitante oferece a maior garanQa.",
+      "O preço do licitante está acima do preço máximo estabelecido no edital.",
+      "O licitante comprova que o preço é inexequível.",
+      "O preço do licitante está em conformidade com o valor de referência."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A negociação é um mecanismo para obter um preço mais vantajoso. Se o preço do primeiro colocado esQver acima do máximo permiQdo, a Administração pode negociar para que o valor seja reduzido."
+  },
+  {
+    "id": 130,
+    "pergunta": "Se, após a negociação, o licitante classi@cado em primeiro lugar não aceitar o preço, o que a Administração pode fazer?",
+    "alternativas": [
+      "Revogar a licitação e iniciar um novo processo.",
+      "Desclassi@car o licitante e convocar os demais para a negociação, seguindo a ordem de classi@cação.",
+      "Apenas aceitar a proposta original do primeiro colocado.",
+      "Aceitar a segunda melhor proposta sem negociação.",
+      "Aumentar o preço de referência do edital."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Se o primeiro colocado não aceitar a negociação, a Administração o desclassi@ca e convoca o próximo da lista para tentar a negociação, seguindo a ordem de classi@cação."
+  },
+  {
+    "id": 131,
+    "pergunta": "A lei de@ne que um preço pode ser considerado inexequível quando for inferior a qual porcentagem do valor orçado pela Administração?",
+    "alternativas": [
+      "50%",
+      "60%",
+      "75%d) 80%",
+      "90%"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A lei de@ne que um preço pode ser considerado inexequível quando for inferior a 75% do valor orçado pela Administração."
+  },
+  {
+    "id": 132,
+    "pergunta": "A Administração Pública tem o poder de desclassi@car uma proposta por:",
+    "alternativas": [
+      "Falta de um detalhe no plano de trabalho, mesmo que o licitante tenha tempo para corrigi-lo.",
+      "Vícios insanáveis.",
+      "Atraso de um dia na entrega da proposta, se a licitação for presencial.",
+      "A proposta não atender a critérios secundários da licitação.",
+      "A proposta não apresentar a assinatura de todos os sócios."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Um dos principais critérios de desclassi@cação é a presença de vícios insanáveis, ou seja, erros na proposta que não podem ser corrigidos."
+  },
+  {
+    "id": 133,
+    "pergunta": "O que acontece se o licitante classi@cado em primeiro lugar não aceitar a negociação de preço, e os demais licitantes também não aceitarem a negociação?",
+    "alternativas": [
+      "O órgão irá revogar a licitação por falta de propostas válidas.",
+      "O órgão irá contratar o segundo melhor licitante pelo preço original de sua proposta.",
+      "O órgão pode convocar uma nova licitação ou contratar o terceiro melhor licitante.",
+      "O órgão pode contratar o segundo licitante por dispensa de licitação.",
+      "O órgão pode aceitar o preço do primeiro licitante, mesmo sem negociação."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. Se nenhum dos licitantes aceitar o preço negociado, a Administração pode revogar o processo licitatório, pois não há propostas válidas."
+  },
+  {
+    "id": 134,
+    "pergunta": "Qual é a regra geral para a negociação de preço em uma licitação?",
+    "alternativas": [
+      "A negociação é obrigatória com todos os licitantes.",
+      "A negociação só pode ser feita com o primeiro colocado.",
+      "A negociação é feita com o licitante que apresentar o menor preço.",
+      "A negociação é feita com o licitante que apresentar o menor preço e, se ele não aceitar, com os demais, na ordem de classi@cação.",
+      "A negociação é feita com o licitante que apresentar a melhor técnica."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A negociação de preço deve ser feita primeiro com o licitante que apresentou o menor preço e, caso ele não aceite, com os demais, na ordem de classi@cação."
+  },
+  {
+    "id": 135,
+    "pergunta": "O critério de desclassi@cação de uma proposta pode ser considerado ilegal quando:",
+    "alternativas": [
+      "A proposta não obedecer a uma especi@cação técnica detalhada do edital.",
+      "A proposta apresentar vícios insanáveis.",
+      "A desclassi@cação for baseada em moQvos subjeQvos ou não previstos no edital.",
+      "O licitante não apresentar a quali@cação econômico@nanceira.",
+      "O preço da proposta esQver 10% abaixo do preço orçado."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A desclassi@cação deve ser objeQva e estar baseada em critérios previstos no edital. Uma desclassi@cação por moQvos subjeQvos pode ser considerada ilegal."
+  },
+  {
+    "id": 136,
+    "pergunta": "Qual é a @nalidade principal da fase de julgamento?",
+    "alternativas": [
+      "Desclassi@car todos os licitantes que não apresentarem a documentação completa.",
+      "Veri@car se a proposta apresentada atende às exigências do edital e negociar o preço mais vantajoso.",
+      "Apenas veri@car se o licitante tem quali@cação para executar o serviço.",
+      "Desclassi@car o licitante que apresentar o preço mais alto.",
+      "Apenas classi@car as propostas por ordem de preço. Parte 2: Habilitação (Art. 62 a 65)"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A fase de julgamento tem como principal objeQvo veri@car a conformidade das propostas com o edital e buscar a negociação para obter o preço mais vantajoso para a Administração. Parte 2: Habilitação (Art. 62 a 65)"
+  },
+  {
+    "id": 137,
+    "pergunta": "A fase de habilitação serve para veri@car se o licitante:",
+    "alternativas": [
+      "Tem a quali@cação para executar o objeto da licitação.",
+      "Oferece a melhor proposta de preço.",
+      "Tem a melhor proposta técnica.",
+      "Apresentou todos os documentos necessários, mesmo que não seja capaz de executar o contrato.",
+      "É uma microempresa ou empresa de pequeno porte."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. A fase de habilitação tem a função de veri@car se o licitante, em suas diversas dimensões (jurídica, técnica, @scal e econômico-@nanceira), tem a capacidade de cumprir o contrato."
+  },
+  {
+    "id": 138,
+    "pergunta": "Qual é a regra geral do momento da habilitação nas modalidades de pregão e concorrência?",
+    "alternativas": [
+      "A habilitação é feita antes do julgamento das propostas.",
+      "A habilitação é feita após a assinatura do contrato.",
+      "A habilitação é feita apenas do licitante que apresentar a melhor proposta.",
+      "A habilitação é feita de todos os licitantes ao mesmo tempo.",
+      "A habilitação é feita por amostragem."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Na maioria dos casos, a habilitação é feita de forma inverQda, ou seja, apenas o licitante com a melhor proposta tem seus documentos de habilitação analisados."
+  },
+  {
+    "id": 139,
+    "pergunta": "A habilitação se divide em quatro categorias. Qual das seguintes opções NÃO é uma categoria de habilitação?",
+    "alternativas": [
+      "Habilitação jurídica.",
+      "Habilitação técnica.",
+      "Habilitação social e trabalhista.",
+      "Habilitação contábil-@nanceira.",
+      "Habilitação econômico-@nanceira."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A lei divide a habilitação em jurídica, técnica, @scal, social, trabalhista e econômico-@nanceira. A categoria \"contábil-@nanceira\" não é uma das categorias de@nidas."
+  },
+  {
+    "id": 140,
+    "pergunta": "Para a habilitação jurídica, o que a Administração pode exigir do licitante?",
+    "alternativas": [
+      "Apenas um atestado de capacidade técnica.",
+      "O contrato social e as cerQdões de regularidade @scal.",
+      "Apenas um laudo de balanço patrimonial.",
+      "O ato consQtuQvo, o estatuto ou o contrato social e a comprovação da capacidade de representação.",
+      "O atestado de saúde ocupacional dos funcionários."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A habilitação jurídica visa comprovar a existência e a capacidade legal do licitante, o que se faz por meio de documentos como o ato consQtuQvo e o estatuto social."
+  },
+  {
+    "id": 141,
+    "pergunta": "A Lei nº 14.133/2021 estabelece que a comprovação de regularidade @scal, social e trabalhista deve ser feita por meio de:",
+    "alternativas": [
+      "Apenas a cerQdão negaQva de débitos @scaistib) Apenas a cerQdão de quitação com a Seguridade Social.",
+      "A cerQdão negaQva de débitos com a Fazenda Pública, o Fundo de GaranQa por Tempo de Serviço (FGTS) e outras exigências legais.",
+      "Apenas a cerQdão de quitação do INSS.",
+      "Apenas a cerQdão de quitação com as obrigações trabalhistas."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A regularidade @scal, social e trabalhista é comprovada por cerQdões que mostram a inexistência de débitos com os órgãos federais, estaduais e trabalhistas."
+  },
+  {
+    "id": 142,
+    "pergunta": "A comprovação da quali@cação técnica pode ser exigida pela Administração, especialmente por meio de:",
+    "alternativas": [
+      "Apenas o balanço patrimonial do licitante.",
+      "Apenas o contrato social do licitante.",
+      "Atestados de capacidade técnica, comprovando experiência anterior em serviço similar.",
+      "A declaração de faturamento do licitante.",
+      "A comprovação de que o licitante possui o maior capital social."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A quali@cação técnica é demonstrada, principalmente, por meio de atestados de capacidade técnica, que comprovam que o licitante já executou serviços similares ao que está sendo licitado."
+  },
+  {
+    "id": 143,
+    "pergunta": "Na fase de habilitação, se o licitante apresentar um erro de digitação no nome do documento, o que a Administração deve fazer?",
+    "alternativas": [
+      "Inabilitar o licitante imediatamente.",
+      "Conceder um prazo de 5 dias para que o licitante corrija o erro.",
+      "Ignorar o erro e considerar o documento válido.",
+      "Negociar o documento com o licitante.",
+      "Desclassi@car o licitante."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A lei permite que a Administração conceda um prazo de 5 dias para que o licitante sane vícios ou corrija erros de documentação, desde que sejam passíveis de correção."
+  },
+  {
+    "id": 144,
+    "pergunta": "Em qual situação a Administração Pública pode exigir atestados de capacidade técnica de terceiros, como de técnicos de nível superior?",
+    "alternativas": [
+      "Quando o atestado é sobre a execução de um serviço de pouca complexidade.",
+      "Quando o edital exige que a quali@cação técnica seja atribuída a pro@ssionais especí@cos.",
+      "Apenas em licitações de obras.",
+      "Apenas em licitações de serviços de engenharia.",
+      "Nunca."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A Administração só pode exigir atestados de capacidade técnica de terceiros, como técnicos de nível superior, quando o edital exige que a quali@cação técnica seja atribuída a pro@ssionais especí@cos."
+  },
+  {
+    "id": 145,
+    "pergunta": "O que é a habilitação econômico-@nanceira?",
+    "alternativas": [
+      "A comprovação de que o licitante tem um balanço patrimonial em dia.",
+      "A comprovação de que o licitante tem um capital social mínimo.",
+      "A comprovação da regularidade @scal.",
+      "A demonstração de que o licitante tem solidez @nanceira para cumprir o contrato.",
+      "A comprovação de que o licitante não tem dívidas."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A habilitação econômico-@nanceira tem como objeQvo veri@car a capacidade @nanceira do licitante para arcar com os custos do contrato."
+  },
+  {
+    "id": 146,
+    "pergunta": "Qual dos seguintes documentos NÃO é uma exigência comum para a habilitação @scal, social e trabalhista?",
+    "alternativas": [
+      "CerQdão de regularidade do FGTS.",
+      "CerQdão negaQva de débitos trabalhistas.",
+      "Prova de quitação com a Fazenda Federal.",
+      "Declaração de rendimentos do licitante.",
+      "Prova de quitação com a Fazenda Estadual. Parte 3: Encerramento do Processo Licitatório (Art. 71)"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. As exigências para a habilitação @scal e social são cerQdões que comprovam a quitação com os débitos, mas não a declaração de rendimentos do licitante. Parte 3: Encerramento do Processo Licitatório (Art. 71)"
+  },
+  {
+    "id": 147,
+    "pergunta": "O encerramento do processo licitatório acontece depois de qual fase?",
+    "alternativas": [
+      "Julgamento da proposta.",
+      "Habilitação.",
+      "Recurso.",
+      "Homologação.",
+      "Publicação do edital."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O encerramento do processo licitatório acontece após a fase de homologação, que é o ato que valida o resultado da licitação."
+  },
+  {
+    "id": 148,
+    "pergunta": "Qual dos seguintes itens é uma obrigação da Administração ao @nal do processo licitatório, conforme o Art. 71?",
+    "alternativas": [
+      "Divulgar o nome do licitante vencedor.",
+      "Divulgar a ata da sessão pública.",
+      "Divulgar o relatório @nal da comissão de contratação.",
+      "Divulgar o ato de homologação e a adjudicação.",
+      "Divulgar a minuta do contrato."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O Art. 71 determina que, para encerrar o processo licitatório, a Administração deve divulgar o ato de homologação e a adjudicação do objeto no Portal Nacional de Contratações Públicas."
+  },
+  {
+    "id": 149,
+    "pergunta": "A homologação do resultado da licitação é o ato pelo qual:",
+    "alternativas": [
+      "A Administração aprova a proposta do licitante vencedor.",
+      "A autoridade superior raQ@ca todo o procedimento licitatório.",
+      "O licitante vencedor assina o contrato.",
+      "Os licitantes perdedores entram com recurso.",
+      "A comissão de licitação aprova o julgamento das propostas."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A homologação é o ato da autoridade superior que raQ@ca e aprova todo o procedimento licitatório, desde o edital até o julgamento das propostas."
+  },
+  {
+    "id": 150,
+    "pergunta": "O que é a adjudicação do objeto?",
+    "alternativas": [
+      "O ato de assinar o contrato com o vencedor.",
+      "A atribuição do objeto da licitação ao licitante vencedor.",
+      "A fase de julgamento das propostas.",
+      "A publicação do resultado da licitação.",
+      "A aprovação da documentação de habilitação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A adjudicação é o ato pelo qual o objeto da licitação é atribuído ao licitante que apresentou a melhor proposta, após a fase de julgamento."
+  },
+  {
+    "id": 151,
+    "pergunta": "O que acontece se a autoridade superior não homologar a licitação?",
+    "alternativas": [
+      "O processo é automaQcamente revogado.",
+      "A licitação é validada, mas com ressalvas.",
+      "O processo deve ser devolvido para novas análises ou ajustes.",
+      "O licitante vencedor pode entrar com um processo judicial.",
+      "A Administração Pública é obrigada a iniciar uma nova licitação imediatamente."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Se a autoridade superior não homologar a licitação, o processo pode ser devolvido para novas análises ou ajustes, sem que seja revogado."
+  },
+  {
+    "id": 152,
+    "pergunta": "Após o encerramento do processo licitatório, o que a Administração deve fazer?a) Apenas guardar os documentos para auditoria.",
+    "alternativas": [
+      "Publicar o ato de homologação e a adjudicação no Portal Nacional de Contratações Públicas.",
+      "Comunicar o resultado apenas ao licitante vencedor.",
+      "Publicar o resultado em jornal de grande circulação.",
+      "Apenas arquivar o processo."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A publicidade é um princípio fundamental, e o encerramento do processo exige a publicação do ato de homologação e da adjudicação no Portal Nacional de Contratações Públicas."
+  },
+  {
+    "id": 153,
+    "pergunta": "Qual é o prazo para a assinatura do contrato após a convocação do licitante vencedor?",
+    "alternativas": [
+      "O prazo pode ser de 5 dias úteis.",
+      "O prazo é de 10 dias úteis, salvo se o edital previr de forma diversa.",
+      "O prazo é de 15 dias úteis.",
+      "O prazo é de 30 dias úteis.",
+      "Não há prazo mínimo estabelecido."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A lei estabelece que o prazo para a assinatura do contrato após a convocação do licitante vencedor é de 10 dias úteis, a menos que o edital preveja um prazo diferente."
+  },
+  {
+    "id": 154,
+    "pergunta": "Se o licitante vencedor não assinar o contrato no prazo, qual é a consequência?",
+    "alternativas": [
+      "Ele pode entrar com um recurso para prorrogar o prazo.",
+      "Ele pode ser penalizado com multa e a Administração pode convocar os licitantes remanescentes.",
+      "Ele perde a garanQa de sua proposta.",
+      "O processo de licitação é revogado.",
+      "A Administração é obrigada a refazer a licitação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Se o vencedor não assinar o contrato, ele pode ser penalizado com multa e a Administração pode convocar os licitantes que estão na ordem de classi@cação."
+  },
+  {
+    "id": 155,
+    "pergunta": "O que é o ato de adjudicação e quando ele ocorre?",
+    "alternativas": [
+      "É o ato de assinar o contrato, e ocorre após a homologação.",
+      "É o ato de escolher a melhor proposta, e ocorre antes da homologação.",
+      "É o ato de atribuir o objeto ao vencedor, e ocorre junto com a homologação.",
+      "É o ato de inabilitar um licitante, e ocorre na fase de habilitação.",
+      "É o ato de publicar o edital, e ocorre na fase preparatória."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A adjudicação é o ato de atribuir o objeto ao vencedor e, na práQca, ocorre junto com a homologação, que é a raQ@cação de todo o processo."
+  },
+  {
+    "id": 156,
+    "pergunta": "A lei estabelece que o encerramento do processo licitatório é um marco crucial para:",
+    "alternativas": [
+      "A validade do julgamento das propostas.",
+      "A divulgação do resultado aos licitantes.",
+      "A formalização do compromisso da Administração com o vencedor, permiQndo a assinatura do contrato.",
+      "O início da fase de recursos.",
+      "A veri@cação da quali@cação técnica do vencedor."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O encerramento é um marco crucial porque formaliza o compromisso da Administração com o vencedor, permiQndo que o contrato seja assinado e a execução do objeto seja iniciada."
+  },
+  {
+    "id": 157,
+    "pergunta": "De acordo com o Art. 72, qual dos seguintes documentos não é uma exigência para a instrução de um processo de contratação direta?",
+    "alternativas": [
+      "EsAmaAva de despesa.",
+      "JusAEcaAva de preço.",
+      "Autorização da autoridade competente.",
+      "CerAdão de antecedentes criminais do contratado.",
+      "Parecer jurídico."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O Art. 72 lista a esAmaAva de despesa, a jusAEcaAva de preço, a autorização e o parecer jurídico como documentos obrigatórios. A cerAdão de antecedentes criminais não é um requisito geral."
+  },
+  {
+    "id": 158,
+    "pergunta": "Conforme o Art. 72, a responsabilidade solidária entre o agente público e o contratado pelo dano ao erário acontece em casos de:",
+    "alternativas": [
+      "Simples erro administraAvo.",
+      "Atraso na entrega dos documentos.",
+      "Dolo, fraude ou erro grosseiro.",
+      "Falta de publicidade do ato.",
+      "Contratação de um fornecedor exclusivo."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A responsabilidade solidária por dano ao erário é reservada para os casos em que a contratação indevida é resultado de má-fé, dolo, fraude ou erro grosseiro."
+  },
+  {
+    "id": 159,
+    "pergunta": "A inexigibilidade de licitação, conforme o Art. 74, acontece quando a compeAção é:",
+    "alternativas": [
+      "Possível, mas a Administração opta por não realizá-la.",
+      "Parcialmente viável.",
+      "Inviável.",
+      "Viável, mas há muitos licitantes.",
+      "Dispensa de licitação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A inexigibilidade ocorre quando a compeAção é inviável, ou seja, não há pluralidade de opções para a Administração escolher, diferentemente da dispensa, onde a compeAção é possível, mas não é realizada por uma razão legal."
+  },
+  {
+    "id": 160,
+    "pergunta": "Qual a condição para a inexigibilidade de licitação para a contratação de proEssional arXsAco, segundo o Art. 74?",
+    "alternativas": [
+      "Ser um arAsta internacionalmente conhecido.",
+      "Ter sido premiado em fesAval de música.",
+      "Ser consagrado pela críAca especializada ou pela opinião pública.",
+      "Ter mais de 10 anos de carreira.",
+      "Poder ser representado por um empresário exclusivo."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A lei estabelece que a inexigibilidade para a contratação de proEssional arXsAco é baseada em sua consagração, comprovada pela críAca especializada ou pela opinião pública."
+  },
+  {
+    "id": 161,
+    "pergunta": "Nos casos de serviços técnicos especializados de natureza predominantemente intelectual, a lei veda qual dos seguintes procedimentos?",
+    "alternativas": [
+      "A contratação de proEssionais com notória especialização.",
+      "A contratação direta.",
+      "O fracionamento da despesa.",
+      "A subcontratação.",
+      "A comprovação da notória especialização."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A lei veda a subcontratação de serviços técnicos especializados de notória especialização, pois a experAse do contratado é considerada pessoal e intransferível."
+  },
+  {
+    "id": 162,
+    "pergunta": "Uma das hipóteses de dispensa de licitação por valor, no Art. 75, refere-se a obras e serviços de engenharia de valor inferior a:",
+    "alternativas": [
+      "R$ 50.000,00.",
+      "R$ 100.000,00.",
+      "R$ 200.000,00.",
+      "R$ 500.000,00.",
+      "R$ 1.000.000,00."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A dispensa de licitação para obras e serviços de engenharia ou de manutenção de veículos é aplicável para contratações de valores inferiores a R$ 100.000,00."
+  },
+  {
+    "id": 163,
+    "pergunta": "Em casos de contratação para atender a situações de emergência ou calamidade pública, qual é a duração máxima do contrato, conforme o Art. 75?a) 1 ano.",
+    "alternativas": [
+      "6 meses, prorrogáveis por igual período.",
+      "IndeEnida, desde que a situação de emergência persista.",
+      "3 meses, com possibilidade de prorrogação.",
+      "2 anos."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. O contrato de emergência tem duração máxima de 1 ano, e a lei veda a prorrogação e a recontratação da mesma empresa para evitar a perpetuação da contratação sem licitação."
+  },
+  {
+    "id": 164,
+    "pergunta": "A regra de valores para dispensa de licitação (R$ 100.000,00 e R$ 50.000,00) pode ser duplicada em qual dos seguintes casos?",
+    "alternativas": [
+      "Quando a contratação for feita por uma empresa pública.",
+      "Quando a contratação for feita por um consórcio público ou agência execuAva.",
+      "Quando o objeto for insumos para o SUS.",
+      "Quando a licitação for fracassada.",
+      "Quando o contrato for de fornecimento conXnuo."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Os limites de valor para dispensa de licitação são duplicados para consórcios públicos ou agências execuAvas."
+  },
+  {
+    "id": 165,
+    "pergunta": "A deEnição de \"licitação deserta\" que permite a contratação direta por dispensa é:",
+    "alternativas": [
+      "A licitação foi anulada pela Administração.",
+      "A licitação teve propostas com preços inaceitáveis.",
+      "Não houve interessados em parAcipar da licitação.",
+      "Houve apenas um licitante interessado.",
+      "O licitante vencedor foi inabilitado."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Uma licitação é considerada deserta quando não houve interessados em parAcipar do processo, permiAndo a contratação direta."
+  },
+  {
+    "id": 166,
+    "pergunta": "Conforme o Art. 72, o ato que autoriza a contratação direta ou o extrato do contrato devem ser divulgados e manAdos em:",
+    "alternativas": [
+      "Diário OEcial da União.",
+      "Jornal de grande circulação.",
+      "Quadro de avisos da reparAção pública.",
+      "SíAo eletrônico oEcial.",
+      "BoleAm de noXcias do órgão."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A lei exige que a publicidade dos atos de contratação direta seja feita e manAda em síAo eletrônico oEcial, como o Portal Nacional de Contratações Públicas."
+  },
+  {
+    "id": 167,
+    "pergunta": "Para a contratação de fornecedor exclusivo, a Lei nº 14.133/2021 exige a comprovação da exclusividade por meio de:",
+    "alternativas": [
+      "Uma declaração de imposto de renda do fornecedor.",
+      "Uma declaração do próprio licitante.",
+      "Atestado de exclusividade, declaração do fabricante ou outro documento idôneo.",
+      "O contrato social da empresa.",
+      "Um parecer jurídico que comprove a exclusividade."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A exclusividade de um fornecedor deve ser comprovada por meio de atestado, declaração do fabricante ou outro documento idôneo, e não por uma simples declaração do próprio fornecedor."
+  },
+  {
+    "id": 168,
+    "pergunta": "A dispensa de licitação para obras e serviços de engenharia ou de manutenção de veículos pode ser aplicada para contratações com valores:",
+    "alternativas": [
+      "Inferiores a R$ 100.000,00.",
+      "Superiores a R$ 100.000,00.",
+      "Inferiores a R$ 50.000,00.",
+      "Atè R$ 100.000,00.",
+      "Atè R$ 50.000,00."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. O valor de R$ 100.000,00 é o limite para a dispensa de licitação para obras e serviços de engenharia, sendo a contratação permiAda para valores inferiores a esse."
+  },
+  {
+    "id": 169,
+    "pergunta": "A contratação direta, por dispensa, para atender a situações de emergência ou calamidade pública:",
+    "alternativas": [
+      "Pode ser prorrogada por mais um ano, se a situação persisAr.",
+      "Não pode ter a prorrogação e a recontratação da mesma empresa.",
+      "Pode ter a duração de no máximo 2 anos.",
+      "Pode contratar qualquer bem ou serviço, desde que seja de forma urgente.",
+      "Pode ser feita por meio de licitação se houver tempo hábil."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O contrato de emergência tem um prazo máximo de 1 ano, e a lei proíbe a prorrogação ou a recontratação da mesma empresa, visando evitar a contratação de forma conXnua por moAvos emergenciais."
+  },
+  {
+    "id": 170,
+    "pergunta": "A vedação de preferência por marca especíEca em uma contratação por inexigibilidade se aplica quando se trata de:",
+    "alternativas": [
+      "Serviços técnicos especializados.",
+      "Contratação de proEssional arXsAco.",
+      "Fornecedor exclusivo de bem, equipamento ou serviço.",
+      "Insumos para o SUS.",
+      "Coleta de resíduos recicláveis."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A vedação de preferência por marca se aplica à contratação de fornecedor exclusivo, onde a Administração deve se cerAEcar de que a marca é a única disponível."
+  },
+  {
+    "id": 171,
+    "pergunta": "Para se enquadrar nos limites de valor da dispensa de licitação, é proibido:",
+    "alternativas": [
+      "Fracionar a despesa.",
+      "Comprar objetos de mesma natureza.",
+      "Contratar por mais de um ano.",
+      "Contratar em consórcio.",
+      "Contratar por inexigibilidade."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. Para se enquadrar nos limites de valor da dispensa de licitação, é proibido o fracionamento da despesa, que seria a divisão de um mesmo objeto em pequenas partes para driblar a lei."
+  },
+  {
+    "id": 172,
+    "pergunta": "A notória especialização, que jusAEca a contratação de serviços técnicos especializados por inexigibilidade, referese a um proEssional ou empresa que, por seu conceito, possui um trabalho:",
+    "alternativas": [
+      "De baixo custo e alta eEciência.",
+      "Comprovado por declaração do próprio proEssional.",
+      "Comprovado por notas de avaliação de clientes.",
+      "Comprovado por seu desempenho, experiência, publicações ou outros requisitos, tornando seu trabalho essencial e adequado.",
+      "Comprovado apenas por sua formação acadêmica."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. A notória especialização é deEnida como a posse de um conceito no mercado, comprovado por desempenho, experiência e publicações, que torna o trabalho do proEssional ou da empresa essencial."
+  },
+  {
+    "id": 173,
+    "pergunta": "A dispensa de licitação por valor para 'outros serviços e compras' é aplicável para contratações com valores inferiores a:",
+    "alternativas": [
+      "R$ 100.000,00.",
+      "R$ 50.000,00.",
+      "R$ 75.000,00.",
+      "R$ 25.000,00.",
+      "R$ 5.000,00."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O valor de R$ 50.000,00 é o limite para a dispensa de licitação para 'outros serviços e compras', conforme o Art. 75, inciso II."
+  },
+  {
+    "id": 174,
+    "pergunta": "Qual das seguintes hipóteses não é um caso de contratação direta por dispensa de licitação?",
+    "alternativas": [
+      "Licitação deserta ou fracassada.",
+      "Aquisição de insumos estratégicos para o SUS.",
+      "Contratação de bens de alta tecnologia com fornecedor exclusivo.",
+      "Coleta de resíduos recicláveis por cooperaAvas.",
+      "Guerra ou estado de defesa.19. Qual dos seguintes documentos é exigido na instrução de um processo de contratação direta, conforme o Art. 72?",
+      "O laudo de vistoria do local da obra.",
+      "A comprovação de que o contratado é uma microempresa.",
+      "A esAmaAva de despesa e a autorização da autoridade competente.",
+      "O cronograma Enanceiro da obra.",
+      "A ata de registro de preços."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A contratação de fornecedor exclusivo de bens de alta tecnologia é uma hipótese de inexigibilidade, e não de dispensa de licitação, pois a compeAção é inviável."
+  },
+  {
+    "id": 175,
+    "pergunta": "Uma licitação é considerada \"fracassada\" quando:",
+    "alternativas": [
+      "Não comparecem interessados.",
+      "Os licitantes são desclassiEcados ou inabilitados por vícios insanáveis.",
+      "Todas as propostas são desclassiEcadas ou inabilitadas.",
+      "Os preços apresentados são manifestamente inaceitáveis.",
+      "O licitante vencedor não assina o contrato."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. Uma licitação é considerada \"fracassada\" quando há propostas, mas todas são desclassiEcadas ou inaceitáveis. A licitação \"deserta\" é a ausência de propostas."
+  }
+]
