@@ -298,7 +298,7 @@
   },
   {
     "id": 24,
-    "pergunta": "Qual é a principal caracterísIca que deYne a aplicação do pregão, conforme o Art. 29 da Lei nº 14.133/2021?",
+    "pergunta": "Qual é a principal característica que deYne a aplicação do pregão, conforme o Art. 29 da Lei nº 14.133/2021?",
     "alternativas": [
       "O valor esImado da contratação.",
       "A natureza especial do objeto a ser contratado.",
@@ -375,7 +375,7 @@
   },
   {
     "id": 30,
-    "pergunta": "Qual das seguintes parIcularidades é uma caracterísIca do leilão, conforme o Art. 31 da Lei nº 14.133/2021?",
+    "pergunta": "Qual das seguintes parIcularidades é uma característica do leilão, conforme o Art. 31 da Lei nº 14.133/2021?",
     "alternativas": [
       "Exige registro cadastral prévio.",
       "Possui fase de habilitação.",
@@ -1331,12 +1331,12 @@
     "alternativas": [
       "Quando se trata de um imóvel que é de propriedade de um servidor público.",
       "Quando o aluguel for de valor muito baixo.",
-      "Quando houver necessidade de locação de um imóvel com caracterísficas que o tornem singular, sendo inviável a compeMção.",
+      "Quando houver necessidade de locação de um imóvel com características que o tornem singular, sendo inviável a compeMção.",
       "Quando o proprietário do imóvel for uma empresa pública.",
       "Quando o prazo de locação for inferior a 12 meses."
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C**. A dispensa de licitação para a locação de imóvel ocorre quando se trata de um imóvel único com caracterísficas que o tornem singular, o que inviabiliza a compeMção."
+    "comentario": "A opção correta é **C**. A dispensa de licitação para a locação de imóvel ocorre quando se trata de um imóvel único com características que o tornem singular, o que inviabiliza a compeMção."
   },
   {
     "id": 103,
@@ -1650,33 +1650,33 @@
   },
   {
     "id": 127,
-    "pergunta": "Conforme o Art. 59 da Lei nº 14.133/2021, uma proposta será desclassi@cada se:",
+    "pergunta": "Conforme o Art. 59 da Lei nº 14.133/2021, uma proposta será desclassificada se:",
     "alternativas": [
       "O licitante apresentar um preço com variação de até 10% do valor de referência.",
       "O preço da proposta for manifestamente inexequível.",
-      "O licitante não apresentar a quali@cação técnica exigida.",
-      "A proposta for apresentada após o prazo @nal, mas antes da abertura.",
+      "O licitante não apresentar a qualificação técnica exigida.",
+      "A proposta for apresentada após o prazo final, mas antes da abertura.",
       "O licitante não Qver registro no Portal Nacional de Contratações Públicas."
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B**. A desclassi@cação de uma proposta ocorre quando o preço for manifestamente inexequível, ou seja, um valor muito baixo que o licitante não conseguiria cumprir."
+    "comentario": "A opção correta é **B**. A desclassificação de uma proposta ocorre quando o preço for manifestamente inexequível, ou seja, um valor muito baixo que o licitante não conseguiria cumprir."
   },
   {
     "id": 128,
-    "pergunta": "Segundo a lei, o que acontece com a proposta do licitante que não comprovar a exequibilidade do preço, mesmo se a desclassi@cação for moQvada?",
+    "pergunta": "Segundo a lei, o que acontece com a proposta do licitante que não comprovar a exequibilidade do preço, mesmo se a desclassificação for moQvada?",
     "alternativas": [
-      "O licitante será noQ@cado para apresentar nova proposta.",
-      "A proposta será classi@cada como a mais cara.",
-      "A proposta será desclassi@cada, e o licitante não poderá parQcipar da fase de lances.",
+      "O licitante será noQficado para apresentar nova proposta.",
+      "A proposta será classificada como a mais cara.",
+      "A proposta será desclassificada, e o licitante não poderá parQcipar da fase de lances.",
       "A Administração Pública negocia o preço para torná-lo exequível.",
       "O licitante é automaQcamente inabilitado."
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C**. Se a desclassi@cação for moQvada, o licitante é desclassi@cado e não poderá parQcipar da fase de lances, pois sua proposta é considerada inválida."
+    "comentario": "A opção correta é **C**. Se a desclassificação for moQvada, o licitante é desclassificado e não poderá parQcipar da fase de lances, pois sua proposta é considerada inválida."
   },
   {
     "id": 129,
-    "pergunta": "Qual é o critério para que a Administração Pública negocie o preço com o licitante classi@cado em primeiro lugar?",
+    "pergunta": "Qual é o critério para que a Administração Pública negocie o preço com o licitante classificado em primeiro lugar?",
     "alternativas": [
       "O preço do licitante está 10% abaixo da média das propostas.",
       "O licitante oferece a maior garanQa.",
@@ -1689,20 +1689,20 @@
   },
   {
     "id": 130,
-    "pergunta": "Se, após a negociação, o licitante classi@cado em primeiro lugar não aceitar o preço, o que a Administração pode fazer?",
+    "pergunta": "Se, após a negociação, o licitante classificado em primeiro lugar não aceitar o preço, o que a Administração pode fazer?",
     "alternativas": [
       "Revogar a licitação e iniciar um novo processo.",
-      "Desclassi@car o licitante e convocar os demais para a negociação, seguindo a ordem de classi@cação.",
+      "Desclassificar o licitante e convocar os demais para a negociação, seguindo a ordem de classificação.",
       "Apenas aceitar a proposta original do primeiro colocado.",
       "Aceitar a segunda melhor proposta sem negociação.",
       "Aumentar o preço de referência do edital."
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B**. Se o primeiro colocado não aceitar a negociação, a Administração o desclassi@ca e convoca o próximo da lista para tentar a negociação, seguindo a ordem de classi@cação."
+    "comentario": "A opção correta é **B**. Se o primeiro colocado não aceitar a negociação, a Administração o desclassifica e convoca o próximo da lista para tentar a negociação, seguindo a ordem de classificação."
   },
   {
     "id": 131,
-    "pergunta": "A lei de@ne que um preço pode ser considerado inexequível quando for inferior a qual porcentagem do valor orçado pela Administração?",
+    "pergunta": "A lei define que um preço pode ser considerado inexequível quando for inferior a qual porcentagem do valor orçado pela Administração?",
     "alternativas": [
       "50%",
       "60%",
@@ -1710,11 +1710,11 @@
       "90%"
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C**. A lei de@ne que um preço pode ser considerado inexequível quando for inferior a 75% do valor orçado pela Administração."
+    "comentario": "A opção correta é **C**. A lei define que um preço pode ser considerado inexequível quando for inferior a 75% do valor orçado pela Administração."
   },
   {
     "id": 132,
-    "pergunta": "A Administração Pública tem o poder de desclassi@car uma proposta por:",
+    "pergunta": "A Administração Pública tem o poder de desclassificar uma proposta por:",
     "alternativas": [
       "Falta de um detalhe no plano de trabalho, mesmo que o licitante tenha tempo para corrigi-lo.",
       "Vícios insanáveis.",
@@ -1723,11 +1723,11 @@
       "A proposta não apresentar a assinatura de todos os sócios."
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B**. Um dos principais critérios de desclassi@cação é a presença de vícios insanáveis, ou seja, erros na proposta que não podem ser corrigidos."
+    "comentario": "A opção correta é **B**. Um dos principais critérios de desclassificação é a presença de vícios insanáveis, ou seja, erros na proposta que não podem ser corrigidos."
   },
   {
     "id": 133,
-    "pergunta": "O que acontece se o licitante classi@cado em primeiro lugar não aceitar a negociação de preço, e os demais licitantes também não aceitarem a negociação?",
+    "pergunta": "O que acontece se o licitante classificado em primeiro lugar não aceitar a negociação de preço, e os demais licitantes também não aceitarem a negociação?",
     "alternativas": [
       "O órgão irá revogar a licitação por falta de propostas válidas.",
       "O órgão irá contratar o segundo melhor licitante pelo preço original de sua proposta.",
@@ -1745,50 +1745,50 @@
       "A negociação é obrigatória com todos os licitantes.",
       "A negociação só pode ser feita com o primeiro colocado.",
       "A negociação é feita com o licitante que apresentar o menor preço.",
-      "A negociação é feita com o licitante que apresentar o menor preço e, se ele não aceitar, com os demais, na ordem de classi@cação.",
+      "A negociação é feita com o licitante que apresentar o menor preço e, se ele não aceitar, com os demais, na ordem de classificação.",
       "A negociação é feita com o licitante que apresentar a melhor técnica."
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D**. A negociação de preço deve ser feita primeiro com o licitante que apresentou o menor preço e, caso ele não aceite, com os demais, na ordem de classi@cação."
+    "comentario": "A opção correta é **D**. A negociação de preço deve ser feita primeiro com o licitante que apresentou o menor preço e, caso ele não aceite, com os demais, na ordem de classificação."
   },
   {
     "id": 135,
-    "pergunta": "O critério de desclassi@cação de uma proposta pode ser considerado ilegal quando:",
+    "pergunta": "O critério de desclassificação de uma proposta pode ser considerado ilegal quando:",
     "alternativas": [
-      "A proposta não obedecer a uma especi@cação técnica detalhada do edital.",
+      "A proposta não obedecer a uma especificação técnica detalhada do edital.",
       "A proposta apresentar vícios insanáveis.",
-      "A desclassi@cação for baseada em moQvos subjeQvos ou não previstos no edital.",
-      "O licitante não apresentar a quali@cação econômico@nanceira.",
+      "A desclassificação for baseada em moQvos subjeQvos ou não previstos no edital.",
+      "O licitante não apresentar a qualificação econômicofinanceira.",
       "O preço da proposta esQver 10% abaixo do preço orçado."
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C**. A desclassi@cação deve ser objeQva e estar baseada em critérios previstos no edital. Uma desclassi@cação por moQvos subjeQvos pode ser considerada ilegal."
+    "comentario": "A opção correta é **C**. A desclassificação deve ser objeQva e estar baseada em critérios previstos no edital. Uma desclassificação por moQvos subjeQvos pode ser considerada ilegal."
   },
   {
     "id": 136,
-    "pergunta": "Qual é a @nalidade principal da fase de julgamento?",
+    "pergunta": "Qual é a finalidade principal da fase de julgamento?",
     "alternativas": [
-      "Desclassi@car todos os licitantes que não apresentarem a documentação completa.",
-      "Veri@car se a proposta apresentada atende às exigências do edital e negociar o preço mais vantajoso.",
-      "Apenas veri@car se o licitante tem quali@cação para executar o serviço.",
-      "Desclassi@car o licitante que apresentar o preço mais alto.",
-      "Apenas classi@car as propostas por ordem de preço. Parte 2: Habilitação (Art. 62 a 65)"
+      "Desclassificar todos os licitantes que não apresentarem a documentação completa.",
+      "Verificar se a proposta apresentada atende às exigências do edital e negociar o preço mais vantajoso.",
+      "Apenas verificar se o licitante tem qualificação para executar o serviço.",
+      "Desclassificar o licitante que apresentar o preço mais alto.",
+      "Apenas classificar as propostas por ordem de preço. Parte 2: Habilitação (Art. 62 a 65)"
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B**. A fase de julgamento tem como principal objeQvo veri@car a conformidade das propostas com o edital e buscar a negociação para obter o preço mais vantajoso para a Administração. Parte 2: Habilitação (Art. 62 a 65)"
+    "comentario": "A opção correta é **B**. A fase de julgamento tem como principal objeQvo verificar a conformidade das propostas com o edital e buscar a negociação para obter o preço mais vantajoso para a Administração. Parte 2: Habilitação (Art. 62 a 65)"
   },
   {
     "id": 137,
-    "pergunta": "A fase de habilitação serve para veri@car se o licitante:",
+    "pergunta": "A fase de habilitação serve para verificar se o licitante:",
     "alternativas": [
-      "Tem a quali@cação para executar o objeto da licitação.",
+      "Tem a qualificação para executar o objeto da licitação.",
       "Oferece a melhor proposta de preço.",
       "Tem a melhor proposta técnica.",
       "Apresentou todos os documentos necessários, mesmo que não seja capaz de executar o contrato.",
       "É uma microempresa ou empresa de pequeno porte."
     ],
     "correta": 0,
-    "comentario": "A opção correta é **A**. A fase de habilitação tem a função de veri@car se o licitante, em suas diversas dimensões (jurídica, técnica, @scal e econômico-@nanceira), tem a capacidade de cumprir o contrato."
+    "comentario": "A opção correta é **A**. A fase de habilitação tem a função de verificar se o licitante, em suas diversas dimensões (jurídica, técnica, fiscal e econômico-financeira), tem a capacidade de cumprir o contrato."
   },
   {
     "id": 138,
@@ -1810,18 +1810,18 @@
       "Habilitação jurídica.",
       "Habilitação técnica.",
       "Habilitação social e trabalhista.",
-      "Habilitação contábil-@nanceira.",
-      "Habilitação econômico-@nanceira."
+      "Habilitação contábil-financeira.",
+      "Habilitação econômico-financeira."
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D**. A lei divide a habilitação em jurídica, técnica, @scal, social, trabalhista e econômico-@nanceira. A categoria \"contábil-@nanceira\" não é uma das categorias de@nidas."
+    "comentario": "A opção correta é **D**. A lei divide a habilitação em jurídica, técnica, fiscal, social, trabalhista e econômico-financeira. A categoria \"contábil-financeira\" não é uma das categorias definidas."
   },
   {
     "id": 140,
     "pergunta": "Para a habilitação jurídica, o que a Administração pode exigir do licitante?",
     "alternativas": [
       "Apenas um atestado de capacidade técnica.",
-      "O contrato social e as cerQdões de regularidade @scal.",
+      "O contrato social e as cerQdões de regularidade fiscal.",
       "Apenas um laudo de balanço patrimonial.",
       "O ato consQtuQvo, o estatuto ou o contrato social e a comprovação da capacidade de representação.",
       "O atestado de saúde ocupacional dos funcionários."
@@ -1831,19 +1831,19 @@
   },
   {
     "id": 141,
-    "pergunta": "A Lei nº 14.133/2021 estabelece que a comprovação de regularidade @scal, social e trabalhista deve ser feita por meio de:",
+    "pergunta": "A Lei nº 14.133/2021 estabelece que a comprovação de regularidade fiscal, social e trabalhista deve ser feita por meio de:",
     "alternativas": [
-      "Apenas a cerQdão negaQva de débitos @scaistib) Apenas a cerQdão de quitação com a Seguridade Social.",
+      "Apenas a cerQdão negaQva de débitos fiscaistib) Apenas a cerQdão de quitação com a Seguridade Social.",
       "A cerQdão negaQva de débitos com a Fazenda Pública, o Fundo de GaranQa por Tempo de Serviço (FGTS) e outras exigências legais.",
       "Apenas a cerQdão de quitação do INSS.",
       "Apenas a cerQdão de quitação com as obrigações trabalhistas."
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C**. A regularidade @scal, social e trabalhista é comprovada por cerQdões que mostram a inexistência de débitos com os órgãos federais, estaduais e trabalhistas."
+    "comentario": "A opção correta é **C**. A regularidade fiscal, social e trabalhista é comprovada por cerQdões que mostram a inexistência de débitos com os órgãos federais, estaduais e trabalhistas."
   },
   {
     "id": 142,
-    "pergunta": "A comprovação da quali@cação técnica pode ser exigida pela Administração, especialmente por meio de:",
+    "pergunta": "A comprovação da qualificação técnica pode ser exigida pela Administração, especialmente por meio de:",
     "alternativas": [
       "Apenas o balanço patrimonial do licitante.",
       "Apenas o contrato social do licitante.",
@@ -1852,7 +1852,7 @@
       "A comprovação de que o licitante possui o maior capital social."
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C**. A quali@cação técnica é demonstrada, principalmente, por meio de atestados de capacidade técnica, que comprovam que o licitante já executou serviços similares ao que está sendo licitado."
+    "comentario": "A opção correta é **C**. A qualificação técnica é demonstrada, principalmente, por meio de atestados de capacidade técnica, que comprovam que o licitante já executou serviços similares ao que está sendo licitado."
   },
   {
     "id": 143,
@@ -1862,7 +1862,7 @@
       "Conceder um prazo de 5 dias para que o licitante corrija o erro.",
       "Ignorar o erro e considerar o documento válido.",
       "Negociar o documento com o licitante.",
-      "Desclassi@car o licitante."
+      "Desclassificar o licitante."
     ],
     "correta": 1,
     "comentario": "A opção correta é **B**. A lei permite que a Administração conceda um prazo de 5 dias para que o licitante sane vícios ou corrija erros de documentação, desde que sejam passíveis de correção."
@@ -1872,30 +1872,30 @@
     "pergunta": "Em qual situação a Administração Pública pode exigir atestados de capacidade técnica de terceiros, como de técnicos de nível superior?",
     "alternativas": [
       "Quando o atestado é sobre a execução de um serviço de pouca complexidade.",
-      "Quando o edital exige que a quali@cação técnica seja atribuída a pro@ssionais especí@cos.",
+      "Quando o edital exige que a qualificação técnica seja atribuída a profissionais específicos.",
       "Apenas em licitações de obras.",
       "Apenas em licitações de serviços de engenharia.",
       "Nunca."
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B**. A Administração só pode exigir atestados de capacidade técnica de terceiros, como técnicos de nível superior, quando o edital exige que a quali@cação técnica seja atribuída a pro@ssionais especí@cos."
+    "comentario": "A opção correta é **B**. A Administração só pode exigir atestados de capacidade técnica de terceiros, como técnicos de nível superior, quando o edital exige que a qualificação técnica seja atribuída a profissionais específicos."
   },
   {
     "id": 145,
-    "pergunta": "O que é a habilitação econômico-@nanceira?",
+    "pergunta": "O que é a habilitação econômico-financeira?",
     "alternativas": [
       "A comprovação de que o licitante tem um balanço patrimonial em dia.",
       "A comprovação de que o licitante tem um capital social mínimo.",
-      "A comprovação da regularidade @scal.",
-      "A demonstração de que o licitante tem solidez @nanceira para cumprir o contrato.",
+      "A comprovação da regularidade fiscal.",
+      "A demonstração de que o licitante tem solidez financeira para cumprir o contrato.",
       "A comprovação de que o licitante não tem dívidas."
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D**. A habilitação econômico-@nanceira tem como objeQvo veri@car a capacidade @nanceira do licitante para arcar com os custos do contrato."
+    "comentario": "A opção correta é **D**. A habilitação econômico-financeira tem como objeQvo verificar a capacidade financeira do licitante para arcar com os custos do contrato."
   },
   {
     "id": 146,
-    "pergunta": "Qual dos seguintes documentos NÃO é uma exigência comum para a habilitação @scal, social e trabalhista?",
+    "pergunta": "Qual dos seguintes documentos NÃO é uma exigência comum para a habilitação fiscal, social e trabalhista?",
     "alternativas": [
       "CerQdão de regularidade do FGTS.",
       "CerQdão negaQva de débitos trabalhistas.",
@@ -1904,7 +1904,7 @@
       "Prova de quitação com a Fazenda Estadual. Parte 3: Encerramento do Processo Licitatório (Art. 71)"
     ],
     "correta": 3,
-    "comentario": "A opção correta é **D**. As exigências para a habilitação @scal e social são cerQdões que comprovam a quitação com os débitos, mas não a declaração de rendimentos do licitante. Parte 3: Encerramento do Processo Licitatório (Art. 71)"
+    "comentario": "A opção correta é **D**. As exigências para a habilitação fiscal e social são cerQdões que comprovam a quitação com os débitos, mas não a declaração de rendimentos do licitante. Parte 3: Encerramento do Processo Licitatório (Art. 71)"
   },
   {
     "id": 147,
@@ -1921,11 +1921,11 @@
   },
   {
     "id": 148,
-    "pergunta": "Qual dos seguintes itens é uma obrigação da Administração ao @nal do processo licitatório, conforme o Art. 71?",
+    "pergunta": "Qual dos seguintes itens é uma obrigação da Administração ao final do processo licitatório, conforme o Art. 71?",
     "alternativas": [
       "Divulgar o nome do licitante vencedor.",
       "Divulgar a ata da sessão pública.",
-      "Divulgar o relatório @nal da comissão de contratação.",
+      "Divulgar o relatório final da comissão de contratação.",
       "Divulgar o ato de homologação e a adjudicação.",
       "Divulgar a minuta do contrato."
     ],
@@ -1937,13 +1937,13 @@
     "pergunta": "A homologação do resultado da licitação é o ato pelo qual:",
     "alternativas": [
       "A Administração aprova a proposta do licitante vencedor.",
-      "A autoridade superior raQ@ca todo o procedimento licitatório.",
+      "A autoridade superior raQfica todo o procedimento licitatório.",
       "O licitante vencedor assina o contrato.",
       "Os licitantes perdedores entram com recurso.",
       "A comissão de licitação aprova o julgamento das propostas."
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B**. A homologação é o ato da autoridade superior que raQ@ca e aprova todo o procedimento licitatório, desde o edital até o julgamento das propostas."
+    "comentario": "A opção correta é **B**. A homologação é o ato da autoridade superior que raQfica e aprova todo o procedimento licitatório, desde o edital até o julgamento das propostas."
   },
   {
     "id": 150,
@@ -2007,7 +2007,7 @@
       "A Administração é obrigada a refazer a licitação."
     ],
     "correta": 1,
-    "comentario": "A opção correta é **B**. Se o vencedor não assinar o contrato, ele pode ser penalizado com multa e a Administração pode convocar os licitantes que estão na ordem de classi@cação."
+    "comentario": "A opção correta é **B**. Se o vencedor não assinar o contrato, ele pode ser penalizado com multa e a Administração pode convocar os licitantes que estão na ordem de classificação."
   },
   {
     "id": 155,
@@ -2020,7 +2020,7 @@
       "É o ato de publicar o edital, e ocorre na fase preparatória."
     ],
     "correta": 2,
-    "comentario": "A opção correta é **C**. A adjudicação é o ato de atribuir o objeto ao vencedor e, na práQca, ocorre junto com a homologação, que é a raQ@cação de todo o processo."
+    "comentario": "A opção correta é **C**. A adjudicação é o ato de atribuir o objeto ao vencedor e, na práQca, ocorre junto com a homologação, que é a raQficação de todo o processo."
   },
   {
     "id": 156,
@@ -2030,7 +2030,7 @@
       "A divulgação do resultado aos licitantes.",
       "A formalização do compromisso da Administração com o vencedor, permiQndo a assinatura do contrato.",
       "O início da fase de recursos.",
-      "A veri@cação da quali@cação técnica do vencedor."
+      "A verificação da qualificação técnica do vencedor."
     ],
     "correta": 2,
     "comentario": "A opção correta é **C**. O encerramento é um marco crucial porque formaliza o compromisso da Administração com o vencedor, permiQndo que o contrato seja assinado e a execução do objeto seja iniciada."
