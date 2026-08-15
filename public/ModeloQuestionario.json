@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "pergunta": "",
+    "alternativas": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**"
+  },
+  {
+    "id": 2,
+    "pergunta": "",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** VERDADEIRO"
+  }
+]
