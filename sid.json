@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Associe corretamente cada item à respectiva descrição.",
+    "itens": [
+      "ISIC",
+      "Histórico da Rede Local (HRL)",
+      "Cópias de segurança dos equipamentos servidores"
+    ],
+    "afirmacoes": [
+      "Deve possuir grau de sigilo ostensivo para que todos os usuários da rede tenham acesso.",
+      "3 partes (1 - Descrição; 2 - Atividade de Rotina; e 3 - Incidentes).",
+      "Na impossibilidade de se utilizar local de guarda em prédio distinto, utilizar compartimentos afastados e com proteção contra incêndio e alagamento."
+    ],
+    "correta": [
+      0,
+      1,
+      2
+    ],
+    "comentario": "A associação correta é: ISIC → grau de sigilo ostensivo; HRL → três partes; cópias de segurança → compartimentos afastados e protegidos contra incêndio e alagamento."
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual requisito da SICRL que garante a capacidade da informação digital somente ser acessada por alguém autorizado?",
+    "alternativas": [
+      "Autenticidade.",
+      "Segurança.",
+      "Disponibilidade.",
+      "Integridade.",
+      "Sigilo."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Sigilo."
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual requisito da SICRL que garante a capacidade da origem da informação digital ser aquela identificada?",
+    "alternativas": [
+      "Segurança.",
+      "Integridade.",
+      "Autenticidade.",
+      "Disponibilidade."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Autenticidade."
+  },
+  {
+    "id": 4,
+    "pergunta": "Qual requisito da SICRL que garante a capacidade da informação digital somente ser modificada por alguém autorizado?",
+    "alternativas": [
+      "Segurança.",
+      "Disponibilidade.",
+      "Integridade.",
+      "Autenticidade.",
+      "Sigilo."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Integridade."
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual requisito da SICRL que garante a capacidade da informação digital estar disponível para alguém autorizado a acessá-la no momento próprio?",
+    "alternativas": [
+      "Integridade.",
+      "Disponibilidade.",
+      "Segurança.",
+      "Sigilo.",
+      "Autenticidade."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Disponibilidade."
+  },
+  {
+    "id": 6,
+    "pergunta": "Quais são os tipos de ameaças às informações digitais em redes locais?",
+    "alternativas": [
+      "Fabricação, modificação, interrupção e interceptação.",
+      "Fabricação, modificação, indisponibilidade e interceptação.",
+      "Fabricação, modificação, intencionais e interceptação.",
+      "Fabricação, modificação, internos, externos, interrupção e interceptação.",
+      "Fabricação, modificação, internos, externos, interrupção e interceptação."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Fabricação, modificação, interrupção e interceptação."
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual ameaça tem a possibilidade de não se resistir a um ataque que impeça o acesso pelo usuário à informação desejada, afetando o requisito de disponibilidade?",
+    "alternativas": [
+      "Modificação.",
+      "Interrupção.",
+      "Interceptação.",
+      "Indisponibilidade.",
+      "Fabricação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Interrupção."
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual ameaça tem a possibilidade de não se resistir a um ataque que permita o acesso à informação digital por alguém não autorizado para tal?",
+    "alternativas": [
+      "Fabricação.",
+      "Interrupção.",
+      "Indisponibilidade.",
+      "Modificação.",
+      "Interceptação."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Interceptação."
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual ameaça afeta o requisito da disponibilidade?",
+    "alternativas": [
+      "Interrupção.",
+      "Fabricação.",
+      "Indisponibilidade.",
+      "Interceptação.",
+      "Modificação."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Interrupção."
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual ameaça afeta o requisito sigilo?",
+    "alternativas": [
+      "Interceptação.",
+      "Fabricação.",
+      "Interrupção.",
+      "Indisponibilidade.",
+      "Modificação."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Interceptação."
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual ameaça afeta o requisito de integridade?",
+    "alternativas": [
+      "Fabricação.",
+      "Interrupção.",
+      "Modificação.",
+      "Interceptação.",
+      "Indisponibilidade."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Modificação."
+  },
+  {
+    "id": 12,
+    "pergunta": "Quais são os requisitos básicos da Segurança das Informações em rede local (SICRL)?",
+    "alternativas": [
+      "Sigilo, Autenticidade, Integridade e Disponibilidade.",
+      "Segurança, Modificação, Fabricação e Interrupção.",
+      "Sigilo, Segurança, Fabricação e Interceptação.",
+      "Autenticidade, Interrupção, Integridade e Fabricação.",
+      "Disponibilidade, Interceptação, Modificação e Segurança."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Sigilo, Autenticidade, Integridade e Disponibilidade."
+  },
+  {
+    "id": 13,
+    "pergunta": "Qual o domínio da Marinha na Internet?",
+    "alternativas": [
+      "marinha.com.br",
+      "marinha.mil.br",
+      "marinha.gov.br",
+      "mb.mil.br",
+      "marinha.br"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — marinha.mil.br."
+  },
+  {
+    "id": 14,
+    "pergunta": "É a capacidade da informação digital ser modificada por alguém autorizado.",
+    "alternativas": [
+      "Sigilo.",
+      "Autenticidade.",
+      "Disponibilidade.",
+      "Integridade.",
+      "Segurança."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Integridade."
+  },
+  {
+    "id": 15,
+    "pergunta": "É a possibilidade de não se resistir a um ataque que permita o acesso à informação digital por alguém não autorizado para tal, afetando o requisito de Sigilo?",
+    "alternativas": [
+      "Fabricação.",
+      "Modificação.",
+      "Interrupção.",
+      "Interceptação.",
+      "Indisponibilidade."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Interceptação."
+  },
+  {
+    "id": 16,
+    "pergunta": "É o ataque que envolve interrupção, modificação ou fabricação de informações digitais ou alteração do sistema.",
+    "alternativas": [
+      "Passivos.",
+      "Ativos.",
+      "Acidentais.",
+      "Internos.",
+      "Externos."
+    ],
+    "correta": 1,
+    "comentario": "A resposta indicada no questionário é **Ativos**."
+  },
+  {
+    "id": 17,
+    "pergunta": "Cada estação de trabalho deverá ter uma senha de inicialização (\"boot\"), de conhecimento exclusivo de quem?",
+    "alternativas": [
+      "Administrador.",
+      "OSIC.",
+      "Titular da OM.",
+      "Usuário.",
+      "DCTIM."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Usuário."
+  },
+  {
+    "id": 18,
+    "pergunta": "Corresponde ao conjunto de técnicas para se obter ou comprometer informações sobre uma organização ou seus sistemas computacionais.",
+    "alternativas": [
+      "Firewall.",
+      "Auditoria.",
+      "Engenharia Social.",
+      "Controle de acesso.",
+      "Monitoramento."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Engenharia Social."
+  },
+  {
+    "id": 19,
+    "pergunta": "O FIREWALL foi instalado com a finalidade de controlar, nos dois sentidos, os acessos ao nó de conexão com a internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 20,
+    "pergunta": "Os endereços IP são os identificadores de objetos de rede de um sistema apenas interno.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 21,
+    "pergunta": "A ferramenta denominada DOMAIN NAME SYSTEM (DNS) traduz os nomes associativos usando como identificadores, como por exemplo \"www.ciaa.mar.mil.br\", para endereço IP requerido pelos sistemas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 22,
+    "pergunta": "A ferramenta DNS é utilizada atualmente por todos que acessam a Intranet e Internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 23,
+    "pergunta": "Para balancear a carga de serviço DNS são utilizados dois servidores secundários, além do servidor de nomes internos disponibilizados pela DCTIM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 24,
+    "pergunta": "Associe corretamente cada item à respectiva descrição.",
+    "itens": [
+      "HRL",
+      "ISIC",
+      "RAD"
+    ],
+    "afirmacoes": [
+      "Grau de sigilo no mínimo reservado, composto de três partes.",
+      "Deve ser simples, objetiva, de fácil compreensão e ostensiva.",
+      "Documento reservado que tem por objetivo formalizar os resultados apurados por auditoria."
+    ],
+    "correta": [
+      0,
+      1,
+      2
+    ],
+    "comentario": "A associação correta é: HRL → grau de sigilo no mínimo reservado e três partes; ISIC → simples, objetiva, de fácil compreensão e ostensiva; RAD → documento reservado para formalizar resultados de auditoria."
+  },
+  {
+    "id": 25,
+    "pergunta": "Qual ameaça tem a possibilidade de não se resistir a um ataque que permita a alteração do conteúdo da informação digital por alguém não autorizado?",
+    "alternativas": [
+      "Interceptação.",
+      "Intencionais.",
+      "Modificação.",
+      "Interrupção.",
+      "Fabricação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Modificação."
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual ameaça afeta o requisito de autenticidade?",
+    "alternativas": [
+      "Fabricação.",
+      "Interceptação.",
+      "Indisponibilidade.",
+      "Modificação.",
+      "Interrupção."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Fabricação."
+  },
+  {
+    "id": 27,
+    "pergunta": "Como são classificados os ataques às Informações digitais?",
+    "alternativas": [
+      "Acidentais, ativos, externos, intencionais, internos e sem intenção.",
+      "Acidentais, externos, intencionais, internos e passivos.",
+      "Acidentais, ativos, externos, intencionais, internos e passivos.",
+      "Acidentais, ativos, externos, intencionais e passivos.",
+      "Acidentais, ativos, externos, premeditados, internos e passivos."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Acidentais, ativos, externos, intencionais, internos e passivos."
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual a classificação do ataque não associado à intenção premeditada?",
+    "alternativas": [
+      "Passivos.",
+      "Acidentais.",
+      "Internos.",
+      "Ativos.",
+      "Intencionais."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Acidentais."
+  },
+  {
+    "id": 29,
+    "pergunta": "Qual a classificação do ataque associado à intenção premeditada?",
+    "alternativas": [
+      "Acidentais.",
+      "Passivos.",
+      "Ativos.",
+      "Internos.",
+      "Intencionais."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Intencionais."
+  },
+  {
+    "id": 30,
+    "pergunta": "Por razões de segurança é expressamente proibido às OM interligadas à RECIM:",
+    "alternativas": [
+      "acessar a RECIM por linha física.",
+      "configurar em seu servidor o endereço IP.",
+      "solicitar autorização para acessar a internet.",
+      "acessar a internet sem autorização.",
+      "contratar serviço de acesso à internet a provedores externos."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — contratar serviço de acesso à internet a provedores externos."
+  },
+  {
+    "id": 31,
+    "pergunta": "É proibida às OM interligadas à RECIM, a utilização de estações de trabalho, mesmo NÃO conectadas a RECIM, equipados com:",
+    "alternativas": [
+      "MODEM (interno ou externo) do tipo comum ou 3G.",
+      "estabilizadores.",
+      "impressora (jato de tinta).",
+      "monitor LDC.",
+      "SCANERS."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — MODEM (interno ou externo) do tipo comum ou 3G."
+  },
+  {
+    "id": 32,
+    "pergunta": "Entre as medidas de segurança, podemos destacar, como barreira de proteção o (a):",
+    "alternativas": [
+      "domínio.",
+      "FIREWALL.",
+      "senha.",
+      "antivírus.",
+      "código de acesso."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — FIREWALL."
+  },
+  {
+    "id": 33,
+    "pergunta": "A quem compete elaborar as normas de SIC na MB?",
+    "alternativas": [
+      "CM.",
+      "DCTIM.",
+      "CON.",
+      "DGMM.",
+      "CTIM."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — DCTIM."
+  },
+  {
+    "id": 34,
+    "pergunta": "Para minimizar possíveis ameaças à SIDRL, devem ser seguidas regras mínimas sobre segurança dos serviços disponibilizados em rede local. De quem é a responsabilidade em uma OM pela divulgação dessas regras?",
+    "alternativas": [
+      "RAD.",
+      "ADMIN.",
+      "OSIC.",
+      "Titular da OM.",
+      "Usuário."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — ADMIN."
+  },
+  {
+    "id": 35,
+    "pergunta": "Quem controla as ações de defesa cibernética na fase Operativa?",
+    "alternativas": [
+      "ComOpNav.",
+      "CM.",
+      "DCTIM.",
+      "COTIM.",
+      "CTIM."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — ComOpNav."
+  },
+  {
+    "id": 36,
+    "pergunta": "É a ausência de proteção ou falhas em um mecanismo de proteção existente.",
+    "alternativas": [
+      "Ameaça.",
+      "Ativo.",
+      "Vulnerabilidade.",
+      "Interrupção.",
+      "Interceptação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Vulnerabilidade."
+  },
+  {
+    "id": 37,
+    "pergunta": "Quem zela pelo fiel cumprimento das normas de SIC na OM?",
+    "alternativas": [
+      "ADMIN.",
+      "OSIC.",
+      "Titular da OM.",
+      "DCTIM.",
+      "Usuário."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Titular da OM."
+  },
+  {
+    "id": 38,
+    "pergunta": "Qual a cor, na fase operativa, do alarme na condição de tempo de paz com ataques prováveis?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Amarelo."
+  },
+  {
+    "id": 39,
+    "pergunta": "Quem deve auxiliar o CM (Comandante da Marinha) nos assuntos relacionados à governança de TI na MB?",
+    "alternativas": [
+      "DCTIM.",
+      "COTIM.",
+      "ComOpNav.",
+      "CTIM.",
+      "OSIC."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — COTIM."
+  },
+  {
+    "id": 40,
+    "pergunta": "Qual (is) a(s) classificação dos ativos?",
+    "alternativas": [
+      "Internos e externos.",
+      "Ativos e passivos.",
+      "Tangíveis e Intangíveis.",
+      "Acidentais e intencionais.",
+      "Públicos e reservados."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Tangíveis e Intangíveis."
+  },
+  {
+    "id": 41,
+    "pergunta": "Qual a periodicidade dos PLCONT?",
+    "alternativas": [
+      "6 meses.",
+      "1 ano.",
+      "2 anos.",
+      "3 anos.",
+      "5 anos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — 1 ano."
+  },
+  {
+    "id": 42,
+    "pergunta": "É permitida a transferência de arquivos que pertença a MB por \"e-mail\" para caixa postal externa.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 43,
+    "pergunta": "No âmbito da RECIM é permitido o acesso a \"sites\", contendo matérias atinentes a relacionamentos NÃO profissionais, por meio de mecanismo de CHAT.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 44,
+    "pergunta": "A DCTIM dispõe de recursos para realização de auditoria, em todos os acessos à Internet, inclusive o tráfego de mensagens do Serviço de Correio Eletrônico.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 45,
+    "pergunta": "O CTIM atribuirá o endereço IP (Internet Protocol) à rede local da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 46,
+    "pergunta": "A disponibilidade é um dos requisitos básicos da SIDRL.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 47,
+    "pergunta": "Associe corretamente cada conceito à respectiva descrição.",
+    "itens": [
+      "Vulnerabilidade",
+      "Ameaça",
+      "Valor"
+    ],
+    "afirmacoes": [
+      "A ausência de um mecanismo de proteção ou falhas em um mecanismo de proteção existente.",
+      "Incêndio ou roubo.",
+      "É a importância de um ativo para a organização."
+    ],
+    "correta": [
+      0,
+      1,
+      2
+    ],
+    "comentario": "A associação correta é: Vulnerabilidade → ausência ou falha de proteção; Ameaça → incêndio ou roubo; Valor → importância de um ativo para a organização."
+  },
+  {
+    "id": 48,
+    "pergunta": "Por questões de segurança, o acesso interno aos serviços disponibilizados pela internet, somente poderá ser efetuado por meio de qual recurso?",
+    "alternativas": [
+      "Correio Lotus Notes.",
+      "Zimbra.",
+      "CABLE MODEM.",
+      "FIREWALL.",
+      "Conexão discada."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — FIREWALL."
+  },
+  {
+    "id": 49,
+    "pergunta": "De acordo com o cadastramento de usuário, no ambiente computacional da OM, a troca de senhas de acesso à rede local pelos usuários, deve ser efetuada em períodos de até:",
+    "alternativas": [
+      "trinta dias.",
+      "quinze dias.",
+      "dez dias.",
+      "sessenta dias.",
+      "sete dias."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — trinta dias."
+  },
+  {
+    "id": 50,
+    "pergunta": "O acesso físico a cada perímetro de segurança, existente na OM, necessita ser controlado. Como é denominado o procedimento que cada OSIC deve fazer para controlar este acesso?",
+    "alternativas": [
+      "Cartão de identificação de segurança.",
+      "Cartão magnético de acesso ao perímetro físico.",
+      "Ficha de acesso ao local de segurança.",
+      "Controle de acesso físico aos perímetros de segurança.",
+      "Registro de entrada de pessoal."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Controle de acesso físico aos perímetros de segurança."
+  },
+  {
+    "id": 51,
+    "pergunta": "Após analisar uma ocorrência e verificar que se trata de um incidente, que afete um RCC nível 1, a quem o OSIC deve participar o fato?",
+    "alternativas": [
+      "Comissão de auditoria.",
+      "Titular da OM.",
+      "COTIM.",
+      "CLTI.",
+      "COMIMSUP."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Titular da OM."
+  },
+  {
+    "id": 52,
+    "pergunta": "Qual é o fator mais importante da SID?",
+    "alternativas": [
+      "Relatório de SID.",
+      "Mentalidade de Segurança.",
+      "Auditoria.",
+      "Adestramento.",
+      "Lista de Verificação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Mentalidade de Segurança."
+  },
+  {
+    "id": 53,
+    "pergunta": "Quem deve analisar e autorizar a instalação de qualquer programa para uso em rede, mesmo aqueles NÃO voltados à SID?",
+    "alternativas": [
+      "CTIM.",
+      "OSIC.",
+      "ADIMIN.",
+      "CLTI.",
+      "DCTIM."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — DCTIM."
+  },
+  {
+    "id": 54,
+    "pergunta": "As cópias de segurança devem ser gravadas em mídias específicas, que devem ser armazenadas, de acordo com tabelas extraídas da norma:",
+    "alternativas": [
+      "NBR-1334.",
+      "NBR-1044.",
+      "NBR-1304.",
+      "NBR-133.",
+      "NBR-1344."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — NBR-1334."
+  },
+  {
+    "id": 55,
+    "pergunta": "Os terminais de acesso remoto deverão ser habilitados somente no período em que efetivamente for efetuado o reparo. E devem ser efetuados, também, os devidos registros no(a):",
+    "alternativas": [
+      "Parte I do HRL.",
+      "Parte II do HRL.",
+      "Parte III do HRL.",
+      "Relatório de SIDRL.",
+      "ISID."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Parte III do HRL."
+  },
+  {
+    "id": 56,
+    "pergunta": "IP são os identificadores de objetos de rede. Como os seres humanos encontram dificuldades em lembrar-se de números extensos, tais como \"200.244.193.132\", preferindo nomes associativos como por exemplo www.dctim.mar.mil.br. Qual a ferramenta que age como tradutor entre nomes e endereços?",
+    "alternativas": [
+      "DOMAIN NAME SYSTEM (DNS).",
+      "Domínio da Marinha na intranet.",
+      "Domínio de segundo nível (DSN).",
+      "Domínio da Marinha na internet.",
+      "Domínio de primeiro nível (DPN)."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — DOMAIN NAME SYSTEM (DNS)."
+  },
+  {
+    "id": 57,
+    "pergunta": "Entre os requisitos básicos da SEGURANÇA podemos citar:",
+    "alternativas": [
+      "eficiência, diretamente ligada às tecnologias e aos procedimentos operacionais utilizados pela RECIM.",
+      "disponibilidade pela certeza de que os dados estão acessíveis quando e onde forem necessários.",
+      "confiabilidade, já que os erros na linha de transmissão podem ser detectados durante o enlace.",
+      "rapidez, que independe da tecnologia utilizada.",
+      "redução de custo pela utilização de prestadores de serviço de telecomunicações."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — disponibilidade pela certeza de que os dados estão acessíveis quando e onde forem necessários."
+  },
+  {
+    "id": 58,
+    "pergunta": "Qual o grau de sigilo do PLCONT?",
+    "alternativas": [
+      "Ostensivo.",
+      "Reservado.",
+      "No mínimo reservado.",
+      "Secreto.",
+      "Ultrassecreto."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — No mínimo reservado."
+  },
+  {
+    "id": 59,
+    "pergunta": "Quem deve ativar os PLCONT?",
+    "alternativas": [
+      "OSIC.",
+      "ADMIN.",
+      "Titular da OM.",
+      "DCTIM.",
+      "ComOpNav."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — ADMIN."
+  },
+  {
+    "id": 60,
+    "pergunta": "Qual a cor do alarme cibernético quando em tempo de paz com possibilidade de ataque?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Azul."
+  },
+  {
+    "id": 61,
+    "pergunta": "Qual a cor do alarme cibernético quando em tempo de paz com situação normal?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Branco."
+  },
+  {
+    "id": 62,
+    "pergunta": "Qual a cor do alarme cibernético quando em tempo de paz com ataques prováveis?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Amarelo."
+  },
+  {
+    "id": 63,
+    "pergunta": "Qual a cor do ataque cibernético quando em tempo de paz com ataques em curso?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Laranja."
+  },
+  {
+    "id": 64,
+    "pergunta": "Qual a cor do ataque cibernético quando em tempo de paz com comprometimento do sistema?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Vermelho."
+  },
+  {
+    "id": 65,
+    "pergunta": "Pode-se afirmar que o endereço IP da Intranet é o mesmo que permitirá também o acesso à Internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 66,
+    "pergunta": "As bases de dados podem estar integradas pela rede local ou podem estar localizadas em redes externas, tais como a Internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 67,
+    "pergunta": "É correto afirmar que os sistemas de combate a incêndio, das áreas que abrigam equipamentos computacionais, são considerados RCC.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 68,
+    "pergunta": "A Engenharia Social, ou entrevista, corresponde ao conjunto de técnicas para obtenção de conteúdo, para confecção de normas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 69,
+    "pergunta": "A descrição da estrutura de rede local e registro de ocorrências do ambiente computacional, são ações de análise.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  }
+]
