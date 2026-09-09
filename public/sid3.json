@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Associe corretamente cada conceito à respectiva descrição. \n \n (1) Vulnerabilidade \n (2) Ameaça \n (3) Valor \n \n ( ) A ausência de um mecanismo de proteção ou falhas em um mecanismo de proteção existente. \n ( ) É a importância de um ativo para a organização. \n ( ) Incêndio ou roubo.",
+    "alternativas": [
+      " 3 2 1",
+      " 1 2 3",
+      " 2 1 3",
+      " 1 3 2",
+      " 2 3 1"
+    ],
+    "correta": 3,
+    "comentario": "A associação correta é: Vulnerabilidade → ausência ou falha de proteção; Ameaça → incêndio ou roubo; Valor → importância de um ativo para a organização."
+  },
+  {
+    "id": 2,
+    "pergunta": "Por questões de segurança, o acesso interno aos serviços disponibilizados pela internet, somente poderá ser efetuado por meio de qual recurso?",
+    "alternativas": [
+      "Correio Lotus Notes.",
+      "Zimbra.",
+      "CABLE MODEM.",
+      "FIREWALL.",
+      "Conexão discada."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — FIREWALL."
+  },
+  {
+    "id": 3,
+    "pergunta": "De acordo com o cadastramento de usuário, no ambiente computacional da OM, a troca de senhas de acesso à rede local pelos usuários, deve ser efetuada em períodos de até:",
+    "alternativas": [
+      "trinta dias.",
+      "quinze dias.",
+      "dez dias.",
+      "sessenta dias.",
+      "sete dias."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — trinta dias."
+  },
+  {
+    "id": 4,
+    "pergunta": "O acesso físico a cada perímetro de segurança, existente na OM, necessita ser controlado. Como é denominado o procedimento que cada OSIC deve fazer para controlar este acesso?",
+    "alternativas": [
+      "Cartão de identificação de segurança.",
+      "Cartão magnético de acesso ao perímetro físico.",
+      "Ficha de acesso ao local de segurança.",
+      "Controle de acesso físico aos perímetros de segurança.",
+      "Registro de entrada de pessoal."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Controle de acesso físico aos perímetros de segurança."
+  },
+  {
+    "id": 5,
+    "pergunta": "Após analisar uma ocorrência e verificar que se trata de um incidente, que afete um RCC nível 1, a quem o OSIC deve participar o fato?",
+    "alternativas": [
+      "Comissão de auditoria.",
+      "Titular da OM.",
+      "COTIM.",
+      "CLTI.",
+      "COMIMSUP."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Titular da OM."
+  },
+  {
+    "id": 6,
+    "pergunta": "Qual é o fator mais importante da SID?",
+    "alternativas": [
+      "Relatório de SID.",
+      "Mentalidade de Segurança.",
+      "Auditoria.",
+      "Adestramento.",
+      "Lista de Verificação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Mentalidade de Segurança."
+  },
+  {
+    "id": 7,
+    "pergunta": "Quem deve analisar e autorizar a instalação de qualquer programa para uso em rede, mesmo aqueles NÃO voltados à SID?",
+    "alternativas": [
+      "CTIM.",
+      "OSIC.",
+      "ADIMIN.",
+      "CLTI.",
+      "DCTIM."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — DCTIM."
+  },
+  {
+    "id": 8,
+    "pergunta": "As cópias de segurança devem ser gravadas em mídias específicas, que devem ser armazenadas, de acordo com tabelas extraídas da norma:",
+    "alternativas": [
+      "NBR-1334.",
+      "NBR-1044.",
+      "NBR-1304.",
+      "NBR-133.",
+      "NBR-1344."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — NBR-1334."
+  },
+  {
+    "id": 9,
+    "pergunta": "Os terminais de acesso remoto deverão ser habilitados somente no período em que efetivamente for efetuado o reparo. E devem ser efetuados, também, os devidos registros no(a):",
+    "alternativas": [
+      "Parte I do HRL.",
+      "Parte II do HRL.",
+      "Parte III do HRL.",
+      "Relatório de SIDRL.",
+      "ISID."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Parte III do HRL."
+  },
+  {
+    "id": 10,
+    "pergunta": "IP são os identificadores de objetos de rede. Como os seres humanos encontram dificuldades em lembrar-se de números extensos, tais como \"200.244.193.132\", preferindo nomes associativos como por exemplo www.dctim.mar.mil.br. Qual a ferramenta que age como tradutor entre nomes e endereços?",
+    "alternativas": [
+      "DOMAIN NAME SYSTEM (DNS).",
+      "Domínio da Marinha na intranet.",
+      "Domínio de segundo nível (DSN).",
+      "Domínio da Marinha na internet.",
+      "Domínio de primeiro nível (DPN)."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — DOMAIN NAME SYSTEM (DNS)."
+  },
+  {
+    "id": 11,
+    "pergunta": "Entre os requisitos básicos da SEGURANÇA podemos citar:",
+    "alternativas": [
+      "eficiência, diretamente ligada às tecnologias e aos procedimentos operacionais utilizados pela RECIM.",
+      "disponibilidade pela certeza de que os dados estão acessíveis quando e onde forem necessários.",
+      "confiabilidade, já que os erros na linha de transmissão podem ser detectados durante o enlace.",
+      "rapidez, que independe da tecnologia utilizada.",
+      "redução de custo pela utilização de prestadores de serviço de telecomunicações."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — disponibilidade pela certeza de que os dados estão acessíveis quando e onde forem necessários."
+  },
+  {
+    "id": 12,
+    "pergunta": "Discursiva: Qual o grau de sigilo do PLCONT?",
+    "alternativas": [
+      "Ostensivo.",
+      "Reservado.",
+      "No mínimo reservado.",
+      "Secreto.",
+      "Ultrassecreto."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — No mínimo reservado."
+  },
+  {
+    "id": 13,
+    "pergunta": "Discursiva: Quem deve ativar os PLCONT?",
+    "alternativas": [
+      "OSIC.",
+      "ADMIN.",
+      "Titular da OM.",
+      "DCTIM.",
+      "ComOpNav."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — ADMIN."
+  },
+  {
+    "id": 14,
+    "pergunta": "Discursiva: Qual a cor do alarme cibernético quando em tempo de paz com possibilidade de ataque?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Azul."
+  },
+  {
+    "id": 15,
+    "pergunta": "Discursiva: Qual a cor do alarme cibernético quando em tempo de paz com situação normal?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Branco."
+  },
+  {
+    "id": 16,
+    "pergunta": "Discursiva: Qual a cor do alarme cibernético quando em tempo de paz com ataques prováveis?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Amarelo."
+  },
+  {
+    "id": 17,
+    "pergunta": "Discursiva: Qual a cor do ataque cibernético quando em tempo de paz com ataques em curso?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Laranja."
+  },
+  {
+    "id": 18,
+    "pergunta": "Discursiva: Qual a cor do ataque cibernético quando em tempo de paz com comprometimento do sistema?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Vermelho."
+  },
+  {
+    "id": 19,
+    "pergunta": "Pode-se afirmar que o endereço IP da Intranet é o mesmo que permitirá também o acesso à Internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 20,
+    "pergunta": "As bases de dados podem estar integradas pela rede local ou podem estar localizadas em redes externas, tais como a Internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 21,
+    "pergunta": "É correto afirmar que os sistemas de combate a incêndio, das áreas que abrigam equipamentos computacionais, são considerados RCC.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 22,
+    "pergunta": "A Engenharia Social, ou entrevista, corresponde ao conjunto de técnicas para obtenção de conteúdo, para confecção de normas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 23,
+    "pergunta": "A descrição da estrutura de rede local e registro de ocorrências do ambiente computacional, são ações de análise.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  }
+]

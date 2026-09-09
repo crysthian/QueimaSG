@@ -1,0 +1,285 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Associe corretamente cada item à respectiva descrição. \n \n (1) ISIC \n (2) Histórico da Rede Local (HRL) \n (3) Cópias de segurança dos equipamentos servidores \n \n ( ) Na impossibilidade de se utilizar local de guarda em prédio distinto, utilizar compartimentos afastados e com proteção contra incêndio e alagamento. \n ( ) Deve possuir grau de sigilo ostensivo para que todos os usuários da rede tenham acesso. \n ( ) 3 partes (1 - Descrição; 2 - Atividade de Rotina; e 3 - Incidentes).",
+    "alternativas": [
+      " 3 2 1",
+      " 1 2 3",
+      " 3 1 2",
+      " 2 3 1",
+      " 2 1 3"
+    ],
+    "correta": 2,
+    "comentario": "A associação correta é: ISIC → grau de sigilo ostensivo; HRL → três partes; cópias de segurança → compartimentos afastados e protegidos contra incêndio e alagamento."
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual requisito da SICRL que garante a capacidade da informação digital somente ser acessada por alguém autorizado?",
+    "alternativas": [
+      "Autenticidade.",
+      "Segurança.",
+      "Disponibilidade.",
+      "Integridade.",
+      "Sigilo."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Sigilo."
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual requisito da SICRL que garante a capacidade da origem da informação digital ser aquela identificada?",
+    "alternativas": [
+      "Segurança.",
+      "Integridade.",
+      "Autenticidade.",
+      "Disponibilidade."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Autenticidade."
+  },
+  {
+    "id": 4,
+    "pergunta": "Qual requisito da SICRL que garante a capacidade da informação digital somente ser modificada por alguém autorizado?",
+    "alternativas": [
+      "Segurança.",
+      "Disponibilidade.",
+      "Integridade.",
+      "Autenticidade.",
+      "Sigilo."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Integridade."
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual requisito da SICRL que garante a capacidade da informação digital estar disponível para alguém autorizado a acessá-la no momento próprio?",
+    "alternativas": [
+      "Integridade.",
+      "Disponibilidade.",
+      "Segurança.",
+      "Sigilo.",
+      "Autenticidade."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Disponibilidade."
+  },
+  {
+    "id": 6,
+    "pergunta": "Quais são os tipos de ameaças às informações digitais em redes locais?",
+    "alternativas": [
+      "Fabricação, modificação, interrupção e interceptação.",
+      "Fabricação, modificação, indisponibilidade e interceptação.",
+      "Fabricação, modificação, intencionais e interceptação.",
+      "Fabricação, modificação, internos, externos, interrupção e interceptação.",
+      "Fabricação, modificação, internos, externos, interrupção e interceptação."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Fabricação, modificação, interrupção e interceptação."
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual ameaça tem a possibilidade de não se resistir a um ataque que impeça o acesso pelo usuário à informação desejada, afetando o requisito de disponibilidade?",
+    "alternativas": [
+      "Modificação.",
+      "Interrupção.",
+      "Interceptação.",
+      "Indisponibilidade.",
+      "Fabricação."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Interrupção."
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual ameaça tem a possibilidade de não se resistir a um ataque que permita o acesso à informação digital por alguém não autorizado para tal?",
+    "alternativas": [
+      "Fabricação.",
+      "Interrupção.",
+      "Indisponibilidade.",
+      "Modificação.",
+      "Interceptação."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Interceptação."
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual ameaça afeta o requisito da disponibilidade?",
+    "alternativas": [
+      "Interrupção.",
+      "Fabricação.",
+      "Indisponibilidade.",
+      "Interceptação.",
+      "Modificação."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Interrupção."
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual ameaça afeta o requisito sigilo?",
+    "alternativas": [
+      "Interceptação.",
+      "Fabricação.",
+      "Interrupção.",
+      "Indisponibilidade.",
+      "Modificação."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Interceptação."
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual ameaça afeta o requisito de integridade?",
+    "alternativas": [
+      "Fabricação.",
+      "Interrupção.",
+      "Modificação.",
+      "Interceptação.",
+      "Indisponibilidade."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Modificação."
+  },
+  {
+    "id": 12,
+    "pergunta": "Discursiva: Quais são os requisitos básicos da Segurança das Informações em rede local (SICRL)?",
+    "alternativas": [
+      "Sigilo, Autenticidade, Integridade e Disponibilidade.",
+      "Segurança, Modificação, Fabricação e Interrupção.",
+      "Sigilo, Segurança, Fabricação e Interceptação.",
+      "Autenticidade, Interrupção, Integridade e Fabricação.",
+      "Disponibilidade, Interceptação, Modificação e Segurança."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Sigilo, Autenticidade, Integridade e Disponibilidade."
+  },
+  {
+    "id": 13,
+    "pergunta": "Discursiva: Qual o domínio da Marinha na Internet?",
+    "alternativas": [
+      "marinha.com.br",
+      "marinha.mil.br",
+      "marinha.gov.br",
+      "mb.mil.br",
+      "marinha.br"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — marinha.mil.br."
+  },
+  {
+    "id": 14,
+    "pergunta": "Discursiva: É a capacidade da informação digital ser modificada por alguém autorizado.",
+    "alternativas": [
+      "Sigilo.",
+      "Autenticidade.",
+      "Disponibilidade.",
+      "Integridade.",
+      "Segurança."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Integridade."
+  },
+  {
+    "id": 15,
+    "pergunta": "Discursiva: É a possibilidade de não se resistir a um ataque que permita o acesso à informação digital por alguém não autorizado para tal, afetando o requisito de Sigilo?",
+    "alternativas": [
+      "Fabricação.",
+      "Modificação.",
+      "Interrupção.",
+      "Interceptação.",
+      "Indisponibilidade."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Interceptação."
+  },
+  {
+    "id": 16,
+    "pergunta": "Discursiva: É o ataque que envolve interrupção, modificação ou fabricação de informações digitais ou alteração do sistema.",
+    "alternativas": [
+      "Passivos.",
+      "Ativos.",
+      "Acidentais.",
+      "Internos.",
+      "Externos."
+    ],
+    "correta": 1,
+    "comentario": "A resposta indicada no questionário é **Ativos**."
+  },
+  {
+    "id": 17,
+    "pergunta": "Discursiva: Cada estação de trabalho deverá ter uma senha de inicialização (\"boot\"), de conhecimento exclusivo de quem?",
+    "alternativas": [
+      "Administrador.",
+      "OSIC.",
+      "Titular da OM.",
+      "Usuário.",
+      "DCTIM."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Usuário."
+  },
+  {
+    "id": 18,
+    "pergunta": "Discursiva: Corresponde ao conjunto de técnicas para se obter ou comprometer informações sobre uma organização ou seus sistemas computacionais.",
+    "alternativas": [
+      "Firewall.",
+      "Auditoria.",
+      "Engenharia Social.",
+      "Controle de acesso.",
+      "Monitoramento."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Engenharia Social."
+  },
+  {
+    "id": 19,
+    "pergunta": "O FIREWALL foi instalado com a finalidade de controlar, nos dois sentidos, os acessos ao nó de conexão com a internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 20,
+    "pergunta": "Os endereços IP são os identificadores de objetos de rede de um sistema apenas interno.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 21,
+    "pergunta": "A ferramenta denominada DOMAIN NAME SYSTEM (DNS) traduz os nomes associativos usando como identificadores, como por exemplo \"www.ciaa.mar.mil.br\", para endereço IP requerido pelos sistemas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 22,
+    "pergunta": "A ferramenta DNS é utilizada atualmente por todos que acessam a Intranet e Internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 23,
+    "pergunta": "Para balancear a carga de serviço DNS são utilizados dois servidores secundários, além do servidor de nomes internos disponibilizados pela DCTIM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  }
+]
