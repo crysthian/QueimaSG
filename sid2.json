@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Associe corretamente cada item à respectiva descrição. \n \n (1) HRL \n (2) ISIC \n (3) RAD \n \n ( ) Deve ser simples, objetiva, de fácil compreensão e ostensiva. \n ( ) Grau de sigilo no mínimo reservado, composto de três partes. \n ( ) Documento reservado que tem por objetivo formalizar os resultados apurados por auditoria.",
+    "alternativas": [
+      " 3 2 1",
+      " 2 1 3",
+      " 1 2 3",
+      " 3 1 2",
+      " 2 3 1"
+    ],
+    "correta": 1,
+    "comentario": "A associação correta é: HRL → grau de sigilo no mínimo reservado e três partes; ISIC → simples, objetiva, de fácil compreensão e ostensiva; RAD → documento reservado para formalizar resultados de auditoria."
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual ameaça tem a possibilidade de não se resistir a um ataque que permita a alteração do conteúdo da informação digital por alguém não autorizado?",
+    "alternativas": [
+      "Interceptação.",
+      "Intencionais.",
+      "Modificação.",
+      "Interrupção.",
+      "Fabricação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Modificação."
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual ameaça afeta o requisito de autenticidade?",
+    "alternativas": [
+      "Fabricação.",
+      "Interceptação.",
+      "Indisponibilidade.",
+      "Modificação.",
+      "Interrupção."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Fabricação."
+  },
+  {
+    "id": 4,
+    "pergunta": "Como são classificados os ataques às Informações digitais?",
+    "alternativas": [
+      "Acidentais, ativos, externos, intencionais, internos e sem intenção.",
+      "Acidentais, externos, intencionais, internos e passivos.",
+      "Acidentais, ativos, externos, intencionais, internos e passivos.",
+      "Acidentais, ativos, externos, intencionais e passivos.",
+      "Acidentais, ativos, externos, premeditados, internos e passivos."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Acidentais, ativos, externos, intencionais, internos e passivos."
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual a classificação do ataque não associado à intenção premeditada?",
+    "alternativas": [
+      "Passivos.",
+      "Acidentais.",
+      "Internos.",
+      "Ativos.",
+      "Intencionais."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Acidentais."
+  },
+  {
+    "id": 6,
+    "pergunta": "Qual a classificação do ataque associado à intenção premeditada?",
+    "alternativas": [
+      "Acidentais.",
+      "Passivos.",
+      "Ativos.",
+      "Internos.",
+      "Intencionais."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Intencionais."
+  },
+  {
+    "id": 7,
+    "pergunta": "Por razões de segurança é expressamente proibido às OM interligadas à RECIM:",
+    "alternativas": [
+      "acessar a RECIM por linha física.",
+      "configurar em seu servidor o endereço IP.",
+      "solicitar autorização para acessar a internet.",
+      "acessar a internet sem autorização.",
+      "contratar serviço de acesso à internet a provedores externos."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — contratar serviço de acesso à internet a provedores externos."
+  },
+  {
+    "id": 8,
+    "pergunta": "É proibida às OM interligadas à RECIM, a utilização de estações de trabalho, mesmo NÃO conectadas a RECIM, equipados com:",
+    "alternativas": [
+      "MODEM (interno ou externo) do tipo comum ou 3G.",
+      "estabilizadores.",
+      "impressora (jato de tinta).",
+      "monitor LDC.",
+      "SCANERS."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — MODEM (interno ou externo) do tipo comum ou 3G."
+  },
+  {
+    "id": 9,
+    "pergunta": "Entre as medidas de segurança, podemos destacar, como barreira de proteção o (a):",
+    "alternativas": [
+      "domínio.",
+      "FIREWALL.",
+      "senha.",
+      "antivírus.",
+      "código de acesso."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — FIREWALL."
+  },
+  {
+    "id": 10,
+    "pergunta": "A quem compete elaborar as normas de SIC na MB?",
+    "alternativas": [
+      "CM.",
+      "DCTIM.",
+      "CON.",
+      "DGMM.",
+      "CTIM."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — DCTIM."
+  },
+  {
+    "id": 11,
+    "pergunta": "Para minimizar possíveis ameaças à SIDRL, devem ser seguidas regras mínimas sobre segurança dos serviços disponibilizados em rede local. De quem é a responsabilidade em uma OM pela divulgação dessas regras?",
+    "alternativas": [
+      "RAD.",
+      "ADMIN.",
+      "OSIC.",
+      "Titular da OM.",
+      "Usuário."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — ADMIN."
+  },
+  {
+    "id": 12,
+    "pergunta": "Discursiva: Quem controla as ações de defesa cibernética na fase Operativa?",
+    "alternativas": [
+      "ComOpNav.",
+      "CM.",
+      "DCTIM.",
+      "COTIM.",
+      "CTIM."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — ComOpNav."
+  },
+  {
+    "id": 13,
+    "pergunta": "Discursiva: É a ausência de proteção ou falhas em um mecanismo de proteção existente.",
+    "alternativas": [
+      "Ameaça.",
+      "Ativo.",
+      "Vulnerabilidade.",
+      "Interrupção.",
+      "Interceptação."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Vulnerabilidade."
+  },
+  {
+    "id": 14,
+    "pergunta": "Discursiva: Quem zela pelo fiel cumprimento das normas de SIC na OM?",
+    "alternativas": [
+      "ADMIN.",
+      "OSIC.",
+      "Titular da OM.",
+      "DCTIM.",
+      "Usuário."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Titular da OM."
+  },
+  {
+    "id": 15,
+    "pergunta": "Discursiva: Qual a cor, na fase operativa, do alarme na condição de tempo de paz com ataques prováveis?",
+    "alternativas": [
+      "Branco.",
+      "Azul.",
+      "Amarelo.",
+      "Laranja.",
+      "Vermelho."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Amarelo."
+  },
+  {
+    "id": 16,
+    "pergunta": "Discursiva: Quem deve auxiliar o CM (Comandante da Marinha) nos assuntos relacionados à governança de TI na MB?",
+    "alternativas": [
+      "DCTIM.",
+      "COTIM.",
+      "ComOpNav.",
+      "CTIM.",
+      "OSIC."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — COTIM."
+  },
+  {
+    "id": 17,
+    "pergunta": "Discursiva: Qual (is) a(s) classificação dos ativos?",
+    "alternativas": [
+      "Internos e externos.",
+      "Ativos e passivos.",
+      "Tangíveis e Intangíveis.",
+      "Acidentais e intencionais.",
+      "Públicos e reservados."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Tangíveis e Intangíveis."
+  },
+  {
+    "id": 18,
+    "pergunta": "Discursiva: Qual a periodicidade dos PLCONT?",
+    "alternativas": [
+      "6 meses.",
+      "1 ano.",
+      "2 anos.",
+      "3 anos.",
+      "5 anos."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — 1 ano."
+  },
+  {
+    "id": 19,
+    "pergunta": "É permitida a transferência de arquivos que pertença a MB por \"e-mail\" para caixa postal externa.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 20,
+    "pergunta": "No âmbito da RECIM é permitido o acesso a \"sites\", contendo matérias atinentes a relacionamentos NÃO profissionais, por meio de mecanismo de CHAT.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 21,
+    "pergunta": "A DCTIM dispõe de recursos para realização de auditoria, em todos os acessos à Internet, inclusive o tráfego de mensagens do Serviço de Correio Eletrônico.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 22,
+    "pergunta": "O CTIM atribuirá o endereço IP (Internet Protocol) à rede local da OM.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 23,
+    "pergunta": "A disponibilidade é um dos requisitos básicos da SIDRL.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  }
+]

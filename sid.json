@@ -1,22 +1,15 @@
 [
   {
     "id": 1,
-    "pergunta": "Associe corretamente cada item à respectiva descrição.",
-    "itens": [
-      "ISIC",
-      "Histórico da Rede Local (HRL)",
-      "Cópias de segurança dos equipamentos servidores"
+    "pergunta": "Associe corretamente cada item à respectiva descrição. \n \n (1) ISIC \n (2) Histórico da Rede Local (HRL) \n (3) Cópias de segurança dos equipamentos servidores \n \n ( ) Na impossibilidade de se utilizar local de guarda em prédio distinto, utilizar compartimentos afastados e com proteção contra incêndio e alagamento. \n ( ) Deve possuir grau de sigilo ostensivo para que todos os usuários da rede tenham acesso. \n ( ) 3 partes (1 - Descrição; 2 - Atividade de Rotina; e 3 - Incidentes).",
+    "alternativas": [
+      " 3 2 1",
+      " 1 2 3",
+      " 3 1 2",
+      " 2 3 1",
+      " 2 1 3"
     ],
-    "afirmacoes": [
-      "Deve possuir grau de sigilo ostensivo para que todos os usuários da rede tenham acesso.",
-      "3 partes (1 - Descrição; 2 - Atividade de Rotina; e 3 - Incidentes).",
-      "Na impossibilidade de se utilizar local de guarda em prédio distinto, utilizar compartimentos afastados e com proteção contra incêndio e alagamento."
-    ],
-    "correta": [
-      0,
-      1,
-      2
-    ],
+    "correta": 2,
     "comentario": "A associação correta é: ISIC → grau de sigilo ostensivo; HRL → três partes; cópias de segurança → compartimentos afastados e protegidos contra incêndio e alagamento."
   },
   {
@@ -72,7 +65,7 @@
   },
   {
     "id": 6,
-    "pergunta": "Quais são os tipos de ameaças às informações digitais em redes locais?",
+    "pergunta": "Discursiva: Quais são os tipos de ameaças às informações digitais em redes locais?",
     "alternativas": [
       "Fabricação, modificação, interrupção e interceptação.",
       "Fabricação, modificação, indisponibilidade e interceptação.",
@@ -85,7 +78,7 @@
   },
   {
     "id": 7,
-    "pergunta": "Qual ameaça tem a possibilidade de não se resistir a um ataque que impeça o acesso pelo usuário à informação desejada, afetando o requisito de disponibilidade?",
+    "pergunta": "Discursiva: Qual ameaça tem a possibilidade de não se resistir a um ataque que impeça o acesso pelo usuário à informação desejada, afetando o requisito de disponibilidade?",
     "alternativas": [
       "Modificação.",
       "Interrupção.",
@@ -98,7 +91,7 @@
   },
   {
     "id": 8,
-    "pergunta": "Qual ameaça tem a possibilidade de não se resistir a um ataque que permita o acesso à informação digital por alguém não autorizado para tal?",
+    "pergunta": "Discursiva: Qual ameaça tem a possibilidade de não se resistir a um ataque que permita o acesso à informação digital por alguém não autorizado para tal?",
     "alternativas": [
       "Fabricação.",
       "Interrupção.",
@@ -111,7 +104,7 @@
   },
   {
     "id": 9,
-    "pergunta": "Qual ameaça afeta o requisito da disponibilidade?",
+    "pergunta": "Discursiva: Qual ameaça afeta o requisito da disponibilidade?",
     "alternativas": [
       "Interrupção.",
       "Fabricação.",
@@ -124,7 +117,7 @@
   },
   {
     "id": 10,
-    "pergunta": "Qual ameaça afeta o requisito sigilo?",
+    "pergunta": "Discursiva: Qual ameaça afeta o requisito sigilo?",
     "alternativas": [
       "Interceptação.",
       "Fabricação.",
@@ -137,7 +130,7 @@
   },
   {
     "id": 11,
-    "pergunta": "Qual ameaça afeta o requisito de integridade?",
+    "pergunta": "Discursiva: Qual ameaça afeta o requisito de integridade?",
     "alternativas": [
       "Fabricação.",
       "Interrupção.",
@@ -150,7 +143,7 @@
   },
   {
     "id": 12,
-    "pergunta": "Quais são os requisitos básicos da Segurança das Informações em rede local (SICRL)?",
+    "pergunta": "Discursiva: Quais são os requisitos básicos da Segurança das Informações em rede local (SICRL)?",
     "alternativas": [
       "Sigilo, Autenticidade, Integridade e Disponibilidade.",
       "Segurança, Modificação, Fabricação e Interrupção.",
@@ -163,7 +156,7 @@
   },
   {
     "id": 13,
-    "pergunta": "Qual o domínio da Marinha na Internet?",
+    "pergunta": "Discursiva: Qual o domínio da Marinha na Internet?",
     "alternativas": [
       "marinha.com.br",
       "marinha.mil.br",
@@ -176,7 +169,7 @@
   },
   {
     "id": 14,
-    "pergunta": "É a capacidade da informação digital ser modificada por alguém autorizado.",
+    "pergunta": "Discursiva: É a capacidade da informação digital ser modificada por alguém autorizado.",
     "alternativas": [
       "Sigilo.",
       "Autenticidade.",
@@ -189,7 +182,7 @@
   },
   {
     "id": 15,
-    "pergunta": "É a possibilidade de não se resistir a um ataque que permita o acesso à informação digital por alguém não autorizado para tal, afetando o requisito de Sigilo?",
+    "pergunta": "Discursiva: É a possibilidade de não se resistir a um ataque que permita o acesso à informação digital por alguém não autorizado para tal, afetando o requisito de Sigilo?",
     "alternativas": [
       "Fabricação.",
       "Modificação.",
@@ -202,7 +195,7 @@
   },
   {
     "id": 16,
-    "pergunta": "É o ataque que envolve interrupção, modificação ou fabricação de informações digitais ou alteração do sistema.",
+    "pergunta": "Discursiva: É o ataque que envolve interrupção, modificação ou fabricação de informações digitais ou alteração do sistema.",
     "alternativas": [
       "Passivos.",
       "Ativos.",
@@ -215,7 +208,7 @@
   },
   {
     "id": 17,
-    "pergunta": "Cada estação de trabalho deverá ter uma senha de inicialização (\"boot\"), de conhecimento exclusivo de quem?",
+    "pergunta": "Discursiva: Cada estação de trabalho deverá ter uma senha de inicialização (\"boot\"), de conhecimento exclusivo de quem?",
     "alternativas": [
       "Administrador.",
       "OSIC.",
@@ -228,7 +221,7 @@
   },
   {
     "id": 18,
-    "pergunta": "Corresponde ao conjunto de técnicas para se obter ou comprometer informações sobre uma organização ou seus sistemas computacionais.",
+    "pergunta": "Discursiva: Corresponde ao conjunto de técnicas para se obter ou comprometer informações sobre uma organização ou seus sistemas computacionais.",
     "alternativas": [
       "Firewall.",
       "Auditoria.",
@@ -291,22 +284,15 @@
   },
   {
     "id": 24,
-    "pergunta": "Associe corretamente cada item à respectiva descrição.",
-    "itens": [
-      "HRL",
-      "ISIC",
-      "RAD"
+    "pergunta": "Associe corretamente cada item à respectiva descrição. \n \n (1) HRL \n (2) ISIC \n (3) RAD \n \n ( ) Deve ser simples, objetiva, de fácil compreensão e ostensiva. \n ( ) Grau de sigilo no mínimo reservado, composto de três partes. \n ( ) Documento reservado que tem por objetivo formalizar os resultados apurados por auditoria.",
+    "alternativas": [
+      " 3 2 1",
+      " 2 1 3",
+      " 1 2 3",
+      " 3 1 2",
+      " 2 3 1"
     ],
-    "afirmacoes": [
-      "Grau de sigilo no mínimo reservado, composto de três partes.",
-      "Deve ser simples, objetiva, de fácil compreensão e ostensiva.",
-      "Documento reservado que tem por objetivo formalizar os resultados apurados por auditoria."
-    ],
-    "correta": [
-      0,
-      1,
-      2
-    ],
+    "correta": 1,
     "comentario": "A associação correta é: HRL → grau de sigilo no mínimo reservado e três partes; ISIC → simples, objetiva, de fácil compreensão e ostensiva; RAD → documento reservado para formalizar resultados de auditoria."
   },
   {
@@ -441,7 +427,7 @@
   },
   {
     "id": 35,
-    "pergunta": "Quem controla as ações de defesa cibernética na fase Operativa?",
+    "pergunta": "Discursiva: Quem controla as ações de defesa cibernética na fase Operativa?",
     "alternativas": [
       "ComOpNav.",
       "CM.",
@@ -454,7 +440,7 @@
   },
   {
     "id": 36,
-    "pergunta": "É a ausência de proteção ou falhas em um mecanismo de proteção existente.",
+    "pergunta": "Discursiva: É a ausência de proteção ou falhas em um mecanismo de proteção existente.",
     "alternativas": [
       "Ameaça.",
       "Ativo.",
@@ -467,7 +453,7 @@
   },
   {
     "id": 37,
-    "pergunta": "Quem zela pelo fiel cumprimento das normas de SIC na OM?",
+    "pergunta": "Discursiva: Quem zela pelo fiel cumprimento das normas de SIC na OM?",
     "alternativas": [
       "ADMIN.",
       "OSIC.",
@@ -480,7 +466,7 @@
   },
   {
     "id": 38,
-    "pergunta": "Qual a cor, na fase operativa, do alarme na condição de tempo de paz com ataques prováveis?",
+    "pergunta": "Discursiva: Qual a cor, na fase operativa, do alarme na condição de tempo de paz com ataques prováveis?",
     "alternativas": [
       "Branco.",
       "Azul.",
@@ -493,7 +479,7 @@
   },
   {
     "id": 39,
-    "pergunta": "Quem deve auxiliar o CM (Comandante da Marinha) nos assuntos relacionados à governança de TI na MB?",
+    "pergunta": "Discursiva: Quem deve auxiliar o CM (Comandante da Marinha) nos assuntos relacionados à governança de TI na MB?",
     "alternativas": [
       "DCTIM.",
       "COTIM.",
@@ -506,7 +492,7 @@
   },
   {
     "id": 40,
-    "pergunta": "Qual (is) a(s) classificação dos ativos?",
+    "pergunta": "Discursiva: Qual (is) a(s) classificação dos ativos?",
     "alternativas": [
       "Internos e externos.",
       "Ativos e passivos.",
@@ -519,7 +505,7 @@
   },
   {
     "id": 41,
-    "pergunta": "Qual a periodicidade dos PLCONT?",
+    "pergunta": "Discursiva: Qual a periodicidade dos PLCONT?",
     "alternativas": [
       "6 meses.",
       "1 ano.",
@@ -582,22 +568,15 @@
   },
   {
     "id": 47,
-    "pergunta": "Associe corretamente cada conceito à respectiva descrição.",
-    "itens": [
-      "Vulnerabilidade",
-      "Ameaça",
-      "Valor"
+    "pergunta": "Associe corretamente cada conceito à respectiva descrição. \n \n (1) Vulnerabilidade \n (2) Ameaça \n (3) Valor \n \n ( ) A ausência de um mecanismo de proteção ou falhas em um mecanismo de proteção existente. \n ( ) É a importância de um ativo para a organização. \n ( ) Incêndio ou roubo.",
+    "alternativas": [
+      " 3 2 1",
+      " 1 2 3",
+      " 2 1 3",
+      " 1 3 2",
+      " 2 3 1"
     ],
-    "afirmacoes": [
-      "A ausência de um mecanismo de proteção ou falhas em um mecanismo de proteção existente.",
-      "Incêndio ou roubo.",
-      "É a importância de um ativo para a organização."
-    ],
-    "correta": [
-      0,
-      1,
-      2
-    ],
+    "correta": 3,
     "comentario": "A associação correta é: Vulnerabilidade → ausência ou falha de proteção; Ameaça → incêndio ou roubo; Valor → importância de um ativo para a organização."
   },
   {
@@ -732,7 +711,7 @@
   },
   {
     "id": 58,
-    "pergunta": "Qual o grau de sigilo do PLCONT?",
+    "pergunta": "Discursiva: Qual o grau de sigilo do PLCONT?",
     "alternativas": [
       "Ostensivo.",
       "Reservado.",
@@ -745,7 +724,7 @@
   },
   {
     "id": 59,
-    "pergunta": "Quem deve ativar os PLCONT?",
+    "pergunta": "Discursiva: Quem deve ativar os PLCONT?",
     "alternativas": [
       "OSIC.",
       "ADMIN.",
@@ -758,7 +737,7 @@
   },
   {
     "id": 60,
-    "pergunta": "Qual a cor do alarme cibernético quando em tempo de paz com possibilidade de ataque?",
+    "pergunta": "Discursiva: Qual a cor do alarme cibernético quando em tempo de paz com possibilidade de ataque?",
     "alternativas": [
       "Branco.",
       "Azul.",
@@ -771,7 +750,7 @@
   },
   {
     "id": 61,
-    "pergunta": "Qual a cor do alarme cibernético quando em tempo de paz com situação normal?",
+    "pergunta": "Discursiva: Qual a cor do alarme cibernético quando em tempo de paz com situação normal?",
     "alternativas": [
       "Branco.",
       "Azul.",
@@ -784,7 +763,7 @@
   },
   {
     "id": 62,
-    "pergunta": "Qual a cor do alarme cibernético quando em tempo de paz com ataques prováveis?",
+    "pergunta": "Discursiva: Qual a cor do alarme cibernético quando em tempo de paz com ataques prováveis?",
     "alternativas": [
       "Branco.",
       "Azul.",
@@ -797,7 +776,7 @@
   },
   {
     "id": 63,
-    "pergunta": "Qual a cor do ataque cibernético quando em tempo de paz com ataques em curso?",
+    "pergunta": "Discursiva: Qual a cor do ataque cibernético quando em tempo de paz com ataques em curso?",
     "alternativas": [
       "Branco.",
       "Azul.",
@@ -810,7 +789,7 @@
   },
   {
     "id": 64,
-    "pergunta": "Qual a cor do ataque cibernético quando em tempo de paz com comprometimento do sistema?",
+    "pergunta": "Discursiva: Qual a cor do ataque cibernético quando em tempo de paz com comprometimento do sistema?",
     "alternativas": [
       "Branco.",
       "Azul.",
