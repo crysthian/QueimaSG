@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Associe corretamente cada conceito à respectiva descrição. \n \n (1) DCTIM \n (2) CLTI \n (3) CTIM \n \n ( ) Contratar os serviços de manutenção no âmbito de sua área. \n ( ) Estabelecer doutrinas e normas referentes as atividades de SIC. \n ( ) Promover adestramentos periódicos aos usuários da OM quanto aos serviços da RECIM. \n ( ) Supervisionar a elaboração, o controle e a manutenção de HRL. \n ( ) Monitorar, gerenciar, prestar suporte e emitir relatórios de desempenho. \n ( ) Gerenciar as noemas gerais para SIDRL elaboradas pelo EMA.",
+    "alternativas": [
+      " 1 - 2 - 3 -",
+      " - 2 1 - 3 -",
+      " - 2 1 3 - -",
+      " 2 - 3 - 1 -",
+      " 3 - 1 - - 2"
+    ],
+    "correta": 1,
+    "comentario": "A associação correta é: DCTIM → Estabelecer doutrinas e normas referentes as atividades de SIC; CLTI → Contratar os serviços de manutenção no âmbito de sua área; CTIM → Monitorar, gerenciar, prestar suporte e emitir relatórios de desempenho."
+  },
+  {
+    "id": 2,
+    "pergunta": "IP são os identificadores de objetos de rede. Como os seres humanos encontram dificuldades em lembrar-se de números extensos,tais como \"200.244.193.132\", preferindo nomes associativos como por exemplo www.dctim.mar.mil.br, qual a ferramenta que age como tradutor entre nomes e endereços?",
+    "alternativas": [
+      "Domínio Internet indiferenciado.",
+      "Domínio Marinha indexado.",
+      "DOMAIN NAME SYSTEM (DNS)",
+      "Domínio da Marinha.",
+      "Domínio Internet."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — DOMAIN NAME SYSTEM (DNS)."
+  },
+  {
+    "id": 3,
+    "pergunta": "Todas as informações digitais contidas em base de dados ou em diretórios específicos devem atender a regras mínimas de segurança. Entre as alternativas abaixo, selecione a que NÃO pertence a esse conjunto de regras mínimas.",
+    "alternativas": [
+      "Toda informação processada, armazenada ou em trâmite pode ser auditada",
+      "Arquivos de registro devem ser mantidos (HRL) para análise e estudos estatísticos.",
+      "As informações digitais sigilosas NÃO podem ser mantidas em texto claro nos RCC.",
+      "Compartilhamentos devem ser acessíveis por pequenos números de usuários externos à rede.",
+      "NÃO é permitido compartilhamento de livre acesso nos servidores da rede local."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Compartilhamentos devem ser acessíveis por pequenos números de usuários externos à rede. "
+  },
+  {
+    "id": 4,
+    "pergunta": "Qual das alternativas abaixo NÃO correspondem a um dos desdobramentos da Segurança Orgânica?",
+    "alternativas": [
+      "Segurança dos Recursos Humanos.",
+      "Segurança das Comunicações.",
+      "Segurança da Documentação e do Material.",
+      "Segurança das Áreas.",
+      "Segurança da Produção."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Segurança da Produção."
+  },
+  {
+    "id": 5,
+    "pergunta": "Das alternativas abaixo, selecione as relacionadas às recomendações para minimizar a probabilidade de estranhos obterem informações através dos meios de comunicações disponíveis, utilizando-se do conjunto de técnicas conhecido como Engenharia Social. \n \n I) NÃO passar nomes, telefones e outras informações de pessoas da OM. \n II) Identificar-se prontamente ao atender o telefone, antes que o interlocutor se identifique. \n III) NÃO passar informações sobre os sistemas utilizados na rede local, exceto os de segurança. \n IV) NÃO passar a estranhos informações a respeito da rotina e procedimentos internos da OM. \n V) NÃO confirmar a estranhos a existência de determinada pessoa na OM.",
+    "alternativas": [
+      "Apenas a alternativa III está correta.",
+      "As alternativas I, II, III e IV estão corretas.",
+      "As alternativas I, IV e V estão corretas.",
+      "As alternativas I, III, IV e V estão corretas.",
+      "Apenas a alternativa IV está correta."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — As alternativas I, IV e V estão corretas. "
+  },
+  {
+    "id": 6,
+    "pergunta": "Caso sua OM tenha interesse em obter acesso à Internet, mas não deseje divulgar informações, qual dos passos abaixo seria \"desnecessário\" quando da implantação da rede local?",
+    "alternativas": [
+      "Aquisição do endereço IP.",
+      "Instalação e configuração dos endereços IP nas estações de trabalho.",
+      "Instalação do programa de navegação nas estações.",
+      "Instalação do servidor \"WEB\" em servidor da OM.",
+      "Configuração do TCP/IP no servidor de rede da OM."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Instalação do servidor \"WEB\" em servidor da OM."
+  },
+  {
+    "id": 7,
+    "pergunta": "Quem é o responsável por efetuar a defesa de perímetro da RECIM?",
+    "alternativas": [
+      "CCSM.",
+      "COTIM.",
+      "CTIM.",
+      "DCTIM.",
+      "CLTI."
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — CTIM."
+  },
+  {
+    "id": 8,
+    "pergunta": "Dentro das atribuições da Autoridade de TI da MB, compete coordenar e controlar as ações de proteção na fase administrativa.",
+    "alternativas": [
+      "COTIM",
+      "CLTI",
+      "CTIM.",
+      "DCTIM.",
+      "DGMM."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — DGMM."
+  },
+  {
+    "id": 9,
+    "pergunta": "Para minimizar possíveis ameaças à SIC, devem ser seguidas regras mínimas sobre segurança dos serviços disponibilizados em rede local. De quem é a responsabilidade em uma Organização Militar (OM) pela divulgação dessas regras?",
+    "alternativas": [
+      "ADMIN.",
+      "RAD.",
+      "TITULAR.",
+      "USUÁRIO.",
+      "OSIC"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — ADMIN."
+  },
+  {
+    "id": 10,
+    "pergunta": "Nenhum dispositivo de rede sem fio, deve ser implementado, sem autorização do(a):",
+    "alternativas": [
+      "Imediato.",
+      "DCTIM.",
+      "Titular da OM.",
+      "CLTI.",
+      "ADMIM."
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — DCTIM."
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual a possível cor do Alarme Cibernético em que a Diretoria de Comunicações e Tecnologia da Informação da Marinha (DCTIM) atua como assessora técnica para o Comando de Operações Navais (ComOpNav)?",
+    "alternativas": [
+      "MARROM",
+      "BRANCO",
+      "LARANJA",
+      "AMARELO",
+      "AZUL"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — LARANJA"
+  },
+  {
+    "id": 12,
+    "pergunta": "Discursiva: Qual o domínio da Marinha na Internet?",
+    "alternativas": [
+      "marinha.com.br",
+      "marinha.mil.br",
+      "marinha.gov.br",
+      "mb.mil.br",
+      "marinha.br"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — marinha.mil.br."
+  },
+  {
+    "id": 13,
+    "pergunta": "Discursiva: Dentre os Requisitos básicos de SIDRL, qual deles se constitui na capacidade da informação digital somente ser acessada por alguém autorizado?",
+    "alternativas": [
+      "Autenticidade.",
+      "Segurança.",
+      "Disponibilidade.",
+      "Integridade.",
+      "Sigilo."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — Sigilo."
+  },
+  {
+    "id": 14,
+    "pergunta": "Discursiva: Como devem trafegar e serem armazenadas as informações digitais sigilosas?",
+    "alternativas": [
+      "Em texto claro",
+      "Por mensageiro",
+      "Cifradas",
+      "Cofres",
+      "Ostensiva"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C** — Cifradas."
+  },
+  {
+    "id": 15,
+    "pergunta": "Discursiva: Qual é o nome dado ao tipo de Ataque a Informação Digital NÃO associado à intenção premeditada?",
+    "alternativas": [
+      "Passivos.",
+      "Internos.",
+      "Ativos.",
+      "Acidentais.",
+      "Intencionais."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Acidentais."
+  },
+  {
+    "id": 16,
+    "pergunta": "Discursiva: A ISIC deve ser formalizada internamente em qual documento pelas Organizações Militares (OMs)",
+    "alternativas": [
+      "Ordem Interna.",
+      "Portaria.",
+      "Comunicação Padronizada.",
+      "HRL",
+      "Ofício."
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Ordem Interna."
+  },
+  {
+    "id": 17,
+    "pergunta": "Discursiva: A quem cabe monitorar a segurança dos ativos críticos da RECIM?",
+    "alternativas": [
+      "OSIC.",
+      "ADIMIN.",
+      "CLTI.",
+      "DCTIM.",
+      "CTIM."
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E** — CTIM."
+  },
+  {
+    "id": 18,
+    "pergunta": "Discursiva: As cópias de segurança das informações digitais servem para restabelecer a condição anterior quando a integridade dessas informações houver sido afetada. Qual deve ser o grau de sigilo dessas cópias?",
+    "alternativas": [
+      "Deve ser Ostensivas",
+      "Deve ter grau Secreto.",
+      "Deve ter grau Reservado.",
+      "Deve ter o mesmo grau de sigilo das informações que armazenam.",
+      "Deve ter grau ultra-secreto."
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D** — Deve ter o mesmo grau de sigilo das informações que armazenam."
+  },
+  {
+    "id": 19,
+    "pergunta": "A SIDRL é a proteção resultante de todas as medidas postas em execução, visando negar, impedir ou minimizar, a possibilidade de obtenção do conhecimento de dados, que trafeguem ou sejam armazenados digitalmente nos sistemas de redes locais.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 20,
+    "pergunta": "O endereço IP da Intranet é o mesmo que permitirá também o acesso à Internet.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 21,
+    "pergunta": "Os usuários devem ser informados das regras de SIC, e de utilização da rede local da OM, para que tenham pleno entendimento das mesmas.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A** — Verdadeiro."
+  },
+  {
+    "id": 22,
+    "pergunta": "A descrição da estrutura de rede local e registro de ocorrências do ambiente computacional, são ações de análise.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  },
+  {
+    "id": 23,
+    "pergunta": "Os serviços de manutenção nos RCC NÃO são considerados críticos.",
+    "alternativas": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B** — Falso."
+  }
+]
