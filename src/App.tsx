@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { validateQuizSettings } from './quizValidation';
 import { QuizSetup } from './components/QuizSetup';
 import { QuizRunner } from './components/QuizRunner';
 import { ResultsView } from './components/ResultsView';
@@ -31,30 +32,29 @@ const App: React.FC = () => {
   }, [darkMode]);
 
   useEffect(() => {
-    let timer: number;
-    if (state.status === AppStatus.RUNNING && state.mode === QuizMode.TEST && state.timeLeft > 0) {
-      timer = window.setInterval(() => {
-        setState(prev => ({
-          ...prev,
-          timeLeft: Math.max(0, prev.timeLeft - 1)
-        }));
-      }, 1000);
-    } else if (state.timeLeft === 0 && state.mode === QuizMode.TEST && state.status === AppStatus.RUNNING && state.totalTime > 0) {
-      // Time's up!
-      setState(prev => ({ ...prev, status: AppStatus.FINISHED }));
-    }
+    if (state.status !== AppStatus.RUNNING || state.mode !== QuizMode.TEST) return;
+    const deadline = Date.now() + state.timeLeft * 1000;
+    const timer = window.setInterval(() => {
+      const timeLeft = Math.max(0, Math.ceil((deadline - Date.now()) / 1000));
+      setState(prev => ({
+        ...prev,
+        timeLeft,
+        status: timeLeft === 0 ? AppStatus.FINISHED : prev.status,
+      }));
+    }, 1000);
     return () => clearInterval(timer);
-  }, [state.status, state.mode, state.timeLeft, state.totalTime]);
+  }, [state.status, state.mode, state.timeLeft]);
 
   const handleStartQuiz = (questions: Question[], mode: QuizMode, timeLimitMinutes: number, count: number) => {
+    if (validateQuizSettings(questions.length, count, mode, timeLimitMinutes)) return;
     const shuffled = [...questions].sort(() => 0.5 - Math.random()).slice(0, count);
     setState({
       questions: shuffled,
       currentIdx: 0,
       userAnswers: {},
       mode,
-      totalTime: timeLimitMinutes * 60,
-      timeLeft: timeLimitMinutes * 60,
+      totalTime: mode === QuizMode.TEST ? timeLimitMinutes * 60 : 0,
+      timeLeft: mode === QuizMode.TEST ? timeLimitMinutes * 60 : 0,
       status: AppStatus.RUNNING,
     });
   };
