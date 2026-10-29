@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "tipo": "associacao",
+    "pergunta": "Associe corretamente cada descrição ao conceito correspondente.",
+    "conceitos": ["DCTIM", "CLTI", "CTIM"],
+    "descricoes": [
+      "Contratar os serviços de manutenção no âmbito de sua área.",
+      "Estabelecer doutrinas e normas referentes às atividades de SIC.",
+      "Promover adestramentos periódicos aos usuários da OM quanto aos serviços da RECIM.",
+      "Supervisionar a elaboração, o controle e a manutenção de HRL.",
+      "Monitorar, gerenciar, prestar suporte e emitir relatórios de desempenho.",
+      "Gerenciar as normas gerais para SIDRL elaboradas pelo EMA."
+    ],
+    "correta": [1, 0, null, null, 2, null],
+    "comentario": "CLTI → Contratar os serviços de manutenção; DCTIM → Estabelecer doutrinas e normas de SIC; CTIM → Monitorar, gerenciar e prestar suporte."
+  }
+]
