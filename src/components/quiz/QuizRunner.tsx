@@ -1,8 +1,8 @@
-
 import React, { useState } from 'react';
-import { type QuizState, type QuestionAnswer, QuizMode } from '../../types';
-import { isAnswerComplete } from '../quizAnswers';
+import { type QuizState, type QuestionAnswer, QuizMode } from '../../types/quiz';
+import { isAnswerComplete } from '../../domain/quiz/answers';
 import { AssociationOptions } from './AssociationOptions';
+import { MultipleChoiceOptions } from './MultipleChoiceOptions';
 
 interface QuizRunnerProps {
   state: QuizState;
@@ -15,13 +15,12 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
   const currentQuestion = state.questions[state.currentIdx];
   const userAnswer = state.userAnswers[currentQuestion.id];
   const isStudyMode = state.mode === QuizMode.STUDY;
-  
-  // Track if "Check Answer" was clicked in study mode
+
   const [checkedQuestions, setCheckedQuestions] = useState<Set<number>>(() => new Set());
   const showExplanation = checkedQuestions.has(currentQuestion.id);
 
   const handleSelect = (idx: number) => {
-    if (showExplanation && isStudyMode) return; // Prevent change after checking in study mode
+    if (showExplanation && isStudyMode) return;
     onAnswer(currentQuestion.id, idx);
   };
 
@@ -31,7 +30,7 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
     <div className="space-y-6 max-w-3xl mx-auto">
       {/* Progress Bar */}
       <div className="w-full bg-slate-200 dark:bg-slate-800 h-2 rounded-full overflow-hidden transition-colors">
-        <div 
+        <div
           className="bg-indigo-600 h-full transition-all duration-300"
           style={{ width: `${progress}%` }}
         ></div>
@@ -62,37 +61,14 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
             showCorrection={showExplanation && isStudyMode}
             onChange={answer => onAnswer(currentQuestion.id, answer)}
           />
-        ) : <div className="space-y-3">
-          {currentQuestion.alternativas.map((alt, idx) => {
-            const isSelected = userAnswer === idx;
-            const isCorrect = idx === currentQuestion.correta;
-            
-            let btnClass = "w-full text-left p-4 rounded-2xl border-2 transition-all flex items-center gap-4 group ";
-            
-            if (showExplanation && isStudyMode) {
-              if (isCorrect) btnClass += "border-green-500 bg-green-50 dark:bg-green-900/20 text-green-900 dark:text-green-300";
-              else if (isSelected) btnClass += "border-red-500 bg-red-50 dark:bg-red-900/20 text-red-900 dark:text-red-300";
-              else btnClass += "border-slate-100 dark:border-slate-800 opacity-60";
-            } else {
-              if (isSelected) btnClass += "border-indigo-600 bg-indigo-50/50 dark:bg-indigo-900/20 text-indigo-900 dark:text-indigo-100";
-              else btnClass += "border-slate-100 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 text-slate-700 dark:text-slate-300";
-            }
-
-            return (
-              <button 
-                key={idx} 
-                onClick={() => handleSelect(idx)}
-                className={btnClass}
-                disabled={showExplanation && isStudyMode}
-              >
-                <div className={`w-8 h-8 flex-shrink-0 rounded-full border-2 flex items-center justify-center font-bold text-sm transition-colors ${isSelected ? 'bg-indigo-600 text-white border-indigo-600' : 'border-slate-200 dark:border-slate-700 text-slate-400 dark:text-slate-500 group-hover:border-slate-400 dark:group-hover:border-slate-500'}`}>
-                  {String.fromCharCode(65 + idx)}
-                </div>
-                <span className="font-medium text-base md:text-lg">{alt}</span>
-              </button>
-            );
-          })}
-        </div>}
+        ) : (
+          <MultipleChoiceOptions
+            question={currentQuestion}
+            answer={userAnswer}
+            showCorrection={showExplanation && isStudyMode}
+            onSelect={handleSelect}
+          />
+        )}
 
         {/* Study Mode Explanation */}
         {showExplanation && isStudyMode && (
@@ -108,14 +84,14 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
         {/* Action Controls */}
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 pt-6 border-t border-slate-100 dark:border-slate-800">
           <div className="flex gap-2 w-full sm:w-auto">
-            <button 
+            <button
               onClick={() => onNavigate(-1)}
               disabled={state.currentIdx === 0}
               className="flex-1 sm:flex-none px-6 py-3 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 font-bold hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
             >
               Anterior
             </button>
-            <button 
+            <button
               onClick={() => onNavigate(1)}
               disabled={state.currentIdx === state.questions.length - 1}
               className="flex-1 sm:flex-none px-6 py-3 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 font-bold hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
@@ -126,7 +102,7 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
 
           <div className="flex gap-2 w-full sm:w-auto">
             {isStudyMode && !showExplanation && (
-               <button 
+               <button
                  onClick={() => setCheckedQuestions(previous => new Set(previous).add(currentQuestion.id))}
                  disabled={!isAnswerComplete(currentQuestion, userAnswer)}
                  className="flex-1 sm:flex-none px-6 py-3 rounded-xl bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-400 font-bold hover:bg-amber-200 dark:hover:bg-amber-900/50 transition-colors disabled:opacity-50"
@@ -135,7 +111,7 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
                </button>
             )}
             {state.currentIdx === state.questions.length - 1 ? (
-              <button 
+              <button
                 onClick={onFinish}
                 className="flex-1 sm:flex-none px-8 py-3 rounded-xl bg-green-600 text-white font-bold hover:bg-green-700 transition-all shadow-md shadow-green-200 dark:shadow-none active:scale-95"
               >

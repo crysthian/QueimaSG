@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { type QuizState } from '../../types';
-import { isAnswerComplete, isAnswerCorrect } from '../quizAnswers';
+import { type QuizState } from '../../types/quiz';
+import { isAnswerComplete, isAnswerCorrect } from '../../domain/quiz/answers';
 
 interface ResultsViewProps {
   state: QuizState;

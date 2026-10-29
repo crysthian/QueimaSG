@@ -1,4 +1,4 @@
-import type { AssociationAnswer, Question, QuestionAnswer } from '../types.ts';
+import type { AssociationAnswer, Question, QuestionAnswer } from '../../types/quiz.ts';
 
 export function isAnswerComplete(question: Question, answer: QuestionAnswer | undefined): boolean {
   if (question.tipo !== 'associacao') {
@@ -20,6 +20,10 @@ export function isAnswerCorrect(question: Question, answer: QuestionAnswer | und
 }
 
 export function updateAssociationAnswer(answer: QuestionAnswer | undefined, count: number, index: number, concept: number | null): AssociationAnswer {
-  return Array.from({ length: count }, (_, position) =>
-    position === index ? concept : Array.isArray(answer) && answer[position] !== concept ? answer[position] ?? null : null);
+  const previous = Array.isArray(answer) ? answer : [];
+  return Array.from({ length: count }, (_, position) => {
+    if (position === index) return concept;
+    const selection = previous[position] ?? null;
+    return selection === concept ? null : selection;
+  });
 }

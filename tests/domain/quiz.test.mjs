@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict';
-import { readFileSync, readdirSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 import test from 'node:test';
-import { validateQuestions, validateQuizSettings } from '../src/quizValidation.ts';
-import { isAnswerComplete, isAnswerCorrect, updateAssociationAnswer } from '../src/quizAnswers.ts';
+import { validateQuestions, validateQuizSettings } from '../../src/domain/quiz/validation.ts';
+import { isAnswerComplete, isAnswerCorrect, updateAssociationAnswer } from '../../src/domain/quiz/answers.ts';
+import { validateDisciplineIndex } from '../../src/domain/quiz/catalog.ts';
 
 const choice = { id: 1, pergunta: 'Escolha', alternativas: ['A', 'B'], correta: 0 };
 const association = {
@@ -72,9 +73,11 @@ test('validates count and time settings', () => {
   assert.equal(validateQuizSettings(2, 1, 'study', 0), null);
 });
 
-test('all bundled disciplines and the association example remain valid', () => {
-  for (const file of readdirSync(new URL('../public/', import.meta.url)).filter(name => /^sid.*\.json$/.test(name) || name === 'ModeloAssociacao.json')) {
-    const questions = validateQuestions(JSON.parse(readFileSync(new URL(`../public/${file}`, import.meta.url), 'utf8')));
+test('all disciplines listed in the catalog and the association example remain valid', () => {
+  const catalog = validateDisciplineIndex(JSON.parse(readFileSync(new URL('../../public/questionarios/index.json', import.meta.url), 'utf8')));
+  const files = new Set([...catalog.map(discipline => `questionarios/${encodeURIComponent(discipline.id)}.json`), 'modelos/ModeloAssociacao.json']);
+  for (const file of files) {
+    const questions = validateQuestions(JSON.parse(readFileSync(new URL(`../../public/${file}`, import.meta.url), 'utf8')));
     assert.ok(questions.length > 0, file);
   }
 });

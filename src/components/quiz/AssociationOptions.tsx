@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import type { AssociationQuestion, QuestionAnswer } from '../../types';
-import { updateAssociationAnswer } from '../quizAnswers';
+import type { AssociationQuestion, QuestionAnswer } from '../../types/quiz';
+import { updateAssociationAnswer } from '../../domain/quiz/answers';
 
 interface AssociationOptionsProps {
   question: AssociationQuestion;

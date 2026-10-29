@@ -6,7 +6,7 @@ export async function loadJsonFile(url: string): Promise<unknown> {
 
   const text = await response.text();
   if (response.headers.get('content-type')?.includes('text/html') || text.trimStart().startsWith('<')) {
-    throw new Error(`O servidor retornou uma página HTML em vez de ${url}. Verifique se o arquivo está na pasta public e se o id no índice corresponde ao nome do arquivo, incluindo maiúsculas e minúsculas.`);
+    throw new Error(`O servidor retornou uma página HTML em vez de ${url}. Verifique se o arquivo está na pasta public/questionarios e se o id no índice corresponde ao nome do arquivo, incluindo maiúsculas e minúsculas.`);
   }
 
   try {

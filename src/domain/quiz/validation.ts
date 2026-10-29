@@ -1,4 +1,4 @@
-import { QuizMode, type Question } from '../types.ts';
+import { QuizMode, type Question } from '../../types/quiz.ts';
 
 function isTextList(value: unknown): value is string[] {
   return Array.isArray(value) && value.length > 0 &&

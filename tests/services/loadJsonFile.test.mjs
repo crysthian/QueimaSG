@@ -1,13 +1,13 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { loadJsonFile } from '../src/loadJsonFile.ts';
+import { loadJsonFile } from '../../src/services/loadJsonFile.ts';
 
 test('loads JSON preserving the requested filename casing', async context => {
   context.mock.method(globalThis, 'fetch', async url => {
-    assert.equal(url, '/QueimaSG/ModeloAssociacao.json');
+    assert.equal(url, '/QueimaSG/modelos/ModeloAssociacao.json');
     return new Response('[{"id":1}]', { headers: { 'content-type': 'application/json' } });
   });
-  assert.deepEqual(await loadJsonFile('/QueimaSG/ModeloAssociacao.json'), [{ id: 1 }]);
+  assert.deepEqual(await loadJsonFile('/QueimaSG/modelos/ModeloAssociacao.json'), [{ id: 1 }]);
 });
 
 test('explains HTML fallback responses even with HTTP 200', async context => {
