@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O Painel frontal do MODEM Kamplus possui quantos LEDs de status?",
+    "alternativas": [
+      "Quatro LEDs de status",
+      "Cinco LEDs de status",
+      "Sete LEDs de status",
+      "Oito LEDs de status",
+      "Dez LEDs de status"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O painel conta com sete LEDs de status usados como indicadores da operação."
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual o comando deverá ser dado para se desconectar de uma estação à qual você está conectado?",
+    "alternativas": [
+      "CTRL-C>X",
+      "CTRL-C>D",
+      "CTRL-C>A",
+      "CTRL-C>E",
+      "CTRL-C>R"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O comando CTRL-C>D executa a desconexão."
+  },
+  {
+    "id": 3,
+    "pergunta": "Quais são os modos de operação usados pela MB na transmissão de dados?",
+    "alternativas": [
+      "AM e FM",
+      "RTTY e CW",
+      "PACTOR e GTOR",
+      "FEC e ARQ",
+      "VHF e UHF"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Os modos empregados são PACTOR e GTOR."
+  },
+  {
+    "id": 4,
+    "pergunta": "Quais são os modos de transmissão possíveis em PACTOR e GTOR?",
+    "alternativas": [
+      "AM e FM",
+      "ISS e IRS",
+      "TX e RX",
+      "FEC e ARQ",
+      "LSB e USB"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. Ambos os modos operam em FEC (Forward Error Correction) e ARQ (Automatic Repeat Request)."
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual opção podemos utilizar para nos conectarmos a uma estação que esteja muito distante?",
+    "alternativas": [
+      "PACTOR Long-Path",
+      "GTOR StandBy",
+      "PACTOR Short-Path",
+      "Modo FEC Direto",
+      "BBS Relay"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. Utiliza-se PACTOR Long-Path para conexões a longas distâncias."
+  },
+  {
+    "id": 6,
+    "pergunta": "Quantos botões e quantos LEDs possui o painel frontal do KAM Plus?",
+    "alternativas": [
+      "3 botões, 5 LEDs e 1 bargraph",
+      "2 botões, 8 LEDs (7 de status) e 1 bargraph de 10 segmentos",
+      "4 botões e 10 LEDs",
+      "2 botões, 10 LEDs e 1 display LCD",
+      "1 botão de sintonia, 7 LEDs e 1 bargraph"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Ele possui 2 botões (AM/FM e ON/OFF), 8 LEDs (7 de status) e o bargraph."
+  },
+  {
+    "id": 7,
+    "pergunta": "O que indica o LED mais à direita do painel frontal?",
+    "alternativas": [
+      "A velocidade de transmissão",
+      "O status da portadora em VHF",
+      "O status de sua caixa postal interna (PBBS)",
+      "A alimentação do modem",
+      "Se há erro de ARQ no link"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Ele indica o status da sua Caixa Postal (PBBS)."
+  },
+  {
+    "id": 8,
+    "pergunta": "O que é o BARGRAPH?",
+    "alternativas": [
+      "Um gráfico impresso pelo modem",
+      "Um display LCD para leitura de mensagens",
+      "Um controle de volume do transceptor",
+      "Um segmento de barra usado para propiciar a sintonia do sinal de HF",
+      "Um indicador de nível de bateria"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O bargraph de 10 segmentos serve para auxiliar a sintonia do sinal HF."
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual é a cor e o que indica o LED CON?",
+    "alternativas": [
+      "Vermelho; indica transmissão em andamento",
+      "Verde; indica que você está em conexão de tráfego naquele instante",
+      "Amarelo; indica modo StandBy ativado",
+      "Azul; indica erro de conexão de link",
+      "Verde; indica modem ligado e alimentado"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. A cor é verde e informa que está trafegando dados."
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual a função do POWER?",
+    "alternativas": [
+      "Acionar a sintonia automática",
+      "Reiniciar o equipamento (Reset)",
+      "É um LED que confirma a alimentação do modem",
+      "Aumentar a potência de transmissão",
+      "Habilitar a porta VHF"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Aceso significa alimentado; apagado, desalimentado."
+  },
+  {
+    "id": 11,
+    "pergunta": "Como é possível se conectar utilizando a opção PACTOR LONG-PATH?",
+    "alternativas": [
+      "Adicionando um asterisco: PACTOR *PWNI",
+      "Adicionando um ponto de interrogação: PACTOR ?PWNI",
+      "Preenchendo o indicativo de chamada com '!': PACTOR !PWNI",
+      "Utilizando o prefixo LP: PACTOR LP PWNI",
+      "Omitindo o indicativo: PACTOR PWNI"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Usa-se o símbolo '!' antes do indicativo da estação."
+  },
+  {
+    "id": 12,
+    "pergunta": "Das diretivas do PACTOR, o que significa CTRL-C>E?",
+    "alternativas": [
+      "Aborta o link imediatamente",
+      "Desconecta de forma segura após esvaziar o buffer",
+      "Muda de ISS para IRS quando o buffer de TX estiver vazio (Modo ARQ) e retorna a RX no modo FEC",
+      "Alterna as bandas AM e FM do demodulador",
+      "Coloca o modem em modo de radiodifusão"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Utilizado para passar o controle ou retornar à recepção."
+  },
+  {
+    "id": 13,
+    "pergunta": "O que é o protocolo GTOR?",
+    "alternativas": [
+      "Um sistema de mensagem tipo broadcast para várias estações",
+      "Um modo exclusivo de VHF em alta velocidade",
+      "Uma diretiva que aciona o controle de fluxo na porta serial",
+      "Um link onde duas estações se comunicam, não dando possibilidade de uma terceira estação participar do tráfego",
+      "Um padrão de compressão de imagens"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. É um protocolo ponto-a-ponto fechado a terceiros."
+  },
+  {
+    "id": 14,
+    "pergunta": "Onde deve constar o indicativo utilizado na sua chamada geral e como identificar?",
+    "alternativas": [
+      "MYCALL",
+      "MYPBBS",
+      "MYGTCALL",
+      "CQCALL",
+      "CALLSIGN"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O indicativo deve constar na diretiva MYGTCALL."
+  },
+  {
+    "id": 15,
+    "pergunta": "Como identificar que o KAM está sintonizado adequadamente no modo GTOR?",
+    "alternativas": [
+      "O LED XMIT piscará a cada 5 segundos",
+      "O bargraph estará aceso no centro",
+      "O LED STA mudará para a cor vermelha",
+      "O indicador do segmento de barra estará aceso em ambas as extremidades",
+      "O prompt 'cmd:' aparecerá piscando na tela"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O bargraph ilumina as duas extremidades na sintonia correta."
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual LED ficará aceso quando o KAM estiver conectado a outra estação em GTOR?",
+    "alternativas": [
+      "LED XMIT da seção VHF",
+      "LED CON da seção de HF",
+      "LED STA da seção de HF",
+      "LED VAL da seção de HF",
+      "LED POWER"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O LED 'CON' (Connect) da seção HF permanecerá aceso."
+  },
+  {
+    "id": 17,
+    "pergunta": "O que indica o LED STA no modo GTOR?",
+    "alternativas": [
+      "A portadora presente no canal",
+      "O status da Caixa Postal (PBBS)",
+      "A sintonia fina do equipamento",
+      "A velocidade de transmissão",
+      "Que o equipamento está em StandBy"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. Ele atua indicando o estado (velocidade) da transmissão."
+  },
+  {
+    "id": 18,
+    "pergunta": "Como deixar o KAM Plus pronto para responder a qualquer outra estação que queira se conectar em GTOR?",
+    "alternativas": [
+      "PACTOR StandBy",
+      "GTOR StandBy",
+      "ARQBBS ON",
+      "FEC Monitor",
+      "Modo ISS Ativo"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Deve-se colocar o modem em GTOR StandBy."
+  },
+  {
+    "id": 19,
+    "pergunta": "O que ocorre se o ARQBBS estiver ligado e uma estação tentar se conectar?",
+    "alternativas": [
+      "O modem rejeita a conexão automaticamente",
+      "O link é derrubado imediatamente",
+      "Ela irá se conectar ao BBS do KAM Plus",
+      "A estação fica em fila de espera",
+      "O alarme de tráfego dispara no HyperTerminal"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A estação conectante é direcionada para a Caixa Postal (BBS) interna."
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual tecla possibilita voltar ao prompt 'cmd:'?",
+    "alternativas": [
+      "CTRL-C>E",
+      "CTRL-C>X",
+      "CTRL-C>A",
+      "CTRL-C>D",
+      "CTRL-C>R"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O CTRL-C>X retorna o sistema ao modo de comando."
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual informação dará o LED VAL da seção de HF do painel frontal do KAM Plus se estiver aceso?",
+    "alternativas": [
+      "Velocidade de 100 bauds",
+      "Velocidade de 200 bauds",
+      "Velocidade de 300 bauds",
+      "Velocidade de 1200 bauds",
+      "Conexão perdida"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. LED aceso fixo indica 300 bauds."
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual informação dará o LED VAL da seção de HF do painel frontal do KAM Plus se estiver piscando?",
+    "alternativas": [
+      "Velocidade de 100 bauds",
+      "Velocidade de 200 bauds",
+      "Velocidade de 300 bauds",
+      "Velocidade de 1200 bauds",
+      "Transferência concluída"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. LED piscando indica 200 bauds."
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual informação dará o LED VAL da seção de HF do painel frontal do KAM Plus se estiver apagado?",
+    "alternativas": [
+      "Velocidade de 100 bauds",
+      "Velocidade de 200 bauds",
+      "Velocidade de 300 bauds",
+      "Velocidade de 1200 bauds",
+      "Equipamento desligado"
+    ],
+    "correta": 0,
+    "comentario": "A opção correta é **A**. LED apagado durante a transmissão indica 100 bauds."
+  },
+  {
+    "id": 24,
+    "pergunta": "Até quantos caracteres o nome de uma Caixa Postal (MYPBBS) poderá ter?",
+    "alternativas": [
+      "Quatro caracteres",
+      "Seis caracteres",
+      "Oito caracteres",
+      "Dez caracteres",
+      "Doze caracteres"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O limite máximo é de seis caracteres."
+  },
+  {
+    "id": 25,
+    "pergunta": "Qual é o comando que serve para listar as estações que efetuaram conexão na Caixa Postal?",
+    "alternativas": [
+      "Comando L",
+      "Comando B",
+      "Comando R",
+      "Comando J",
+      "Comando S"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O comando J lista as conexões (Just connected)."
+  },
+  {
+    "id": 26,
+    "pergunta": "Na operação em VHF, qual informação dará o LED 'XMIT', quando o mesmo estiver aceso?",
+    "alternativas": [
+      "Mensagem recebida na PBBS",
+      "Erro no pacote de dados",
+      "Sua portadora está no ar",
+      "Velocidade máxima atingida",
+      "Falta de energia na fonte"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Indica que o transmissor está modulando (portadora no ar)."
+  },
+  {
+    "id": 27,
+    "pergunta": "Como é chamado o modo de operação que permite que várias estações recebam a transmissão ao mesmo tempo (radiodifusão) no modo PACTOR?",
+    "alternativas": [
+      "Modo ARQ",
+      "Modo FEC",
+      "Modo GTOR",
+      "Modo ISS",
+      "Modo IRS"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. FEC (Forward Error Correction) atua como radiodifusão para todos ouvirem."
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual indicação deverá estar exibida na tela do seu HyperTerminal para monitorar uma transmissão no modo PACTOR?",
+    "alternativas": [
+      "GTOR StandBy",
+      "ARQ Listen",
+      "PACTOR StandBy",
+      "FEC Monitor",
+      "BBS Ready"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. A indicação exibida é PACTOR StandBy."
+  },
+  {
+    "id": 29,
+    "pergunta": "No modo GTOR, qual o comando deverá ser dado para passar de ISS para IRS imediatamente?",
+    "alternativas": [
+      "CTRL-C>E",
+      "CTRL-C>X",
+      "CTRL-C>R",
+      "CTRL-C>A",
+      "CTRL-C>T"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. CTRL-C>R executa a reversão instantânea de Information Sending Station para Information Receiving Station."
+  },
+  {
+    "id": 30,
+    "pergunta": "Quantas estações poderão ter acesso à Caixa Postal de uma estação principal ao mesmo tempo?",
+    "alternativas": [
+      "Uma",
+      "Quatro",
+      "Seis",
+      "Até oito",
+      "Ilimitado"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O sistema gerencia o acesso de até 8 estações simultâneas."
+  },
+  {
+    "id": 31,
+    "pergunta": "Qual o comando deverá ser dado para abortar um Link?",
+    "alternativas": [
+      "CTRL-C>D",
+      "CTRL-C>X",
+      "CTRL-C>A",
+      "CTRL-C>E",
+      "CTRL-C>T"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. CTRL-C>A executa o comando Abort."
+  },
+  {
+    "id": 32,
+    "pergunta": "Qual é o nome do segmento de barra usado para propiciar a sintonia do sinal em HF?",
+    "alternativas": [
+      "TUNEBAR",
+      "S-METER",
+      "BARGRAPH",
+      "STATUS",
+      "VU-METER"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. É chamado de BARGRAPH."
+  },
+  {
+    "id": 33,
+    "pergunta": "Quais LEDs de status de operação indicam que a operação está sendo realizada na faixa de HF?",
+    "alternativas": [
+      "AM/FM, ON/OFF e POWER",
+      "XMIT, LOCK/CON e VAL/STA",
+      "PBBS, TUNE, LOCK",
+      "STA, PBBS, AM/FM",
+      "VHF-CON, HF-CON, XMIT"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. Os três LEDs da seção HF indicam essa atividade."
+  },
+  {
+    "id": 34,
+    "pergunta": "No momento em que o operador está em GTOR, no modo ARQ, qual comando deverá ser executado para que se passe de ISS para IRS?",
+    "alternativas": [
+      "CTRL-C>R",
+      "CTRL-C>T",
+      "CTRL-C>A",
+      "CTRL-C>E",
+      "CTRL-C>X"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. Ao contrário da reversão imediata (>R), o CTRL-C>E realiza a mudança natural."
+  },
+  {
+    "id": 35,
+    "pergunta": "Que LED, quando estiver aceso, indicará que o transmissor/transceptor está sendo manipulado pelo MODEM, recebendo um sinal de dados pela porta de HF?",
+    "alternativas": [
+      "VAL",
+      "STA",
+      "CON",
+      "PBBS",
+      "XMIT"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**. O LED XMIT aponta que o modem chaveou a portadora."
+  },
+  {
+    "id": 36,
+    "pergunta": "Qual o nome do botão que seleciona os limites dentro e fora dos circuitos demodulatórios?",
+    "alternativas": [
+      "ON/OFF",
+      "AM/FM",
+      "TUNE",
+      "HF/VHF",
+      "SINTON"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O botão AM/FM."
+  },
+  {
+    "id": 37,
+    "pergunta": "Qual botão alimenta e desalimenta o modem KAM Plus?",
+    "alternativas": [
+      "POWER",
+      "RESET",
+      "AM/FM",
+      "ON/OFF",
+      "STANDBY"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. Trata-se do botão ON/OFF no painel frontal."
+  },
+  {
+    "id": 38,
+    "pergunta": "Que comando deverá ser efetuado para que se possa ler uma mensagem inserida em sua Caixa Postal?",
+    "alternativas": [
+      "Comando J",
+      "Comando L",
+      "Comando S",
+      "Comando B",
+      "Comando R"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**. O comando R (Read) permite a leitura."
+  },
+  {
+    "id": 39,
+    "pergunta": "Cite todos os comandos básicos da Caixa Postal (PBBS).",
+    "alternativas": [
+      "Comandos A, B, C, D, E e F",
+      "Comandos L, R, W, X, Y e Z",
+      "Comandos B, J, K, L, R e S",
+      "Comandos 1, 2, 3, 4, 5 e 6",
+      "Comandos P, B, B, S, O, N"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Os comandos básicos aceitos são B, J, K, L, R e S."
+  },
+  {
+    "id": 40,
+    "pergunta": "Estando a estação configurada em <PACTOR STANDBY>, que comando deverá ser usado para retornar ao prompt cmd:?",
+    "alternativas": [
+      "CTRL-C>E",
+      "CTRL-C>D",
+      "CTRL-C>X",
+      "CTRL-C>A",
+      "CTRL-C>T"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. CTRL-C>X força a volta ao modo de controle (prompt)."
+  },
+  {
+    "id": 41,
+    "pergunta": "No momento em que o operador está em GTOR, no modo ARQ, qual comando deverá ser executado para que se passe de IRS para ISS?",
+    "alternativas": [
+      "CTRL-C>R",
+      "CTRL-C>E",
+      "CTRL-C>A",
+      "CTRL-C>T",
+      "CTRL-C>D"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O comando CTRL-C>T passa a estação de Receptora para Transmissora."
+  },
+  {
+    "id": 42,
+    "pergunta": "Que LED, quando estiver aceso, indicará que naquele instante você está em conexão de tráfego, ou está em link com outra estação no padrão AMTOR ou PACTOR?",
+    "alternativas": [
+      "STA",
+      "VAL",
+      "XMIT",
+      "PBBS",
+      "CON/LOCK"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**. O LED CON/LOCK confirma o estabelecimento do link (trafegando)."
+  },
+  {
+    "id": 43,
+    "pergunta": "De acordo com as diretivas do PACTOR FEC, descreva uma chamada geral expedida pela estação PWZ33.",
+    "alternativas": [
+      "CQ DE PWZ33",
+      "CQ CQ CQ DE PWZ33 PWZ33 KKKKKK",
+      "MYCALL PWZ33 KKK",
+      "CALLING CQ PWZ33 ARQ",
+      "CQ FEC PWZ33 OVER"
+    ],
+    "correta": 1,
+    "comentario": "A opção correta é **B**. O formato correto exige repetições do CQ, do indicativo e fechamento com K."
+  },
+  {
+    "id": 44,
+    "pergunta": "Qual é o comando que serve para desconectar da Caixa Postal?",
+    "alternativas": [
+      "Comando R",
+      "Comando J",
+      "Comando B",
+      "Comando L",
+      "Comando S"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O comando B (Bye) realiza a desconexão do BBS."
+  },
+  {
+    "id": 45,
+    "pergunta": "Como é selecionada a velocidade no KAM Plus?",
+    "alternativas": [
+      "Fixa por um botão no painel frontal",
+      "Configurada manualmente no prompt pelo operador",
+      "Travada sempre em 100 bauds por segurança",
+      "Pela estação transmissora, que impõe o ritmo",
+      "Automaticamente, baseada na qualidade da conexão entre as estações"
+    ],
+    "correta": 4,
+    "comentario": "A opção correta é **E**. O sistema adapta (step-up ou step-down) a velocidade dinamicamente de acordo com as condições de propagação."
+  },
+  {
+    "id": 46,
+    "pergunta": "Qual estação será a controladora da velocidade de transmissão, quando em link?",
+    "alternativas": [
+      "A estação que chamou (ISS)",
+      "A estação transmissora",
+      "A estação receptora",
+      "O nó central da rede",
+      "A caixa postal (PBBS)"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. Quem está recebendo os dados (IRS) monitora a integridade e dita o controle de velocidade."
+  },
+  {
+    "id": 47,
+    "pergunta": "Você sendo a estação receptora, como solicitar para diminuir a velocidade para 100 bauds?",
+    "alternativas": [
+      "Através do comando CTRL-C>3",
+      "Através do comando CTRL-C>2",
+      "Através do comando CTRL-C>1",
+      "Através do comando CTRL-C>D",
+      "Através do comando CTRL-C>A"
+    ],
+    "correta": 2,
+    "comentario": "A opção correta é **C**. O atalho numérico '1' após o escape força a velocidade mais baixa (100 bauds)."
+  },
+  {
+    "id": 48,
+    "pergunta": "Qual comando devemos digitar para desabilitar a Caixa Postal?",
+    "alternativas": [
+      "PBBS OFF",
+      "MAIL OFF",
+      "MYPBBS OFF",
+      "ARQBBS OFF",
+      "BBS DISABLE"
+    ],
+    "correta": 3,
+    "comentario": "A opção correta é **D**. O comando no prompt deve ser `ARQBBS OFF` seguido de (ENTER)."
+  }
+]
