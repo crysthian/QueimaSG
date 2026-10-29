@@ -1,10 +1,12 @@
 
 import React, { useState } from 'react';
-import { type QuizState, QuizMode } from '../../types';
+import { type QuizState, type QuestionAnswer, QuizMode } from '../../types';
+import { isAnswerComplete } from '../quizAnswers';
+import { AssociationOptions } from './AssociationOptions';
 
 interface QuizRunnerProps {
   state: QuizState;
-  onAnswer: (id: number, idx: number) => void;
+  onAnswer: (id: number, answer: QuestionAnswer) => void;
   onNavigate: (dir: number) => void;
   onFinish: () => void;
 }
@@ -15,12 +17,8 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
   const isStudyMode = state.mode === QuizMode.STUDY;
   
   // Track if "Check Answer" was clicked in study mode
-  const [showExplanation, setShowExplanation] = useState(false);
-
-  // Reset explanation visibility when question changes
-  React.useEffect(() => {
-    setShowExplanation(false);
-  }, [state.currentIdx]);
+  const [checkedQuestions, setCheckedQuestions] = useState<Set<number>>(() => new Set());
+  const showExplanation = checkedQuestions.has(currentQuestion.id);
 
   const handleSelect = (idx: number) => {
     if (showExplanation && isStudyMode) return; // Prevent change after checking in study mode
@@ -56,7 +54,15 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
         </div>
 
         {/* Alternatives Area */}
-        <div className="space-y-3">
+        {currentQuestion.tipo === 'associacao' ? (
+          <AssociationOptions
+            key={currentQuestion.id}
+            question={currentQuestion}
+            answer={userAnswer}
+            showCorrection={showExplanation && isStudyMode}
+            onChange={answer => onAnswer(currentQuestion.id, answer)}
+          />
+        ) : <div className="space-y-3">
           {currentQuestion.alternativas.map((alt, idx) => {
             const isSelected = userAnswer === idx;
             const isCorrect = idx === currentQuestion.correta;
@@ -86,7 +92,7 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
               </button>
             );
           })}
-        </div>
+        </div>}
 
         {/* Study Mode Explanation */}
         {showExplanation && isStudyMode && (
@@ -121,8 +127,8 @@ export const QuizRunner: React.FC<QuizRunnerProps> = ({ state, onAnswer, onNavig
           <div className="flex gap-2 w-full sm:w-auto">
             {isStudyMode && !showExplanation && (
                <button 
-                 onClick={() => setShowExplanation(true)}
-                 disabled={userAnswer === undefined}
+                 onClick={() => setCheckedQuestions(previous => new Set(previous).add(currentQuestion.id))}
+                 disabled={!isAnswerComplete(currentQuestion, userAnswer)}
                  className="flex-1 sm:flex-none px-6 py-3 rounded-xl bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-400 font-bold hover:bg-amber-200 dark:hover:bg-amber-900/50 transition-colors disabled:opacity-50"
                >
                  Verificar

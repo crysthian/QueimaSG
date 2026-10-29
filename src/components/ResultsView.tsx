@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { type QuizState } from '../../types';
+import { isAnswerComplete, isAnswerCorrect } from '../quizAnswers';
 
 interface ResultsViewProps {
   state: QuizState;
@@ -9,7 +10,7 @@ interface ResultsViewProps {
 }
 
 export const ResultsView: React.FC<ResultsViewProps> = ({ state, onRetakeWrong, onReset }) => {
-  const correctCount = state.questions.filter(q => state.userAnswers[q.id] === q.correta).length;
+  const correctCount = state.questions.filter(q => isAnswerCorrect(q, state.userAnswers[q.id])).length;
   const totalCount = state.questions.length;
   const wrongCount = totalCount - correctCount;
   const percentage = Math.round((correctCount / totalCount) * 100);
@@ -46,8 +47,8 @@ export const ResultsView: React.FC<ResultsViewProps> = ({ state, onRetakeWrong, 
         <h3 className="text-xl font-bold text-slate-800 dark:text-slate-100 mb-6">Mapa de Respostas</h3>
         <div className="grid grid-cols-5 sm:grid-cols-8 md:grid-cols-10 gap-3">
           {state.questions.map((q, idx) => {
-            const isCorrect = state.userAnswers[q.id] === q.correta;
-            const isAnswered = state.userAnswers[q.id] !== undefined;
+            const isCorrect = isAnswerCorrect(q, state.userAnswers[q.id]);
+            const isAnswered = isAnswerComplete(q, state.userAnswers[q.id]);
 
             return (
               <div 
@@ -56,7 +57,7 @@ export const ResultsView: React.FC<ResultsViewProps> = ({ state, onRetakeWrong, 
                   ${!isAnswered ? 'bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700 text-slate-400 dark:text-slate-600' : 
                     isCorrect ? 'bg-green-500 border-green-600 text-white' : 'bg-red-500 border-red-600 text-white'}
                 `}
-                title={!isAnswered ? 'Não respondida' : isCorrect ? 'Correta' : 'Incorreta'}
+                title={!isAnswered ? 'Não respondida ou incompleta' : isCorrect ? 'Correta' : 'Incorreta'}
               >
                 {idx + 1}
               </div>

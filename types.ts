@@ -1,11 +1,27 @@
 
-export interface Question {
+interface QuestionBase {
   id: number;
   pergunta: string;
-  alternativas: string[];
-  correta: number;
   comentario: string;
 }
+
+export interface MultipleChoiceQuestion extends QuestionBase {
+  tipo?: 'multipla_escolha';
+  alternativas: string[];
+  correta: number;
+}
+
+export interface AssociationQuestion extends QuestionBase {
+  tipo: 'associacao';
+  conceitos: string[];
+  descricoes: string[];
+  correta: (number | null)[];
+}
+
+export type Question = MultipleChoiceQuestion | AssociationQuestion;
+// null = descrição sem associação.
+export type AssociationAnswer = (number | null)[];
+export type QuestionAnswer = number | AssociationAnswer;
 
 export const QuizMode = {
   STUDY: 'study',
@@ -25,7 +41,7 @@ export type AppStatus = typeof AppStatus[keyof typeof AppStatus];
 export interface QuizState {
   questions: Question[];
   currentIdx: number;
-  userAnswers: Record<number, number>; // question id -> selected alternative index
+  userAnswers: Partial<Record<number, QuestionAnswer>>;
   mode: QuizMode;
   totalTime: number; // in seconds
   timeLeft: number;

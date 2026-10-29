@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 import { validateQuizSettings } from './quizValidation';
+import { isAnswerCorrect } from './quizAnswers';
 import { QuizSetup } from './components/QuizSetup';
 import { QuizRunner } from './components/QuizRunner';
 import { ResultsView } from './components/ResultsView';
-import { type Question, QuizMode, AppStatus, type QuizState } from '../types';
+import { type Question, type QuestionAnswer, QuizMode, AppStatus, type QuizState } from '../types';
 
 const App: React.FC = () => {
   const [darkMode, setDarkMode] = useState(() => {
@@ -59,10 +60,10 @@ const App: React.FC = () => {
     });
   };
 
-  const handleAnswer = (questionId: number, alternativeIdx: number) => {
+  const handleAnswer = (questionId: number, answer: QuestionAnswer) => {
     setState(prev => ({
       ...prev,
-      userAnswers: { ...prev.userAnswers, [questionId]: alternativeIdx }
+      userAnswers: { ...prev.userAnswers, [questionId]: answer }
     }));
   };
 
@@ -78,7 +79,7 @@ const App: React.FC = () => {
   };
 
   const handleRetakeWrong = () => {
-    const wrongQuestions = state.questions.filter(q => state.userAnswers[q.id] !== q.correta);
+    const wrongQuestions = state.questions.filter(q => !isAnswerCorrect(q, state.userAnswers[q.id]));
     setState(prev => ({
       ...prev,
       questions: wrongQuestions,

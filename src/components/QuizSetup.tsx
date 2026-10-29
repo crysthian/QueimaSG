@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { QuizMode, type Question } from '../../types';
 import { validateQuestions, validateQuizSettings } from '../quizValidation';
+import { loadJsonFile } from '../loadJsonFile';
 
 interface QuizSetupProps {
   onStart: (questions: Question[], mode: QuizMode, timeLimit: number, count: number) => void;
@@ -30,18 +31,16 @@ export const QuizSetup: React.FC<QuizSetupProps> = ({ onStart }) => {
   useEffect(() => {
     const carregarLista = async () => {
       try {
-        const response = await fetch('questionarios.json');
-        if (!response.ok) {
-          throw new Error(`Erro HTTP: ${response.status} Não foi possível carregar o índice de disciplinas.`);
+        const data = await loadJsonFile(`${import.meta.env.BASE_URL}questionarios.json`);
+        if (!Array.isArray(data) || data.length === 0 || data.some(item =>
+          !item || typeof item.id !== 'string' || !item.id.trim() || typeof item.nome !== 'string' || !item.nome.trim())) {
+          throw new Error('O índice deve conter uma lista de disciplinas com id e nome preenchidos.');
         }
-        const data = await response.json();
-        if (data && data.length > 0) {
         setQuestionarios(data);
-        setDisciplineName(data[0].id); // Seleciona o primeiro automaticamente
-      }
+        setDisciplineName(data[0].id);
       } catch (err) {
         console.error("Erro ao carregar índice de questionários", err);
-        setError("Falha ao carregar lista de disciplinas. Verifique o console.");
+        setError(err instanceof Error ? err.message : 'Falha ao carregar lista de disciplinas.');
       }
     };
     carregarLista();
@@ -83,11 +82,7 @@ export const QuizSetup: React.FC<QuizSetupProps> = ({ onStart }) => {
     setFileContent(null);
     setError(null);
     try {
-      const response = await fetch(`${disciplineName.toLowerCase().trim()}.json`);
-      if (!response.ok) {
-        throw new Error("Arquivo da disciplina não encontrado no servidor.");
-      }
-      const json = await response.json();
+      const json = await loadJsonFile(`${import.meta.env.BASE_URL}${encodeURIComponent(disciplineName.trim())}.json`);
       processLoadedQuestions(json);
     } catch (error) {
       setError(error instanceof Error ? error.message : 'Não foi possível carregar a disciplina.');

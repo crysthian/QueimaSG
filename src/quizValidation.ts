@@ -1,4 +1,9 @@
-import { QuizMode, type Question } from '../types';
+import { QuizMode, type Question } from '../types.ts';
+
+function isTextList(value: unknown): value is string[] {
+  return Array.isArray(value) && value.length > 0 &&
+    value.every(item => typeof item === 'string' && item.trim().length > 0);
+}
 
 export function validateQuestions(value: unknown): Question[] {
   if (!Array.isArray(value) || value.length === 0) {
@@ -9,12 +14,22 @@ export function validateQuestions(value: unknown): Question[] {
   return value.map((question, index) => {
     if (!question || !Number.isSafeInteger(question.id) ||
         typeof question.pergunta !== 'string' || !question.pergunta.trim() ||
-        !Array.isArray(question.alternativas) || question.alternativas.length < 2 ||
-        question.alternativas.some((alternative: unknown) => typeof alternative !== 'string' || !alternative.trim()) ||
-        !Number.isInteger(question.correta) || question.correta < 0 ||
-        question.correta >= question.alternativas.length ||
         (question.comentario !== undefined && typeof question.comentario !== 'string')) {
-      throw new Error(`Questão ${index + 1} inválida. Verifique id, pergunta, alternativas, correta e comentário.`);
+      throw new Error(`Questão ${index + 1} inválida. Verifique id, pergunta e comentário.`);
+    }
+    if (question.tipo === 'associacao') {
+      if (!isTextList(question.conceitos) || question.conceitos.length < 2 ||
+          !isTextList(question.descricoes) ||
+          !Array.isArray(question.correta) || question.correta.length !== question.descricoes.length ||
+          !question.correta.every((answer: unknown) => answer === null ||
+            typeof answer === 'number' && Number.isInteger(answer) && answer >= 0 && answer < question.conceitos.length) ||
+          !question.conceitos.every((_: string, concept: number) => question.correta.filter((answer: unknown) => answer === concept).length === 1)) {
+        throw new Error(`Questão ${index + 1}: associe cada conceito exatamente uma vez no gabarito. Use null para descrições sem correspondência.`);
+      }
+    } else if ((question.tipo !== undefined && question.tipo !== 'multipla_escolha') ||
+        !isTextList(question.alternativas) || question.alternativas.length < 2 ||
+        !Number.isInteger(question.correta) || question.correta < 0 || question.correta >= question.alternativas.length) {
+      throw new Error(`Questão ${index + 1}: tipo, alternativas ou resposta correta inválidos.`);
     }
     if (ids.has(question.id)) {
       throw new Error(`O identificador ${question.id} está repetido no questionário.`);
